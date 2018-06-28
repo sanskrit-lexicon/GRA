@@ -1,0 +1,180 @@
+[Translation via translate.google.com from German to English; 
+with some editing]
+
+Preface.
+The dictionary, which I hereby give to the public, is originally out
+my own needs. I saw that I did not change the understandings
+the Vedas, as if, at least for the main part and the basis of it,
+the Rig-Veda, when reading it not only a translation but also a translation
+also laid out a complete glossary. The use of the so accumulated
+Materials granted me in my linguistic, namely comparative language work
+so strong promotion that I decided to process the same and become the same to me
+Help to make it generally accessible. I was working on the dictionary
+until well over half progressed when I learned that Aufrecht editing
+of such a dictionary. Since I do not qualify for such a person
+Could hold works as this excellent linguist, at the same time as few
+Others, the entire literature serving to illustrate the RV accessible literature, so decided
+I, indeed, for my own use, the elaboration in the same way as they began
+was to complete, but to make the publication dependent on whether Aufrecht's plan
+realized or not. When the work was ready for printing, I learned of
+well-known scholars, to whom the newer literature in this area are most accurately known
+and also through their personal relationships with linguists working in England
+more than others could judge, whether such a dictionary in the near future
+that there was nothing of the kind in the works, and was asked by them to put pressure on them
+in my dictionary. So I did not believe the publication
+to be allowed to move further.
+
+Of course, the basis of my work is the Petersburg Dictionary, with which
+a new epoch in Sanskrit philology and especially in the understanding of the
+Vedas began. It is therefore the results obtained there, and especially those laid down therein
+Roth's groundbreaking work on the Vedas has been adviced by me everywhere,
+and of the many deviations from the view expressed there, as well as that excellent one
+Work deserves, only after careful examination and after comparison of all concerned
+Make entrance allowed. By name, I'm in the root of the tribes (roots)
+for the bendable words again more to the previous practice decreased by me
+? as far as possible avoiding to set up such genealogies, which in the language itself
+
+(Page VI Foreword)
+
+as such do not occur; Thus, for the declinable words I use the form as
+Initial form, which they are the first members of compositions (apart from phonetic
+Transformations) have really, so e.g. pitṙ, not pitar, bṙhat and not bṙhant etc.;
+furthermore, for the verbs, the form which they assume as verbalia; Under the verbal understand
+I the declinirable form of the verb, which either contains no suffix or only that
+attached after short vowels t, so e.g. vṙdh, not vardh because of the verbal vṙdh [cf. ṙtāvṙdh
+etc.], bhṙ, not bhar because of the verbal bhṙt, gir, not even or gṝ because of the verbal gir,
+hu, not hvā or hve because of the verbal hû [deva-hû etc.]. Where two different
+Verbalia are present, such. B. hvŕ-t and hrú-t, are also two root forms hvṙ and hru
+to be set. For every word, all forms occurring in the RV and to every form are all
+Specified places where it occurs; only in some very common forms
+or inflexible words are the bodies, unless they claim a particular interest
+taken, only to a certain song completely listed, which then s.der relevant
+The place of the dictionary is noticed. Sámaveda (SV.), Atharva-veda (AV.), Vājasaneyi Samhita
+(VS.) are only cited where they are for ascertaining the form and meaning of importance
+rails. In the forms of declinable words, the order is that of Panini
+V (Voc.), N. (Nom.), A. (Acc.), I. (Instr.), D. (Dat.), Ab. (Abi.), G. (Gen. )
+L. (Loc.), First in the singular [s.], Then in the dual [d., Du.] And plural [p., Pl.], Among the
+In gender, N. and A. of the neutr. [N.] Are always placed below the A. of the masc. [M.], And the
+fem. [f.], where it has a special form, behind all the forms of the other two
+Gender. Each such form is only used from the last vowel of the stem form
+and the rest indicated by a prime line, e.g. from the tribe aṅçumát
+the form aṅçumátīm is expressed by -átīm. Only if two different strains (eg
+ábibhīvas, weak ábibhyus) are given, the forms from there on, where a deviation
+both tribes enters, sat down (eg -yuṣā for ábibhyuṣā). Under the verbal forms
+All personal forms precede the impersonal one, that of the
+Stammverbs those of the liabilities, Causalia, Intensiva and Desiderativa. Begin under them
+the forms arising out of the present-stem-tree (which tribe is called par excellence),
+to which the bare present stem (or its reinforcement) is translated as the headline
+which then, similar to the noun, the abbreviated spelling of the individual forms
+adjoined. Among all these forms, all active forms precede the medial, the
+Modes appear in the sequence Ind., Conj., Opt., Imperative; where there are multiple conjunctives,
+the one with present endings leads the way with the imperfect one; appear in every mode
+then the person forms in the familiar order. On the present forms of a tribe
+then, under a new heading, follow the forms of imperfection arising from the same stock,
+if they have preserved the augment; the augmentless imperfect forms coincide
+the second conjunctiv and stand there too. Then follows in the same way
+Perfect, then the (rare) Plusquamperfect and Futur (on -iṣyāmi), then the Aorist. Under
+In the impersonal forms, the beginning is made by the participles, which form the different tenses
+belong and have sprung from them; then they follow from no particular time form
+sprung participles, of which I for brevity on -ta or -na as
+Part II, which refers to -tṙ as Part III., Which refers to -tva, -ya (-enya u., S. w.) As Part IV
+have, because the usual names for them are completely useless. Then follow the absolutes
+(on -ya, -tvā, etc.) and infinitives, last the verbal (s.o.). In the Citaten is in the
+Rule for every adjective its noun, for every genetic the noun or verb of which
+it depends on each verb its revision, on nouns the most characteristic one
+Added adjectives; what is placed before the citing number refers to all
+immediately following passages, yet the word is, if not directly cited in the
+Form occurs in the next following places, put in brackets; what is behind the citation
+stands, refers only to this one place. In places that are related
+are, represent the sign - the word in the specified form. Underlying the text
+
+[Preface. vii]
+
+of Aufrecht, but with continuous use of the improvements given by M. Müller
+this text. By the Transcription Aufrecht I deviate by name,
+where he designates a simple sound by two letters, because such designations at
+a dictionary are highly confusing; to the end I write ṙ instead of ṛi, r̄ instead of ṙî [?],
+ṣ instead of sh, ē instead of ai, ō instead of au; These last two terms can become sterile errors
+Give cause; for comparative works they are just like the signs e
+and to avoid o, and to set for them e = ai, o = au, ē = āi, ō = āu; only with the aspirates
+I kept the compound spelling, which is more likely than they
+in the lexicographical arrangement, they cause the same place, one likes them like one
+or how to treat two letters; I also have the composite sign ḷi, since it
+preserved only in forms of root kalp. In the name of the Accente
+I deviate in so far as I use the flat long vocal by a horizontal line, the
+stress through a roof (^) sign, so instead of â, â instead of ã write, and that I the
+Svarita by Accentuirung the preceding semivowel (y, v) expressions, ie e.g. asmadrýac
+instead of writing asmadryàc. Where these semi-vowels are to be spoken as vowels, write
+me as such; a word like mártya, ámartya does not exist in the RV, but only
+mártia, ámartia, and I could not win over myself, to pick up those unforms,
+but for practical reasons, I put them in parentheses and they put them in order
+based on. Likewise, I have the slurring in the text between the
+single words (sandhi) completely abolished, which is very much for the lexical transparency
+is beneficial, and where vocalization takes place in the original text
+Sign ˘ interposed. How much the applied in the handwritten texts
+Slurling differs from the connection of words as the metronome requires
+particularly striking at the meeting of an a or with the ṙ of a following
+Word or compositional element. In the surviving texts these are coinciding
+Vocals always separated, metric only when either -a, -ā for -as, -e, -ās, -ē,
+and for -ār, -ān (in the obsolete nominative forms mātār, hótār, víbhvān, which in 399.6;
+127.10; 329.3; 332.6; 564.3 must be adopted and the Greek [greek] etc.
+correspond) is written and where the full Scbreibart must be restored, or
+if the ṙ is followed by a double-consonant (ṙtvíya 275,2; ṙṣṭí 167,3; 169,3; 648,5) by here
+the accumulation of three consonants is avoided, or if the coinciding vocals
+belong to two metrically separated lines of verse (where metrical never takes place, in
+Texts, on the other hand, as soon as the delimiter is missing) or, finally, when the coinciding ones
+ Vocals are separated by the Verschnittschnitt; the latter occurs only rarely (five times)
+one (319.7, 357.9, 202.12, 906.7, 956.6). In all other cases, a, ā becomes as follows
+verschl turned to ar. (The one case 925,2, where the slipping is omitted, and the two
+Cases where it breaks the rule, 688,4 and 913,15, are based on wrong reading.) Off
+To these phenomena we must conclude that before ṙ and probably before all
+The endings -as, -e (= a + i), -ās, -ē ​​(= ā + i) do not yet vocalize their final (s, i or y)
+lost. This justifies the type of writing I use all the more;
+it can never give rise to confusion, since the comparison with the traditional texts,
+which is rightly based on expenditure, is always immediately possible.
+
+The etymology, as it often determines the importance of significant influence
+is, could not be missing, but I have them with reference to Curtius, basic features of the Greek
+ Etymology (Cu.), Fick, Comparative Dictionary animal Indo-European languages
+1870 (Fi), Kuhn, Zeitschrift für Vergleichende Sprachforschung (Ku.), Böhtlingk and Roth,
+Sanskrit Dictionary (BR.), Benfey, Glossary on the Sāma Veda, as well as occasional
+on other works, as briefly as possible compositions by one of the limbs
+designating separating stroke.
+
+The meanings I have, where it seemed necessary, in their connection to the
+derived basic meaning, but then simply by consecutive numbers
+
+[VIII preface.]
+
+the meanings or modes of use in the way in which they are considered to be the view of the cited
+The most appropriate seemed to be strung together and related to the cited passages,
+so that it becomes clear what meaning or mode of action I cited in the words in each
+Place enclosed. Here, therefore, the subjective conception plays a major role, and later work
+There are certainly many things to correct here, especially in order to make my work as useful as possible
+often have meanings or ways of doing things divorced, only by a quiet
+Shading differ from each other.
+For the extremely time-consuming correction, the publishing company in Leipzig has indeed
+but it remains mine, the nature of the matter
+the main work. I can pronounce the certain assurance that at least until now
+all the passages quoted are correctly quoted, and that too, as far as it is in my power
+stands to be the case in the future; This will then be the remaining printing errors
+(which, with all due care, are unavoidable) can be easily controlled.
+Since I quote the songs after consecutive numbers (as she adds Aufrecht), so
+may the concordance between these and the ten books separate here
+Numbers are indicated:
+  1-191 = 1.1-1.191,
+192-244 = 2,1-2,43
+235-296 = 3.1- 3.62,
+297--354 = 4.1-4.58,
+355--441 = 5.1--5.87,
+442--516 = 6.1-6.75,
+517--620 = 7.1-7.104,
+621--712 = 8,1--8,92,
+713--826 = 9.1-9.114,
+827--1017 = 10.1 to 10.191,
+1018--1028 = Vālakhilya 1-11.
+
+Szczecin 10th August 1872.
+The author.
+
+[Non-ascii characters: ä á ö ü ṙ ṝ ŕ ṛ ā ū û ṅ ç ī ṣ r̄ ē ō â ã à ý ˘ ó í ṭ ]

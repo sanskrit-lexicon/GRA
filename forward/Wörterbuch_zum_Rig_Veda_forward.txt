@@ -1,0 +1,178 @@
+
+Vorwort. 
+Das Wörterbuch, welches ich hiermit der Oeffentlichkeit übergebe, ist ursprünglich aus 
+meinem eigenen Bedürfnisse hervorgegangen. Ich sah, dass ich nicht anders zum Verständnisse
+der Veden gelqen könne, als wenn ich wenigstens für den Haupttheil und die Grundlage derselben, 
+den Rig-Veda, bei der Lektüre nicht blos eine Uebersetzung niederschriebe, sondern 
+auch ein möglichst vollständiges Glossar anlegte. Die Benutzung des so angesammelten 
+Materials gewährte mir bei meinen sprachlichen, namentlich sprachvergleichenden Arbeiten 
+so kräftige Förderung, dass ich beschloss, dasselbe zu verarbeiten und die mir dadurch gewordene 
+Hülfe allgemein zugänglich zu machen. Ich war mit der Ausarbeitung des Wörterbuchs
+bis weit über die Hälfte fortgeschritten, als ich erfuhr, dass Aufrecht die Herausgabe 
+eines solchen Wörterbuchs beabsichtige. Da ich niemand für geeigneter zu einem solchen 
+Werke halten konnte, als diesen ausgezeichneten Sprachforscher, dem zugleich, wie wenigen 
+andern, die gesammte zur Erläuterung des RV dienende Literatur zugänglich ist, so beschloss 
+ich, zwar zu meinem eigenen Gebrauche die Ausarbeitung in gleicher Weise, wie sie begonnen 
+war, zu vollenden, aber die Veröffentlichung davon abhängig zu machen, ob Aufrecht's Plan 
+sich verwirklichte oder nicht. Als das Werk ganz zum Drucke bereit lag, erfuhr ich von 
+namhaften Gelehrten, denen die neuere Literatur auf diesem Gebiete aufs genaueste bekannt 
+ist, und die auch durch ihre persönlichen Beziehungen zu den in England thätigen Sprach­forschern 
+mehr als andere beurtheilen konnten, ob ein solches Wörterbuch in naher Aussicht 
+stände, dasa noch nichts der Art im Werke sei, und wurde von ihnen aufgefordert, den Druck 
+meines Wörterbuchs schleunigst zu betreiben. So glaubte ich denn die Veröffentlichung nicht 
+weiter verschieben zu dürfen. 
+
+   Die Grundlage meines Werks bildet natürlich das Petersburger Wörterbuch, mit welchem 
+eine neue Epoche in der Sanskrit-Philologie und namentlich auch in dem Verständniss der 
+Veden begann. Es sind daher die dort gewonnenen Resultate und besonders die darin nieder­gelegten 
+bahnbrechenden Arbeiten Roth's über die Veden von mir überall zu Rathe gezogen, 
+und des mancherlei Abweichungen von der dort dargelegten Auffassung, wie es jene aus­gezeichnete 
+Arbeit verdient, nur nach reiflicher Prüfung und nach Vergleichung aller betreffenden 
+Stellen Eingang gestattet. Namentlich bin ich im Ansatze der Stämme (Wurzeln) 
+für die biegsamen Wörter wieder mehr auf die frühere Praxis zurückgegangen, indem ich 
+? möglichst vermieden habe, so1che Stammgebilde anzusetzen, welche in der Sprache selbst 
+
+(Page VI Vorwort)
+
+als solche nicbt vorkommen; somit babe ich für die declinirbaren Wörter diejenige Form als 
+Stammform angesetzt, welche sie als erste Glieder von Zusammensetzungen (abgesehen von laut­lichen 
+Umwandlungen) wirklieh haben, also z. B. pitṙ, nicht pitar, bṙhat und nicht bṙhant u. s. w.; 
+ferner für die Verben die Form, welche sie als Verbalia annehmen; unter dem Verbale verstehe 
+ich diejenige declinirbare Form des Verbs, welche entweder kein Suffix enthält oder nur das 
+hinter kurze Vocale angefügte t, also z. B. vṙdh, nicht vardh wegen des Verbale vṙdh [vgl. ṙtā­vṙdh 
+u. s. w.], bhṙ, nicht bhar wegen des Verbale bhṙt, gir, nicht gar oder gṝ wegen des Verbale gir, 
+hū, nicht hvā oder hve wegen des Verbale hû [deva-hû u. s. w.]. Wo zwei verschiedene 
+Verbalia vorhanden sind, wie z. B. hvŕ-t und hrú-t, sind auch zwei Wurzelformen hvṙ und hru 
+anzusetzen. Zu jedem Worte sind alle im RV vorkommenden Formen und zu jeder Form alle 
+Stellen angegeben, in denen sie vorkommt; nur bei einigen sehr häufig vorkommenden Formen 
+oder unbiegsamen Wörtern sind die Stellen, sofern sie nicbt ein besonderes Interesse in Anspruch 
+nahmen, nur bis zu einem gewissen Liede hin vollständig aufgeführt, was dann an der betreffenden 
+Stelle des Wörterbuchs bemerkt ist. Stellen aus Sāmaveda (SV.), Atharva-veda (AV.), Vājasaneyi­Samhita 
+(VS.) sind nur angeführt, wo sie für Feststellung der Form und Bedeutung von Wichtigkeit 
+schienen. Bei den Formen der declinirbaren Wörter ist die Reihenfolge die von Panini 
+angegebene, nämlich V. (Voc.), N. (Nom.), A. (Acc.), I. (Instr.), D. (Dat.), Ab. (Abi.), G. (Gen.), 
+L. (Loc.), und zwar zuerst im Singular [s.], dann im Dual [d., du.] und Plural [p., pl.], unter den 
+Geschlechtern ist N. und A. des neutr. [n.] stets Mnter den A. des masc. [m.] gestellt, und das 
+fem. [f.], wo es eine besondere Form hat, hinter die sämmtlichen Formen der beiden andern 
+Geschlechter. Jede solche Form ist nur von dem letzten Vocale der Stammform an bingesetzt 
+und das übrige durch einen vorgesetzten Strich angedeutet, z. B. vom Stamme aṅçumát ist 
+die Form aṅçumátīm durch -átīm ausgedrückt. Nur wenn zwei verschiedene Stämme (z. B. 
+ábibhīvas, schwach ábibhyus) angegeben sind, werden die Formen von da an, wo eine Abweichung 
+beider Stämme eintritt, hingesetzt (z. B. -yuṣā für ábibhyuṣā). Unter den Verbal­formen 
+gehen sämmtliche persönlichen Formen den unpersönlichen voran, und zwar die des 
+Stammverbs denen der Passiva, Causalia, Intensiva und Desiderativa. Unter ihnen beginnen 
+die aus dem Präsensstamme (welcher Stamm schlechthin genannt ist) entspringenden Formen, 
+denen der nackte Präsensstamm (oder seine Verstärkung) als Ueberschrift übergesetzt ist, an 
+welche sich dann, ähnlich wie beim Nomen, die abgekürzte Schreibart der einzelnen Formen 
+anschliesst. Unter diesen Formen gehen sämmtliche active Formen den medialen voran, die 
+Modus erscheinen in der Folge Ind., Conj., Opt., Imperativ; wo mehrere Conjunctiven sind, 
+geht der mit präsentischen Endungen dem mit imperfectiscben voran; in jedem Modus erscheinen 
+dann die Personformen in der bekannten Ordnung. Auf die Präsensformen eines Stammes 
+folgen dann unter neuer Ueberschrift die aus demselben Stamme entspringenden Imperfect­formen, 
+sofern sie das Augment bewahrt haben; die augmentlosen Imperfectformen fallen mit 
+dem zweiten Conjunctiv zusammen und stehen auch dort. Dann folgt in gleicher Weise das 
+Perfect, dann das (seltene) Plusquamperfect und Futur (auf -iṣyāmi), dann der Aorist. Unter 
+den unpersönlichen Formen machen den Anfang die Participien, die zu den verschiedenen Zeit­formen 
+gehören und aus ihnen entsprungen sind; dann folgen die aus keiner bestimmten Zeit­form 
+entsprungenen Participien, von denen ich der Kürze wegen das auf -ta oder -na als 
+Part. II., das auf -tṙ als Part. III., das auf -tva, -ya (-enya u. s. w.) als Part. IV. bezeichnet 
+habe, da die sonst für sie üblicben Namen ganz unbrauchbar sind. Dann folgen die Absolutiven 
+(auf -ya, -tvā u. s. w.) und Infinitiven, zuletzt das Verbale (s.o.). In den Citaten ist in der 
+Regel zu jedem Adjectiv sein Substantiv, zu jedem Genetiv das Nomen oder Verb, von dem 
+es abhängt, zu jedem Verb seine Rection, zu den Substantiven die besonders charakteristischen 
+Adjectiven hinzugefügt; was dabei vor die citirende Zahl gesetzt ist, bezieht sich auf alle 
+unmittelbar folgenden Stellen, doch ist das Wort, wenn es nicht unmittelbar in der citirten 
+Form in den nächstfolgenden Stellen vorkommt, in Klammern gesetzt; was hinter dem Citat 
+steht, bezieht sich nur auf diese eine Stelle. Bei Stellen, die im Zusammenhange angeführt 
+sind, vertritt das Zeichen -- das Wort in der angegebenen Form. Zu Grunde liegt der Text 
+
+[Vorwort. vii]
+
+von Aufrecht, jedoch mit durchgängiger Benutzung der von M. Müller angegebenen Verbesserungen 
+dieses Textes. Von der Transcription Aufrecht's weiche ich namentlich da ab, 
+wo er einen einfachen Laut durch zwei Buchstaben bezeichnet, weil solche Bezeichnungen bei 
+einem Wörterbuche höchst verwirrend sind; zu dem Ende schreibe ich ṙ statt ṛi, r̄ statt ṙî [?], 
+ṣ statt sh, ē statt ai, ō statt au; diese letzten beiden Bezeichnungen können zu keimem Irrthum 
+Veranlassung geben; für sprachvergleichende Werke sind sie ebenso wie die Zeichen e 
+und o zu vermeiden, und für sie e=ai, o=au, ē=āi, ō=āu zu setzen; nur bei den Aspiraten 
+habe ich die zusammengesetzte Schreibweise beibehalten, was um so eher gestattet ist, als sie 
+bei der lexikographischen Anordnung ganz dieselbe Stelle bedingen, mag man sie wie einen 
+oder wie zwei Buchstaben behandeln; auch das zusammengesetzte Zeichen ḷi habe ich, da es 
+nur in Formen der Wurzel kalp vorkommt, beibehalten. In der Bezeichnung der Accente 
+weiche ich insofern ab, als ich den tonlosen langen Vocal durch einen wagrechten Strich, den 
+betonten durch ein Dach (^) bezeichne, also ā statt â, â statt ã schreibe, und dass ich den 
+Svarita durch Accentuirung des vorhergehenden Halbvocals (y, v) ausdrücke, also z. B. asmadrýac 
+statt asmadryàc schreibe. Wo diese Halbvocale als Vocale zu sprechen sind, schreibe 
+ich sie auch als solche; ein Wort, wie mártya, ámartya giebt es im RV nicht, sondern nur 
+mártia, ámartia, und ich konnte es nicht über mich gewinnen, jene Unformen aufzunehmen, 
+doch habe ich sie aus praktischen Gründen in Klammern vorgesetzt und sie der Anordnung 
+zu Grunde gelegt. Ebenso habe ich die im Texte stattfindende Verschleifung zwischen den 
+einzelnen Worten (sandhi) ganz aufgehoben, was für die lexikalische Durchsichtigkeit sehr 
+förderlich ist, und habe, wo die Vocalverschleifung im ursprünglichen Texte stattfindet, das 
+Zeichen ˘ dazwischengesetzt. Wie sehr die in den handschriftlichen Texten angewandte 
+Verschleifung von der Verbindung der Worte, wie sie das Metrum erfordert, abweicht, zeigt 
+sich besonders auffallend bei dem Zusammentreffen eines a oder  mit dem ṙ eines folgenden 
+Wortes oder Zusammensetzungsgliedes. Im überlieferten Texte sind diese zusammentreffenden 
+Vocale stets getrennt, metrisch hingegen nur dann, wenn entweder -a, -ā für -as, -e, -ās, -ē, 
+sowie für -ār, -ān (in den veralteten Nominativformen mātâr, hótār, víbhvān, welche in 399,6; 
+127,10; 329,3; 332,6; 564,3 angenommen werden müssen und die dem griechischen [greek] u. s. w. 
+entsprechen) geschrieben ist, und wo die volle Scbreibart wiedierhergestellt werden muss, oder 
+wenn auf das ṙ ein Doppelconsonant folgt (ṙtvíya 275,2; ṙṣṭí 167,3; 169,3; 648,5), indem hier 
+die Häufnng dreier Consonanten vermieden wird, oder wenn die zusammentreffenden Vocale 
+zwei metrisch getrennten Verszeilen angehören (wo metrisch nie Verschleifung stattfindet, im 
+Texte dagegen stets, sobald das Trennungszeichen fehlt) oder endlich, wenn die zusammentreffenden
+ Vocale durch den Verseinschnitt getrennt sind; letzteres tritt jedoch nur selten (fünfmal) 
+ein (319,7; 357,9; 202,12; 906,7; 956,6). In allen übrigen Fällen wird a, ā mit folgendem 
+ṙ zu ar verschliffen. (Der eine Fall 925,2, wo die Verschleifung unterbleibt, und die zwei 
+Fälle, wo sie gegen die Regel eintritt, 688,4 und 913,15, beruhen auf falscher Lesart.) Aus 
+diesen Erscheinungen müssen wir den Schluss ziehen, dass vor ṙ und wahrscheinlich vor allen 
+Vocalen die Endungen -as, -e (=a+i), -ās, -ē (= ā+i) noch nicht ihren Endlaut (s, i oder y) 
+verloren hatten. Dadurch wird die von mir angewandte Schreibart um so mehr gerechtfertigt; 
+sie kann nie zu Verwirrung Anlass geben, da die Vergleichung mit dem überlieferten Texte, 
+der den Ausgaben mit Recht zu Grunde liegt, stets unmittelbnr möglich ist. 
+
+Die Etymologie, da sie auf die Feststellung der Bedeutung oft von wesentlichem Einflusse 
+ist, konnte nicht fehlen, ich habe sie aber unter Verweisung auf Curtius, Grundzüge der griechischen
+ Etymologie (Cu.), Fick, Vergleichendes Wörterbuch tier indogermanischen Sprachen 
+1870 (Fi.) , Kuhn, Zeitschrift für vergleichende Sprachforschung (Ku.), Böhtlingk und Roth, 
+Sanskrit-Wörterbuch (BR.), Benfey, Glossar zum Sāma-Veda (Be. SV. gl.), so wie gelegentlich 
+auf andere Werke, möglichst kurz gefasst uml Zusammensetzungen durch einen die Glieder 
+trennenden Strich bezeichnet. 
+Die Bedeutungen habe ich, wo es nothwendig schien, in ihrem Zusammenhange aus der 
+noch erreichbaren Grundbedeutung abgeleitet, dann aber einfach durch fortlaufende Nummern 
+
+[VIII Vorwort.]
+
+die Bedeutungen oder Gebrauchsweisen in der Art, wie es rur die Auffassung der angeführten 
+Stellen am zweckdienlichsten schien, aneinandergereiht und darauf die citirten Stellen bezogen, 
+sodass also klar wird, welche Bedeutung oder Gebrauchsweise ich dem Worte in jeder citirten 
+Stelle beilege. Hier spielt also die subjective Auffassung eine grosse Rolle, und spätere Arbeit 
+findet hier gewiss manches zu berichtigen, zumal ich, um meine Arbeit möglichst nutzbar zu 
+machen, oft Bedeutungen oder Gebrauchsweisen geschieden habe, die nur durch eine leise 
+Schattirung voneinander abweichen. 
+Für die äusserst zeitraubende Correctur hat die Verlagshandlung in Leipzig selbst zwar 
+tüchtige jüngere Kräfte gewonnen, doch bleibt mir selbst, der Natur der Sache nach, dabei 
+die Hauptarbeit. Ich kann die bestimmte Versicherung aussprechen, dass wenigstens bisjetzt 
+alle angeführten Stellen richtig citirt sind, und dass das auch, soweit es in meiner Macht 
+steht, künftig der Fall sein soll; dadurch werden dann die etwa noch übriggebliebenen Druckfehler 
+(die ja bei aller Sorgfalt unvermeidlich sind) leicht controllirt werden können. 
+Da ich die Lieder nach fortlaufenden Nummern (wie sie Aufrecht beifügt) anführe, so 
+möge hier noch kurz die Concordanz zwischen diesen und den nach zehn Büchern gesonderten 
+Nummern angedeutet sein: 
+  1--191 = 1,1--1,191, 
+192--234 = 2,1--2,43,
+235--296 = 3,1--3,62,
+297--354 = 4,1--4,58,
+355--441 = 5,1--5,87,
+442--516 = 6,1--6,75, 
+517--620 = 7,1--7,104,  
+621--712 = 8,1--8,92,  
+713--826 = 9,1--9,114,  
+827--1017=10,1-10,191,  
+1018--1028 = Vālakhilya 1-11. 
+
+Stettin den 10. August 1872. 
+Der Verfasser. 
+
+[Non-ascii characters: ä á ö ü ṙ ṝ ŕ ṛ ā ū û ṅ ç ī ṣ r̄ ē ō â ã à ý ˘ ó í ṭ ]
+
