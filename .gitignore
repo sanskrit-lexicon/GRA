@@ -1,0 +1,6 @@
+# Emacs backup
+*~
+*.pyc
+__pycache__
+temp*
+unused*

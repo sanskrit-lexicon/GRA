@@ -1,0 +1,604 @@
+; This file contains all the bold text identified in preverb0_dbg.txt
+; There are 3 tab-delimited fields:
+; 1) number of times the bold text occurs
+; 2) the bold text
+; 3) the SLP1 transcoding of the text IF the text is an upasarga
+;    This transcoding is done manually
+; Lines beginning with ';' are NOT considered as upasargas
+;    This determination is also done manually
+001	Mit antár	antar
+001	Mit ní,	ni
+001	Mit nís	nis
+001	Mit pári	pari
+001	Mit ánu:	anu
+001	Mit átī	ati
+001	Mit ā́ worauf	A
+;001	a párā	a parA
+001	abhi prá	aBipra
+001	abhi prá:	aBipra
+001	abhi,	aBi
+001	abhipra,	aBipra
+001	abhipra:	aBipra
+001	abhí ní:	aBini
+001	abhí sám:	aBisam
+001	abhí vi	aBivi
+001	abhí úpa,	aByupa
+001	abhí ā	aByA
+001	abhí-	aBi
+001	abhíprá	aBipra
+001	abhíprá,	aBipra
+001	acha	acCa
+001	adhi-	aDi
+001	adhi‿	aDi
+001	antar	antar
+001	antár ní:	antarRi
+001	antár prá,	antarpra
+001	antár prá:	antarpra
+001	anu‿ā́	anvA
+001	apa‿ā́	apA
+001	api:	api
+;001	ara	ara
+;001	arám	aram
+001	ata pári	pari
+001	ati,	ati
+001	atipra	atipra
+001	atiā́	atyA
+001	ni,	ni
+001	nir	nir
+001	nir ā́	nirA
+001	nir:	nir
+001	niā	nyA
+001	ní áva,	nyava
+001	ní ā́:	nyA
+001	nír ā́,	nirA
+001	nír-	nir
+001	pari,	pari
+001	pari-,	pari
+001	pari‿ā́	paryA
+001	parí	pari
+001	pra-	pra
+001	pratiā́	pratyA
+;001	pratī	pratī
+001	prá antár	prAntar
+001	prá pári,	prapari
+001	prá pári:	prapari
+001	prá ví,	pravi
+001	prá ví:	pravi
+001	prá ácha,	prAcCa
+001	prá ácha:	prAcCa
+001	prá ántar	prAntar
+001	prá áti,	prAti
+001	prá ā	prA
+001	prá ā́,	prA
+001	prápra	prapra
+001	práti ví	prativi
+001	práti úd	pratyud
+001	prátiā́	pratyA
+001	punar:	punar
+001	pári Prá	paripra
+001	pári prá,	paripra
+001	pári pú-	pari
+001	pári sam	parisam
+001	pári sám	parisam
+001	pári vi	parivi
+001	pári víśvā	pariviSvA
+001	pári úd	paryud
+001	pári ā	paryA
+001	pári.	pari
+001	páriā́:	paryA
+001	púnar,	punar
+001	púras	puras
+001	pṛá	pra
+001	sam,	sam
+001	samā:	samA
+001	sám abhí,	samaBi
+001	sám ábhi	samaBi
+001	sámā	samA
+001	sámā́,	samA
+;001	tirás	tiras
+;001	tirás:	tiras
+001	ud ā:	udA
+001	ud:	ud
+001	upa-	upa
+001	upani	upani
+001	upa‿ā́	upA
+001	upá prá	upapra
+001	upári	upari
+001	ví prá	vipra
+001	ví prá,	vipra
+001	ví párā	viparA
+;001	ví pārá	vipAra
+001	ví ánu:	vyanu
+001	ví úd	vyud
+001	ví, úd	vyud
+001	ví, ā́ ví	vi
+001	ví-	vi
+001	ábhi ní	aBini
+001	ábhi ud:	aByud
+001	ábhi,	aBi
+001	ábhí	aBi
+001	ábhí ā́	aByA
+001	ácha ā:	acCA
+001	ácha ā́,	acCA
+001	ádhi ni	aDini
+001	ádhi sam:	aDisam
+001	ádhi sám,	aDisam
+001	ádhi vi	aDivi
+001	ádhi ví,	aDivi
+001	ádhi ví:	aDivi
+001	ánu pra,	anupra
+001	ánu pra:	anupra
+001	ánu prá,	anupra
+001	ánu párā	anuparA
+001	ánu sám,	anusam
+001	ánu ví,	anuvi
+001	ánu ā	anvA
+001	ánupárā	anuparA
+001	ápa prá	apapra
+001	ápa prá:	apapra
+001	ápa ā́	apA
+001	ápa ā́,	apA
+001	ápa ā́:	apA
+001	ápi á	apyA
+001	ápi ā́	apyA
+001	ápi ā́:	apyA
+001	áti nís,	atinis
+001	áti nís:	atinis
+001	áti prá,	atipra
+001	áti prá:	atipra
+001	áti ā́	atyA
+001	áva sám	avasam
+001	áva ā́,	avA
+001	áva ā́:	avA
+;001	ãva	ãva
+001	úd abhí	udaBi
+001	úd ā́	udA
+001	úd, sám	utsam
+001	úpa ava	upAva
+001	úpa ní	upani
+001	úpa sám	upasam
+001	úpa áva	upAva
+001	úpa ā	upA
+001	úpasam	upasam
+001	ā́ 	A
+001	ā́ prati	Aprati
+001	ā́ prá,	Apra
+001	ā́ práti,	Aprati
+001	ā́ sam	Asam
+001	ā́ sám	Asam
+001	ā́ sám,	Asam
+;001	ā́ tád	A tad
+001	ā́ ácha,	AcCa
+001	ā́ áva	Ava
+001	ā́ áva,	Ava
+001	ā́ úpa,	opa
+001	ā́, pári	Apari
+002	Mit pari	pari
+002	Mit vi	vi
+002	Mit ví	vi
+002	Mit ápi	api
+002	Mit áva	ava
+002	Mit úpa	upa
+002	abhipra	aBipra
+002	abhí ní,	aBini
+002	abhí sám ā́	aBisamA
+002	abhí ví:	aBivi
+002	abhí úd:	aByud
+002	abhí ā:	aByA
+002	abhí ā́:	aByA
+002	abí	aBi
+002	antár pári	antarpari
+002	antár ví	antarvi
+002	apa:	apa
+002	nis,	nis
+002	niṣ	nis
+002	ní ā	nyA
+002	nír	nir
+002	prati:	prati
+002	pra‿	pra
+002	prá nís	praRis
+002	prá ā́:	prA
+002	práti ní	pratini
+002	práti prá	pratipra
+002	práti áva	pratyava
+002	práti úd,	pratyud
+002	práti ā́,	pratyA
+002	prā́	prA
+002	pári ví	parivi
+002	pári ví,	parivi
+002	pári ā́,	paryA
+002	párā:	parA
+002	púnar	punar
+002	saṃ	saṃ
+002	sám abhí	samaBi
+002	sám prá,	sampra
+002	sám ápa	samapa
+002	sám ā́,	samA
+002	sám ā́:	samA
+002	upa ā́	upA
+002	upa:	upa
+002	upapra	upapra
+002	upā́	upA
+002	ví ánu	vianu
+002	ví áti	vyati
+002	ví ā́,	vyA
+002	ví ā́:	vyA
+002	ácha prá	acCapra
+002	ácha ā́	acCA
+002	ácha ā́:	acCA
+002	ádhi ví	aDivi
+002	ádhi ā́	aDyA
+002	ánu ní	anuni
+002	ánu pra	anupra
+002	ánu sam:	anusam
+002	ánu sám	anusam
+002	ánu ā́:	anvA
+002	ápa ní	apani
+002	ápa prá,	apapra
+002	ápi:	api
+002	ápā	apA
+002	áti ví	ativi
+002	úd ā́:	udA
+002	úpa pra	upapra
+002	úpa prá,	upapra
+002	úpa ā́,	upA
+002	úpa ā́:	upA
+;002	úpa-upa párā	upa-upa parA
+002	ā́ prá	Apra
+002	ā́ ví	Avi
+002	ā́ ácha:	AcCa
+003	Mit ádhi	aDi
+003	abhí ní	aBini
+003	abhí prá:	aBipra
+003	abhí sam:	aBisam
+003	abhí sám,	aBisam
+003	antár ní	antarRi
+003	anu:	anu
+003	ná	na
+003	ní ā́,	nyA
+003	paripra	paripra
+003	prá áti	prAti
+003	prá úd	prod
+;003	prá-pra	pra-pra
+003	práti ā́	pratyA
+003	upa,	upa
+003	vi,	vi
+003	vi:	vi
+003	ádhi ní	aDini
+003	ánu ā́,	anvA
+003	ápa párā	apaparA
+003	ā́ úpa	opa
+004	Mit prá	pra
+004	Mit ácha	acCa
+004	Mit ápa	apa
+004	Mit áti	ati
+004	abhí pra	aBipra
+004	abhí prá,	aBipra
+004	abhí sam	aBisam
+004	abhí ví,	aBivi
+004	abhí úd,	aByud
+004	antár,	antar
+004	antár:	antar
+004	pári ní	pariRi
+004	ádhi sám	aDisam
+004	ádhi:	aDi
+004	ápi,	api
+004	úd ā́,	udA
+004	ā:	A
+005	abhī́	aBi
+005	antár ā́	antarA
+005	ni:	ni
+005	ní ā́	nyA
+005	samā́	samA
+005	sám prá	sampra
+005	ví ā́	vyA
+005	ácha,	acCa
+005	ádhi,	aDi
+;005	áram	aram
+005	ā́ ní	Ani
+006	Mit ánu	anu
+006	api	api
+006	ava:	ava
+006	pari:	pari
+006	pra:	pra
+006	párā,	parA
+007	abhí ā́,	aByA
+008	Mit ā́	A
+008	prá ā́	prA
+008	ánu ví	anuvi
+008	ánu ā́	anvA
+008	áti prá	atipra
+008	úpa:	upa
+009	Mit abhí	aBi
+009	abhí ví	aBivi
+009	úd:	ud
+010	sam:	sam
+010	áti,	ati
+010	áti:	ati
+011	abhi:	aBi
+011	parā	parA
+011	púnar:	punar
+012	pári prá	paripra
+012	ánu:	anu
+013	nis	nis
+013	nís,	nis
+013	nís:	nis
+013	pári ā́	paryA
+013	úpa,	upa
+;013	āvís	Avis
+014	abhí ā́	aByA
+014	adhi	aDi
+014	sám ā́	samA
+014	ácha:	acCa
+015	ápa:	apa
+015	úpa prá	upapra
+017	ati	ati
+017	pári:	pari
+017	ápa,	apa
+018	ánu prá	anupra
+018	ánu,	anu
+019	abhí:	aBi
+019	apa	apa
+019	úd,	ud
+020	áva,	ava
+021	ní,	ni
+021	práti,	prati
+021	práti:	prati
+022	pári,	pari
+022	áchā	acCA
+023	abhí sám	aBisam
+023	ní:	ni
+023	prati	prati
+023	áva:	ava
+024	abhí,	aBi
+024	prá:	pra
+027	ā́:	A
+028	anu	anu
+030	ava	ava
+030	ā́,	A
+031	sám:	sam
+031	úpa ā́	upA
+032	ví:	vi
+033	ví,	vi
+034	ud	ud
+037	abhí prá	aBipra
+038	ácha	acCa
+039	prá,	pra
+041	antár	antar
+042	sám,	sam
+043	upa	upa
+044	pari	pari
+046	abhi	aBi
+048	ápi	api
+061	párā	parA
+062	ni	ni
+089	ádhi	aDi
+089	ā	A
+100	áti	ati
+105	sam	sam
+108	nís	nis
+119	vi	vi
+122	pra	pra
+161	ápa	apa
+165	práti	prati
+172	áva	ava
+203	úd	ud
+231	úpa	upa
+253	ánu	anu
+281	pári	pari
+343	ní	ni
+365	abhí	aBi
+440	sám	sam
+633	ví	vi
+702	prá	pra
+748	ā́	A
+; The rest of these are determined to be non-upasargas
+;001	-a ánu	-a anu
+;001	-asi	-asi
+;001	-at ava	-at ava
+;001	-ave ní	-ave ni
+;001	-ā́ ava	-ā ava
+;001	I.	I.
+;001	II. yuddhá	II. yuddha
+;001	II. áramṇā	II. aramṇā
+;001	IV. ráṃhia	IV. raṃhia
+;001	Part. II. prītá	Part. II. prīta
+;001	Pāṇ.	Pāṇ.
+;001	aghám	agham
+;001	antár <lbinfo n="3"/> ā́	antar <lbinfo n="3"/> A
+;001	araṃhaya:	araṃhaya
+;001	arśasāná	arśasāna
+;001	ase	ase
+;001	ata	ata
+;001	atam	atam
+;001	ate	ate
+;001	avam	avam
+;001	avanu	avanu
+;001	avanv	avanv
+;001	avaí	avai
+;001	avás	avas
+;001	avás,	avas
+;001	aṃś	aṃś
+;001	bhidát	bhidat
+;001	bhiṣṇaj = bhiṣaj,	bhiṣṇaj = bhiṣaj
+;001	báḍ,	baḍ
+;001	bíbhramāṇa	bibhramāṇa
+;001	bíbhyat	bibhyat
+;001	cirám, jíok,	ciram jiok
+;001	cirám:	ciram
+;001	coṣkūyá:	coṣkūya
+;001	cárkṛṣ	carkṛṣ
+;001	dhehí	dhehi
+;001	drávat	dravat
+;001	dā́śat	dāśat
+;001	dū	dū
+;001	dūré,	dūré
+;001	dūré:	dūré
+;001	dṛḍhá, dṛṃhita,	dṛḍha dṛṃhita
+;001	gabh	gabh
+;001	gávi.	gavi.
+;001	gúhā	guhā
+;001	gúhā,	guhā
+;001	gṛbh,	gṛbh
+;001	gṛṇāti.	gṛṇāti.
+;001	gṛṇīṣá	gṛṇīṣa
+;001	heḍat, heḍamāna, heḍayat	heḍat heḍamāna heḍayat
+;001	hruta	hruta
+;001	inv.	inv.
+;001	is	is
+;001	jita	jita
+;001	jrayasāná	jrayasāna
+;001	jíhī	jihī
+;001	kikirā́,	kikirā
+;001	kikirā́:	kikirā
+;001	krákṣamāṇa	krakṣamāṇa
+;001	kániṣkand, kániṣkan	kaniṣkand kaniṣkan
+;001	mahás,	mahas
+;001	moṣis, moṣī	moṣis moṣī
+;001	máthis,	mathis
+;001	máthī:	mathī
+;001	míthū,	mithū
+;001	míthū:	mithū
+;001	māyúm	māyum
+;001	mṛṇát	mṛṇat
+;001	mṛṣya	mṛṣya
+;001	nachsingen	nachsingen
+;001	naś.	naś.
+;001	nápātam	napātam
+;001	nīcā́	nīcā
+;001	parás	paras
+;001	parás,	paras
+;001	parī	parī
+;001	pibadhi	pibaDi
+;001	prá yā́	pra yā
+;001	prāṇā́t	prāṇāt
+;001	purás,	puras
+;001	purás, purástāt,	puras purastāt
+;001	purás:	puras
+;001	pátis	patis
+;001	pít	pit
+;001	púṣ	puṣ
+;001	pā́,	pā
+;001	pā́śa,	pāśa
+;001	pūta	pūta
+;001	pṛth	pṛth
+;001	pṛṇádhi	pṛṇaDi
+;001	rabhasāná	rabhasāna
+;001	ran.	ran.
+;001	raṇ	raṇ
+;001	roháya	rohaya
+;001	rá-	ra-
+;001	rórav	rórav
+;001	róruv,	róruv
+;001	rúrukṣa	rurukṣa
+;001	rārandh	rārandh
+;001	rīriṣa	rīriṣa
+;001	sanutár,	sanutar
+;001	sanutár:	sanutar
+;001	sarīsṛp	sarīsṛp
+;001	skabhnát (ṣkabhnát):	skabhnat (ṣkabhnat)
+;001	skhid	skhid
+;001	sridhāna	sridhāna
+;001	sthā́:	sthā
+;001	stṛṇīṣan	stṛṇīṣan
+;001	suapasy,	suapasy
+;001	suṣuvus	suṣuvus
+;001	suṣuvás,	suṣuvas
+;001	suṣvāná	suṣvāna
+;001	syánda	syanda
+;001	sát,	sat
+;001	tiró:	tiró
+;001	tistir:	tistir
+;001	tvā	tvā
+;001	tátra	tatra
+;001	táva	tava
+;001	túñjamāna	tuñjamāna
+;001	tṛ́ṇā	tṛ́ṇā
+;001	u ápa	u apa
+;001	uccā́,	uccA
+;001	ucyá	ucya
+;001	ure prá	ure pra
+;001	vanā‿ánu	vanā‿anu
+;001	vi ayám	vi ayam
+;001	vi támase	vi tamase
+;001	vidh	vidh
+;001	vidáthāni	vidathāni
+;001	vrajám	vrajam
+;001	vánā	vanā
+;001	vípras	vipras
+;001	víśas,	viśas
+;001	vām	vām
+;001	vām.	vām.
+;001	vāvṛdhá	vāvṛdha
+;001	vṛtrā́t	vṛtrāt
+;001	yam	yam
+;001	yatāná	yatāna
+;001	yájasa	yajasa
+;001	yúdh	yudh
+;001	yāmaya	yāmaya
+;001	yā́ni	yāni
+;001	à vi	à vi
+;001	á ví	a vi
+;001	á úpa	a upa
+;001	ádhat	adhat
+;001	ájaya	ajaya
+;001	ájuṣa	ajuṣa
+;001	ántam	antam
+;001	ánu á	anu a
+;001	ápa mā́	apa mA
+;001	ápas	apas
+;001	árc, ṛ́c	arc ṛ́c
+;001	árhat:	arhat
+;001	árocaya	arocaya
+;001	árodaya	arodaya
+;001	árohaya	arohaya
+;001	árorav	arorav
+;001	árūruca	arūruca
+;001	ástambhī	astambhī
+;001	ásṛkṣ	asṛkṣ
+;001	áva hitám	ava hitam
+;001	ával	aval
+;001	ávano	avano
+;001	ávasám	avasam
+;001	ávṛṇaj	avṛṇaj
+;001	áśha	aśha
+;001	áṃh	aṃh
+;001	ékām	ékām
+;001	úpa á:	upa a
+;001	úpa ā́ mā	upA
+;001	āré	āré
+;001	āré sanutár	āré sanutar
+;001	āré,	āré
+;001	ātmā́namte	ātmānamte
+;001	āyi	āyi
+;001	ā́ntā	āntā
+;001	ā́raik	āraik
+;001	ā́the	āthe
+;001	ī́	ī́
+;001	śa	śa
+;001	śir	śir
+;001	śiṣ	śiṣ
+;001	śráth	śrath
+;001	śā,	śā
+;001	ū	ū
+;001	ṛś	ṛś
+;001	ṛ́dhak,	ṛ́dhak
+;001	ṛ́dhak:	ṛ́dhak
+;001	ạrám	ạram
+;002	-ā́	-ā
+;002	II.	II.
+;002	jiók	jiók
+;002	sanutár	sanutar
+;002	tád	tad
+;002	tā́n	tān
+;002	à	à
+;002	íṣ	iṣ
+;002	úpa á	upa a
+;002	āsi	āsi
+;003	āré:	āré
+;004	gúhā:	guhā
+;004	ápī	apī
+;005	párī	parī
+;006	tám	tam
+;007	purás	puras
+;015	á	a
