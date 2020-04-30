@@ -28,4 +28,4 @@ April 2020.  Identify Grassman entries which are roots and correspond with MW sp
  Further identify the prefixes (upasargas) within roots and
 correspond them to MW where possible.
 
-See https://github.com/sanskrit-lexicon/GRA/issues/10 for introduction.
+See https://github.com/sanskrit-lexicon/GRA/issues/11 for introduction.
