@@ -86,3 +86,5 @@
 <L>10519<pc>1638<k1>svAhA<k2>svA/hA
 <L>10761<pc>1683<k1>hoza<k2>hoza, hozin
 <L>9602<pc>1506<k1>sA<k2>sA<h>1
+; only has a participle tvAyat in RV
+<L>4000<pc>0566<k1>tvAy<k2>tvAy, tuAy

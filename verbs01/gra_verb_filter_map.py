@@ -96,10 +96,10 @@ map2mw_special = {
  'tar':'tF',  # 
  'taruzy':'taruz',  # MW taruzyat
  'tarh':'tfh',  # 
- 'tir':'tf',  # 
+ 'tir':'tF',  # 
  'tUrv':'turv',  # 
  'trA':'trE',  #
- 'tvAy':'tvAy',  # MW tvAyat
+ #'tvAy':'tvAy',  # MW tvAyat  tvAy now in gra_verb_exclude.txt
  'dan':'dan',  #  MW has 'dan' - but not currently recognized as verb
  'dar':'dF',  # 
  'darB':'dfB',  # 
