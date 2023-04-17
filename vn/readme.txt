@@ -129,7 +129,7 @@ e.g. asmadrýac instead of asmadryàc.
    wrong form in vn. Any change to make?
 -------------------------------------------------------------
 -------------------------------------------------------------
-Scan page error:
+Scan page error (corrected)
 https://github.com/sanskrit-lexicon-scans/gra/blob/main/pdfpages/pg_1769.pdf
 Shows pages 1761,2  (should be pages 1769,70)
   
@@ -140,4 +140,6 @@ and local cologne/scans/gra/
 
 
 -------------------------------------------------------------
-
+python diff_to_changes_dict.py orig/temp_gra_0.txt orig/temp_gra_1.txt orig/change_gra_1.txt
+264 changes written to change_gra_1.txt
+-------------------------------------------------------------

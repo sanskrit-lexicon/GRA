@@ -1,0 +1,1320 @@
+; <L>5<pc>0001<k1>aMSu<k2>aMSu/
+33 old <div n="P1">-ós 1) sutám {125,3}; pīyū́sam {204,2}; {282,2}; {920,8}; ándhas {297,19}; páyasā {819,12}. — 2) ūrmím {808,8}; pibanti {321,3}.
+;
+33 new <div n="P1">-ós 1) sutám {125,3}; pīyū́sam <c 1>{204,2}</c>; {282,2}; {920,8}; ándhas {297,19}; páyasā {819,12}. — 2) ūrmím {808,8}; pibanti {321,3}.
+;---------------------------------------------------
+; <L>10<pc>0003<k1>aMsya<k2>a/Msya
+68 old <div n="P1">-as {191,7} (sūcíkās).
+;
+68 new <div n="P1"><c 2>-as</c> {191,7} (sūcíkās).
+;---------------------------------------------------
+; <L>79<pc>0008<k1>agni<k2>agni/
+493 old <div n="P1">-és [<ab>G.</ab>] 1) prásitis {216,3}; śocís {626,7}; bramā́s {734,2}; ánte {860,11}. — 2) arcáyas {36,20}; {44,12}; padé {72,2}; bhāná. vas {97,5}; cákṣus 115,
+;
+493 new <div n="P1">-és [<ab>G.</ab>] 1) prásitis {216,3}; śocís {626,7}; <c 4>bramā́s</c> {734,2}; ánte {860,11}. — 2) arcáyas {36,20}; {44,12}; padé {72,2}; bhāná. vas {97,5}; cákṣus 115,1
+;---------------------------------------------------
+; <L>135<pc>0014<k1>aNgAra<k2>a/NgAra
+842 old {@áṅgāra,@}¦ <ab>m.</ab>, die (glühende) {%Kohle.%} Dass sie als glühende aufgefasst sei, zeigt sich besonders <lbinfo n="7"/> auch daran, dass das Wort auch den Planeten Mars bezeichnet, dessen eigenthümlich <lbinfo n="8"/> röthliches Licht diese Benennung als eine sehr geeignete erscheinen lässt. Die Wurzel ist vielleicht aṅj in der Bedeutung „schmücken, glänzend machen”.
+;
+842 new {@áṅgāra,@}¦ <ab>m.</ab>, die (glühende) {%Kohle.%} Dass sie als glühende aufgefasst sei, zeigt sich besonders <lbinfo n="7"/> auch daran, dass das Wort auch den Planeten Mars bezeichnet, dessen eigenthümlich <lbinfo n="8"/> röthliches Licht diese Benennung als eine sehr geeignete erscheinen lässt. Die Wurzel ist vielleicht <c 5>aṅj</c> in der Bedeutung „schmücken, glänzend machen”.
+;---------------------------------------------------
+; <L>143<pc>0015<k1>aNgya<k2>a/Ngya
+896 old ({@áṅgya@})¦, {@áṅgia,@} a., in den Gliedern (áṅga) befindlich.
+;
+896 new (<c 6>{@áṅgya@}</c>)¦, {@áṅgia,@} a., in den Gliedern (áṅga) befindlich.
+;---------------------------------------------------
+; <L>178<pc>0020<k1>ajara<k2>a-ja/ra
+1170 old <div n="P1">-āni. 10) śárdhāṃsi {917,7}.
+;
+1170 new <div n="P1"><c 7>-āni.</c> 10) śárdhāṃsi {917,7}.
+;---------------------------------------------------
+; <L>181<pc>0021<k1>ajasra<k2>a/-jasra
+1199 old <div n="P1">-ayā [<ab>f.</ab>]. 2) sūrmía {517,3}.
+;
+1199 new <div n="P1">-ayā [<ab>f.</ab>]. 2) <c 8>sūrmía</c> {517,3}.
+;---------------------------------------------------
+; <L>185<pc>0021<k1>ajAvi<k2>a-jAvi/
+1223 old {@a-jāví,@}¦ <ab>m.</ab>, {%Ziegen%} (ajá) {%und Schafe%} (ávi).
+;
+1223 new <c 9>{@a-jāví@}</c>,¦ <ab>m.</ab>, {%Ziegen%} (ajá) {%und Schafe%} (ávi).
+;---------------------------------------------------
+; <L>196<pc>0022<k1>ajoza<k2>a/-joza
+1300 old {@á-joṣa,@}¦ a., {%kein Genüge%} (jósa) {%habend, unersättlich, <lbinfo n="9"/> begierig.%}
+;
+1300 new <c 10>{@á-joṣa@}</c>,¦ a., {%kein Genüge%} (<c 10>jósa</c>) {%habend, unersättlich, <lbinfo n="9"/> begierig.%}
+;---------------------------------------------------
+; <L>215<pc>0026<k1>aRu<k2>aRu
+1485 old {@aṇu,@}¦ a., dünn, fein, sehr klein, zart; davon das fem. ánvī, die {%Zarte, Feine,%} als Bezeichnung <lbinfo n="4"/> der {%Finger.%}
+;
+1485 new <c 11>{@aṇu@}</c>,¦ a., dünn, fein, sehr klein, zart; davon das fem. ánvī, die {%Zarte, Feine,%} als Bezeichnung <lbinfo n="4"/> der {%Finger.%}
+;---------------------------------------------------
+; <L>225<pc>0027<k1>atasa<k2>atasa/
+1552 old <div n="P1">-āni {195,7}.
+;
+1552 new <div n="P1"><c 12>-āni</c> {195,7}.
+;---------------------------------------------------
+; <L>225<pc>0027<k1>atasa<k2>atasa/
+1553 old <div n="P1">-ā {915,5}.
+;
+1553 new <div n="P1"><c 13>-ā</c> {915,5}.
+;---------------------------------------------------
+; <L>225<pc>0027<k1>atasa<k2>atasa/
+1554 old <div n="P1">-eṣu {58,2. 4}; {303,10}.
+;
+1554 new <div n="P1"><c 14>-eṣu</c> {58,2. 4}; {303,10}.
+;---------------------------------------------------
+; <L>258<pc>0031<k1>atri<k2>a/tri
+1763 old <div n="P1">-īnām {656,6}; {658,8}.
+;
+1763 new <div n="P1"><c 15>-īnām</c> {656,6}; {658,8}.
+;---------------------------------------------------
+; <L>272<pc>0034<k1>adabDa<k2>a/-dabDa
+1872 old {@á-dabdha,@}¦ a., {%der nicht durch Trug beschädigt wird%} [dabdha von dabh], {%untrüglich, zuverlässig,%} <lbinfo n="9"/> von Göttern und göttlichen Wesen, insbesondere insofern man sich auf ihren Schutz und ihre Führung verlassen kann, ferner von den Satzungen (vratá) der Götter, besonders des Varuna. Der Begriff {%untrüglich%} <lbinfo n="6"/> tritt besonders da klar hervor, wo die Götter als die auf die Menschen Schauenden dargestellt werden ({710,6}; {508,5}; {492,1}). 2) {%unversehrt,%} von dem Menschen, den die Aditja's beschützen ({218,13}), von der Wolke, 3) {%lauter, rein,%} von den Somasäften (im IX. Buche), 4) {%aufrichtig, treu,%} von dem Menschen <lbinfo n="5"/> in seiner Gesinnung zu den Göttern.
+;
+1872 new {@á-dabdha,@}¦ a., {%der nicht durch Trug beschädigt wird%} [dabdha von dabh], {%<c 17>untrüglich</c>, zuverlässig,%} <lbinfo n="9"/> von Göttern und göttlichen Wesen, insbesondere insofern man sich auf ihren Schutz und ihre Führung verlassen kann, ferner von den Satzungen (vratá) der Götter, besonders des Varuna. Der Begriff {%untrüglich%} <lbinfo n="6"/> tritt besonders da klar hervor, wo die Götter als die auf die Menschen Schauenden dargestellt werden ({710,6}; {508,5}; {492,1}). 2) {%unversehrt,%} von dem Menschen, den die Aditja's beschützen ({218,13}), von der Wolke, 3) {%lauter, rein,%} von den Somasäften (im IX. Buche), 4) {%aufrichtig, treu,%} von dem Menschen <lbinfo n="5"/> in seiner Gesinnung zu den Göttern.
+;---------------------------------------------------
+; <L>273<pc>0034<k1>adabDanIti<k2>a/dabDa-nIti
+1892 old {@ádabdha-nīti,@}¦ a., {%untrügliche Führung%} [nītí] {%gewährend, sicher führend.%}
+;
+1892 new <c 16>{@ádabdha-nīti@}</c>,¦ a., {%<c 17>untrügliche</c> Führung%} [nītí] {%gewährend, sicher führend.%}
+;---------------------------------------------------
+; <L>306<pc>0038<k1>adDA<k2>ad-DA/
+2111 old {@ad-dhā́,@}¦ {%fürwahr,%} ursprünglich: auf diese Weise von ad, dem regelmässig gebildeten Neutrum des Deutestammes a und dhā́, wie es in katidā́ <lbinfo n="5"/> <ab>u. s. w.</ab> enthalten ist.
+;
+2111 new {@ad-dhā́,@}¦ {%fürwahr,%} ursprünglich: auf diese Weise von ad, dem regelmässig gebildeten Neutrum des Deutestammes a und dhā́, wie es in <c 18>katidā́</c> <lbinfo n="5"/> <ab>u. s. w.</ab> enthalten ist.
+;---------------------------------------------------
+; <L>314<pc>0039<k1>admasadvan<k2>admasa/dvan
+2163 old {@admasádvan,@}¦ a., {%Tischgenossen habend%} (von admasád).
+;
+2163 new <c 19>{@admasádvan,@}¦ a.</c>, <c 20>{%Tischgenossen habend%} (von admasád).</c>
+;---------------------------------------------------
+; <L>332<pc>0041<k1>adruh<k2>a-dru/h
+2275 old <div n="P1">-úhā [Vo. d. <ab>f.</ab>] {232,21} von Himmel <ab>u.</ab> Erde.
+;
+2275 new <div n="P1"><c 21>-úhā [Vo. d. <ab>f.</ab>]</c> {232,21} von Himmel <ab>u.</ab> Erde.
+;---------------------------------------------------
+; <L>384<pc>0048<k1>aDvara<k2>aDvara/
+2623 old <div n="P1">-āṇaam rā́jantam {1,8}; {45,4}; pátis {44,9}; ketús {244,4}; haskartā́ram {303,3}.
+;
+2623 new <div n="P1"><c 22>-āṇaam</c> rā́jantam {1,8}; {45,4}; pátis {44,9}; ketús {244,4}; haskartā́ram {303,3}.
+;---------------------------------------------------
+; <L>403<pc>0051<k1>anantaSuzma<k2>ananta/-Suzma
+2754 old {@anantá-śuṣma,@}¦ a., {%unendlichen Glanz%} [śúṣma] habend (von den Maruts).
+;
+2754 new {@anantá-śuṣma,@}¦ a., {%unendlichen <c 23>Glanz</c>%} [śúṣma] habend (von den Maruts).
+;---------------------------------------------------
+; <L>423<pc>0052<k1>anarvan<k2>an-arva/n
+2870 old <div n="P1">-ā́nas 1) <ab>v.</ab> d. Göttern {190,6}. 3) pánthās āditiā́naam <lbinfo n="8"/> {638,1}.
+;
+2870 new <div n="P1">-ā́nas 1) <ab>v.</ab> d. Göttern {190,6}. 3) pánthās āditiā́naam <lbinfo n="8"/> <c 24>{638,1}</c>.
+;---------------------------------------------------
+; <L>532<pc>0060<k1>anulbaRa<k2>an-ulbaRa/
+3491 old {@an-ulbaṇá,@}¦ a., {%ohne Wulst%} oder {%Knoten%} [ulbaṇa], <lbinfo n="6"/> {%ohne Fehl.%}
+;
+3491 new <c 25>{@an-ulbaṇá@}</c>,¦ a., {%ohne Wulst%} oder {%Knoten%} [ulbana], <lbinfo n="6"/> {%ohne Fehl.%}
+;---------------------------------------------------
+; <L>571<pc>0063<k1>antama<k2>a/ntama
+3738 old <div n="P1">-ebhis 2) {165,5} (marúdbhis). <lbinfo n="6"/>
+;
+3738 new <div n="P1"><c 26>-ebhis</c> 2) {165,5} (marúdbhis). <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>599<pc>0068<k1>annAvfD<k2>annA/-vfD
+3930 old {@annā́-vṛdh,@}¦ a., {%an Speise%} [ánna] {%sich erlabend%} [vṛdh 18].
+;
+3930 new <c 22>{@annā́-vṛdh@}</c>,¦ a., {%an Speise%} [ánna] {%sich erlabend%} [vṛdh 18].
+;---------------------------------------------------
+; <L>599<pc>0068<k1>annAvfD<k2>annA/-vfD
+3931 old <div n="P1">-ṛdham {827,4} (Agni).
+;
+3931 new <div n="P1"><c 28>-ṛdham</c> {827,4} (Agni).
+;---------------------------------------------------
+; <L>606<pc>0069<k1>anyatas<k2>anya/tas
+3996 old <div n="P">4,5. nír anyátas cid ārata dádhānās índre íd dúvas, von jedem andern sagten sie sich los, dem Indra allein Verehrung zollend.
+;
+3996 new <div n="P">4,5. nír anyátas cid ārata dádhānās índre íd dúvas, von jedem andern <c 29>sagten sie sich</c> los, dem Indra allein Verehrung zollend.
+;---------------------------------------------------
+; <L>694<pc>0077<k1>aptur<k2>ap-tu/r
+4529 old <div n="P1">-úram agním {261,11}; índram {285,2}; índum {773,13}; vṛ́ṣaṇam {775,21} (sómam); sómam {820,7} (bei Aufrecht stómam).
+;
+4529 new <div n="P1">-úram agním {261,11}; índram {285,2}; índum {773,13}; vṛ́ṣaṇam {775,21} (sómam); sómam {820,7} (<c 30>bei Aufrecht</c> stómam).
+;---------------------------------------------------
+; <L>757<pc>0081<k1>abdA<k2>ab-dA/
+4887 old {@ab-dā́,@}¦ <ab>f.</ab>, {%Lust zur Wasserspende%} [áp und ā́].
+;
+4887 new <c 31>{@ab-dā́@}</c>¦ <ab>f.</ab>, {%Lust zur Wasserspende%} [áp und ā́].
+;---------------------------------------------------
+; <L>757<pc>0081<k1>abdA<k2>ab-dA/
+4888 old <div n="P1">-ajā́ [<ab>I.</ab>] <ab>adv.</ab> {408,3}.
+;
+4888 new <div n="P1"><c 32>-ajā́</c> [<ab>I.</ab>] <ab>adv.</ab> {408,3}.
+;---------------------------------------------------
+; <L>760<pc>0081<k1>abrahman<k2>a/-brahman
+4904 old <div n="P1">-ānas sutā́sas {542,1}.
+;
+4904 new <div n="P1"><c 33>-ānas</c> sutā́sas {542,1}.
+;---------------------------------------------------
+; <L>772<pc>0083<k1>aBijYu<k2>aBi-jYu/
+4974 old {@abhi-jñú,@}¦ 1) {%knielings;%} 2) {%bis ans Knie.%}
+;
+4974 new <c 34>{@abhi-jñú@}</c>,¦ 1) {%knielings;%} 2) {%bis ans Knie.%}
+;---------------------------------------------------
+; <L>954<pc>0098<k1>ar<k2>ar, f
+6103 old 2) für jemand [D.] in Bewegung setzen, ihm {%bringen, senden%} (Lied, Gaben, <ab>A.</ab>); 3) {%aufwirbeln%} <lbinfo n="9"/> (Staub, Rauch, <ab>A.</ab>); 4) {%erregen%} (Luftkreis, <lbinfo n="6"/> Kraft, <ab>A.</ab>); 5) {%anregen%} (Menschen, Welten, <ab>A.</ab>); 6) {%sich in Bewegung setzen, sich bewegen%} (Schall); 7) {%eilend kommen%} (Götter, Wind); 8) {%sich wirbelnd erheben%} (Rauch); 9) {%sich erregen, sich regen%} (Kämpfer, Zorn, Kraft <ab>u. s. w.</ab>); 10) etwa [<ab>A.</ab>] worin [<ab>L.</ab>] {%hineinstecken, <lbinfo n="8"/> hineinsetzen, einfügen;%} 11) gegen jemand [<ab>A.</ab>] {%andringen,%} ihn {%treffen, verletzen, verwunden.%}
+;
+6103 new 2) für jemand [D.] in Bewegung setzen, ihm {%bringen, senden%} (Lied, Gaben, <ab>A.</ab>); 3) {%aufwirbeln%} <lbinfo n="9"/> (Staub, Rauch, <ab>A.</ab>); 4) {%erregen%} (Luftkreis, <lbinfo n="6"/> Kraft, <ab>A.</ab>); 5) {%anregen%} (Menschen, Welten, <ab>A.</ab>); 6) {%sich in Bewegung setzen, sich bewegen%} (Schall); 7) {%eilend kommen%} (Götter, Wind); 8) {%sich wirbelnd erheben%} (Rauch); 9) {%sich erregen, sich regen%} (Kämpfer, Zorn, Kraft <ab>u. s. w.</ab>); 10) <c 35>etwa</c> [<ab>A.</ab>] worin [<ab>L.</ab>] {%hineinstecken, <lbinfo n="8"/> hineinsetzen, einfügen;%} 11) gegen jemand [<ab>A.</ab>] {%andringen,%} ihn {%treffen, verletzen, verwunden.%}
+;---------------------------------------------------
+; <L>954<pc>0098<k1>ar<k2>ar, f
+6119 old <div n="P1">-rṣi {@ud@} 2) jágat {863,4} (Aufrecht iyárṣi).
+;
+6119 new <div n="P1">-rṣi {@ud@} 2) jágat {863,4} (<c 36>Aufrecht</c> iyárṣi).
+;---------------------------------------------------
+; <L>954<pc>0098<k1>ar<k2>ar, f
+6127 old 9. — 5) kṛṣṭī́s {7,8}. — 9) śúṣmas {165,4}. — {@úd@} 1) vācás {113,17}; vā́cam {242,5}; {488,3}; rā́dhāṃsi abhrā́ṇi‿ iva {485,12}; ūrmím {949,2} (samudrā́t); bandhánās {798,41}. — 2) samudrám {796,4. 31}; víprāya vā́jān {851,11}; te púraṃdhim {938,5}. — 4) rájas 780, (vāyúbhis); śúṣmam {901,3}. — 3) bhānús {341,1}. — {@prá@} 2) vām mánmāni {577,2}. — 3) ráthas {584,3}.
+;
+6127 new <c 37>9.</c> — 5) kṛṣṭī́s {7,8}. — 9) śúṣmas {165,4}. — {@úd@} 1) vācás {113,17}; vā́cam {242,5}; {488,3}; rā́dhāṃsi abhrā́ṇi‿ iva {485,12}; ūrmím {949,2} (samudrā́t); bandhánās {798,41}. — 2) samudrám {796,4. 31}; víprāya vā́jān {851,11}; te púraṃdhim {938,5}. — 4) rájas <c 38>780</c>, (vāyúbhis); śúṣmam {901,3}. — 3) bhānús {341,1}. — {@prá@} 2) vām mánmāni {577,2}. — 3) ráthas {584,3}.
+;---------------------------------------------------
+; <L>957<pc>0101<k1>arakzas<k2>a-rakza/s
+6217 old <div n="P1">-asā [<ab>I.</ab>] pathā́ {129,9}; mánasā {201,5}.
+;
+6217 new <div n="P1"><c 39>-asā</c> [<ab>I.</ab>] pathā́ {129,9}; mánasā {201,5}.
+;---------------------------------------------------
+; <L>1197<pc>0132<k1>avfka<k2>a-vfka/
+7943 old <div n="P1">-ā́ni 4) jyótīṃṣi {55,6}.
+;
+7943 new <div n="P1"><c 40>-ā́ni</c> 4) jyótīṃṣi {55,6}.
+;---------------------------------------------------
+; <L>1205<pc>0133<k1>avyaTi<k2>a-vyaTi/
+7990 old {@a-vyathí,@}¦ a., {%nicht wankend%} [vyáthi], auf dem Gange oder im Fluge; 2) auch übertragen auf Schutz, Hülfe; 3) <ab>f.</ab>, {%sicherer Gang.%}
+;
+7990 new <c 41>{@a-vyathí@},</c>¦ a., {%nicht wankend%} [vyáthi], auf dem Gange oder im Fluge; 2) auch übertragen auf Schutz, Hülfe; 3) <ab>f.</ab>, {%sicherer Gang.%}
+;---------------------------------------------------
+; <L>1217<pc>0137<k1>aSas<k2>a-Sa/s
+8181 old <div n="P1">-ásas [<ab>G.</ab>] {225,9} (vadhám). <lbinfo n="6"/>
+;
+8181 new <div n="P1">-ásas [<ab>G.</ab>] {225,9} (<c 42>vadhám</c>). <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>1230<pc>0138<k1>aSfTita<k2>a/-SfTita
+8257 old {@á-śṛthita,@}¦ a., {%sich nicht auflösend%} [śṛthita siehe śrath].
+;
+8257 new <c 43>{@á-śṛthita@}</c>,¦ a., {%sich nicht auflösend%} [śṛthita siehe śrath].
+;---------------------------------------------------
+; <L>1252<pc>0140<k1>aSrIra<k2>a/-SrIra/
+8381 old {@á-śrīrá,@}¦ a., {%hässlich.%}
+;
+8381 new <c 44>{@á-śrīrá@}</c>,¦ a., {%hässlich.%}
+;---------------------------------------------------
+; <L>1254<pc>0140<k1>aSva<k2>a/Sva
+8411 old {117,14} {175,4}; {206,4}; {264,12. 20}; {292,3}; {347,5}; {583,9}; {409,1}; {412,6}; {480,4}; {503,3}; {506,2}; {534,2}; {557,3}; {561,1}; {585,1}; {587,3}; {625,35}; {627,27}; {808,11}; {829,7}; {833,2}; {837,7}; {894,12}; {896,2. 3}.
+;
+8411 new {117,14} {175,4}; {206,4}; {264,12. 20}; {292,3}; {347,5}; <c 45>{583,9}</c>; {409,1}; {412,6}; {480,4}; {503,3}; {506,2}; {534,2}; {557,3}; {561,1}; {585,1}; {587,3}; {625,35}; {627,27}; {808,11}; {829,7}; {833,2}; {837,7}; {894,12}; {896,2. 3}.
+;---------------------------------------------------
+; <L>1268<pc>0141<k1>aSvabuDya<k2>a/Sva-bu/Dya
+8494 old {@áśva-búdhya,@}¦ a., {%durch Rosse bemerkenswerth%} oder {%ausgezeichnet%} [budhya].
+;
+8494 new <c 46>{@áśva-búdhya@}</c>,¦ a., {%durch Rosse bemerkenswerth%} oder {%ausgezeichnet%} [budhya].
+;---------------------------------------------------
+; <L>1305<pc>0145<k1>as<k2>as<h>1
+8840 old <div n="P1">-sa [3. <ab>s.</ab>] 1) {955,2}. — 3) ṛté {398,2}; sumnéṣu <lbinfo n="2"/> {407,1}. — 5) {331,4}; {352,3}; {488,2}; {602,4}; {857,7}; {907,4}; {909,2}; {946,1}; {950,6}. — {@pári@} 3) {548,10}.
+;
+8840 new <div n="P1">-sa [<c 47>3. <ab>s.</ab></c>] 1) {955,2}. — 3) ṛté {398,2}; sumnéṣu <lbinfo n="2"/> {407,1}. — 5) {331,4}; {352,3}; {488,2}; {602,4}; {857,7}; {907,4}; {909,2}; {946,1}; {950,6}. — {@pári@} 3) {548,10}.
+;---------------------------------------------------
+; <L>1338<pc>0155<k1>asira<k2>a/sira
+9096 old <div n="P1">-ena sū́riasya {788,4}.
+;
+9096 new <div n="P1"><c 48>-ena</c> sū́riasya {788,4}.
+;---------------------------------------------------
+; <L>1348<pc>0156<k1>asurya<k2>asury/a
+9178 old <div n="P1">-āni catvā́ri nā́ma {880,4}.
+;
+9178 new <div n="P1"><c 49>-āni</c> catvā́ri nā́ma {880,4}.
+;---------------------------------------------------
+; <L>1349<pc>0156<k1>asurya<k2>asury/a
+9190 old <div n="P1">-ā́ni 1) {338,2}.
+;
+9190 new <div n="P1"><c 49>-ā́ni</c> 1) {338,2}.
+;---------------------------------------------------
+; <L>1349<pc>0156<k1>asurya<k2>asury/a
+9191 old <div n="P1">-ā́ 1) síndhūnaam {612,1} (-ýām zu lesen?).
+;
+9191 new <div n="P1">-ā́ 1) <c 51>síndhūnaam</c> {612,1} (-ýām zu lesen?).
+;---------------------------------------------------
+; <L>1376<pc>0159<k1>aspandamAna<k2>a/-spandamAna
+9344 old {@á-spandamāna,@}¦ a., {%nicht wankend, nicht zuckend.%}
+;
+9344 new <c 52>{@á-spandamāna,@}</c>¦ a., {%nicht wankend, <c 53>nicht zuckend</c>.%}
+;---------------------------------------------------
+; <L>1424<pc>0167<k1>ahiSuzmasatvan<k2>ahiSuzma-sa/tvan
+9696 old {@ahiśuṣma-sátvan,@}¦ a., {%dessen Helden%} [sátvan] {%wie Schlangen glänzen,%} von dem Marutumgebenen <lbinfo n="9"/> Indra.
+;
+9696 new {@ahiśuṣma-sátvan,@}¦ a., {%dessen Helden%} [sátvan] {%wie Schlangen <c 54>glänzen</c>,%} von dem Marutumgebenen <lbinfo n="9"/> Indra.
+;---------------------------------------------------
+; <L>1438<pc>0168<k1>ahyarzu<k2>ahy-a/rzu
+9776 old {@ahy-árṣu,@}¦ a., {%wie eine Schlange%} [ahi] {%dahinschiessend%} <lbinfo n="12"/> [arṣu].
+;
+9776 new {@ahy-árṣu,@}¦ a., <c 55>{%wie eine Schlange%} [ahi] {%dahinschiessend%}</c> <lbinfo n="12"/> [arṣu].
+;---------------------------------------------------
+; <L>1444<pc>0168<k1>A<k2>A/
+9828 old <div n="P">Hervorhebende Partikel 1) nach Wörtern der Zahl oder des Grades, um auszudrücken, dass diese Zahl oder dieser Grad ganz erreicht <lbinfo n="6"/> sei: trís {20,7}; besonders in der Formel trís ā́ divás, je dreimal des Tages {142,3}; {288,11}; {290,5—8}; víśvam {38,10}; {402,2}; {780,9}; ásāmi {848,3}; ubháyāsas {517,20}; ī́vat {666,21}; várṣiṣṭhas {37,6}; pániṣṭhas {500,2}; sadyás {122,14}; múhur {195,5}; {536,2}; 2) so nach <ab>Adj.</ab> oder <ab>Adv.</ab>, die einer Steigerung fähig sind, um einen recht hohen Grad zu bezeichnen, {%recht:%} mandānā́s cid {610,11}; máhi {265,14}; tṛpát {266,2}; manuṣvát {105,13. 14}; ähnlich wol beim <ab>Infin.</ab> dāváne {122,5} und bei smát {887,8}; 3) bei <ab>Subst.</ab> und <ab>Adj.</ab> in dem Sinne: sich recht als solchen zeigend, {%recht als, recht wie:%} durévas {457,31}; devás {307,6}; {631,1}; jārás {134,3}; {837,6}; aryás {486,33}; {703,3}; {773,11}; {1017,1}; sómas {278,1}; dhartā́ram {738,2}; so auch jātás … harmiéṣu {872,3}; śriyeś … {806,4}; 4) hinter Verben: {361,7} dā́tā ná dā́ti ā́ paśús.
+;
+9828 new <div n="P">Hervorhebende Partikel 1) nach Wörtern der Zahl oder des Grades, um auszudrücken, dass diese Zahl oder dieser Grad ganz erreicht <lbinfo n="6"/> sei: trís {20,7}; besonders in der Formel trís ā́ divás, je dreimal des Tages {142,3}; {288,11}; {290,5—8}; víśvam {38,10}; {402,2}; {780,9}; ásāmi {848,3}; ubháyāsas {517,20}; ī́vat {666,21}; várṣiṣṭhas {37,6}; pániṣṭhas {500,2}; sadyás {122,14}; múhur {195,5}; {536,2}; 2) so nach <ab>Adj.</ab> oder <ab>Adv.</ab>, die einer Steigerung fähig sind, um einen recht hohen Grad zu bezeichnen, {%recht:%} <c 56>mandānā́s</c> cid {610,11}; máhi {265,14}; tṛpát {266,2}; manuṣvát {105,13. 14}; ähnlich wol beim <ab>Infin.</ab> dāváne {122,5} und bei smát {887,8}; 3) bei <ab>Subst.</ab> und <ab>Adj.</ab> in dem Sinne: sich recht als solchen zeigend, {%recht als, recht wie:%} durévas {457,31}; devás {307,6}; {631,1}; jārás {134,3}; {837,6}; aryás {486,33}; {703,3}; {773,11}; {1017,1}; sómas {278,1}; dhartā́ram {738,2}; so auch jātás … harmiéṣu {872,3}; śriyeś … {806,4}; 4) hinter Verben: {361,7} dā́tā ná dā́ti ā́ paśús.
+;---------------------------------------------------
+; <L>1608<pc>0185<k1>Arya<k2>A/rya<h>1
+10829 old <div n="P1">-ena {202,19}.
+;
+10829 new <div n="P1"><c 57>-ena</c> {202,19}.
+;---------------------------------------------------
+; <L>1619<pc>0186<k1>Avizwya<k2>A/vizwya
+10894 old ({@ā́viṣṭya@})¦, {@ā́víṣṭia,@} a., {%offenkundig, offenbar%} [von āvis].
+;
+10894 new <c 58>({@ā́viṣṭya@})</c>¦, {@ā́víṣṭia,@} a., {%offenkundig, offenbar%} [von āvis].
+;---------------------------------------------------
+; <L>1675<pc>0192<k1>i<k2>i
+11337 old <div n="H">{@j:@}
+;
+11337 new <div n="H"><c 59>{@j:@}</c>
+;---------------------------------------------------
+; <L>1675<pc>0192<k1>i<k2>i
+11474 old <div n="P1">-ate passivisch 5) vásūnām <lbinfo n="3"/> {548,4}. — 7) {145,1}; {777,16}. — 8) rayís {462,1}.
+;
+11474 new <div n="P1">-ate passivisch 5) vásūnām <lbinfo n="3"/> <c 60>{548,4}</c>. — 7) {145,1}; {777,16}. — 8) rayís {462,1}.
+;---------------------------------------------------
+; <L>1701<pc>0210<k1>iD<k2>iD, inD
+11745 old <div n="P1">-dhire sám {263,15}; {362,1},7; {365,2}; {944,9}; {976,4}.
+;
+11745 new <div n="P1">-dhire sám {263,15}; {362,1},<c 61>7</c>; {365,2}; {944,9}; {976,4}.
+;---------------------------------------------------
+; <L>1708<pc>0213<k1>indra<k2>i/ndra
+11839 old <div n="P1">-as [<ab>N.</ab>] {5,8}; {7,2. 3. 9}; {8,5}; {10,2. 6}; {11,4}; {16,8}; {18,4}; {30,16}; {32,5. 9. 13. 15}; {33,10—13;} {40,5}; {51,9. 11. 14}; {52,2. 5}; {54,10}; {55,2}; {61,9. 10. 15}; {80,5. 6. 10}; {81,1. 6}; {83,6}; {84,7—9. 13}; {85,9}; {90,4. 9}; {100,1—15. 19}; {101,2. 4}; {102,6. 9}; {107,2. 3}; {110,7}; {125,2}; {130,3. 4. 8}; {132,2. 3}; {133,7}
+;
+11839 new <div n="P1">-as [<ab>N.</ab>] <c 62>{5,8}</c>; {7,2. 3. 9}; {8,5}; {10,2. 6}; {11,4}; {16,8}; {18,4}; {30,16}; {32,5. 9. 13. 15}; {33,10—13;} {40,5}; {51,9. 11. 14}; {52,2. 5}; {54,10}; {55,2}; {61,9. 10. 15}; {80,5. 6. 10}; {81,1. 6}; {83,6}; {84,7—9. 13}; {85,9}; {90,4. 9}; {100,1—15. 19}; {101,2. 4}; {102,6. 9}; {107,2. 3}; {110,7}; {125,2}; {130,3. 4. 8}; {132,2. 3}; {133,7}
+;---------------------------------------------------
+; <L>1708<pc>0213<k1>indra<k2>i/ndra
+11841 old <div n="P1">-am {4,4}; {5,1. 2}; {6,10}; {7,1. 5. 10}; {9,9}; {11,1. 8}; {16,2. 3}; {23,7}; {30,1. 7}; {32,7}; {33,1. 2}; {51,1. 2}; {52,1. 3. 4. 9}; {54,2}; {55,1}; {56,4}; {80,12. 15}; {84,2. 17}; {87,5}; {101,6. 7}; {102,1}; {104,2}; {106,1. 5}; {111,4}; {119,10}; {131,1. 2}; {136,6}; {142,4}; {176,1}; {194,3}; {205,3. 4. 10. 11}; {207,1. 7}; {213,1}; {264,22}; {266,7. 13. 14}. 15
+;
+11841 new <div n="P1">-am {4,4}; {5,1. 2}; {6,10}; {7,1. 5. 10}; {9,9}; {11,1. 8}; {16,2. 3}; {23,7}; {30,1. 7}; {32,7}; {33,1. 2}; {51,1. 2}; {52,1. 3. 4. 9}; {54,2}; {55,1}; {56,4}; {80,12. 15}; {84,2. 17}; {87,5}; {101,6. 7}; {102,1}; {104,2}; <c 63>{106,1. 5}</c>; {111,4}; {119,10}; {131,1. 2}; {136,6}; {142,4}; {176,1}; {194,3}; {205,3. 4. 10. 11}; {207,1. 7}; {213,1}; {264,22}; {266,7. 13. 14}. 15
+;---------------------------------------------------
+; <L>1726<pc>0215<k1>indravAyu<k2>i/ndra-vAyu/
+11961 old {@índra-vāyú,@}¦ <ab>m.</ab>, {%Indra und Vayu.%}
+;
+11961 new {@<c 63>índra-</c>vāyú,@}¦ <ab>m.</ab>, {%Indra und Vayu.%}
+;---------------------------------------------------
+; <L>1735<pc>0216<k1>indrAgni<k2>indrAgni/, indrAagni/
+12010 old <div n="P1">-ī [V.] {21,5. 6}; {108,1—5. 7—13}; {109,1. 2. 4—8}; {246,1. 2. 5—9}; {381,6}; {500,1. 4. 7. 10}; {501,8. 9}; {610,1. 3}; {658,1. 9}; {987,1}.
+;
+12010 new <div n="P1">-ī [V.] {21,5. 6}; {108,1—5. 7—13}; {109,1. 2. 4—8}; {246,1. 2. 5—9}; {381,6}; {500,1. 4. 7. 10}; {501,8. 9}; {610,1. 3}; <c 63>{658,1. 9}</c>; {987,1}.
+;---------------------------------------------------
+; <L>1735<pc>0216<k1>indrAgni<k2>indrAgni/, indrAagni/
+12015 old <div n="P1">-ī [V.] {440,1}; {500,2. 5. 6. 8. 9}; {501,7}; {501,13} (durch Cäsur getrennt); <lbinfo n="8"/> {609,1. 3. 4}; {660,1}.
+;
+12015 new <div n="P1">-ī [V.] {440,1}; {500,2. 5. 6. 8. 9}; {501,7}; {501,13} (durch Cäsur getrennt); <lbinfo n="8"/> <c 66>{609,1. 3. 4}</c>; {660,1}.
+;---------------------------------------------------
+; <L>1780<pc>0226<k1>izaRay<k2>izaRay
+12450 old {@iṣaṇay,@}¦ {%zur Eile antreiben,%} in Bewegung setzen, {%anregen%} [von iṣáni].
+;
+12450 new <c 67>{@iṣaṇay,@}</c>¦ {%zur Eile antreiben,%} in Bewegung setzen, {%anregen%} [von iṣáni].
+;---------------------------------------------------
+; <L>1829<pc>0231<k1>Im<k2>Im
+12814 old <div n="P">2) {%ihn, sie, es%} in gleichem Sinne, aber so, dass noch ein anderer <ab>Acc.</ab>, der als Apposition zu fassen und im Deutschen meist durch „als” einzuleiten ist, folgt. Selten folgt derselbe unmittelbar auf īm, wie 4,7: ā́‿īm āśúm āśáve bhara, bring' ihn (den Soma) her, den schnellen dem schnellen (Indra); {206,5}; {388,8}; {688,6}; gewöhnlich folgt er erst im folgenden (durch den Einschnitt getrennten) Versgliede {51,2} (nach abhí); {158,5} (nach yád); {205,10}; {226,13}; {313,4}; {355,3} (nach yád); {361,5}; {391,3}; {444,6}; {783,6}; {604,1}; {653,7}; {388,7} (nach sám); {464,9}; {576,3}; 305,1(?), oder in der folgenden Verszeile: {67,7}; 141,3c; {148,1} (nach yád); {213,1}; {383,2} (ánu yád …); {386,5} (yád …); {392,2} (yád); {388,2} (yád); {706,11}; {686,2} (ā́t); {774,2}. 3 (ā́t); {746,5} (abhí); {837,3} (yád); 706,11a (sám); {793,1} (yád).
+;
+12814 new <div n="P">2) {%ihn, sie, es%} in gleichem Sinne, aber so, dass noch ein anderer <ab>Acc.</ab>, der als Apposition zu fassen und im Deutschen meist durch „als” einzuleiten ist, folgt. Selten folgt derselbe unmittelbar auf īm, wie 4,7: ā́‿īm āśúm āśáve bhara, bring' ihn (den Soma) her, den schnellen dem schnellen (Indra); {206,5}; {388,8}; {688,6}; gewöhnlich folgt er erst im folgenden (durch den Einschnitt getrennten) Versgliede {51,2} (nach abhí); {158,5} (nach yád); {205,10}; {226,13}; {313,4}; {355,3} (nach yád); {361,5}; {391,3}; {444,6}; {783,6}; {604,1}; {653,7}; {388,7} (nach sám); {464,9}; {576,3}; 305,1(?), oder in der folgenden Verszeile: {67,7}; 141,3c; {148,1} (nach yád); {213,1}; {383,2} (ánu yád …); {386,5} (yád …); {392,2} (yád); {388,2} (yád); {706,11}; {686,2} (ā́t); <c 68>{774,2}</c>. 3 (ā́t); {746,5} (abhí); {837,3} (yád); 706,11a (sám); {793,1} (yád).
+;---------------------------------------------------
+; <L>1852<pc>0243<k1>ukTArka<k2>ukTArka/
+13106 old <div n="P1">-ā [<ab>pl.</ab>] {475,1}.
+;
+13106 new <div n="P1"><c 69>-ā</c> [<ab>pl.</ab>] {475,1}.
+;---------------------------------------------------
+; <L>1884<pc>0250<k1>uttarAttAt<k2>uttarA/ttAt
+13403 old {@uttarā́ttāt,@}¦ aus uttarā́t und dem <ab>Abl.</ab> tāt [von tá] zusammengesetzt, {%von Norden her,%} Gegensatz <lbinfo n="4"/> adharā́t (adharā́ttāt), paścā́tāt, prā́k (purástāt) {853,15}; {862,14}.
+;
+13403 new {@uttarā́ttāt,@}¦ aus uttarā́t und dem <ab>Abl.</ab> <c 70>tāt</c> [von tá] zusammengesetzt, {%von Norden her,%} Gegensatz <lbinfo n="4"/> adharā́t (adharā́ttāt), paścā́tāt, prā́k (purástāt) {853,15}; {862,14}.
+;---------------------------------------------------
+; <L>1899<pc>0252<k1>udan<k2>uda/n
+13513 old <div n="P1">-nás [<ab>G.</ab>] kṣódasā {112,12}; phaligám {652,25}; hradám {928,4}; (váram) <lbinfo n="4"/> {581,4}; in {639,14} ist wol udnā́ zu lesen.
+;
+13513 new <div n="P1">-nás [<ab>G.</ab>] kṣódasā {112,12}; phaligám {652,25}; hradám {928,4}; (<c 71>váram</c>) <lbinfo n="4"/> {581,4}; in {639,14} ist wol udnā́ zu lesen.
+;---------------------------------------------------
+; <L>1944<pc>0255<k1>upaprakze<k2>upaprakze/
+13759 old {@upaprakṣé@}¦ <ab>s.</ab> pṛc mit úpa.
+;
+13759 new {@upaprakṣé@}¦ <ab>s.</ab> <c 72>pṛc</c> mit úpa.
+;---------------------------------------------------
+; <L>1950<pc>0255<k1>upama<k2>upama/
+13791 old <div n="P1">-am [<ab>m.</ab>] 1) ketúm {546,3}. — 2) āṅgūṣám {61,3}; arkám {555,7}; {578,3}; tvā maghónaam {1022,1}.
+;
+13791 new <div n="P1"><c 73>-am</c> [<ab>m.</ab>] 1) ketúm {546,3}. — 2) āṅgūṣám {61,3}; arkám {555,7}; {578,3}; tvā maghónaam {1022,1}.
+;---------------------------------------------------
+; <L>2025<pc>0262<k1>uru<k2>uru/
+14276 old <div n="P1">-úbhis 7) cáṃsais {833,1}.
+;
+14276 new <div n="P1">-úbhis 7) <c 74>cáṃsais</c> {833,1}.
+;---------------------------------------------------
+; <L>2068<pc>0266<k1>ulbaRa<k2>ulbaRa/
+14557 old ({@ulbaṇá@})¦, a., {%dick, klumpig, wulstig;%} es steht wol mit dem vorigen in Zusammenhang; enthalten <lbinfo n="6"/> ist es in an-ulbaṇá.
+;
+14557 new (<c 75>{@ulbaṇá@}</c>)¦, a., {%dick, klumpig, wulstig;%} es steht wol mit dem vorigen in Zusammenhang; enthalten <lbinfo n="6"/> ist es in <c 76>an-ulbaṇá</c>.
+;---------------------------------------------------
+; <L>2075<pc>0267<k1>uz<k2>uz<h>1
+14611 old <div n="P1">-án [<ab>Imperf.</ab> von <ab>Augm.</ab>] abhí gā́s ádrim (?) {809,39}.
+;
+14611 new <div n="P1">-án [<ab>Imperf.</ab> <c 77>von</c> <ab>Augm.</ab>] abhí gā́s ádrim (?) {809,39}.
+;---------------------------------------------------
+; <L>2144<pc>0278<k1>fGAy<k2>fGAy
+15138 old <div n="P1">-atás [<ab>G.</ab>] (bráhmaṇas pátes) {216,3}; índrasya {939,6}; (dadhikrā́vṇas) {334,8}.
+;
+15138 new <div n="P1">-atás [<ab>G.</ab>] (<c 78>bráhmaṇas pátes</c>) {216,3}; índrasya {939,6}; (dadhikrā́vṇas) {334,8}.
+;---------------------------------------------------
+; <L>2156<pc>0279<k1>fjIka<k2>fjIka/
+15222 old ({@ṛjīká@})¦, a., ursprünglich „strahlend, glänzend, bunt”, von arj (strahlen); dann aber „vermischt”, <lbinfo n="8"/> enthalten in āvírṛjīka (das Somagemisch <lbinfo n="7"/> vor Augen habend), góṛjīka (mit Milch vermischt), bhā́(s)ṛjīka (Licht strahlend), und zu Grunde liegend in ārjiká (Gefäss für die Somamischung).
+;
+15222 new ({@ṛjīká@})¦, a., ursprünglich „strahlend, glänzend, bunt”, von arj (strahlen); dann aber „vermischt”, <lbinfo n="8"/> enthalten in āvírṛjīka (das Somagemisch <lbinfo n="7"/> vor Augen habend), góṛjīka (mit Milch vermischt), bhā́(s)ṛjīka (Licht strahlend), und zu Grunde liegend in <c 79>ārjiká</c> (Gefäss für die Somamischung).
+;---------------------------------------------------
+; <L>2214<pc>0286<k1>ftAvan<k2>ftA/van
+15633 old 6; {379,1}; {453,1}; {456,13}; {519,1}; {523,4}; {684,2}; {828,2}; {832,2}; {833,4}; (índras) {287,8}; tváṣṭā {288,12}; (dadhikrā́s) <lbinfo n="6"/> {334,7}; putrás ádites {338,4}; bṛ́haspátis <lbinfo n="6"/> {514,1}; vā́tas {994,3}; sómas {808,13}; {809,48}; {822,11}. — 2) janas {122,9}; {509,5}; vípras {577,2}.
+;
+15633 new 6; {379,1}; {453,1}; {456,13}; {519,1}; {523,4}; <c 80>{684,2}</c>; {828,2}; {832,2}; {833,4}; (índras) {287,8}; tváṣṭā {288,12}; (dadhikrā́s) <lbinfo n="6"/> {334,7}; putrás ádites {338,4}; bṛ́haspátis <lbinfo n="6"/> {514,1}; vā́tas {994,3}; sómas {808,13}; {809,48}; {822,11}. — 2) janas {122,9}; {509,5}; vípras {577,2}.
+;---------------------------------------------------
+; <L>2233<pc>0289<k1>fdUpA<k2>fdU-pA/
+15772 old <div n="P1">-e [d.] {686,11}.
+;
+15772 new <div n="P1"><c 81>-e</c> [d.] {686,11}.
+;---------------------------------------------------
+; <L>2242<pc>0291<k1>fBukzA<k2>fBukzA/, fBukza/n
+15853 old {@ṛbhukṣā́, ṛbhukṣán,@}¦ a., <ab>m.</ab>, die {%Ribhu's%} [ṛbhú] {%beherrschend%} [von kṣā = kṣi], {%Beherrscher der Ribhu's.%} So werden 1) Indra, Vata, die Marut's genannt; 2) der erste der drei Ribhu's = ṛbhú 6; auch werden 3) neben ihm die beiden andern (vā́ja víbhvān) oder einer derselben <lbinfo n="6"/> (vā́ja) genannt [<ab>s.</ab> ṛbhú 6]; 4) alle drei Ribhu's [<ab>s.</ab> ṛbhú 5]; 5) ṛbhukṣā́s vā́jas, ṛbhukṣās vājās oder ṛbhukṣanas vājās zu einem Begriffe verbunden [<ab>s.</ab> ṛbhú 7]; 6) in {702,3}, wo es zu rayím als Beiwort steht, ist [nach <ab>BR.</ab>] wahrscheinlich ṛbhukṣáṇas statt ṛbhukṣáṇam zu lesen.
+;
+15853 new {@ṛbhukṣā́, ṛbhukṣán,@}¦ a., <ab>m.</ab>, die {%Ribhu's%} [ṛbhú] {%beherrschend%} [von kṣā = kṣi], {%Beherrscher der Ribhu's.%} So werden 1) Indra, Vata, die Marut's genannt; 2) der erste der drei Ribhu's = ṛbhú 6; auch werden 3) neben ihm die beiden andern (vā́ja víbhvān) oder einer derselben <lbinfo n="6"/> (vā́ja) genannt [<ab>s.</ab> ṛbhú 6]; 4) alle drei Ribhu's [<ab>s.</ab> ṛbhú 5]; 5) ṛbhukṣā́s vā́jas, ṛbhukṣās vājās oder ṛbhukṣanas vājās zu einem Begriffe verbunden [<ab>s.</ab> ṛbhú 7]; 6) in <c 82>{702,3}</c>, wo es zu rayím als Beiwort steht, ist [nach <ab>BR.</ab>] wahrscheinlich ṛbhukṣáṇas statt ṛbhukṣáṇam zu lesen.
+;---------------------------------------------------
+; <L>2298<pc>0299<k1>etaSa<k2>e/taSa
+16257 old <div n="P1">-ebhis 3) {578,2} (evaís); {863,3} (pataraís); {875,7} (parallel āśúbhis).
+;
+16257 new <div n="P1"><c 83>-ebhis</c> 3) {578,2} (evaís); {863,3} (pataraís); {875,7} (parallel āśúbhis).
+;---------------------------------------------------
+; <L>2645<pc>0332<k1>kf<k2>kf
+18526 old <div n="P1">-ase [3. <ab>s.</ab> <ab>med.</ab>] 5) nṝ́n dyumnám {855,4}.
+;
+18526 new <div n="P1">-ase [<c 84>3.</c> <ab>s.</ab> <ab>med.</ab>] 5) nṝ́n dyumnám {855,4}.
+;---------------------------------------------------
+; <L>2645<pc>0332<k1>kf<k2>kf
+18535 old <div n="P1">-as [<ab>Impf.</ab>] 18) divé várivas {459,15}. — 23) nas sūnṛ́tāvatas {82,1}.
+;
+18535 new <div n="P1">-as [<ab>Impf.</ab>] 18) divé várivas <c 85>{459,15}</c>. — 23) nas sūnṛ́tāvatas {82,1}.
+;---------------------------------------------------
+; <L>2645<pc>0332<k1>kf<k2>kf
+18593 old <div n="P1">-avanta 23) medhā́ ūrdhvā́ {88,3}.
+;
+18593 new <div n="P1"><c 86>-avanta</c> 23) medhā́ ūrdhvā́ {88,3}.
+;---------------------------------------------------
+; <L>2647<pc>0343<k1>kfRvat<k2>kfRva/t
+18758 old <div n="P1">-ā 3) ápāṃsi {705,19}. — 18) uśaté lokám {313,17}; vīrā́ya lokám {464,3}; sudā́se lokám {536,2}. — 23) vīrám sárvavīram <lbinfo n="7"/> {464,4}. — {@íṣ@} 2) … víhrutam púnar {821,12}.
+;
+18758 new <div n="P1">-ā 3) ápāṃsi {705,19}. — 18) uśaté lokám {313,17}; vīrā́ya lokám {464,3}; sudā́se lokám {536,2}. — 23) vīrám sárvavīram <lbinfo n="7"/> {464,4}. — {@íṣ@} 2) … víhrutam púnar <c 87>{821,12}</c>.
+;---------------------------------------------------
+; <L>2691<pc>0349<k1>kfzRa<k2>kfzRa/
+19073 old <div n="P1">-ā́su (góṣu) {249,3}; páruṣṇīṣu <lbinfo n="7"/> {702,13}. — 2) {249,3}.
+;
+19073 new <div n="P1">-ā́su (góṣu) <c 88>{249,3}</c>; páruṣṇīṣu <lbinfo n="7"/> {702,13}. — 2) {249,3}.
+;---------------------------------------------------
+; <L>2742<pc>0357<k1>kram<k2>kram
+19479 old <div n="H">Stamm {@II. krama:@}
+;
+19479 new <div n="H">Stamm {@II. <c 89>krama:</c>@}
+;---------------------------------------------------
+; <L>2764<pc>0360<k1>kruDmin<k2>kruDmi/n
+19660 old {@krudhmín@}¦ oder {@krudhmí,@} a., {%zum Zorne reizbar%} <lbinfo n="5"/> [von krudh, vermittelt durch ein nicht nachweisbares krudhma, Zorn].
+;
+19660 new <c 90>{@krudhmín@}</c>¦ oder {@krudhmí,@} a., {%zum Zorne reizbar%} <lbinfo n="5"/> [von krudh, vermittelt durch ein nicht nachweisbares krudhma, Zorn].
+;---------------------------------------------------
+; <L>2764<pc>0360<k1>kruDmin<k2>kruDmi/n
+19661 old <div n="P1">-ī́ [<ab>n.</ab> <ab>pl.</ab>] mánāṃsi {572,8}.
+;
+19661 new <div n="P1"><c 91>-ī́</c> [<ab>n.</ab> <ab>pl.</ab>] mánāṃsi {572,8}.
+;---------------------------------------------------
+; <L>2794<pc>0365<k1>kzAman<k2>kzA/man
+19925 old <div n="P1">-ani [<ab>L.</ab>] {797,11}.
+;
+19925 new <div n="P1"><c 92>-ani</c> [<ab>L.</ab>] {797,11}.
+;---------------------------------------------------
+; <L>2795<pc>0365<k1>kzi<k2>kzi<h>1
+19967 old <div n="P1">-at [<ab>C.</ab>] sá (índras) {363,7} (erg. nas).
+;
+19967 new <div n="P1">-at [<ab>C.</ab>] sá (<c 93>índras</c>) {363,7} (erg. nas).
+;---------------------------------------------------
+; <L>2796<pc>0367<k1>kzi<k2>kzi<h>2
+19998 old <div n="P">enthalten in ákṣīyamāṇa.
+;
+19998 new <div n="P">enthalten in <c 3>ákṣīyamāṇa</c>.
+;---------------------------------------------------
+; <L>2835<pc>0371<k1>kzoRI<k2>kzoRI/
+20257 old <div n="P1">-ī́s [<ab>N.</ab> <ab>s.</ab>] {623,19}.
+;
+20257 new <div n="P1">-ī́s [<ab>N.</ab> <ab>s.</ab>] <c 94>{623,19}</c>.
+;---------------------------------------------------
+; <L>2848<pc>0372<k1>Kadira<k2>Kadira/
+20336 old <div n="P1">-ásya sā́ram {287,19}.
+;
+20336 new <div n="P1">-ásya sā́ram <c 95>{287,19}</c>.
+;---------------------------------------------------
+; <L>2862<pc>0373<k1>KAd<k2>KAd
+20414 old <div n="P">Mit {@ā́,@} {%essen, verzehren, vernichten;%} mit {@prá,@} {%verzehren%} (<ab>s.</ab> prakhādá); mit {@ava@} (vernichten) in avakādá, mit {@vi@} (<ab>dass.</ab>) in vikhādá.
+;
+20414 new <div n="P">Mit {@ā́,@} {%essen, verzehren, vernichten;%} mit {@prá,@} {%verzehren%} (<ab>s.</ab> prakhādá); mit {@ava@} (vernichten) in <c 96>avakādá</c>, mit {@vi@} (<ab>dass.</ab>) in vikhādá.
+;---------------------------------------------------
+; <L>2862<pc>0373<k1>KAd<k2>KAd
+20417 old <div n="P1">-tha [-thā] 1) vánā {64,7} (mṛgā́s iva hastínas).
+;
+20417 new <div n="P1"><c 97>-tha [-thā]</c> 1) vánā {64,7} (mṛgā́s iva hastínas).
+;---------------------------------------------------
+; <L>2906<pc>0385<k1>gamBIra<k2>gamBIra/
+20944 old <div n="P1">-ás 2) vṛsabhás (índras) {212,4}.
+;
+20944 new <div n="P1">-ás 2) <c 98>vṛsabhás</c> (índras) {212,4}.
+;---------------------------------------------------
+; <L>2926<pc>0388<k1>garBin<k2>garBi/n
+21087 old <div n="P1">-ínīṣu {263,2}.
+;
+21087 new <div n="P1"><c 99>-ínīṣu</c> {263,2}.
+;---------------------------------------------------
+; <L>2948<pc>0393<k1>gA<k2>gA<h>2
+21316 old <div n="P1">-anti 5) tvā {10,1}.
+;
+21316 new <div n="P1"><c 100>-anti</c> 5) tvā {10,1}.
+;---------------------------------------------------
+; <L>2973<pc>0397<k1>gir<k2>gir<h>1
+21549 old <div n="P1">-ás 1) von Agni: {35,10}; {189,6}; {358,9}; {370,5}; {457,10}; {524,5}; von Indra: {312,1. 21}; {313,18}; {458,1}; {459,14}; {473,2}; {477,4}; {480,5}; {491,6}; {702,10}; {964,4}; {973,5}; mit áṅgirobhis {62,5}; {206,8}; {312,8}; {937,4}; vom Soma: {809,49}; mit jamádagninā <lbinfo n="5"/> {774,24}. — 6) adbhís {887,26}; āṅgūṣébhis <lbinfo n="6"/> {325,1}; dhībhís {930,3}.
+;
+21549 new <div n="P1">-ás 1) von Agni: {35,10}; {189,6}; {358,9}; {370,5}; {457,10}; {524,5}; von Indra: {312,1. 21}; {313,18}; {458,1}; {459,14}; {473,2}; {477,4}; {480,5}; {491,6}; {702,10}; {964,4}; {973,5}; mit áṅgirobhis {62,5}; {206,8}; {312,8}; {937,4}; vom Soma: {809,49}; mit jamádagninā <lbinfo n="5"/> <c 101>{774,24}</c>. — 6) adbhís {887,26}; āṅgūṣébhis <lbinfo n="6"/> {325,1}; dhībhís {930,3}.
+;---------------------------------------------------
+; <L>3009<pc>0405<k1>gfRIzaRi<k2>gfRIza/Ri
+21880 old {@gṛṇīṣáṇi,@}¦ <ab>s.</ab> l. gir.
+;
+21880 new <c 102>{@gṛṇīṣáṇi,@}</c>¦ <ab>s.</ab> l. gir.
+;---------------------------------------------------
+; <L>3032<pc>0407<k1>go<k2>go/
+22054 old {482,1} {534,10}; {624,18}; {640,21}; {661,6}; {701,12}; {705,5}; {761,2}; {851,1}; {860,13}; {915,14}; {923,8}; {972,3}; {975,4}. — 3) {203,7}; {916,10}; {551,12} (árvantas). — 4) {25,16}; {32,11}; {90,8}; {92,4}; {95,6}; {135,8}; {153,4}; {164,7}; {186,7}; {270,5}; {287,14}; {290,2}; {319,9}; {337,8}; {384,10}; {401,4}; {469,1}. 4—6; {481,2}; {534,1}; {539,4}; {629,19}; {663,17}; {678,6}; {681,12}; {724,2}; {743,5}; {774,5}; {783,4}; {784,6}; {796,5}; {805,3}; {806,2}; {809,9. 34}; {811,3}; {853,8}; {934,5. 11}; {998,1}. — 5) {173,1}; {486,28}; {745,4}; {778,12}; {780,1}; {809,35}; {858,4}; {921,6}. — 6) bhū́riśṛṅgās <lbinfo n="6"/> {154,6}. — 7) {71,1}; {591,7}; {595,2}; {505,3} (rúśantas). — 8) {525,4}. — 10) aruṣī́s {92,1}. — 11) {187,11}. — 12) {736,2}; {738,2}; {744,5}; {809,22}. — 15) {668,5}; {508,11}.
+;
+22054 new {482,1} {534,10}; {624,18}; {640,21}; {661,6}; {701,12}; {705,5}; {761,2}; {851,1}; {860,13}; {915,14}; {923,8}; {972,3}; {975,4}. — 3) {203,7}; {916,10}; {551,12} (árvantas). — 4) {25,16}; {32,11}; {90,8}; {92,4}; {95,6}; {135,8}; {153,4}; {164,7}; {186,7}; {270,5}; {287,14}; {290,2}; {319,9}; {337,8}; {384,10}; {401,4}; {469,1}. <c 103>4—6</c>; {481,2}; {534,1}; {539,4}; {629,19}; {663,17}; {678,6}; {681,12}; {724,2}; {743,5}; {774,5}; {783,4}; {784,6}; {796,5}; {805,3}; {806,2}; {809,9. 34}; {811,3}; {853,8}; {934,5. 11}; {998,1}. — 5) {173,1}; {486,28}; {745,4}; {778,12}; {780,1}; {809,35}; {858,4}; {921,6}. — 6) bhū́riśṛṅgās <lbinfo n="6"/> {154,6}. — 7) {71,1}; {591,7}; {595,2}; {505,3} (rúśantas). — 8) {525,4}. — 10) aruṣī́s {92,1}. — 11) {187,11}. — 12) {736,2}; {738,2}; {744,5}; {809,22}. — 15) {668,5}; {508,11}.
+;---------------------------------------------------
+; <L>3103<pc>0416<k1>graB<k2>graB
+22564 old <div n="H"><ab>Aor.</ab> {@agrabh, agrabhīs, ágrabhī@} (betont {145,2}):
+;
+22564 new <div n="H"><c 104><ab>Aor.</ab></c> {@agrabh, agrabhīs, ágrabhī@} (betont {145,2}):
+;---------------------------------------------------
+; <L>3238<pc>0437<k1>camU<k2>camU/
+23595 old <div n="P1">-úos {28,9}; {164,33}; {314,3}; {498,2}; {748,1}; {783,1}; {784,5}; {798,47}; {808,20}; {809,2. 48}; {815,4}; {819,10}; {820,6}.
+;
+23595 new <div n="P1">-úos {28,9}; {164,33}; {314,3}; {498,2}; {748,1}; {783,1}; {784,5}; {798,47}; {808,20}; {809,2. 48}; {815,4}; {819,10}; <c 105>{820,6}</c>.
+;---------------------------------------------------
+; <L>3265<pc>0442<k1>carzaRIDft<k2>carzaRI-Df/t
+23861 old <div n="P1">-ṛ́thā [ergänze vájrena und <ab>vgl.</ab> in V. 4 vajrahasta] <lbinfo n="9"/> {699,5}.
+;
+23861 new <div n="P1"><c 106>-ṛ́thā</c> [ergänze vájrena und <ab>vgl.</ab> in V. 4 vajrahasta] <lbinfo n="9"/> {699,5}.
+;---------------------------------------------------
+; <L>3294<pc>0451<k1>citra<k2>citra/
+24257 old <div n="P1">-ás 1) rukmás {88,2}; vas (marútām) yā́mas {166,4}; {172,1}. — 2) von Agni: {66,6}; {489,9}; {199,4} (súar ná); {445,6} (sū́rias ná); {798,34} (sū́ras ná); {94,5} (praketás); {827,2} (śíśus); <lbinfo n="5"/> von Indra {327,1}; von der Sonne {131,1} (praketás); {519,6}; áśvas {263,6} (agnís). — 3) bhānús {926,12}. — 5) (vā́jas) {48,11}; vakṣáthas {941,1}.
+;
+24257 new <div n="P1">-ás 1) rukmás {88,2}; vas (marútām) yā́mas {166,4}; {172,1}. — 2) von Agni: {66,6}; {489,9}; {199,4} (súar ná); {445,6} (sū́rias ná); {798,34} (sū́ras ná); {94,5} (praketás); {827,2} (śíśus); <lbinfo n="5"/> von Indra {327,1}; von der Sonne <c 107>{131,1}</c> (praketás); {519,6}; áśvas {263,6} (agnís). — 3) bhānús {926,12}. — 5) (vā́jas) {48,11}; vakṣáthas {941,1}.
+;---------------------------------------------------
+; <L>3334<pc>0458<k1>coda<k2>coda/
+24558 old <div n="P1">-ás 1) (índras) {143,6}.
+;
+24558 new <div n="P1">-ás 1) (<c 108>índras</c>) {143,6}.
+;---------------------------------------------------
+; <L>3367<pc>0463<k1>Cubuka<k2>Cu/buka
+24827 old {@chúbuka,@}¦ <ab>n.</ab>, {%Keim.%}
+;
+24827 new {@chúbuka,@}¦ <ab>n.</ab>, <c 109>{%Keim.%}</c>
+;---------------------------------------------------
+; <L>3390<pc>0472<k1>jana<k2>ja/na
+25180 old <div n="P1">-as 1) {41,1}; {54,7}; {86,1}; {122,8. 9}; {136,5}; {182,3}; {388,7}; {536,6. 8}; {959,4}. — 2) {402,2}; {624,12}; {625,39}; {638,13}; {702,11} (ádhrigus). <lbinfo n="5"/> — 3) {747,6}. — 4) {852,2} (ayám); {858,4} (saptá dhātus); {967,4} (nas sárvas). — 5) {571,5. 6}. — 7) {819,10}. — 8) {477,2}; {667,6}. — 10) {443,3}. — 11) {883,5}; {889,17}. — 12) yás (índras) ná míthū jánas bhū́t {659,8}. — 13) {800,5} (<ab>s.</ab> o.).
+;
+25180 new <div n="P1">-as 1) {41,1}; {54,7}; {86,1}; {122,8. 9}; {136,5}; {182,3}; {388,7}; {536,6. 8}; {959,4}. — 2) {402,2}; {624,12}; {625,39}; {638,13}; {702,11} (ádhrigus). <lbinfo n="5"/> — 3) {747,6}. — 4) {852,2} (ayám); {858,4} (saptá dhātus); {967,4} (nas sárvas). — 5) {571,5. 6}. — 7) {819,10}. — 8) {477,2}; {667,6}. — 10) {443,3}. — 11) {883,5}; {889,17}. — 12) yás (índras) ná míthū jánas bhū́t <c 110>{659,8}</c>. — 13) {800,5} (<ab>s.</ab> o.).
+;---------------------------------------------------
+; <L>3468<pc>0482<k1>jAgarUka<k2>jAgarU/ka
+25741 old {@jāgarū́ka,@}¦ a., {%wachsam%} [von jar, <ab>Intens.</ab>].
+;
+25741 new {@jāgarū́ka,@}¦ a., {%wachsam%} [von <c 111>jar</c>, <ab>Intens.</ab>].
+;---------------------------------------------------
+; <L>3474<pc>0483<k1>jAtavedas<k2>jAta/-vedas
+25779 old {@jātá-vedas,@}¦ <ab>m.</ab>, {%der die Wesen%} [jātá] {%kennt%} [védas, Kenntniss], als Bezeichnung des Agni, so 456,13: víśvā veda jánimā jātávedās, „alle Wesen kennt der {%Wesenkenner”.%}
+;
+25779 new <c 112>{@jātá-vedas,@}</c>¦ <ab>m.</ab>, {%der die Wesen%} [jātá] {%kennt%} [védas, Kenntniss], als Bezeichnung des Agni, so 456,13: víśvā veda jánimā jātávedās, „alle Wesen kennt der {%Wesenkenner”.%}
+;---------------------------------------------------
+; <L>3500<pc>0486<k1>ji<k2>ji<h>1
+25993 old <div n="P1">-s [2. <ab>s.</ab>] {@sám@} 2) matī́s {784,5}.
+;
+25993 new <div n="P1">-s <c 113>[2. <ab>s.</ab></c>] {@sám@} 2) matī́s {784,5}.
+;---------------------------------------------------
+; <L>3500<pc>0486<k1>ji<k2>ji<h>1
+26018 old <div n="P1">-úṣas [<ab>A.</ab>] 1) asmā́n {17,7}; {689,6}.
+;
+26018 new <div n="P1"><c 114>-úṣas</c> [<ab>A.</ab>] 1) asmā́n {17,7}; {689,6}.
+;---------------------------------------------------
+; <L>3517<pc>0490<k1>jihvA<k2>jihvA/
+26160 old <div n="P1">-áyā [<ab>I.</ab>] 1) {402,5} (ṛñjate); <lbinfo n="6"/> {508,8}; {637,5} (gṛbhāyá mádhu); {681,3} (gṛbhṇánti sasám); <lbinfo n="5"/> {681,4} (dṛṣádam ā́‿avadhīt); {168,5} (hánuā‿iva, bildlich vom Blitze?). — 2) {500,6} (vā́vadat); {863,12} (yád vas cakṛmá … gurú); {879,11} (mánasā‿utá <lbinfo n="8"/> …). — 3) {46,10} (… ásitas); {140,2}; {501,10}; {830,4}; {872,8}; {805,2}. — 4) {380,1}; {532,9}; {681,18}. — 5) {14,8}; {269,9. 10}; {405,2}. — 7) {547,32}; {913,2}.
+;
+26160 new <div n="P1">-áyā [<ab>I.</ab>] 1) {402,5} (ṛñjate); <lbinfo n="6"/> {508,8}; {637,5} (gṛbhāyá mádhu); {681,3} (gṛbhṇánti sasám); <lbinfo n="5"/> {681,4} (dṛṣádam ā́‿avadhīt); {168,5} (hánuā‿iva, bildlich vom Blitze?). — 2) {500,6} (vā́vadat); {863,12} (yád vas cakṛmá … gurú); {879,11} (mánasā‿utá <lbinfo n="8"/> …). — 3) {46,10} (… ásitas); {140,2}; {501,10}; {830,4}; {872,8}; {805,2}. — 4) {380,1}; {532,9}; {681,18}. — 5) {14,8}; {269,9. 10}; {405,2}. — 7) <c 115>{547,32}</c>; {913,2}.
+;---------------------------------------------------
+; <L>3571<pc>0500<k1>jYA<k2>jYA
+26712 old <div n="P1">-am 3) {@ātmā́namte@} {163,6}.
+;
+26712 new <div n="P1"><c 116>-am</c> 3) {@ātmā́namte@} {163,6}.
+;---------------------------------------------------
+; <L>3582<pc>0502<k1>jyA<k2>jyA/, jiA/<h>2
+26814 old <div n="P1">-iā́yas [<ab>G.</ab>] {516,14} (hetím); <lbinfo n="5"/> {877,6} (kṣeptós).
+;
+26814 new <div n="P1"><c 117>-iā́yas</c> [<ab>G.</ab>] {516,14} (hetím); <lbinfo n="5"/> {877,6} (kṣeptós).
+;---------------------------------------------------
+; <L>3652<pc>0521<k1>tanti<k2>ta/nti
+27501 old {@tánti,@}¦ <ab>f.</ab>, {%Schnur, Seil%} [von 1. tan].
+;
+27501 new <c 118>{@tánti,@}</c>¦ <ab>f.</ab>, {%Schnur, Seil%} [von 1. tan].
+;---------------------------------------------------
+; <L>3652<pc>0521<k1>tanti<k2>ta/nti
+27502 old <div n="P1">-ayas vatsā́naam ná … {465,4}.
+;
+27502 new <div n="P1"><c 119>-ayas</c> vatsā́naam ná … {465,4}.
+;---------------------------------------------------
+; <L>3661<pc>0521<k1>tap<k2>tap
+27593 old <div n="P1">-as 1) (agnís) śocíṣā {711,16}. — 4) rakṣásas {669,19}.
+;
+27593 new <div n="P1"><c 120>-as</c> 1) (agnís) śocíṣā {711,16}. — 4) rakṣásas {669,19}.
+;---------------------------------------------------
+; <L>3685<pc>0525<k1>tar<k2>tar, tir, tur
+27799 old <div n="P1">-ás [<ab>C.</ab>] {@prá@} 2) yajñám {274,3}.
+;
+27799 new <div n="P1"><c 121>-ás</c> [<ab>C.</ab>] {@prá@} 2) yajñám {274,3}.
+;---------------------------------------------------
+; <L>3783<pc>0538<k1>tuj<k2>tuj
+28555 old <div n="P1">-ās váyam {235,16} surétasā śrávasā, uns ergiessend, <lbinfo n="9"/> wo vielleicht tugyámānās zu lesen ist.
+;
+28555 new <div n="P1">-ās váyam {235,16} surétasā śrávasā, uns ergiessend, <lbinfo n="9"/> wo vielleicht <c 122>tugyámānās</c> zu lesen ist.
+;---------------------------------------------------
+; <L>3840<pc>0545<k1>tuviSuzma<k2>tuvi-Su/zma
+28942 old {@tuvi-śúṣma,@}¦ a., {%grosse Kraft%} [śúṣma] {%besitzend, sehr kräftig.%}
+;
+28942 new <c 123>{@tuvi-śúṣma,@}</c>¦ a., {%grosse Kraft%} [śúṣma] {%besitzend, sehr kräftig.%}
+;---------------------------------------------------
+; <L>3862<pc>0546<k1>tUrti<k2>tUrti
+29081 old ({@tūrti@})¦, {%Anregung%} [von tur], in viśvá-tūrti.
+;
+29081 new ({@tūrti@})¦, <c 124>{%Anregung%}</c> [von tur], in viśvá-tūrti.
+;---------------------------------------------------
+; <L>3884<pc>0550<k1>tfz<k2>tfz
+29287 old <div n="H"><ab>Part.</ab> {@tṛ́syat@} [Stamm II.]:
+;
+29287 new <div n="H"><ab>Part.</ab> <c 125>{@tṛ́syat@}</c> [Stamm II.]:
+;---------------------------------------------------
+; <L>3885<pc>0550<k1>tfzu<k2>tf/zu/
+29305 old <div n="P1">-únā {303,11}.
+;
+29305 new <div n="P1"><c 126>-únā</c> {303,11}.
+;---------------------------------------------------
+; <L>3907<pc>0552<k1>tya<k2>tya/, tia/
+29462 old <div n="P1">-yásyās 1) {912,23} (<ab>s.</ab> o.).
+;
+29462 new <div n="P1"><c 127>-yásyās</c> 1) {912,23} (<ab>s.</ab> o.).
+;---------------------------------------------------
+; <L>4104<pc>0578<k1>dar<k2>dar, dir
+30883 old <div n="P1">-rṣ [2. <ab>s.</ab> Co.] {@ā́@} 2) priyám jánānām {664,4}; {@prá:@} sahásrā {467,5}.
+;
+30883 new <div n="P1"><c 128>-rṣ</c> [2. <ab>s.</ab> Co.] {@ā́@} 2) priyám jánānām <c 129>{664,4}</c>; {@prá:@} sahásrā {467,5}.
+;---------------------------------------------------
+; <L>4198<pc>0595<k1>dAru<k2>dAru/
+31762 old <div n="P1">-úm (índram) {522,1}.
+;
+31762 new <div n="P1">-úm (<c 130>índram</c>) {522,1}.
+;---------------------------------------------------
+; <L>4419<pc>0630<k1>deva<k2>deva/
+33593 old <div n="P1">-aas [V.] {985,1}; {1000,4}.
+;
+33593 new <div n="P1">-aas [V.] <c 132>{985,1}</c>; {1000,4}.
+;---------------------------------------------------
+; <L>4419<pc>0630<k1>deva<k2>deva/
+33598 old <div n="P1">-áān [<ab>N.</ab> <ab>p.</ab>] 2) {684,2}; {838,2}.
+;
+33598 new <div n="P1">-áān [<c 131><ab>N.</ab> <ab>p.</ab></c>] 2) {684,2}; {838,2}.
+;---------------------------------------------------
+; <L>4419<pc>0630<k1>deva<k2>deva/
+33610 old <div n="P1">-átāmaya {215,3}; devā́nām <lbinfo n="3"/> (bṛ́haspátaye).
+;
+33610 new <div n="P1"><c 133>-átāmaya</c> {215,3}; devā́nām <lbinfo n="3"/> (bṛ́haspátaye).
+;---------------------------------------------------
+; <L>4447<pc>0634<k1>devaputra<k2>deva/-putra
+33778 old <div n="P1">-e [<ab>du.</ab> <ab>f.</ab>] stets <ab>v.</ab> Himmel <lbinfo n="3"/> und Erde: (dyā́vāpṛthivī́) <lbinfo n="11"/> {159,1}; {569,1}; ródasī {185,4}; {485,7}; {837,9}; devī́ {106,3}; {352,2}.
+;
+33778 new <div n="P1">-e [<ab>du.</ab> <ab>f.</ab>] stets <ab>v.</ab> Himmel <lbinfo n="3"/> und Erde: (dyā́vāpṛthivī́) <lbinfo n="11"/> {159,1}; {569,1}; ródasī {185,4}; <c 134>{485,7}</c>; {837,9}; devī́ {106,3}; {352,2}.
+;---------------------------------------------------
+; <L>4504<pc>0640<k1>dozAvastf<k2>dozA-vastf
+34170 old {@doṣā-vastṛ,@}¦ <ab>m.</ab> {%Erheller%} [vastṛ], des Dunkels [dosā́].
+;
+34170 new {@doṣā-vastṛ,@}¦ <ab>m.</ab> {%Erheller%} <c 135>[vastṛ], des Dunkels</c> [dosā́].
+;---------------------------------------------------
+; <L>4564<pc>0647<k1>dru<k2>dru
+34620 old <div n="H">Aorist {@ádudrava@} in ádudro- zusammengezogen: <lbinfo n="8"/>
+;
+34620 new <div n="H"><c 136>Aorist {@ádudrava@}</c> in ádudro- zusammengezogen: <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>4664<pc>0660<k1>DA<k2>DA<h>1
+35561 old <div n="P1">-us 2) ihá suśríyam {237,5}. — 12) tué dhíyam <lbinfo n="3"/> {822,7}. — ā́ 1) tám (agním) candrám iva hvāré {193,4}; mā́m áhani íṣvās parṇám iva {844,14}. — 2) índre kā́mam ráthe ná pā́dam <lbinfo n="3"/> {548,2}. — 4) gárbham <lbinfo n="4"/> {795,3}. — 9) mahé yúvānam {721,5}. — {@ní@} 3) rājā́nam mártieṣu {356,6}. — {@ádhi ní@} śríyam asmin {72,10}; dyumnám asmin <lbinfo n="4"/> {73,4}. — {@pári@} 5) {433,5} (vástayos). — {@ví@} 3) {351,2} (vidhātā́ras). <lbinfo n="5"/> — {@sám@} 2) apás, kṣoṇī́, sū́riam, vájram
+;
+35561 new <div n="P1">-us 2) ihá suśríyam {237,5}. — 12) tué dhíyam <lbinfo n="3"/> {822,7}. — ā́ 1) tám (agním) candrám iva hvāré {193,4}; mā́m áhani íṣvās parṇám iva {844,14}. — 2) índre kā́mam ráthe ná pā́dam <lbinfo n="3"/> {548,2}. — 4) gárbham <lbinfo n="4"/> {795,3}. — 9) mahé yúvānam {721,5}. — {@ní@} 3) rājā́nam mártieṣu {356,6}. — {@ádhi ní@} śríyam asmin {72,10}; dyumnám asmin <lbinfo n="4"/> {73,4}. — {@pári@} 5) {433,5} (<c 137>vástayos</c>). — {@ví@} 3) {351,2} (vidhātā́ras). <lbinfo n="5"/> — {@sám@} 2) apás, kṣoṇī́, sū́riam, vájram
+;---------------------------------------------------
+; <L>4679<pc>0678<k1>DAmasac<k2>DAma-sa/c
+35780 old {@dhāma-sác,@}¦ stark {@dhāma-sā́c,@} a., {%zu seiner Stätte%} [dhā́man] {%gelangend.%}
+;
+35780 new <c 138>{@dhāma-sác,@}</c>¦ stark {@dhāma-sā́c,@} a., {%zu seiner Stätte%} [dhā́man] {%gelangend.%}
+;---------------------------------------------------
+; <L>4687<pc>0679<k1>DAravAka<k2>DAra-vAka/
+35824 old {@dhāra-vāká,@}¦ a., {%dessen Lieder%} oder {%Sprüche%} [vāká] {%wie Ströme%} [dhára = dhā́rā] {%sind,%} d. h. reichlich strömen.
+;
+35824 new {@dhāra-vāká,@}¦ a., {%dessen Lieder%} oder {%Sprüche%} [vāká] {%wie Ströme%} [<c 139>dhára</c> = dhā́rā] {%sind,%} d. h. reichlich strömen.
+;---------------------------------------------------
+; <L>4694<pc>0681<k1>DAsi<k2>DAsi/<h>2
+35920 old <div n="P1">-és [<ab>G.</ab>] 1) {122,13} (dáśatayasya); <lbinfo n="11"/> {291,1}; {241,1} (śitipṛṣṭásya); {241,3}.
+;
+35920 new <div n="P1">-és [<ab>G.</ab>] 1) {122,13} (dáśatayasya); <lbinfo n="11"/> {291,1}; {241,1} (<c 140>śitipṛṣṭásya</c>); {241,3}.
+;---------------------------------------------------
+; <L>4705<pc>0682<k1>DizaRA<k2>Diza/RA
+35984 old {@dhiṣáṇā,@}¦ <ab>f.</ab>, ursprünglich Feminin eines Adjektivs <lbinfo n="7"/> dhiṣána. Dies, so wie dhiṣā́, dhíṣṇia, führt auf das Desiderativ dídhiṣāmi (Bedeutung <lbinfo n="7"/> 1—5) von dhā zurück, welches hier aber, wie öfter (pits, rits, īps, rips, lips von pad, radh, āp, rabh, labh. <ab>Be.</ab> vollst. Gramm. . 194), die Reduplicationssilbe verloren hat. Als ganz entsprechendes Beispiel erscheint bhikṣaṇa, bhikṣā́ von dem <ab>Desid.</ab> der Wurzel bhaj. Die Bedeutungsentwickelung macht Schwierigkeit. Als Beiname des Brihaspati (in der spätern Sprache) bezeichnet es wol den, der (die Götter den Menschen) geneigt zu machen sucht (<ab>vgl.</ab> dídhiṣāmi 5, didhiṣú und didhiṣā́yia), ebenso als fem. das Loblied (stuti der indischen Ausleger) oder das Opfer, besonders das Somaopfer, als das, wodurch man die Götter sich geneigt zu machen sucht. Aus dieser letzteren Bedeutung scheint die der mit Soma gefüllten Schale, aus der die Götter trinken, hervorgegangen zu sein. Bildlich werden dann Himmel und Erde als die beiden Schalen aufgefasst. Aus der Bedeutung <lbinfo n="7"/> „verleihen wollen, gerne geben” (dídhiṣāmi 1) scheint die Benennung der Göttin dhiṣáṇā, sofern sie als Verleiherin des Reichthums aufgefasst wird, entsprungen zu sein. (Die spätere Bedeutung „Geist” beruht <lbinfo n="4"/> wol auf unrichtiger Auslegung von Vedastellen <lbinfo n="7"/> und auf falscher Anknüpfung an dhī́). Also 1) {%Darbringung des Lobliedes%} oder {%Somatrunkes,%} oder beides vereint: {%Loblied%} und {%Somatrunk;%} 2) die {%mit Soma gefüllte Schale,%} aus der die Götter trinken; 3) <ab>du.</ab> die beiden {%Schalen,%} Himmel und Erde; 4) <ab>pl.</ab> die drei {%Schalen%} d. h. die drei Welten (Himmel, <lbinfo n="4"/> Luft und Erde); 5) Göttin, die den Menschen Reichthum verleiht oder ihnen die Götter geneigt macht.
+;
+35984 new {@dhiṣáṇā,@}¦ <ab>f.</ab>, ursprünglich Feminin eines Adjektivs <lbinfo n="7"/> <c 141>dhiṣána</c>. Dies, so wie dhiṣā́, dhíṣṇia, führt auf das Desiderativ dídhiṣāmi (Bedeutung <lbinfo n="7"/> 1—5) von dhā zurück, welches hier aber, wie öfter (pits, rits, īps, rips, lips von pad, radh, āp, rabh, labh. <ab>Be.</ab> vollst. Gramm. . 194), die Reduplicationssilbe verloren hat. Als ganz entsprechendes Beispiel erscheint bhikṣaṇa, bhikṣā́ von dem <ab>Desid.</ab> der Wurzel bhaj. Die Bedeutungsentwickelung macht Schwierigkeit. Als Beiname des Brihaspati (in der spätern Sprache) bezeichnet es wol den, der (die Götter den Menschen) geneigt zu machen sucht (<ab>vgl.</ab> dídhiṣāmi 5, didhiṣú und didhiṣā́yia), ebenso als fem. das Loblied (stuti der indischen Ausleger) oder das Opfer, besonders das Somaopfer, als das, wodurch man die Götter sich geneigt zu machen sucht. Aus dieser letzteren Bedeutung scheint die der mit Soma gefüllten Schale, aus der die Götter trinken, hervorgegangen zu sein. Bildlich werden dann Himmel und Erde als die beiden Schalen aufgefasst. Aus der Bedeutung <lbinfo n="7"/> „verleihen wollen, gerne geben” (dídhiṣāmi 1) scheint die Benennung der Göttin dhiṣáṇā, sofern sie als Verleiherin des Reichthums aufgefasst wird, entsprungen zu sein. (Die spätere Bedeutung „Geist” beruht <lbinfo n="4"/> wol auf unrichtiger Auslegung von Vedastellen <lbinfo n="7"/> und auf falscher Anknüpfung an dhī́). Also 1) {%Darbringung des Lobliedes%} oder {%Somatrunkes,%} oder beides vereint: {%Loblied%} und {%Somatrunk;%} 2) die {%mit Soma gefüllte Schale,%} aus der die Götter trinken; 3) <ab>du.</ab> die beiden {%Schalen,%} Himmel und Erde; 4) <ab>pl.</ab> die drei {%Schalen%} d. h. die drei Welten (Himmel, <lbinfo n="4"/> Luft und Erde); 5) Göttin, die den Menschen Reichthum verleiht oder ihnen die Götter geneigt macht.
+;---------------------------------------------------
+; <L>4727<pc>0688<k1>DU<k2>DU
+36224 old <div n="P1">-ṣata [3. <ab>pl.</ab> <ab>me.</ab>] {@áva@} 1) priyā́ {82,2}.
+;
+36224 new <div n="P1">-ṣata [3. <ab>pl.</ab> <ab>me.</ab>] {@áva@} 1) <c 142>priyā́</c> {82,2}.
+;---------------------------------------------------
+; <L>4727<pc>0688<k1>DU<k2>DU
+36239 old <div n="P1">-as [<ab>m.</ab>, dávidhúat zu sprechen] 1) śṛ́ṅge {669,13}.
+;
+36239 new <div n="P1"><c 143>-as</c> [<ab>m.</ab>, dávidhúat zu sprechen] 1) śṛ́ṅge {669,13}.
+;---------------------------------------------------
+; <L>4962<pc>0729<k1>nitoSana<k2>nito/Sana
+38158 old <div n="P1">-āsas 1) vāyávas {608,4}.
+;
+38158 new <div n="P1">-āsas 1) <c 144>vāyávas</c> {608,4}.
+;---------------------------------------------------
+; <L>4979<pc>0730<k1>niDi<k2>niDi/
+38282 old <div n="P1">-ím 3) {397,8}; {585,3} (… mádhumantam pibāthas). <lbinfo n="8"/> — 3) {116,11}; {130,3}; {215,6}.
+;
+38282 new <div n="P1">-ím <c 145>3)</c> {397,8}; {585,3} (… mádhumantam pibāthas). <lbinfo n="8"/> — 3) {116,11}; {130,3}; {215,6}.
+;---------------------------------------------------
+; <L>5054<pc>0736<k1>nI<k2>nI
+38777 old <div n="P1">-at 9) sadhamā́s {534,7}. — 12) apás {498,4}. — {@ā́@} 1) asmā́n {653,16}; turváśam {486,1}.
+;
+38777 new <div n="P1">-at <c 146>9) sadhamā́s</c> {534,7}. — 12) apás {498,4}. — {@ā́@} 1) asmā́n {653,16}; turváśam {486,1}.
+;---------------------------------------------------
+; <L>5163<pc>0758<k1>pac<k2>pac
+39666 old {@pac@}¦ [<ab>Cu.</ab> 630, <ab>Ku.</ab> Zeitschr. {9,17}],1) {%am Feuer gar machen, kochen, braten%} jemandem [D.] etwas [<ab>A.</ab>]; 2) auch ohne ausdrücklich genanntes <lbinfo n="7"/> Objekt; 3) {%reifen lassen, zur Reife bringen%} [<ab>A.</ab>]; 4) <ab>me.</ab> {%kochen%} (intrans.); 5) <ab>me.</ab> {%sich%} etwas [<ab>A.</ab>] {%kochen%} oder {%braten.%} — Mit {@ví@} {%reifen%} in vípāka.
+;
+39666 new {@pac@}¦ [<ab>Cu.</ab> 630, <ab>Ku.</ab> Zeitschr. {9,17}],1) {%am Feuer gar machen, <c 148>kochen</c>, braten%} jemandem [D.] etwas [<ab>A.</ab>]; 2) auch ohne ausdrücklich genanntes <lbinfo n="7"/> Objekt; 3) {%reifen lassen, zur Reife bringen%} [<ab>A.</ab>]; 4) <ab>me.</ab> {%kochen%} (intrans.); 5) <ab>me.</ab> {%sich%} etwas [<ab>A.</ab>] {%kochen%} oder {%braten.%} — Mit {@ví@} {%reifen%} in vípāka.
+;---------------------------------------------------
+; <L>5219<pc>0767<k1>paTi<k2>paTi/
+40159 old <div n="P1">-ántās [<ab>N.</ab> <ab>s.</ab>] {41,4}; {105,16}; {190,6}; {218,6}; {288,21}; {314,1}; {911,11}; {933,1}; {934,6}. — 2) {46,11}; {136,2}.
+;
+40159 new <div n="P1"><c 149>-ántās</c> [<ab>N.</ab> <ab>s.</ab>] {41,4}; {105,16}; {190,6}; {218,6}; {288,21}; {314,1}; {911,11}; {933,1}; {934,6}. — 2) {46,11}; {136,2}.
+;---------------------------------------------------
+; <L>5225<pc>0769<k1>pad<k2>pad
+40249 old <div n="P1">-ave 3) mā́ mātáram amuyā́ … kar {314,1}.
+;
+40249 new <div n="P1">-ave <c 150>3)</c> mā́ mātáram amuyā́ … kar {314,1}.
+;---------------------------------------------------
+; <L>5404<pc>0798<k1>pA<k2>pA<h>1
+41613 old <div n="P1">-ātás {@ni@} 1) nas {351,3} (ubhé áhanī).
+;
+41613 new <div n="P1"><c 151>-ātás</c> {@ni@} 1) nas {351,3} (ubhé áhanī).
+;---------------------------------------------------
+; <L>5405<pc>0800<k1>pA<k2>pA<h>2
+41651 old <div n="P1">{@Mit antár@} {%hineinschlürfen%} <lbinfo n="5"/> in antah-péya.
+;
+41651 new <div n="P1">{@Mit antár@} {%hineinschlürfen%} <lbinfo n="5"/> in <c 152>antah</c>-péya.
+;---------------------------------------------------
+; <L>5438<pc>0806<k1>pAyu<k2>pAyu/
+41968 old {512,3}(ádabdhebhis); {554,3} (víśvehhis); {130,10} (śagmaís); {424,3}; {647,4} (áriṣṭebhis).
+;
+41968 new {512,3}(ádabdhebhis); {554,3} (<c 153>víśvehhis</c>); {130,10} (śagmaís); {424,3}; {647,4} (áriṣṭebhis).
+;---------------------------------------------------
+; <L>5441<pc>0807<k1>pAra<k2>pAra/
+41980 old {@pārá,@}¦ a., <ab>n.</ab> [<ab>v.</ab> paṛ],1) a., {%hinüberfahrend, hinüberführend,%} <lbinfo n="14"/> <ab>vgl.</ab> su-pārá; 2) <ab>n.</ab>, das {%jenseitige <lbinfo n="7"/> Ufer%} des Meeres oder Stromes, so auch bildlich; 3) die {%jenseitige Grenze%} des Luftraumes (rájasas), der Wolken (mihā́m), der Finsterniss (támasas); oder 4) der Noth oder Bedrängniss (áṃhasas, duritásya, viṣpitásya), <lbinfo n="7"/> wobei das Bild (des jenseitigen Ufers) oft durchgeführt erscheint; 5) <ab>n.</ab>, das {%äusserste%} (jenseitīge) {%Ende%} eines Weges; 6) {%Ende%} eines Werkes (ápasas); 7) dūré pāré in der Ferne an der {%äussersten Grenze.%}
+;
+41980 new {@pārá,@}¦ a., <ab>n.</ab> [<ab>v.</ab> <c 154>paṛ</c>],1) a., {%hinüberfahrend, hinüberführend,%} <lbinfo n="14"/> <ab>vgl.</ab> su-pārá; 2) <ab>n.</ab>, das {%jenseitige <lbinfo n="7"/> Ufer%} des Meeres oder Stromes, so auch bildlich; 3) die {%jenseitige Grenze%} des Luftraumes (rájasas), der Wolken (mihā́m), der Finsterniss (támasas); oder 4) der Noth oder Bedrängniss (áṃhasas, duritásya, viṣpitásya), <lbinfo n="7"/> wobei das Bild (des jenseitigen Ufers) oft durchgeführt erscheint; 5) <ab>n.</ab>, das {%äusserste%} (jenseitīge) {%Ende%} eines Weges; 6) {%Ende%} eines Werkes (ápasas); 7) dūré pāré in der Ferne an der {%äussersten Grenze.%}
+;---------------------------------------------------
+; <L>5547<pc>0823<k1>pur<k2>pur
+42805 old {@pur,@}¦ {%füllen,%} siehe 2. par.
+;
+42805 new {@pur,@}¦ {%füllen,%} siehe <c 155>2. par.</c>
+;---------------------------------------------------
+; <L>5681<pc>0838<k1>pU<k2>pU
+43748 old <div n="H"><ab>Aor.</ab> {@ápupu:@}
+;
+43748 new <div n="H"><c 156><ab>Aor.</ab></c> {@ápupu:@}
+;---------------------------------------------------
+; <L>5833.1<pc>0863<k1>pra<k2>prá
+44912 old vṛj, vṛt, vṛdh, vyadh, śaṃs, śak, śar, śardh, śās, śuc, śubh, śrī, 1. śru, sac, sad, san, sah, sādh, si, sidh, 1. sū, sūd, sṛ, sṛj, sṛp, stan, stu, stubh, sthā, snā, spaś, spṛdh, spur, syad, svan, han, hā, hi, hu, hū, hṛ. Bisweilen ist das Verb zu ergänzen {384,8} (ákṛthās); {582,5} (astu); {603,1} (rádat); {622,13} (syāt); {840,14} (yamat); bisweilen erscheint es verdoppelt prá-pra: {40,7} (asthita); {138,1} (śasyate); {489,1} (śaṃsiṣam); <lbinfo n="5"/> {524,4} (śṛṇve); {678,1} (vivāsati); {721,2} (arṣa). In Zusammensetzung mit Substantiven: <lbinfo n="4"/> kaṅkatá, kalā́, nápāt, padá.
+;
+44912 new vṛj, vṛt, vṛdh, vyadh, śaṃs, śak, śar, śardh, śās, śuc, śubh, śrī, 1. śru, sac, sad, san, sah, sādh, si, sidh, 1. sū, sūd, sṛ, sṛj, sṛp, stan, stu, stubh, sthā, snā, spaś, spṛdh, <c 157>spur</c>, syad, svan, han, hā, hi, hu, hū, hṛ. Bisweilen ist das Verb zu ergänzen {384,8} (ákṛthās); {582,5} (astu); {603,1} (rádat); {622,13} (syāt); {840,14} (yamat); bisweilen erscheint es verdoppelt prá-pra: {40,7} (asthita); {138,1} (śasyate); {489,1} (śaṃsiṣam); <lbinfo n="5"/> {524,4} (śṛṇve); {678,1} (vivāsati); {721,2} (arṣa). In Zusammensetzung mit Substantiven: <lbinfo n="4"/> kaṅkatá, kalā́, nápāt, padá.
+;---------------------------------------------------
+; <L>6089<pc>0893<k1>pruz<k2>pruz
+46618 old <div n="H">Stamm {@pruṣ:@}
+;
+46618 new <div n="H">Stamm <c 158>{@pruṣ:@}</c>
+;---------------------------------------------------
+; <L>6192<pc>0903<k1>bAQasftvan<k2>bAQa-sf/tvan
+47311 old <div n="P1">{@āná,@} <ab>m.</ab>, {%Pfeil,%} wol für vāṇá [<ab>s.</ab> d.] von vraṇa (<ab>lat.</ab> vuln-us) und dem daraus abgeleiteten Denominativ vraṇayāmi verwunden, also als der verwundende.
+;
+47311 new <div n="P1"><c 159>{@āná,@}</c> <ab>m.</ab>, {%Pfeil,%} wol für vāṇá [<ab>s.</ab> d.] von vraṇa (<ab>lat.</ab> vuln-us) und dem daraus abgeleiteten Denominativ vraṇayāmi verwunden, also als der verwundende.
+;---------------------------------------------------
+; <L>6293<pc>0923<k1>Baj<k2>Baj
+48191 old <div n="P1">-īré {@ví@} 1) te agne ánkam <lbinfo n="3"/> {517,9}.
+;
+48191 new <div n="P1">-īré {@ví@} 1) te agne <c 160>ánkam</c> <lbinfo n="3"/> {517,9}.
+;---------------------------------------------------
+; <L>6403<pc>0942<k1>BU<k2>BU
+49363 old <div n="P1">-áni {@abhí pra@} ījānám {958,1}.
+;
+49363 new <div n="P1"><c 161>-áni</c> {@abhí pra@} ījānám {958,1}.
+;---------------------------------------------------
+; <L>6412<pc>0952<k1>BUri<k2>BU/ri
+49449 old <div n="P1">-es [<ab>G.</ab>] 2) ī́śānas {61,15}; ī́śānam {652,14}; dātā́ram {224,2}; satas bhávatas ca {96,7} (gopā́m); <lbinfo n="6"/> tánayasya {221,5}; bhúvanasya {224,9}; {611,2}; rāyás {270,10}; duritásya {273,8}; vāmásya <lbinfo n="5"/> {454,2}; vasaviasya <lbinfo n="6"/> {501,1}; kṣáyasya <lbinfo n="3"/> {512,6}; amṛ́tasya {520,6}; saúbhagasya {537,8}; ánṛtasya {576,5}; yávasasya {609,2}; suvitásya {616,2}; dattásya <lbinfo n="5"/> {665,42}. — 4) váruṇasya <lbinfo n="7"/> {184,3}; {219,1}.
+;
+49449 new <div n="P1">-es [<ab>G.</ab>] 2) ī́śānas {61,15}; ī́śānam {652,14}; dātā́ram <c 162>{224,2}</c>; satas bhávatas ca {96,7} (gopā́m); <lbinfo n="6"/> tánayasya {221,5}; bhúvanasya {224,9}; {611,2}; rāyás {270,10}; duritásya {273,8}; vāmásya <lbinfo n="5"/> {454,2}; vasaviasya <lbinfo n="6"/> {501,1}; kṣáyasya <lbinfo n="3"/> {512,6}; amṛ́tasya {520,6}; saúbhagasya {537,8}; ánṛtasya {576,5}; yávasasya {609,2}; suvitásya {616,2}; dattásya <lbinfo n="5"/> {665,42}. — 4) váruṇasya <lbinfo n="7"/> {184,3}; {219,1}.
+;---------------------------------------------------
+; <L>6412<pc>0952<k1>BUri<k2>BU/ri
+49453 old <div n="P1">-i [<ab>pl.</ab>] 1) nā́ma {357,10}; {631,5}; āhávanāni {517,17}; {524,5}; ánnā {520,2}; sávanā {538,6}; ukthā́ni <lbinfo n="7"/> {572,23}; sthirā́ {639,20}; jyótīṃṣi {671,12}; vṛtrā́ {699,4}; vṛtrā́ṇi <lbinfo n="6"/> {709,2}; {909,7}; duritā́ {706,15}; tánayāni <lbinfo n="4"/> {803,6}; sakhiā́ni {939,9}; yudhéniāni {946,5}; pratimā́nāni {946,5}.
+;
+49453 new <div n="P1">-i [<ab>pl.</ab>] 1) nā́ma {357,10}; {631,5}; āhávanāni {517,17}; {524,5}; ánnā {520,2}; sávanā {538,6}; ukthā́ni <lbinfo n="7"/> {572,23}; sthirā́ {639,20}; jyótīṃṣi {671,12}; vṛtrā́ {699,4}; vṛtrā́ṇi <lbinfo n="6"/> {709,2}; {909,7}; duritā́ {706,15}; tánayāni <lbinfo n="4"/> {803,6}; sakhiā́ni {939,9}; yudhéniāni <c 163>{946,5}</c>; pratimā́nāni {946,5}.
+;---------------------------------------------------
+; <L>6437<pc>0955<k1>Bf<k2>Bf
+49706 old <div n="P1">-at 4) aśvínau {843,2} (saraṇyū́s). <lbinfo n="9"/> — 16) sómam <lbinfo n="3"/> {322,7} (śyenás). — 17) ándhas parāvátas <lbinfo n="5"/> {780,6} (śyenás). — 18) ebhyas śrávas {287,16}; asmai {784,3} (ánu jóṣam). — {@ápa@} śákṛt {161,10}. — {@áva@} 1) śámbaram {130,7} (girés), vájram {939,5}. — {@ā́@} 1) agním {449,4}; víśvā tā́ {686,10}; drapsám <lbinfo n="4"/> {837,4} (śyenás); mārtāṇḍám {898,9} (púnar); <lbinfo n="5"/> yám (sómam) {970,4}. — 2) sómam vajríṇe {709,8}. — Ferner <lbinfo n="3"/> nach Pada mit ā́, aber richtiger ohne ā́ yám te śyenás padā́‿… <lbinfo n="5"/> (Pad. padā́ ā́ ábharat) {691,9}; {970,5}; tám sū́ryasya (sūrás <lbinfo n="3"/> zu lesen) duhitā́‿… <lbinfo n="5"/> (Pad. duhitā́ ā́ ahharat) {825,3}. —
+;
+49706 new <div n="P1">-at 4) aśvínau {843,2} (saraṇyū́s). <lbinfo n="9"/> — 16) sómam <lbinfo n="3"/> {322,7} (śyenás). — 17) ándhas parāvátas <lbinfo n="5"/> {780,6} (śyenás). — 18) ebhyas śrávas {287,16}; asmai {784,3} (ánu jóṣam). — {@ápa@} śákṛt {161,10}. — {@áva@} 1) śámbaram {130,7} (girés), vájram {939,5}. — {@ā́@} 1) agním {449,4}; víśvā tā́ {686,10}; drapsám <lbinfo n="4"/> {837,4} (śyenás); mārtāṇḍám {898,9} (púnar); <lbinfo n="5"/> yám (sómam) {970,4}. — 2) sómam vajríṇe {709,8}. — Ferner <lbinfo n="3"/> nach Pada mit ā́, aber richtiger ohne ā́ yám te śyenás padā́‿… <lbinfo n="5"/> (Pad. padā́ ā́ ábharat) {691,9}; {970,5}; tám sū́ryasya (sūrás <lbinfo n="3"/> zu lesen) duhitā́‿… <lbinfo n="5"/> (Pad. duhitā́ ā́ <c 164>ahharat</c>) {825,3}. —
+;---------------------------------------------------
+; <L>6461<pc>0966<k1>Brama<k2>Brama/
+49990 old <div n="P1">-ā́s agnés {724,2}.
+;
+49990 new <div n="P1">-ā́s agnés <c 165>{724,2}</c>.
+;---------------------------------------------------
+; <L>6504<pc>0971<k1>maGavan<k2>maGa/van
+50305 old <div n="P1">-ávā 1) ráthas aśvínos {157,3}. — 2) índras {32,3. 13}; {55,4}; {103,2. 4}; {171,3}; {173,5}; {174,1}; {264,3}; {287,8}; {312,1}; {313,8. 9. 11. 13. 19. 20}; {316,2}; {318,1}; {320,2}; {323,5}; {338,5}; {385,1}; {388,3}; {465,1}; {488,11. 15}; {543,4}; {614,5}; {621,12}; {641,10}; {653,9. 13}; {666,13}; {670,1. 18}; {674,10}; {705,20}; {849,23}; {868,6. 8}; {869,3. 5. 6. 8}; {875,11}; {939,2}; {986,4}; {1018,1}; (agnís) <lbinfo n="5"/> {197,4} (sūrís); {712,9}; íḍás pátis {499,4}; (sómas) {808,11} vīrébhis <lbinfo n="6"/> áśvais …bhavā nas (índus) {809,55}. — 3) ráthavītis {415,19}; abhyāvartī́ {468,8}; śauradeviás <lbinfo n="8"/> {679,15}; jī́vet <lbinfo n="3"/> íd … máma {859,8}; sūrís {907,6}. — 4) {793,3}.
+;
+50305 new <div n="P1">-ávā 1) ráthas aśvínos {157,3}. — 2) índras {32,3. 13}; {55,4}; {103,2. 4}; {171,3}; {173,5}; {174,1}; {264,3}; {287,8}; {312,1}; {313,8. 9. 11. 13. 19. 20}; {316,2}; {318,1}; {320,2}; {323,5}; {338,5}; {385,1}; {388,3}; {465,1}; {488,11. 15}; {543,4}; {614,5}; {621,12}; {641,10}; {653,9. 13}; {666,13}; {670,1. 18}; {674,10}; {705,20}; <c 166>{849,23}</c>; {868,6. 8}; {869,3. 5. 6. 8}; {875,11}; {939,2}; {986,4}; {1018,1}; (agnís) <lbinfo n="5"/> {197,4} (sūrís); {712,9}; íḍás pátis {499,4}; (sómas) {808,11} vīrébhis <lbinfo n="6"/> áśvais …bhavā nas (índus) {809,55}. — 3) ráthavītis {415,19}; abhyāvartī́ {468,8}; śauradeviás <lbinfo n="8"/> {679,15}; jī́vet <lbinfo n="3"/> íd … máma {859,8}; sūrís {907,6}. — 4) {793,3}.
+;---------------------------------------------------
+; <L>6523<pc>0975<k1>matsara<k2>matsara/
+50444 old <div n="P1">-ā́ni ándhāṃsi {589,4}.
+;
+50444 new <div n="P1"><c 167>-ā́ni</c> ándhāṃsi {589,4}.
+;---------------------------------------------------
+; <L>6578<pc>0989<k1>maDyama<k2>maDyama/
+50997 old <div n="P1">-ā́s 6) pitáras {841,4}.
+;
+50997 new <div n="P1">-ā́s 6) pitáras <c 168>{841,4}</c>.
+;---------------------------------------------------
+; <L>6585<pc>0990<k1>man<k2>man<h>1
+51053 old <div n="P1">-āmahé {@áti@} 2) suvitásya sétum {753,2}.
+;
+51053 new <div n="P1"><c 169>-āmahé</c> {@áti@} 2) suvitásya sétum {753,2}.
+;---------------------------------------------------
+; <L>6585<pc>0990<k1>man<k2>man<h>1
+51083 old <div n="P1">-mahi [1. <ab>pl.</ab>] 1) anāśávas <lbinfo n="3"/> anugrā́sas ca {621,14}; duróṣasas {621,13}; jaganvā́ṃsas {665,19}. 14) marútām nā́ma {335,4}; rā́dhas {624,19}; te (uṣásas) {30,21}. — 14) te ávasas {376,3} (devám ūtáye iyānā́sas). <lbinfo n="5"/> — 16) yā́ (yójanā) <lbinfo n="5"/> te {699,3}; ṛtásya <lbinfo n="3"/> pravā́canam {861,8}.
+;
+51083 new <div n="P1">-mahi [1. <ab>pl.</ab>] <c 170>1)</c> anāśávas <lbinfo n="3"/> anugrā́sas ca {621,14}; duróṣasas {621,13}; jaganvā́ṃsas {665,19}. 14) marútām nā́ma {335,4}; rā́dhas {624,19}; te (uṣásas) {30,21}. — 14) te ávasas {376,3} (devám ūtáye iyānā́sas). <lbinfo n="5"/> — 16) yā́ (yójanā) <lbinfo n="5"/> te {699,3}; ṛtásya <lbinfo n="3"/> pravā́canam {861,8}.
+;---------------------------------------------------
+; <L>6591<pc>0993<k1>manaScit<k2>manaS-ci/t
+51160 old {@manaś-cít,@}¦ a., {%Sinn%} oder {%Geist%} [mánas] {%kennend%} <lbinfo n="6"/> [cít von cid].
+;
+51160 new {@manaś-cít,@}¦ a., {%Sinn%} oder {%Geist%} [mánas] {%kennend%} <lbinfo n="6"/> [cít von <c 171>cid</c>].
+;---------------------------------------------------
+; <L>6621<pc>0999<k1>manotf<k2>mano/tf
+51380 old <div n="P1">-ā vácasas {200,4}; asyā́s dhiyás {442,4}; dhiyā́ … prathamás {803,1}; in allen drei Stellen von Agni.
+;
+51380 new <div n="P1">-ā vácasas {200,4}; asyā́s dhiyás <c 172>{442,4}</c>; dhiyā́ … prathamás {803,1}; in allen drei Stellen von Agni.
+;---------------------------------------------------
+; <L>6627<pc>0999<k1>mantumat<k2>mantumat
+51413 old <div n="P1">-as [V.] pūṣan {42,5}; {497,4}; (indra) {960,1}.
+;
+51413 new <div n="P1">-as [V.] pūṣan {42,5}; {497,4}; (indra) <c 173>{960,1}</c>.
+;---------------------------------------------------
+; <L>6648<pc>1003<k1>mandra<k2>mandra/
+51615 old <div n="P1">-ájā 1) juhúā (agnés) {76,5}; jihváyā (agnés) {532,9}; {380,1}; dhā́rayā {718,1}; {819,8}.
+;
+51615 new <div n="P1"><c 174>-ájā</c> 1) juhúā (agnés) {76,5}; jihváyā (agnés) {532,9}; {380,1}; dhā́rayā {718,1}; {819,8}.
+;---------------------------------------------------
+; <L>6682<pc>1008<k1>marutsaKi<k2>maru/t-saKi
+51865 old <div n="P1">-ā [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] avitrī́ (sárasvatī) <lbinfo n="8"/> {612,3}; índrapatnī <lbinfo n="5"/> {912,9}.
+;
+51865 new <div n="P1">-ā [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] avitrī́ (sárasvatī) <lbinfo n="8"/> <c 175>{612,3}</c>; índrapatnī <lbinfo n="5"/> {912,9}.
+;---------------------------------------------------
+; <L>6691<pc>1009<k1>martya<k2>ma/rtya
+51934 old <div n="P1">-as 1) {19,2}; {36,4. 16}; {40,2}; {41,6}; {83,1}; {86,7}; {138,2}; {150,3}; {155,5}; {179,5}; {245,7}; {358,10}; {361,6}; {371,1}; {375,4}; {395,17}; {407,15}; {443,5}; {455,1}; {471,4}; {501,11}; {548,11. 14. 21}; {623,13}; {626,44}; {627,15}; {634,4}; {638,1. 13}; {639,14. 25. 28}; {643,19}; {677,8. 19}; {679,7}; {683,15}; {705,2}; {710,1. 16}; {711,22}; {848,5}; {905,4}; {917,11}; {919,2}.
+;
+51934 new <div n="P1">-as 1) {19,2}; {36,4. 16}; {40,2}; {41,6}; {83,1}; {86,7}; {138,2}; {150,3}; {155,5}; {179,5}; <c 176>{245,7}</c>; {358,10}; {361,6}; {371,1}; {375,4}; {395,17}; {407,15}; {443,5}; {455,1}; {471,4}; {501,11}; {548,11. 14. 21}; {623,13}; {626,44}; {627,15}; {634,4}; {638,1. 13}; {639,14. 25. 28}; {643,19}; {677,8. 19}; {679,7}; {683,15}; {705,2}; {710,1. 16}; {711,22}; {848,5}; {905,4}; {917,11}; {919,2}.
+;---------------------------------------------------
+; <L>6704<pc>1011<k1>maSarcAra<k2>maSarcA/ra
+52032 old {@maśarcā́ra,@}¦ <ab>m.</ab>, Eigenname eines Mannes.
+;
+52032 new <c 177>{@maśarcā́ra,@}</c>¦ <ab>m.</ab>, Eigenname eines Mannes.
+;---------------------------------------------------
+; <L>6707<pc>1011<k1>mah<k2>mah
+52057 old <div n="P1">-am [1. <ab>s.</ab> Co.] {@sám@} 2) vām yajñám {577,7}.
+;
+52057 new <div n="P1">-am [1. <ab>s.</ab> Co.] {@sám@} 2) vām yajñám <c 178>{577,7}</c>.
+;---------------------------------------------------
+; <L>6708<pc>1012<k1>mah<k2>ma/h
+52095 old <div n="P1">-hás [<ab>G.</ab>] 1) rájasas {168,6}; {297,11}; kṣoṇásya {117,8}; ájmasya {349,4}; gotrásya {946,8}. — 2) von Indra {268,6}; {22,11}; {470,1}; {541,1}; {677,3}; {925,12}; und vielleicht {102,1} (mahī́m <lbinfo n="4"/> dhíyam); {272,9} (pratnásya); {890,9} (ávasā); <lbinfo n="6"/> {174,12} (mīḍúṣas); <lbinfo n="5"/> von Agni: {862,12}; {19,2}; {36,3}; {308,2} (ánīkam); und vielleicht <lbinfo n="6"/> {146,3} (kétān); {225,12} (jyótiṣā); {300,11} (bandhúthā); von anderen: aryamṇás {105,6}; devásya (váruṇasya) <lbinfo n="8"/> {128,7}; víṣṇos <lbinfo n="4"/> {225,11}; {441,8}; {156,3}; (tritásya) {187,1}; (rudrásya) {224,8}; dadhikrā́vṇas {335,2. 4}; (gárbhasya) {507,3} (<ab>s.</ab> <ab>u.</ab>); (sū́ryasya) {710,11}; todásya {447,6}; ásurasya {836,2}; vívasvatas <lbinfo n="8"/> {843,1}; śámbarasya <lbinfo n="7"/> {130,7}; pitúr {282,2}; {288,9}; rā́jñas {492,4}; kakṣī́vatas {851,10}. — 3) {100,1}; {105,10}; {192,6}; {395,1}; {406,7}; {552,3}; {760,1}; {798,8}. — 4) {863,1} … devā́ya <lbinfo n="5"/> (divás putrā́ya sū́riāya); und vielleicht <lbinfo n="6"/> {291,3} … caranti bíbhratam vápūṃṣi; {155,1} (mit sā́nuni zu verbinden?). — 6) rāyás <lbinfo n="3"/> {127,11}; {422,3}; {544,5}; {643,29}; {801,7}; {848,15}; {919,6}; rā́dhasas <lbinfo n="3"/> {496,2}; {670,14}; {758,5}; {793,3}; {966,5}; {1019,6}; vásunas {553,3} (Gegensatz árbhasya); <lbinfo n="5"/> saṃváraṇasya vásvas {903,6}; ohne Substantiv: kṣáye {466,6}; dātā́ {470,1}; īśate {582,6}; dhánam {890,6}; dhánasātau {976,4}; und vielleicht {120,7} yuvám <lbinfo n="3"/> hí ā́stam … rán. — 7) {327,11}; {369,5}; {397,1}; {442,2}; {643,16}; {887,22}; {902,2}. — 8) nṛmṇásya {55,3}; {848,3}; tyájasas {169,1}; saúbhagasya <lbinfo n="8"/> {250,1}; vā́jasya <lbinfo n="5"/> {467,1}; suvitásya <lbinfo n="3"/> {517,24}; śrávasas {532,10}; ṛtásya {214,17}; {490,15}; {834,5}; śávasas {645,5}; {699,2}; {848,3}.
+;
+52095 new <div n="P1">-hás [<ab>G.</ab>] 1) rájasas {168,6}; {297,11}; kṣoṇásya {117,8}; ájmasya {349,4}; gotrásya {946,8}. — 2) von Indra {268,6}; {22,11}; {470,1}; {541,1}; {677,3}; {925,12}; und vielleicht {102,1} (mahī́m <lbinfo n="4"/> dhíyam); {272,9} (pratnásya); {890,9} (ávasā); <lbinfo n="6"/> <c 179>{174,12}</c> (mīḍúṣas); <lbinfo n="5"/> von Agni: {862,12}; {19,2}; {36,3}; {308,2} (ánīkam); und vielleicht <lbinfo n="6"/> {146,3} (kétān); {225,12} (jyótiṣā); {300,11} (bandhúthā); von anderen: aryamṇás {105,6}; devásya (váruṇasya) <lbinfo n="8"/> {128,7}; víṣṇos <lbinfo n="4"/> {225,11}; {441,8}; {156,3}; (tritásya) {187,1}; (rudrásya) {224,8}; dadhikrā́vṇas {335,2. 4}; (gárbhasya) {507,3} (<ab>s.</ab> <ab>u.</ab>); (sū́ryasya) {710,11}; todásya {447,6}; ásurasya {836,2}; vívasvatas <lbinfo n="8"/> {843,1}; śámbarasya <lbinfo n="7"/> {130,7}; pitúr {282,2}; {288,9}; rā́jñas {492,4}; kakṣī́vatas {851,10}. — 3) {100,1}; {105,10}; {192,6}; {395,1}; {406,7}; {552,3}; {760,1}; {798,8}. — 4) {863,1} … devā́ya <lbinfo n="5"/> (divás putrā́ya sū́riāya); und vielleicht <lbinfo n="6"/> {291,3} … caranti bíbhratam vápūṃṣi; {155,1} (mit sā́nuni zu verbinden?). — 6) rāyás <lbinfo n="3"/> {127,11}; {422,3}; {544,5}; {643,29}; {801,7}; {848,15}; {919,6}; rā́dhasas <lbinfo n="3"/> {496,2}; {670,14}; {758,5}; {793,3}; {966,5}; {1019,6}; vásunas {553,3} (Gegensatz árbhasya); <lbinfo n="5"/> saṃváraṇasya vásvas {903,6}; ohne Substantiv: kṣáye {466,6}; dātā́ {470,1}; īśate {582,6}; dhánam {890,6}; dhánasātau {976,4}; und vielleicht {120,7} yuvám <lbinfo n="3"/> hí ā́stam … rán. — 7) {327,11}; {369,5}; {397,1}; {442,2}; {643,16}; {887,22}; {902,2}. — 8) nṛmṇásya {55,3}; {848,3}; tyájasas {169,1}; saúbhagasya <lbinfo n="8"/> {250,1}; vā́jasya <lbinfo n="5"/> {467,1}; suvitásya <lbinfo n="3"/> {517,24}; śrávasas {532,10}; ṛtásya {214,17}; {490,15}; {834,5}; śávasas {645,5}; {699,2}; {848,3}.
+;---------------------------------------------------
+; <L>6738<pc>1020<k1>mahitva<k2>mahitva/
+52314 old <div n="P1">-ā́ [<ab>I.</ab>] 1) {338,2} (… urvī́ gabhīré rájasī); mit prá ric {109,6}; {164,25}; {915,1}. — 2) {52,13}; {67,9}; {68,2}; {91,2}; {206,6}; {235,4}; {288,15}; {312,5}; {356,9}; {412,2} (ámitās); {470,5}; {508,3. 10}; {509,4}; {529,2}; {536,4}; {539,3}; {574,1}; {577,4}; {613,8} (vāvṛdhatus); {616,3}; {901,7}; {914,9}; {922,11}; {947,3. 4}. — 3) {880,1}; {881,5}; {882,7}.
+;
+52314 new <div n="P1">-ā́ [<ab>I.</ab>] 1) <c 180>{338,2}</c> (… urvī́ gabhīré rájasī); mit prá ric {109,6}; {164,25}; {915,1}. — 2) {52,13}; {67,9}; {68,2}; {91,2}; {206,6}; {235,4}; {288,15}; {312,5}; {356,9}; {412,2} (ámitās); {470,5}; {508,3. 10}; {509,4}; {529,2}; {536,4}; {539,3}; {574,1}; {577,4}; {613,8} (vāvṛdhatus); {616,3}; {901,7}; {914,9}; {922,11}; {947,3. 4}. — 3) {880,1}; {881,5}; {882,7}.
+;---------------------------------------------------
+; <L>6748<pc>1022<k1>mahiza<k2>mahiza/
+52395 old <div n="P1">-ā́nām 3) trī́ śatā́ … ághas {383,8}.
+;
+52395 new <div n="P1"><c 181>-ā́nām</c> 3) trī́ śatā́ … ághas {383,8}.
+;---------------------------------------------------
+; <L>6749<pc>1022<k1>mahizI<k2>ma/hizI
+52399 old {@máhiṣī,@}¦ <ab>f.</ab>, Feminin des vorigen. 1) {%Büffelin, Büffelkuh;%} 2) {%Fürstin,%} (erste) {%Gemahlin des Fürsten,%} entweder als die gewaltige, oder, was der irdischen Anschauung mehr entspricht, als Büffelin gedacht.
+;
+52399 new {@máhiṣī,@}¦ <ab>f.</ab>, Feminin des vorigen. 1) {%Büffelin, Büffelkuh;%} 2) {%Fürstin,%} (erste) {%Gemahlin des Fürsten,%} entweder als die gewaltige, oder, was der <c 182>irdischen</c> Anschauung mehr entspricht, als Büffelin gedacht.
+;---------------------------------------------------
+; <L>6755<pc>1023<k1>mA<k2>mA<h>1
+52484 old gós {272,7}. — {@ní@} rūpám <lbinfo n="3"/> asmín {227,7}. — {@ví@} 1) antárikṣam {409,2}.
+;
+52484 new gós {272,7}. — {@ní@} rūpám <lbinfo n="3"/> asmín <c 183>{227,7}</c>. — {@ví@} 1) antárikṣam {409,2}.
+;---------------------------------------------------
+; <L>6775<pc>1029<k1>mAtf<k2>mAtf/
+52662 old <div n="P1">-rós, zu sprechen -arós [<ab>G.</ab>] 19) putrás (agnís) <lbinfo n="5"/> {236,1}.
+;
+52662 new <div n="P1">-rós, zu sprechen -arós [<ab>G.</ab>] 19) putrás (agnís) <lbinfo n="5"/> <c 184>{236,1}</c>.
+;---------------------------------------------------
+; <L>6824<pc>1038<k1>mitra<k2>mitra/
+53047 old <div n="P1">-as 1) {67,1}; {195,1}; {239,3}; {454,2}; {848,1. 2}; {894,2}; {838,5}; devā́nām <lbinfo n="3"/> {94,13}; síndhunām <lbinfo n="3"/> utá párvatānām {239,4}; priyás {75,4}; {91,3}; páriprītas {190,6}; śévias {156,1}; súdhitas <lbinfo n="6"/> {302,7}; návīyān <lbinfo n="3"/> {485,7}; susaṃsád {525,3}; satyás {855,4}; yajñíyas {364,2}. — 1) 3) {239,4}; {435,4}; {443,1}; ádbhutas {449,3}. — 3) {293,1. 4. 7. 9}; {351,5}; {419,4}; {598,5} (neben <lbinfo n="3"/> váruṇam); {714,6} (darśatás); {905,7}. — 4) {419,1}; {422,2}; {426,3}; {503,9}; {552,2} (vām anyás); {580,3}; {582,17}. 18 (varuṇa mitrás ca); andere Götter mit ihnen verglichen: {239,4}; {394,7}; {528,3}; {789,5}; {973,5}. — 5) {26,4}; {36,4}; {41,1}; {90,1}; {136,3}; {141,9}; {218,2}; {421,3}; {576,4—6} (in 6 aryamán <lbinfo n="5"/> nicht genannt); {578,6}; {580,1}. 3 (in 3 aryamán nicht genannt); <lbinfo n="7"/> {582,11. 12}; {646,11}; {647,17}; {651,13}; {666,4}; {676,2}; {692,2}; {703,5}; {952,1}. 3—7. — 6) {43,3}; {94,16}; {136,7}; {238,2. 6}; {248,4}; {309,2}; {357,1}; {380,9}; {403,3}; {465,5}; {490,1}; {492,10}; {550,25}; {555,7}; {556,2}; {578,3}; {635,9}; {793,4}; {809,58}; {918,4}; {924,1}; {935,2}; neben áditi {576,8}; neben ādityā́sas {288,10}; {568,2}. — 7) {40,5}; {90,9}; {162,1}; {186,2}; {192,4}; {218,1}; {229,9}; {351,10}; {395,2}; {400,5}; {556,4}; {567,2}; {598,10}; {638,3}; {639,16}; {648,2}; {776,24}; {862,1}; {891,1. 9}; {918,6}; {919,4}. — 8) {44,13}; {493,11}; {582,4}.
+;
+53047 new <div n="P1"><c 185>-as</c> 1) {67,1}; {195,1}; {239,3}; {454,2}; {848,1. 2}; {894,2}; {838,5}; devā́nām <lbinfo n="3"/> {94,13}; síndhunām <lbinfo n="3"/> utá párvatānām {239,4}; priyás {75,4}; {91,3}; páriprītas {190,6}; śévias {156,1}; súdhitas <lbinfo n="6"/> {302,7}; návīyān <lbinfo n="3"/> {485,7}; susaṃsád {525,3}; satyás {855,4}; yajñíyas {364,2}. — 1) 3) {239,4}; {435,4}; {443,1}; ádbhutas {449,3}. — 3) {293,1. 4. 7. 9}; {351,5}; {419,4}; {598,5} (neben <lbinfo n="3"/> váruṇam); {714,6} (darśatás); {905,7}. — 4) {419,1}; {422,2}; {426,3}; {503,9}; {552,2} (vām anyás); {580,3}; {582,17}. 18 (varuṇa mitrás ca); andere Götter mit ihnen verglichen: {239,4}; {394,7}; {528,3}; {789,5}; {973,5}. — 5) {26,4}; {36,4}; {41,1}; {90,1}; {136,3}; {141,9}; {218,2}; {421,3}; {576,4—6} (in 6 aryamán <lbinfo n="5"/> nicht genannt); {578,6}; {580,1}. 3 (in 3 aryamán nicht genannt); <lbinfo n="7"/> {582,11. 12}; {646,11}; {647,17}; {651,13}; {666,4}; {676,2}; {692,2}; {703,5}; {952,1}. 3—7. — 6) {43,3}; {94,16}; {136,7}; {238,2. 6}; {248,4}; {309,2}; {357,1}; {380,9}; {403,3}; {465,5}; {490,1}; {492,10}; {550,25}; {555,7}; {556,2}; {578,3}; {635,9}; {793,4}; {809,58}; {918,4}; {924,1}; {935,2}; neben áditi {576,8}; neben ādityā́sas {288,10}; {568,2}. — 7) {40,5}; {90,9}; {162,1}; {186,2}; {192,4}; {218,1}; {229,9}; {351,10}; {395,2}; {400,5}; {556,4}; {567,2}; {598,10}; {638,3}; {639,16}; {648,2}; {776,24}; {862,1}; {891,1. 9}; {918,6}; {919,4}. — 8) {44,13}; {493,11}; {582,4}.
+;---------------------------------------------------
+; <L>6960<pc>1064<k1>meza<k2>meza/
+54366 old <div n="P1">-ā́ [<ab>du.</ab>] {932,5} (Aufr. méṣā).
+;
+54366 new <div n="P1">-ā́ [<ab>du.</ab>] {932,5} (<c 186>Aufr.</c> méṣā).
+;---------------------------------------------------
+; <L>6983<pc>1066<k1>ya<k2>ya/
+54520 old <div n="P1">-ā́n {229,3}; {331,7}; 840,
+;
+54520 new <div n="P1">-ā́n <c 187>{229,3}</c>; {331,7}; 840,
+;---------------------------------------------------
+; <L>6994<pc>1070<k1>yaj<k2>yaj
+54675 old <div n="P">Doppelstamm {@yájasa@} (<ab>vgl.</ab> gṛṇīṣe <ab>u. s. w.</ab>):
+;
+54675 new <div n="P">Doppelstamm <c 188>{@yájasa@}</c> (<ab>vgl.</ab> gṛṇīṣe <ab>u. s. w.</ab>):
+;---------------------------------------------------
+; <L>6994<pc>1070<k1>yaj<k2>yaj
+54696 old <div n="P1">-ṣat 1a) pitṝ́n {842,41}; devā́n {533,4}. — 12) tṝ́n ekādaśā́n ihá {659,9}. — {@ā́@} 3) yásmin tvé (agnaú) {453,2} (havyā́).
+;
+54696 new <div n="P1">-ṣat 1a) pitṝ́n <c 189>{842,41}</c>; devā́n {533,4}. — 12) tṝ́n ekādaśā́n ihá {659,9}. — {@ā́@} 3) yásmin tvé (agnaú) {453,2} (havyā́).
+;---------------------------------------------------
+; <L>7008<pc>1077<k1>yajYapati<k2>yajYa-pa/ti
+54871 old {@yajña-páti,@}¦ <ab>m.</ab>, {%Herr des Opferwerkes%} (yajñá), {%der Veranstalter der gottesdienstlichen Handlung.%} <lbinfo n="7"/>
+;
+54871 new <c 190>{@yajña-páti,@}</c>¦ <ab>m.</ab>, {%Herr des Opferwerkes%} (yajñá), {%der Veranstalter der gottesdienstlichen Handlung.%} <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>7053<pc>1090<k1>yam<k2>yam
+55350 old <div n="P1">-a (-ā) 12) tokā́ya tánayāya <lbinfo n="6"/> śám yós {308,5}; sūríbhyas várūtham <lbinfo n="4"/> {546,4}. — 13) tríaruṇāya {381,2}; nas {532,1}.
+;
+55350 new <div n="P1">-a (-ā) 12) tokā́ya tánayāya <lbinfo n="6"/> śám yós {308,5}; sūríbhyas várūtham <lbinfo n="4"/> {546,4}. — 13) tríaruṇāya {381,2}; nas <c 191>{532,1}</c>.
+;---------------------------------------------------
+; <L>7053<pc>1090<k1>yam<k2>yam
+55365 old <div n="P1">-ata (-atā) 12) rayím asmā́su {347,10}; nas chardís {861,12}. — 13) {889,7}; nas {400,7}; {638,12}; {889,12}; tásmai {575,1}; asmábhyam, gáve, áśvāya {650,4}; ubháyāya <lbinfo n="4"/> jánmane {863,11}. — {@ádhi@} 1) dāśúṣe {85,11}. — prá 4) putrébhias <lbinfo n="8"/> tásya vásvas {841,7}. — {@ví@} 4) nas śárma {647,9}; asmé śárma {667,2} (paksā́ váyas yáthā‿upári).
+;
+55365 new <div n="P1">-ata (-atā) 12) rayím asmā́su {347,10}; nas chardís {861,12}. — 13) {889,7}; nas {400,7}; {638,12}; {889,12}; tásmai {575,1}; asmábhyam, gáve, áśvāya {650,4}; ubháyāya <lbinfo n="4"/> jánmane {863,11}. — {@ádhi@} 1) dāśúṣe <c 192>{85,11}</c>. — prá 4) putrébhias <lbinfo n="8"/> tásya vásvas {841,7}. — {@ví@} 4) nas śárma {647,9}; asmé śárma {667,2} (paksā́ váyas yáthā‿upári).
+;---------------------------------------------------
+; <L>7091<pc>1102<k1>yA<k2>yA
+55794 old <div n="P1">-āti 1) índras {385,1}; subhágas {218,15}; pūṣā́ <lbinfo n="3"/> {965,1}; uṣā́s {594,2}; rathíā‿iva sárasvatī {611,1}. — 2) aktús apā́m <lbinfo n="4"/> {221,1}. — 3) sváyuktibhis <lbinfo n="9"/> {50,9}; ráthena <lbinfo n="5"/> {218,12}. — 5) antárikṣeṇa, adbhís {161,14}. — 4) ádhvanas <lbinfo n="3"/> {47,17}. — 7) avapā́nam <lbinfo n="6"/> {614,1}; udvátas, nivátas {236,10}; náhuṣas <lbinfo n="3"/> {122,10}. — 9) puṣṭím <lbinfo n="4"/> {77,5}; vā́riam {360,3}. — 10) sumatím {492,12}. — 11) bhágam rátnam {554,6}. — 12) tuā́m {443,2}. — {@áchā@} gṛhám-gṛham {123,4}. — {@ví áti@} vā́ram ávyam <lbinfo n="4"/> {809,56}. — {@ā́@} 1) uṣā́s {113,14} (ráthena); {48,5}; savitā́ {35,2} (ráthena); <lbinfo n="7"/> {35,3}. — 2) vartís {629,18} (ráthas). — {@úpa@} 2) sabhā́m {624,9}; niṣkṛtám {790,1}; {798,32}. — {@pári@} 3) dyā́vāpṛthivī́ {292,8}. — 6) sahásrā gónām {906,5}. — {@prá@} 1) agnís {834,1}. — {@ví@} 3) jráyas <lbinfo n="3"/> {140,9}; ródasī {507,7}; áṇvam {803,3}. — {@abhí ví@} mā́nuṣān {48,7} (uṣā́s). — {@abhí sám@} víśvā {798,15}.
+;
+55794 new <div n="P1">-āti 1) índras {385,1}; subhágas {218,15}; pūṣā́ <lbinfo n="3"/> {965,1}; uṣā́s {594,2}; rathíā‿iva sárasvatī {611,1}. — 2) aktús apā́m <lbinfo n="4"/> {221,1}. — 3) sváyuktibhis <lbinfo n="9"/> {50,9}; ráthena <lbinfo n="5"/> {218,12}. — 5) antárikṣeṇa, adbhís {161,14}. — 4) ádhvanas <lbinfo n="3"/> <c 193>{47,17}</c>. — 7) avapā́nam <lbinfo n="6"/> {614,1}; udvátas, nivátas {236,10}; náhuṣas <lbinfo n="3"/> {122,10}. — 9) puṣṭím <lbinfo n="4"/> {77,5}; vā́riam {360,3}. — 10) sumatím {492,12}. — 11) bhágam rátnam {554,6}. — 12) tuā́m {443,2}. — {@áchā@} gṛhám-gṛham {123,4}. — {@ví áti@} vā́ram ávyam <lbinfo n="4"/> {809,56}. — {@ā́@} 1) uṣā́s {113,14} (ráthena); {48,5}; savitā́ {35,2} (ráthena); <lbinfo n="7"/> {35,3}. — 2) vartís {629,18} (ráthas). — {@úpa@} 2) sabhā́m {624,9}; niṣkṛtám {790,1}; {798,32}. — {@pári@} 3) dyā́vāpṛthivī́ {292,8}. — 6) sahásrā gónām {906,5}. — {@prá@} 1) agnís {834,1}. — {@ví@} 3) jráyas <lbinfo n="3"/> {140,9}; ródasī {507,7}; áṇvam {803,3}. — {@abhí ví@} mā́nuṣān {48,7} (uṣā́s). — {@abhí sám@} víśvā {798,15}.
+;---------------------------------------------------
+; <L>7091<pc>1102<k1>yA<k2>yA
+55848 old <div n="H">{@yāsis, yasīs:@}
+;
+55848 new <div n="H">{@yāsis, <c 194>yasīs</c>:@}
+;---------------------------------------------------
+; <L>7133<pc>1115<k1>yuj<k2>yuj
+56372 old <div n="P1">-ás 1) étaśas {976,19} (ṛ́kvabhis). — 5) ráthas <lbinfo n="4"/> {475,2}; {490,5}; {585,5}. — 9) áśvas ná vṛ́ṣabhis {809,28}.
+;
+56372 new <div n="P1">-ás 1) étaśas <c 195>{976,19}</c> (ṛ́kvabhis). — 5) ráthas <lbinfo n="4"/> {475,2}; {490,5}; {585,5}. — 9) áśvas ná vṛ́ṣabhis {809,28}.
+;---------------------------------------------------
+; <L>7160<pc>1124<k1>yuvAku<k2>yuvAku/<h>1
+56659 old 1. {@yuvākú,@}¦ undeklinirbar den <ab>Gen.</ab> <ab>du.</ab> von yuvá vertretend, {%euer beider%} (<ab>vgl.</ab> yuṣmā́ka, asmā́ka und Goldschmidt in Beiträge Band {7,253}).
+;
+56659 new 1. <c 196>{@yuvākú,@}</c>¦ undeklinirbar den <ab>Gen.</ab> <ab>du.</ab> von yuvá vertretend, {%euer beider%} (<ab>vgl.</ab> yuṣmā́ka, asmā́ka und Goldschmidt in Beiträge Band {7,253}).
+;---------------------------------------------------
+; <L>7258<pc>1137<k1>raTa<k2>ra/Ta
+57391 old <div n="P1">-ānaam arā́s {904,4}; aśvahayás <lbinfo n="8"/> {852,5} (pūṣā́). <lbinfo n="5"/> — 2) avitā́ {548,11}; ūtī́ {677,4}; ghóṣās <lbinfo n="3"/> {929,10} (jáyatām). — 3) ráthas … yaiṣṭhas <lbinfo n="5"/> {428,3}. — 4) jīrá <lbinfo n="2"/> {48,3} (uṣā́s); pavyā́ {406,9}; śárdham {407,10}; váhnis {703,1}; yámam <lbinfo n="3"/> {712,10} (agním); víṣpardhasas {643,2}; éṣe {420,3}; {440,4}.
+;
+57391 new <div n="P1">-ānaam arā́s {904,4}; aśvahayás <lbinfo n="8"/> {852,5} (pūṣā́). <lbinfo n="5"/> — 2) avitā́ {548,11}; ūtī́ {677,4}; ghóṣās <lbinfo n="3"/> {929,10} (jáyatām). — 3) ráthas … yaiṣṭhas <lbinfo n="5"/> <c 197>{428,3}</c>. — 4) jīrá <lbinfo n="2"/> {48,3} (uṣā́s); pavyā́ {406,9}; śárdham {407,10}; váhnis {703,1}; yámam <lbinfo n="3"/> {712,10} (agním); víṣpardhasas {643,2}; éṣe {420,3}; {440,4}.
+;---------------------------------------------------
+; <L>7291<pc>1142<k1>raD<k2>raD, ranD
+57677 old <div n="P1">-ndhi 3) mithatī́s ádevīs {466,9}.
+;
+57677 new <div n="P1"><c 198>-ndhi</c> 3) mithatī́s ádevīs {466,9}.
+;---------------------------------------------------
+; <L>7304<pc>1145<k1>rap<k2>rap
+57809 old <div n="P1">-at 1) kavís {174,6}. — 2) ápiā yóṣaṇā {837,2} (nadásya nādé).
+;
+57809 new <div n="P1">-at 1) kavís <c 199>{174,6}</c>. — 2) ápiā yóṣaṇā {837,2} (nadásya nādé).
+;---------------------------------------------------
+; <L>7358<pc>1156<k1>rAj<k2>rAj<h>1
+58282 old <div n="P1">-athas {@ádhi vi@} 1) uṣā́sau {188,6}.
+;
+58282 new <div n="P1"><c 200>-athas</c> {@ádhi vi@} 1) uṣā́sau {188,6}.
+;---------------------------------------------------
+; <L>7404<pc>1164<k1>ric<k2>ric
+58694 old <div n="P1">-ikṣe [2. <ab>s.</ab> <ab>me.</ab>] {@prá@} divás <lbinfo n="3"/> ántebhias {@pári@} {697,5}.
+;
+58694 new <div n="P1"><c 201>-ikṣe</c> [2. <ab>s.</ab> <ab>me.</ab>] {@prá@} divás <lbinfo n="3"/> ántebhias {@pári@} {697,5}.
+;---------------------------------------------------
+; <L>7416<pc>1167<k1>riz<k2>riz
+58838 old <div n="P1">-ṣe 2) anyám asmát {129,10}.
+;
+58838 new <div n="P1"><c 202>-ṣe</c> 2) anyám asmát {129,10}.
+;---------------------------------------------------
+; <L>7465<pc>1178<k1>ruh<k2>ruh
+59397 old <div n="P1">-ase {@ā́@} 5) ślókam diví {51,2}.
+;
+59397 new <div n="P1">-ase {@ā́@} 5) ślókam diví <c 203>{51,2}</c>.
+;---------------------------------------------------
+; <L>7484<pc>1182<k1>rE<k2>rE/, rA/
+59606 old <div n="P1">-āyás [<ab>A.</ab> <ab>p.</ab>] {73,10}; {113,4}; {236,15}; {250,3}; {290,6}; {316,7}; {379,3}; {390,4} (prá yaṃsi); {452,6}; {453,6}; {573,6}; {624,16}; {643,27}; {806,3}; {967,2}; namentlich nach ā́ īṣate {149,1}; {919,6}; ā́ bhara {81,7}; {127,11}; {773,26}; cíkṣa {701,9}; śíkṣeyam {548,19}.
+;
+59606 new <div n="P1">-āyás [<ab>A.</ab> <ab>p.</ab>] {73,10}; {113,4}; {236,15}; {250,3}; {290,6}; {316,7}; {379,3}; {390,4} (prá yaṃsi); {452,6}; {453,6}; {573,6}; {624,16}; {643,27}; {806,3}; {967,2}; namentlich nach ā́ īṣate {149,1}; {919,6}; ā́ bhara {81,7}; {127,11}; {773,26}; <c 204>cíkṣa</c> {701,9}; śíkṣeyam {548,19}.
+;---------------------------------------------------
+; <L>7563<pc>1190<k1>vagvanu<k2>vagvanu/
+60089 old <div n="P1">-úm āvís kṛṇoti {715,15}.
+;
+60089 new <div n="P1">-úm āvís kṛṇoti <c 205>{715,15}</c>.
+;---------------------------------------------------
+; <L>7599<pc>1202<k1>vaDa<k2>vaDa/
+60585 old <div n="P1">-ás 2) ásunvatas {101,4}; {671,12}; dódhatas {212,4}. — 3) vas (marútām) <lbinfo n="4"/> {572,17} (gohā́, nṛhā́); tásya (jíghāṃsatas) <lbinfo n="6"/> {14,12}. — 5) {943,6} (… íd sá tásya).
+;
+60585 new <div n="P1">-ás 2) ásunvatas {101,4}; {671,12}; dódhatas {212,4}. — 3) vas (marútām) <lbinfo n="4"/> {572,17} (gohā́, nṛhā́); tásya (jíghāṃsatas) <lbinfo n="6"/> <c 206>{14,12}</c>. — 5) {943,6} (… íd sá tásya).
+;---------------------------------------------------
+; <L>7614<pc>1203<k1>van<k2>van
+60763 old <div n="P1">-antā 13) bhedám {599,4}.
+;
+60763 new <div n="P1"><c 207>-antā</c> 13) bhedám {599,4}.
+;---------------------------------------------------
+; <L>7614<pc>1203<k1>van<k2>van
+60764 old <div n="P1">-antas 13) aryás árātīs {457,27}; āmúras {773,24}. — 15) gṛtsamadā́sas <lbinfo n="6"/> {195,9}.
+;
+60764 new <div n="P1"><c 208>-antas</c> 13) aryás árātīs {457,27}; āmúras {773,24}. — 15) gṛtsamadā́sas <lbinfo n="6"/> {195,9}.
+;---------------------------------------------------
+; <L>7616<pc>1206<k1>vana<k2>va/na
+60799 old <div n="P1">-ā 1) {54,1}; {395,11} (neb. giráyas vṛkṣákeśās); {411,3}; {414,2}. — 2) {660,1}. — 3) {54,4}. — 4) {443,9}; {854,8}; {915,7}; {474,3}; bildlich {127,4} (tákṣat …‿iva). — 5) {660,1}; śrúvat…‿iva yád sthirám {127,3} (wie brennendes Holz). — 6) {65,8}; {66,2}; {143,5}; {195,6}; {363,4}; {395,10}; {447,3}; {501,10}; {520,2}; {632,9}; {941,2}; {243,2}; {289,4}; {489,5}. — 7) {802,2} (<ab>s.</ab> o.). — 8) {655,7} hāridravā́‿íd úpa, sómam sutám mahiṣā́ ‿iva‿ávagachathas.
+;
+60799 new <div n="P1">-ā 1) {54,1}; {395,11} (neb. giráyas vṛkṣákeśās); {411,3}; {414,2}. — 2) {660,1}. — 3) <c 209>{54,4}</c>. — 4) {443,9}; {854,8}; {915,7}; {474,3}; bildlich {127,4} (tákṣat …‿iva). — 5) {660,1}; śrúvat…‿iva yád sthirám {127,3} (wie brennendes Holz). — 6) {65,8}; {66,2}; {143,5}; {195,6}; {363,4}; {395,10}; {447,3}; {501,10}; {520,2}; {632,9}; {941,2}; {243,2}; {289,4}; {489,5}. — 7) {802,2} (<ab>s.</ab> o.). — 8) {655,7} hāridravā́‿íd úpa, sómam sutám mahiṣā́ ‿iva‿ávagachathas.
+;---------------------------------------------------
+; <L>7712<pc>1219<k1>varivasy<k2>varivasy
+61491 old <div n="P1">-ā́ta [Co.] 1) nas sádassadas <lbinfo n="5"/> {902,1}.
+;
+61491 new <div n="P1"><c 210>-ā́ta</c> [Co.] 1) nas sádassadas <lbinfo n="5"/> {902,1}.
+;---------------------------------------------------
+; <L>7725<pc>1221<k1>varuRAnI<k2>varuRAnI/
+61587 old <div n="P1">-ī́m {22,12}; {223,3}.
+;
+61587 new <div n="P1">-ī́m {22,12}; <c 211>{223,3}</c>.
+;---------------------------------------------------
+; <L>7877<pc>1254<k1>vAjin<k2>vAji/n
+63066 old <div n="P1">-ínas [<ab>A.</ab> <ab>p.</ab>] 1) árvatas {718,2}. — 2) {196,1}; {261,3}; {488,12}; {516,6}.
+;
+63066 new <div n="P1">-ínas [<ab>A.</ab> <ab>p.</ab>] 1) árvatas {718,2}. — 2) {196,1}; {261,3}; <c 212>{488,12}</c>; {516,6}.
+;---------------------------------------------------
+; <L>7880<pc>1256<k1>vAjinIvasu<k2>vAji/nI-vasu
+63097 old <div n="P1">-ū [V. <ab>du.</ab>] aśvinā {694,3}; {866,12}; {228,5}; {428,6. 7}; {429,3}; {432,3}; {625,3. 12. 19. 30}; {628,10}; {629,4}; {630,5}; {642,7. 14. 18}; {646,3}; {710,8}; {866,12}; vā́yav índras <lbinfo n="4"/> ca {2,5}.
+;
+63097 new <div n="P1">-ū [V. <ab>du.</ab>] aśvinā {694,3}; {866,12}; {228,5}; {428,6. 7}; {429,3}; {432,3}; {625,3. 12. <c 213>19.</c> 30}; {628,10}; {629,4}; {630,5}; {642,7. 14. 18}; {646,3}; {710,8}; {866,12}; vā́yav índras <lbinfo n="4"/> ca {2,5}.
+;---------------------------------------------------
+; <L>7972<pc>1267<k1>vicetas<k2>vi/-cetas
+63726 old <div n="P1">-asā [V. <ab>du.</ab>] 2) (aśvinā) <lbinfo n="3"/> {428,5}; mitrāvaruṇā <lbinfo n="4"/> {958,6}.
+;
+63726 new <div n="P1">-asā [V. <ab>du.</ab>] 2) (aśvinā) <lbinfo n="3"/> <c 214>{428,5}</c>; mitrāvaruṇā <lbinfo n="4"/> {958,6}.
+;---------------------------------------------------
+; <L>7996<pc>1269<k1>viTura<k2>viTura/
+63865 old <div n="P1">-éna 1) ástrā {705,2}.
+;
+63865 new <div n="P1"><c 215>-éna</c> 1) ástrā {705,2}.
+;---------------------------------------------------
+; <L>7998<pc>1270<k1>vid<k2>vid<h>1
+63892 old <div n="P1">-ati 5) srutím {858,7}. — 10) tvā bhī́s {146,1} (mit Pluti).
+;
+63892 new <div n="P1">-ati 5) srutím {858,7}. — 10) tvā bhī́s <c 216>{146,1}</c> (mit Pluti).
+;---------------------------------------------------
+; <L>7998<pc>1270<k1>vid<k2>vid<h>1
+63944 old <div n="P1">-dé 13) vagnúm yám … {726,6}. — 23) … yád āsu saṃdadís {811,7}; sá sanitā́ … {100,10}; mātā́ mahás mahī́ sā́
+;
+63944 new <div n="P1"><c 217>-dé</c> 13) vagnúm yám … {726,6}. — 23) … yád āsu saṃdadís {811,7}; sá sanitā́ … {100,10}; mātā́ mahás mahī́ sā́
+;---------------------------------------------------
+; <L>8004<pc>1278<k1>vidaTina<k2>vidaTina
+64131 old ({@vidathina@})¦, <ab>m.</ab>, Eigenname eines Mannes, zu Grunde liegend in vaidathiná.
+;
+64131 new (<c 218>{@vidathina@}</c>)¦, <ab>m.</ab>, Eigenname eines Mannes, zu Grunde liegend in vaidathiná.
+;---------------------------------------------------
+; <L>8086<pc>1287<k1>viBUtarAti<k2>vi/BUta-rAti
+64685 old <div n="P1">-im agním {639,1}.
+;
+64685 new <div n="P1">-im agním <c 219>{639,1}</c>.
+;---------------------------------------------------
+; <L>8134<pc>1292<k1>vivAcana<k2>vivA/cana
+64988 old <div n="P1">-ahám ugrā́ … {985,2}.
+;
+64988 new <div n="P1"><c 220>-</c> ahám ugrā́ … {985,2}.
+;---------------------------------------------------
+; <L>8135<pc>1292<k1>vivAs<k2>vivAs
+65018 old <div n="P1">-e [1. <ab>s.</ab> <ab>me.</ab>] {@ā́@} 1) tám suṣṭutyā́ {636,3}; sumnaís <lbinfo n="5"/> vas {41,8}; tā́ (aśvinā) <lbinfo n="6"/> vácasā {303,5}; rudrásya sūnúm havásā <lbinfo n="4"/> {507,11}. — 2) tā́n rudrásya mīdhúṣas {574,5}. — 7) agnés vratā́ni <lbinfo n="5"/> {522,2} (gīrbhís). — 8) kṛtám énas {492,8}. — 9) námasā {493,17}; {492,8}.
+;
+65018 new <div n="P1">-e [1. <ab>s.</ab> <ab>me.</ab>] {@ā́@} 1) tám suṣṭutyā́ {636,3}; sumnaís <lbinfo n="5"/> vas {41,8}; tā́ (aśvinā) <lbinfo n="6"/> vácasā <c 221>{303,5}</c>; rudrásya sūnúm havásā <lbinfo n="4"/> {507,11}. — 2) tā́n rudrásya mīdhúṣas {574,5}. — 7) agnés vratā́ni <lbinfo n="5"/> {522,2} (gīrbhís). — 8) kṛtám énas {492,8}. — 9) námasā {493,17}; {492,8}.
+;---------------------------------------------------
+; <L>8148<pc>1297<k1>viSpalA<k2>viSpa/lA
+65179 old <div n="P1">-ām {112,10}; {117,11}; {865,9}.
+;
+65179 new <div n="P1">-ām {112,10}; {117,11}; <c 222>{865,9}</c>.
+;---------------------------------------------------
+; <L>8235<pc>1306<k1>viz<k2>viz<h>2
+65784 old <div n="P1">-es [2., 3. <ab>s.</ab> <ab>Conj.</ab>] 1) apás {902,3}; {973,1}.
+;
+65784 new <div n="P1"><c 223>-es</c> [2., 3. <ab>s.</ab> <ab>Conj.</ab>] 1) apás {902,3}; {973,1}.
+;---------------------------------------------------
+; <L>8235<pc>1306<k1>viz<k2>viz<h>2
+65798 old <div n="P1">-at [<ab>m.</ab>] 12) ánnā {917,7}. — 13) víṣas {935,5}; (agnís) {236,16}. — 14) havyā́ {639,11} (víṣas).
+;
+65798 new <div n="P1">-at [<ab>m.</ab>] 12) ánnā {917,7}. — 13) víṣas {935,5}; (agnís) <c 224>{236,16}</c>. — 14) havyā́ {639,11} (víṣas).
+;---------------------------------------------------
+; <L>8259<pc>1309<k1>vizRApU<k2>vizRApU/
+65952 old {@viṣṇāpū́,@}¦ <ab>f.</ab>, Eigenname des Sohnes des víśvaka. <lbinfo n="6"/>
+;
+65952 new {@viṣṇāpū́,@}¦ <c 225><ab>f.</ab></c>, Eigenname des Sohnes des víśvaka. <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>8315<pc>1317<k1>vIrakukzi<k2>vIra/-kukzi
+66376 old {@vīrá-kukṣi,@}¦ a., {%deren Leib%} [kukṣí] {%Helden trägt, heldenschwanger.%}
+;
+66376 new {@<c 226>vīrá-</c>kukṣi,@}¦ a., {%deren Leib%} [kukṣí] {%Helden trägt, heldenschwanger.%}
+;---------------------------------------------------
+; <L>8335<pc>1319<k1>vf<k2>vf<h>1
+66608 old <div n="P1">-ṛvā́ṃsam 1) apás {205,2}; {312,7}; {461,2}; {773,22}. — {@pári@} 2) devī́s (apás) {266,6}.
+;
+66608 new <div n="P1"><c 227>-ṛvā́ṃsam</c> 1) apás {205,2}; {312,7}; {461,2}; {773,22}. — {@pári@} 2) devī́s (apás) {266,6}.
+;---------------------------------------------------
+; <L>8337<pc>1325<k1>vfka<k2>vf/ka
+66707 old <div n="P1">-ānaam 1) āsnás {676,14}.
+;
+66707 new <div n="P1"><c 228>-ānaam</c> 1) āsnás {676,14}.
+;---------------------------------------------------
+; <L>8348<pc>1326<k1>vfkzakeSa<k2>vfkza/-keSa
+66774 old <div n="P1">-as giráyas {395,11}.
+;
+66774 new <div n="P1"><c 229>-as</c> giráyas {395,11}.
+;---------------------------------------------------
+; <L>8351<pc>1326<k1>vfj<k2>vfj
+66792 old <lang n="greek">εἵργνυμι, εἵργω</lang>) tritt in vrajá und 1. vṛjána hervor. Zusammenhang mit der in ū́rj zu Grunde liegenden Wurzel (siehe ūrjáy) strotzen, schwellen ist möglich, aber jedenfalls ist dann diese Sonderung schon vor der Sprachtrennung vollzogen. 1) die heilige Streu [<ab>A.</ab>] {%umwenden, umlegen,%} als das letzte Werk, wodurch sie zum Sitze für die Götter geeignet wurde. Von dem ersten Werke, dem Hinstreuen (star) wird es bestimmt unterschieden, <lbinfo n="9"/> z. B. {142,5} stṛṇānā́sas yatásrucas barhís yajñé suadhvaré, vṛñjé devávyacastamam <lbinfo n="3"/> índrāya śárma sapráthas „gestreut haben die Darreicher der Opferschale die heilige Streu beim festlichen Opfer, ich richte (durch Umwenden des Grases <ab>u. s. w.</ab>) zu den weiten gottfassenden Sitz dem Indra”; und auf den Begriff des Umwerfens deutet die Stelle {63,7} hin: tuám ha tyád indara saptá yúdhyan púras vajrin purukútsāya dardar, barhís ná yád sudáase vṛ́thā várg „Du ja, o Indra, zerspaltetest <lbinfo n="10"/> kämpfend, o Blitzbegabter, die sieben Burgen der Purukutsa, als du sie dem Sudas wie Opferstreu nach Belieben umwarfst”; <lbinfo n="8"/> 2) Feinde [<ab>A.</ab>] {%niederstrecken, zu Boden werfen,%} auch 3) mit dem <ab>Dat.</ab> dessen, für den es geschieht; 4) {%abwenden, ablenken,%} und bildlich Begierde [kā́mam] {%stillen%} (eigentlich <lbinfo n="4"/> abwenden); 5) die Zunge [<ab>A.</ab>] {%hinwenden%} zu [<ab>L.</ab>]; 6) <ab>Intens.</ab>, mit den Rossen [<ab>I.</ab>] {%ablenken, <lbinfo n="7"/> einkehren.%}
+;
+66792 new <lang n="greek">εἵργνυμι, εἵργω</lang>) tritt in vrajá und 1. vṛjána hervor. Zusammenhang mit der in ū́rj zu Grunde liegenden Wurzel (siehe ūrjáy) strotzen, schwellen ist möglich, aber jedenfalls ist dann diese Sonderung schon vor der Sprachtrennung vollzogen. 1) die heilige Streu [<ab>A.</ab>] {%umwenden, umlegen,%} als das letzte Werk, wodurch sie zum Sitze für die Götter geeignet wurde. Von dem ersten Werke, dem Hinstreuen (star) wird es bestimmt unterschieden, <lbinfo n="9"/> z. B. {142,5} stṛṇānā́sas yatásrucas barhís yajñé suadhvaré, vṛñjé devávyacastamam <lbinfo n="3"/> índrāya śárma sapráthas „gestreut haben die Darreicher der Opferschale die heilige Streu beim festlichen Opfer, ich richte (durch Umwenden des Grases <ab>u. s. w.</ab>) zu den weiten gottfassenden Sitz dem Indra”; und auf den Begriff des Umwerfens deutet die Stelle {63,7} hin: tuám ha tyád indara saptá yúdhyan púras vajrin purukútsāya dardar, barhís ná yád sudáase vṛ́thā várg „Du ja, o Indra, zerspaltetest <lbinfo n="10"/> kämpfend, o Blitzbegabter, die sieben Burgen <c 230>der</c> Purukutsa, als du sie dem Sudas wie Opferstreu nach Belieben umwarfst”; <lbinfo n="8"/> 2) Feinde [<ab>A.</ab>] {%niederstrecken, zu Boden werfen,%} auch 3) mit dem <ab>Dat.</ab> dessen, für den es geschieht; 4) {%abwenden, ablenken,%} und bildlich Begierde [kā́mam] {%stillen%} (eigentlich <lbinfo n="4"/> abwenden); 5) die Zunge [<ab>A.</ab>] {%hinwenden%} zu [<ab>L.</ab>]; 6) <ab>Intens.</ab>, mit den Rossen [<ab>I.</ab>] {%ablenken, <lbinfo n="7"/> einkehren.%}
+;---------------------------------------------------
+; <L>8351<pc>1326<k1>vfj<k2>vfj
+66810 old <div n="P1">-ñjanti {@ápi@} árvate krátum <lbinfo n="3"/> {477,2} (vṛtrahátye); <lbinfo n="5"/> tué krátum {946,2}.
+;
+66810 new <div n="P1">-ñjanti {@ápi@} árvate krátum <lbinfo n="3"/> {477,2} (vṛtrahátye); <lbinfo n="5"/> tué krátum <c 231>{946,2}</c>.
+;---------------------------------------------------
+; <L>8351<pc>1326<k1>vfj<k2>vfj
+66852 old <div n="P1">-ṛjyā́ma {@pári@} 3) te dvíṣas <lbinfo n="3"/> {665,19}.
+;
+66852 new <div n="P1">-ṛjyā́ma {@pári@} 3) te dvíṣas <lbinfo n="3"/> <c 232>{665,19}</c>.
+;---------------------------------------------------
+; <L>8408<pc>1345<k1>vfzan<k2>vf/zan
+67614 old <div n="P1">-aṇas [<ab>N.</ab>] 2) vṛṣabhā́sas <lbinfo n="3"/> {177,2} (átyās); átyās <lbinfo n="4"/> {181,2}; áśvāsas {470,2}; {621,9}; áśvās {643,11}; hárayas {485,19}; mahiṣā́s {831,2} (sám jagmire árvatībhis). <lbinfo n="6"/> — 4) grā́vāṇas {385,5}. — 7) ápi pátnīs <lbinfo n="4"/> jagamyus {179,1}; sám pátnībhis … ná nasīmahi {207,8}; vadhúas <lbinfo n="5"/> yanti ácha {401,6}. — 8) sū́ras dṛśī́ke … ca paúṃsie {337,6}; {918,7}; bildlich von den Presssteinen … bíbhratas dhúras {920,6}. — 9) {485,20}; {587,3}; {186,5}; {302,9} (aruṣā́sas <lbinfo n="6"/> ṛjumuṣkā́s). — 10) te abhī́śavas {653,11}. — 11) vayám {261,15}; haviṣkṛ́tas {892,6}; vṛṣastúbhas {892,6}; ījire {892,7}. — 13) {109,3}. — 14) marútas {165,1}; {640,11} (ugrā́sas); párvatāsas {288,20}; devā́s <lbinfo n="4"/> {892,6}; {537,2} (nṛṣā́cas). <lbinfo n="8"/>
+;
+67614 new <div n="P1">-aṇas [<ab>N.</ab>] 2) vṛṣabhā́sas <lbinfo n="3"/> {177,2} (átyās); átyās <lbinfo n="4"/> {181,2}; áśvāsas {470,2}; {621,9}; áśvās {643,11}; hárayas {485,19}; mahiṣā́s {831,2} (sám jagmire árvatībhis). <lbinfo n="6"/> — 4) grā́vāṇas {385,5}. — 7) ápi pátnīs <lbinfo n="4"/> jagamyus {179,1}; sám pátnībhis … ná nasīmahi {207,8}; vadhúas <lbinfo n="5"/> yanti ácha {401,6}. — 8) sū́ras dṛśī́ke … ca paúṃsie {337,6}; {918,7}; bildlich von den Presssteinen … bíbhratas dhúras {920,6}. — 9) {485,20}; {587,3}; {186,5}; {302,9} (aruṣā́sas <lbinfo n="6"/> ṛjumuṣkā́s). — 10) te abhī́śavas {653,11}. — 11) vayám {261,15}; haviṣkṛ́tas {892,6}; vṛṣastúbhas {892,6}; ījire {892,7}. — 13) {109,3}. — 14) marútas {165,1}; <c 233>{640,11}</c> (ugrā́sas); párvatāsas {288,20}; devā́s <lbinfo n="4"/> {892,6}; {537,2} (nṛṣā́cas). <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>8438<pc>1351<k1>vfzAy<k2>vfzAy<h>2
+67796 old 2. {@vṛṣāy@}¦ [von vṛ́ṣan], 1) {%brünstig sein, sich kräftig erweisen;%} 2) auch mit <ab>Dat.</ab>; 3) {%sich brünstig losstürzen%} auf [<ab>A.</ab>]; 4) {%gierig hineilen%} <lbinfo n="7"/> zu [D.].
+;
+67796 new 2. <c 234>{@vṛṣāy@}</c>¦ [von vṛ́ṣan], 1) {%brünstig sein, sich kräftig erweisen;%} 2) auch mit <ab>Dat.</ab>; 3) {%sich brünstig losstürzen%} auf [<ab>A.</ab>]; 4) {%gierig hineilen%} <lbinfo n="7"/> zu [D.].
+;---------------------------------------------------
+; <L>8466<pc>1353<k1>vedya<k2>ve/dya
+67965 old <div n="P1">-as agnís {445,2}; ráthas {639,3}.
+;
+67965 new <div n="P1">-as agnís {445,2}; ráthas <c 235>{639,3}</c>.
+;---------------------------------------------------
+; <L>8468<pc>1353<k1>veDas<k2>veDa/s
+67978 old {@vedhás,@}¦ a., <ab>m.</ab> [von 1. vid], 1) a., {%huldvoll;%} 2) <ab>m.</ab>, {%Verehrer;%} 3) <ab>m.</ab>, {%huldvoller Fürsorger%} oder {%Ordner;%} 4) <ab>m.</ab>, {%Ordner%} <ab>m.</ab> <ab>Gen.</ab> In 2—4 oft mit dem <ab>Adj.</ab> kaví.
+;
+67978 new {@vedhás,@}¦ a., <ab>m.</ab> [von 1. <c 236>vid</c>], 1) a., {%huldvoll;%} 2) <ab>m.</ab>, {%Verehrer;%} 3) <ab>m.</ab>, {%huldvoller Fürsorger%} oder {%Ordner;%} 4) <ab>m.</ab>, {%Ordner%} <ab>m.</ab> <ab>Gen.</ab> In 2—4 oft mit dem <ab>Adj.</ab> kaví.
+;---------------------------------------------------
+; <L>8471<pc>1354<k1>vena<k2>vena/
+68031 old <div n="P1">-ā́s 1) mahiṣā́s (saúmās) {785,2}; girím ná … ádhi roha {56,2}. — 2) {776,2}; {797,10}; {890,2}.
+;
+68031 new <div n="P1">-ā́s 1) mahiṣā́s (saúmās) {785,2}; girím ná … ádhi roha {56,2}. — 2) <c 237>{776,2}</c>; {797,10}; {890,2}.
+;---------------------------------------------------
+; <L>8485<pc>1355<k1>vE<k2>vE/
+68109 old {@vaí,@}¦ das vorhergehende Wort hervorhebend, {%wahrlich, ja,%} stets in der Form vā́ (Pada vaí), ná … {972,5}; nametlich 2) mit unmittelbar folgendem u: ná … {62,21}; {620,13}; {943,1}; áha … {536,2}; yád … {643,13}; id … {105,2}; {671,12}; {963,1}; spárdhante … {601,2}.
+;
+68109 new {@vaí,@}¦ das vorhergehende Wort hervorhebend, {%wahrlich, ja,%} <c 238>stets</c> in der Form vā́ (Pada vaí), ná … {972,5}; nametlich 2) mit unmittelbar folgendem u: ná … <c 239>{62,21}</c>; {620,13}; {943,1}; áha … {536,2}; yád … {643,13}; id … {105,2}; {671,12}; <c 240>{963,1}</c>; spárdhante … {601,2}.
+;---------------------------------------------------
+; <L>8594<pc>1374<k1>Satacakra<k2>Sata/-cakra
+69072 old <div n="P1">-as yás {970,4}.
+;
+69072 new <div n="P1"><c 241>-as yás</c> {970,4}.
+;---------------------------------------------------
+; <L>8661<pc>1379<k1>Sama<k2>Sa/ma
+69497 old <div n="P1">-am vṛṣabhám {33,14}.
+;
+69497 new <div n="P1">-am vṛṣabhám <c 242>{33,14}</c>.
+;---------------------------------------------------
+; <L>8681<pc>1382<k1>SaraRa<k2>SaraRa/
+69649 old <div n="P1">-ám 1) śárma {617,1}; {667,10}. — 2) {491,3}; neben chardís {487,9}; neben śárma {490,7}. — 3) {158,3}; {611,5} … ná vṛkṣám. — 4) {194,8}.
+;
+69649 new <div n="P1">-ám 1) śárma <c 243>{617,1}</c>; {667,10}. — 2) {491,3}; neben chardís {487,9}; neben śárma {490,7}. — 3) {158,3}; {611,5} … ná vṛkṣám. — 4) {194,8}.
+;---------------------------------------------------
+; <L>8697<pc>1384<k1>Sarman<k2>Sa/rman
+69783 old <div n="P1">-a [<ab>A.</ab> <ab>p.</ab>] 1) priyā́ … pitṝṇáam {487,12}. — 2) áchidrā … purū́ṇi {249,4}. — 3) áchidrā … dadhire {216,5}; púras <lbinfo n="3"/> … śā́radīs dárt {174,2}; {461,10} (wo als Apposition). — 4) áchidrā <lbinfo n="6"/> {58,8}.
+;
+69783 new <div n="P1">-a [<ab>A.</ab> <ab>p.</ab>] 1) priyā́ … pitṝṇáam {487,12}. — 2) áchidrā … purū́ṇi <c 244>{249,4}</c>. — 3) áchidrā … dadhire {216,5}; púras <lbinfo n="3"/> … śā́radīs dárt {174,2}; {461,10} (wo als Apposition). — 4) áchidrā <lbinfo n="6"/> {58,8}.
+;---------------------------------------------------
+; <L>8715<pc>1387<k1>SavizWa<k2>Sa/vizWa
+69884 old {@śáviṣṭha,@}¦ a., {%der stärkste%} [Superl. des Verbale śū, mit der dabei regelrechten Gunirung]; daher 2) <ab>m.</ab>, Eigenname eines Mannes.
+;
+69884 new <c 245>{@śáviṣṭha,@}</c>¦ a., {%der stärkste%} [Superl. des Verbale śū, mit der dabei regelrechten Gunirung]; daher 2) <ab>m.</ab>, Eigenname eines Mannes.
+;---------------------------------------------------
+; <L>8741<pc>1391<k1>SAtavat<k2>SA/tavat?
+70103 old <div n="P1">-anā [<ab>du.</ab>] mitrā́‿iva ṛtā́ śatárā … {932,5} (der Text hat das unverständliche cā́tapantā).
+;
+70103 new <div n="P1"><c 246>-anā</c> [<ab>du.</ab>] mitrā́‿iva ṛtā́ śatárā … {932,5} (der Text hat das unverständliche cā́tapantā).
+;---------------------------------------------------
+; <L>8789<pc>1395<k1>Siras<k2>Si/ras
+70421 old <div n="P1">-as {780,4}; {853,13}; {905,2}; patatrí {163,6}; hitvī́ … {500,6}. — 2) vṛtrásya {52,10}; {626,6}; {685,2}; dāsásya {314,9}; {211,6}; námuces {384,7. 8}; {461,6}; {634,3}; amarmáṇas {467,3}; te makhásya {997,2}; te (índrasya) {285,12}; me (vṛṣā́kapes) {912,7}; tatásya {700,5. 6}; asya (kapés) {912,5}; áśvasya {84,14}; áśviam {117,22}; {119,9}.
+;
+70421 new <div n="P1">-as {780,4}; {853,13}; {905,2}; patatrí {163,6}; hitvī́ … {500,6}. — 2) vṛtrásya {52,10}; {626,6}; {685,2}; dāsásya {314,9}; {211,6}; námuces {384,7. 8}; {461,6}; <c 247>{634,3}</c>; amarmáṇas {467,3}; te makhásya {997,2}; te (índrasya) {285,12}; me (vṛṣā́kapes) {912,7}; tatásya {700,5. 6}; asya (kapés) {912,5}; áśvasya {84,14}; áśviam {117,22}; {119,9}.
+;---------------------------------------------------
+; <L>8819<pc>1399<k1>SukraduGa<k2>Sukra/-duGa
+70683 old {@śukrá-dugha,@}¦ a., {%Samen%} [śukrá 7] {%strömen lassend.%}
+;
+70683 new <c 248>{@śukrá-dugha,@}</c>¦ a., {%Samen%} [śukrá 7] {%strömen lassend.%}
+;---------------------------------------------------
+; <L>8828<pc>1400<k1>Suc<k2>Suc
+70754 old <div n="P1">-ugdhi [<ab>Iv.</ab>] ā́ rayím {97,1}.
+;
+70754 new <div n="P1"><c 249>-ugdhi</c> [<ab>Iv.</ab>] ā́ rayím {97,1}.
+;---------------------------------------------------
+; <L>8910<pc>1413<k1>SevAra<k2>Se/vAra
+71455 old <div n="P1">-e [D.] … vā́riā purú devás mártāya dāśúṣe
+;
+71455 new <div n="P1">-e <c 250>[D.]</c> … vā́riā purú devás mártāya dāśúṣe
+;---------------------------------------------------
+; <L>8920<pc>1413<k1>Socis<k2>Soci/s
+71517 old <div n="P1">-íṣas [<ab>G.</ab>] pate {360,5} (agne).
+;
+71517 new <div n="P1"><c 251>-íṣas</c> [<ab>G.</ab>] pate {360,5} (agne).
+;---------------------------------------------------
+; <L>8963<pc>1419<k1>Sramayu<k2>Sramayu/
+71859 old <div n="P1">-úvas [<ab>N.</ab> <ab>p.</ab>] padavías {72,7}.
+;
+71859 new <div n="P1">-úvas [<ab>N.</ab> <ab>p.</ab>] padavías <c 252>{72,7}</c>.
+;---------------------------------------------------
+; <L>8982<pc>1424<k1>SrI<k2>SrI
+72049 old <div n="H">Stamm {@I. śriṇā:@}
+;
+72049 new <div n="H">Stamm {@I. <c 253>śriṇā</c>:@}
+;---------------------------------------------------
+; <L>8985<pc>1425<k1>Sru<k2>Sru<h>1
+72172 old <div n="P1">-ávat [Co. II.] 1) gíras {121,1} (aber auch nṝ́n, pā́tram); stómam {621,15}; sā́ma {690,5}. — 5) śrútkarṇas {548,5}; yádi … (índras) {30,8}. — {@úpa@} 2) hávam {491,6}; gíras {486,22}.
+;
+72172 new <div n="P1">-ávat [Co. II.] 1) gíras {121,1} (aber auch nṝ́n, pā́tram); stómam {621,15}; sā́ma {690,5}. — 5) śrútkarṇas {548,5}; yádi … (índras) {30,8}. — {@úpa@} 2) hávam {491,6}; gíras <c 254>{486,22}</c>.
+;---------------------------------------------------
+; <L>9009<pc>1431<k1>SrezWa<k2>Sre/zWa, Sra/yizWa
+72382 old <div n="P1">-e [<ab>L.</ab>] 3) savitúr sávīmani <lbinfo n="4"/> {512,2}; {862,2}.
+;
+72382 new <div n="P1">-e [<ab>L.</ab>] 3) savitúr sávīmani <lbinfo n="4"/> {512,2}; <c 255>{862,2}</c>.
+;---------------------------------------------------
+; <L>9031<pc>1434<k1>Svas<k2>Sva/s
+72559 old {@śvás,@}¦ {%morgen, folgenden Tages%} {123,8}; {465,5}; {512,6}; in der Form śuás {167,10}; {170,1}; {497,6}; cuás-cuas {670,16} (adyá-adya …, índra trā́sva paré ca nas).
+;
+72559 new {@śvás,@}¦ {%morgen, folgenden Tages%} {123,8}; {465,5}; {512,6}; in der Form śuás {167,10}; {170,1}; {497,6}; cuás-cuas <c 256>{670,16}</c> (adyá-adya …, índra trā́sva paré ca nas).
+;---------------------------------------------------
+; <L>9086<pc>1439<k1>saMsud<k2>saMsu/d
+72904 old {@saṃsúd,@}¦ <ab>Inf.</ab>, siehe svad.
+;
+72904 new <c 257>{@saṃsúd,@}</c>¦ <ab>Inf.</ab>, siehe svad.
+;---------------------------------------------------
+; <L>9148<pc>1449<k1>sacetas<k2>sa/-cetas
+73379 old <div n="P1">-ās [<ab>f.</ab>] 1) 2) pṛthiv {312,7}.
+;
+73379 new <div n="P1">-ās [<ab>f.</ab>] 1) 2) <c 258>pṛthiv</c> {312,7}.
+;---------------------------------------------------
+; <L>9156<pc>1450<k1>sajozas<k2>sa-jo/zas
+73442 old <div n="P1">-ās [<ab>m.</ab>] 1) devaís {90,1}; devébhis jánibhis {491,13} (tváṣṭā); gnā́bhis {222,4}; sūríbhis {186,6} (tváṣṭā); rudraís {266,2}; rudrébhis vásubhis {521,9}; tébhis (marúdbhis) <lbinfo n="6"/> {269,9}; marúdbhis <lbinfo n="5"/> {281,1} (neben ságaṇas); {330,7}; {481,5}; váruṇena, ṛtupā́bhis, <lbinfo n="5"/> gnā́spátnībhis {330,7}; háribhis {277,3}; mitréṇa váruṇena {335,3}; mitréṇa {444,1}; íḍayā {358,4}; náptrā apáām {454,3}; vásubhis <lbinfo n="4"/> {526,4}; {936,3}; amṛ́tebhis {846,10}. — 2) śastíbhis {186,3}; śruṣṭī́ {509,1} (yajñás); ūtíbhis {540,4}; {668,15}; tápasā {909,2}. — 3) (agnís) {397,6}; tváṣṭā {844,6}.
+;
+73442 new <div n="P1">-ās [<ab>m.</ab>] 1) devaís {90,1}; devébhis jánibhis {491,13} (tváṣṭā); gnā́bhis {222,4}; sūríbhis {186,6} (tváṣṭā); rudraís {266,2}; rudrébhis vásubhis {521,9}; tébhis (marúdbhis) <lbinfo n="6"/> {269,9}; marúdbhis <lbinfo n="5"/> <c 259>{281,1}</c> (neben ságaṇas); {330,7}; {481,5}; váruṇena, ṛtupā́bhis, <lbinfo n="5"/> gnā́spátnībhis {330,7}; háribhis {277,3}; mitréṇa váruṇena {335,3}; mitréṇa {444,1}; íḍayā {358,4}; náptrā apáām {454,3}; vásubhis <lbinfo n="4"/> {526,4}; {936,3}; amṛ́tebhis {846,10}. — 2) śastíbhis {186,3}; śruṣṭī́ {509,1} (yajñás); ūtíbhis {540,4}; {668,15}; tápasā {909,2}. — 3) (agnís) {397,6}; tváṣṭā {844,6}.
+;---------------------------------------------------
+; <L>9313<pc>1473<k1>sapitva<k2>sa-pitva/
+74678 old {@sa-pitvá,@}¦ <ab>n.</ab>, {%Vereinigung%} (<ab>vgl.</ab> apapitvá <ab>u. s. w.</ab> und pitva), daher <ab>neutr.</ab> -am als Adverb, {%vereint%} mit [<ab>I.</ab>]: yébhis (raśmíbhis) … pitáras nas ā́san {109,7}.
+;
+74678 new {@sa-pitvá,@}¦ <ab>n.</ab>, {%Vereinigung%} (<ab>vgl.</ab> apapitvá <ab>u. s. w.</ab> und pitva), daher <ab>neutr.</ab> <c 260>-am</c> als Adverb, {%vereint%} mit [<ab>I.</ab>]: yébhis (raśmíbhis) … pitáras nas ā́san {109,7}.
+;---------------------------------------------------
+; <L>9325<pc>1474<k1>saptan<k2>sapta/n
+74748 old padā́ni {834,4}; hótrās {843,11}; vīrā́sas {853,15}; rebhā́s {897,3}; ā́pas <lbinfo n="3"/> {930,8}; dhī́rās {940,4}; dā́nūn {946,6}; havíṣmantas <lbinfo n="9"/> {948,4}. — 2) {164,2} … yuñjanti rátham; {164,3} imám rátham ádhi yé … tasthús; <lbinfo n="6"/> {839,5} … kṣaranti; <lbinfo n="6"/> {681,7} dúhanti … ékām. — 3) putrā́s … śatā́ni viṃśatís ca {164,11}; saptatím ca … ca {919,15}; śatám … ca dhā́māni {923,1}. — 4) viṣpuliṅgakā́s 14; 12; mayūrías 14; mātúr paramā́ṇi {297,16}; nā́ma {603,4}; usrā́s <lbinfo n="5"/> {666,26}; nadías {890,8}; dhenávas {782,1}; (dhenū́s) {798,21}; sā́nu {705,2}; (devā́s?) {678,7}.
+;
+74748 new padā́ni {834,4}; hótrās {843,11}; vīrā́sas {853,15}; rebhā́s {897,3}; ā́pas <lbinfo n="3"/> {930,8}; dhī́rās <c 261>{940,4}</c>; dā́nūn {946,6}; havíṣmantas <lbinfo n="9"/> {948,4}. — 2) {164,2} … yuñjanti rátham; {164,3} imám rátham ádhi yé … tasthús; <lbinfo n="6"/> {839,5} … kṣaranti; <lbinfo n="6"/> {681,7} dúhanti … ékām. — 3) putrā́s … śatā́ni viṃśatís ca {164,11}; saptatím ca … ca {919,15}; śatám … ca dhā́māni {923,1}. — 4) viṣpuliṅgakā́s 14; 12; mayūrías 14; mātúr paramā́ṇi {297,16}; nā́ma {603,4}; usrā́s <lbinfo n="5"/> {666,26}; nadías {890,8}; dhenávas {782,1}; (dhenū́s) {798,21}; sā́nu {705,2}; (devā́s?) {678,7}.
+;---------------------------------------------------
+; <L>9425<pc>1485<k1>samrAj<k2>samrA/j
+75402 old 7 = {290,5} (vidátheṣu); (índras) {315,2}; {574,1}; (váruṇas) {598,2} (neben svarā́j); {662,1}. — 2) divás pṛthi- vyā́s ca {100,1}; carṣaṇīnáam <lbinfo n="8"/> {244,1} (agnís); <lbinfo n="6"/> vásvas {317,10} (índras).
+;
+75402 new 7 = {290,5} (vidátheṣu); (índras) {315,2}; {574,1}; (váruṇas) {598,2} (neben svarā́j); <c 262>{662,1}</c>. — 2) divás pṛthi- vyā́s ca {100,1}; carṣaṇīnáam <lbinfo n="8"/> {244,1} (agnís); <lbinfo n="6"/> vásvas {317,10} (índras).
+;---------------------------------------------------
+; <L>9425<pc>1485<k1>samrAj<k2>samrA/j
+75408 old <div n="P1">-ā́jā [<ab>du.</ab>] mitrā́váruṇā {417,3}; {643,30}; {645,4}; {136,1}; {232,6}; {422,2}; {645,7}; {649,9}; {891,5}.
+;
+75408 new <div n="P1"><c 263>-ā́jā</c> [<ab>du.</ab>] mitrā́váruṇā {417,3}; {643,30}; {645,4}; {136,1}; {232,6}; {422,2}; {645,7}; {649,9}; {891,5}.
+;---------------------------------------------------
+; <L>9434<pc>1486<k1>saraw<k2>sara/w
+75463 old <div n="P1">-aḍbhias [D.] mádhu priyám bharathas yád … {112,21}.
+;
+75463 new <div n="P1"><c 264>-aḍbhias</c> [D.] mádhu priyám bharathas yád … {112,21}.
+;---------------------------------------------------
+; <L>9450<pc>1488<k1>sarIman<k2>sa/rIman
+75568 old <div n="P1">-ani [<ab>L.</ab>] {263,11} vā́tasya sárgas abhavat (agnís) ….
+;
+75568 new <div n="P1"><c 265>-ani</c> [<ab>L.</ab>] {263,11} vā́tasya sárgas abhavat (agnís) ….
+;---------------------------------------------------
+; <L>9533<pc>1500<k1>sahasra<k2>saha/sra
+76194 old <div n="P1">-am 1) sámāśirām (sómānām) <lbinfo n="6"/> {30,2}; viátīnaam <lbinfo n="4"/> {328,17}; ándhasas <lbinfo n="3"/> {687,1}. — 2) ádhiratham <lbinfo n="6"/> {924,4}; {928,2}; tredhā́ … ví tád airayethām <lbinfo n="6"/> {510,8}; páśum {654,16}. — 3) {80,9}; (varcínas) {205,6}; {615,5}; … abhí sīm áyodhīt <lbinfo n="4"/> {334,8}. — 4) {641,18} (… ayútā dádat). — 5) gávyam {126,3}; śatá-aśvam <lbinfo n="8"/> {888,8}. — 10) rātáyas {11,8}; ūtáyas <lbinfo n="3"/> {167,1}; {327,10}; íṣas, rā́yas {167,1}; bhiṣájas <lbinfo n="5"/> {24,9}; hárayas {342,3}; {621,24}; stotā́ras <lbinfo n="3"/> {475,3}; śáṃsās {541,3}; {1026,3}; bheṣajā́ {562,3}; niyútas {607,6}; {608,1}; sū́riās {679,5}; áśvās {790,2}; kaváyas {809,29}; mítas {844,12}; rúhas {923,2}; mahimā́nas <lbinfo n="6"/> {940,8}; (yūyám) {80,9} (sākám arcata). — mit Accus.: savā́n {126,1}; {322,7}; vīrā́n {205,7}; māsás {314,4}; śurúdhas {578,3}; rā́dhāṃsi <lbinfo n="6"/> {626,46}; mahiṣā́n <lbinfo n="6"/> {632,9}; aṣṭakarṇías <lbinfo n="7"/> {888,7}; sālāvṛkā́n <lbinfo n="6"/> {899,3}. — mit <ab>Instr.</ab>: ṛ́ṣibhis {189,8}; {623,4}; pathíbhis {459,11}; {803,3}; {818,6}; ūtíbhis <lbinfo n="6"/> {764,5}; pitṛ́bhis {841,10}; akṣábhis {905,5}.
+;
+76194 new <div n="P1">-am 1) sámāśirām (sómānām) <lbinfo n="6"/> {30,2}; viátīnaam <lbinfo n="4"/> {328,17}; ándhasas <lbinfo n="3"/> {687,1}. — 2) ádhiratham <lbinfo n="6"/> {924,4}; {928,2}; tredhā́ … ví tád airayethām <lbinfo n="6"/> {510,8}; páśum {654,16}. — 3) {80,9}; (varcínas) {205,6}; {615,5}; … abhí sīm áyodhīt <lbinfo n="4"/> {334,8}. — 4) {641,18} (… ayútā dádat). — 5) gávyam {126,3}; śatá-aśvam <lbinfo n="8"/> {888,8}. — 10) rātáyas {11,8}; ūtáyas <lbinfo n="3"/> {167,1}; {327,10}; íṣas, rā́yas {167,1}; bhiṣájas <lbinfo n="5"/> {24,9}; hárayas {342,3}; {621,24}; stotā́ras <lbinfo n="3"/> {475,3}; śáṃsās {541,3}; {1026,3}; bheṣajā́ {562,3}; niyútas {607,6}; {608,1}; sū́riās {679,5}; áśvās {790,2}; kaváyas {809,29}; mítas {844,12}; rúhas {923,2}; mahimā́nas <lbinfo n="6"/> {940,8}; (yūyám) {80,9} (sākám arcata). — mit Accus.: savā́n {126,1}; {322,7}; vīrā́n {205,7}; māsás {314,4}; śurúdhas {578,3}; rā́dhāṃsi <lbinfo n="6"/> {626,46}; mahiṣā́n <lbinfo n="6"/> <c 266>{632,9}</c>; aṣṭakarṇías <lbinfo n="7"/> {888,7}; sālāvṛkā́n <lbinfo n="6"/> {899,3}. — mit <ab>Instr.</ab>: ṛ́ṣibhis {189,8}; {623,4}; pathíbhis {459,11}; {803,3}; {818,6}; ūtíbhis <lbinfo n="6"/> {764,5}; pitṛ́bhis {841,10}; akṣábhis {905,5}.
+;---------------------------------------------------
+; <L>9560<pc>1503<k1>sahasraBfzwi<k2>saha/sra-Bfzwi/
+76356 old {@sahásra-bhṛṣṭí,@}¦ a., {%tausend Zacken%} [bhṛṣṭí] {%habend,%} vom Blitze; 2) {%tausend spitzige Waffen habend,%} von dem mit einem Könige verglichenen Soma.
+;
+76356 new {@sahásra-<c 267>bhṛṣṭí</c>,@}¦ a., {%tausend Zacken%} [bhṛṣṭí] {%habend,%} vom Blitze; 2) {%tausend spitzige Waffen habend,%} von dem mit einem Könige verglichenen Soma.
+;---------------------------------------------------
+; <L>9604<pc>1506<k1>sAMvaraRi<k2>sA/MvaraRi
+76634 old <div n="P1">-au [<ab>L.</ab>] mánau {1020,4}.
+;
+76634 new <div n="P1">-au [<ab>L.</ab>] mánau <c 268>{1020,4}</c>.
+;---------------------------------------------------
+; <L>9626<pc>1510<k1>sADu<k2>sADu/
+76799 old <div n="P1">-ú 6) vṛjinā́‿utá … {218,3}. — 9) bei i {24,3} = {434,3}; {450,5}; nī {456,16}. — 10) {194,6} (san); {559,2} (star).
+;
+76799 new <div n="P1">-ú 6) vṛjinā́‿utá … {218,3}. — 9) bei i <c 269>{24,3}</c> = {434,3}; {450,5}; nī {456,16}. — 10) {194,6} (san); {559,2} (star).
+;---------------------------------------------------
+; <L>9659<pc>1513<k1>sAvarRya<k2>sAvarRya/
+77012 old <div n="P1">-asya dákṣiṇā {888,9}.
+;
+77012 new <div n="P1"><c 270>-asya</c> dákṣiṇā {888,9}.
+;---------------------------------------------------
+; <L>9793<pc>1535<k1>sudina<k2>su-di/na
+78137 old <div n="P1">-ā [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] 2) pṛ́śnis marúdbhyas {414,5}. — 5) víśvā asmai … {300,7}.
+;
+78137 new <div n="P1"><c 271>-ā</c> [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] 2) pṛ́śnis marúdbhyas {414,5}. — 5) víśvā asmai … {300,7}.
+;---------------------------------------------------
+; <L>9852<pc>1540<k1>suprajAvat<k2>su-prajA/vat
+78512 old {@su-prajā́vat,@}¦ a., {%reichlich von Nachkommenschaft <lbinfo n="6"/> begleitet.%}
+;
+78512 new <c 272>{@su-prajā́vat,@}</c>¦ a., {%reichlich von Nachkommenschaft <lbinfo n="6"/> begleitet.%}
+;---------------------------------------------------
