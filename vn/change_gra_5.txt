@@ -1,0 +1,190 @@
+; <L>1586<pc>0184<k1>AraRa<k2>A/raRa
+10704 old {@ā́raṇa,@}¦ n„ {%Abgrund, Tiefe%} [wol ursprünglich „das entfernte“, <ab>vgl.</ab> áraṇa, ārá].
+;
+10704 new {@ā́raṇa,@}¦ n., {%Abgrund, Tiefe%} [wol ursprünglich „das entfernte“, <ab>vgl.</ab> áraṇa, ārá].
+;---------------------------------------------------
+; <L>2113<pc>0274<k1>UrRavABi<k2>UrRavA/Bi
+14905 old ({@ūrṇavā́bhi@})¦, <ab>m.</ab>, {%Spinne,%} eigentlich „die Wolle [ū́rṇā] webende [vabh = gr.
+;
+14905 new ({@ūrṇavā́bhi@})¦, <ab>m.</ab>, {%Spinne,%} eigentlich „die Wolle [ū́rṇā] webende [vabh = gr. <lang n="greek">ὑφαίνω</lang> deutsch weben]“, enthalten in aurṇavābhá.
+;---------------------------------------------------
+; <L>2113<pc>0274<k1>UrRavABi<k2>UrRavA/Bi
+14906 old <lang n="greek">ὑφαίνω</lang> deutsch weben]“, enthalten in aurṇavābhá.
+;
+14906 new 
+;---------------------------------------------------
+; <L>3100<pc>0415<k1>graTin<k2>graTi/n
+22499 old {@grathín,@}¦ a., wol ursprünglich „ineinandergeschlungen,
+;
+22499 new {@grathín,@}¦ a., wol ursprünglich ineinandergeschlungen,
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24402 old <div n="P">4) dieselbe verallgemeinernde Bedeutung hat es auch, wo es nach Relativen oder Conjunctionen steht, namentlich yás cid, „welcher irgend, welcher überhaupt, jeder welcher“, so nach yás {24,4}; {84,9}; yé {48,14}; yā́s {32,8}. Wenn auch im Hauptsatze die Allgemeinheit <lbinfo n="10"/> hervorgehoben werden soll, so steht cid hinter dem Demonstrativ noch einmal, z. B. {179,2} yé cid.
+;
+24402 new <div n="P">4) dieselbe verallgemeinernde Bedeutung hat es auch, wo es nach Relativen oder Conjunctionen steht, namentlich yás cid, „welcher irgend, welcher überhaupt, jeder welcher“, so nach yás {24,4}; {84,9}; yé {48,14}; yā́s {32,8}. Wenn auch im Hauptsatze die Allgemeinheit <lbinfo n="10"/> hervorgehoben werden soll, so steht cid hinter dem Demonstrativ noch einmal, z. B. {179,2} yé cid . . té cid, „welche irgend …, die alle“; 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24403 old . té cid, „welche irgend
+;
+24403 new 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24404 old …, die alle“; so yád cid (yác cid), „wenn irgend, wenn überhaupt“, besonders mit der gleichfalls verallgemeinernden Wiederholung: <lbinfo n="7"/> dyávi-dyavi {25,1}; devám-devam {26,6}; gṛhé-gṛhe {28,5}; im Nachsatze folgt dann gern das auf einen beschränkende íd ({26,6}); mit tú im Nachsatze: „wenn auch
+;
+24404 new so yád cid (yác cid), „wenn irgend, wenn überhaupt“, besonders mit der gleichfalls verallgemeinernden Wiederholung: <lbinfo n="7"/> dyávi-dyavi {25,1}; devám-devam {26,6}; gṛhé-gṛhe {28,5}; im Nachsatze folgt dann gern das auf einen beschränkende íd ({26,6}); mit tú im Nachsatze: 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24405 old .., so doch
+;
+24405 new „wenn auch.., so doch ..“ {29,1}; 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24406 old ..“ {29,1}; so yád cid oder yáthā cid mit folgendem Imperfect und dem Imperativ im Nachsatze in dem Sinne „wenn irgend früher
+;
+24406 new so yád cid oder yáthā cid mit folgendem Imperfect und dem Imperativ im Nachsatze in dem Sinne „wenn irgend früher .., so gerade jetzt ..“ oder 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24407 old .., so gerade jetzt
+;
+24407 new 
+;---------------------------------------------------
+; <L>3315<pc>0454<k1>cid<k2>cid
+24408 old ..“ oder „wie früher stets.., so auch jetzt“ {628,6} (mit purā́); {665,19}; {433,1}; so yáthā cid
+;
+24408 new „wie früher stets.., so auch jetzt“ {628,6} (mit purā́); {665,19}; {433,1}; so yáthā cid
+;---------------------------------------------------
+; <L>3528<pc>0492<k1>jIvagfB<k2>jIva-gf/B
+26258 old <div n="P1">-ṛ́bhas [Ab.] purā́ 〰 923,11: „Wenn ich diese Pflanzen in meine Hand genommen habe, weicht der Geist der Krankheit, wie vor <ab>u. s. w.</ab>
+;
+26258 new <div n="P1">-ṛ́bhas [Ab.] purā́ 〰 923,11: „Wenn ich diese Pflanzen in meine Hand genommen habe, weicht der Geist der Krankheit“, wie vor <ab>u. s. w.</ab>
+;---------------------------------------------------
+; <L>4792<pc>0700<k1>na<k2>na/
+36802 old … góbhis yávam ná carkṛṣat „er pflüge mir durch Rinder gleichsam das Getreidefeld; <lbinfo n="5"/> so {30,2. 14}; {48,6}; {57,2}; {79,2}; {120,4}; {121,6}; {133,6}; {149,2}; {165,14}; {168,5}; {519,4}. — 3) {%wie%} in dem Sinne von {%sowohl — als auch, — oder:%} {70,4} ádrau cid asmai antár duroṇé viśā́m ná víśvas amṛ́tas svādhī́s „Im Wolkengeklüft <lbinfo n="7"/> wie in der Wohnung der Menschen ist diesem (Agni) jeder Unsterbliche holdgesinnt“; <lbinfo n="9"/> {38,2} kád vas ártham gántā divás ná pṛthivyā́s „zu welchem Zwecke kommt ihr vom Himmel oder von der Erde?“ — Ueber den Wechsel mit iva siehe iva 7.
+;
+36802 new … góbhis yávam ná carkṛṣat „er pflüge mir durch Rinder gleichsam das Getreidefeld“; <lbinfo n="5"/> so {30,2. 14}; {48,6}; {57,2}; {79,2}; {120,4}; {121,6}; {133,6}; {149,2}; {165,14}; {168,5}; {519,4}. — 3) {%wie%} in dem Sinne von {%sowohl — als auch, — oder:%} {70,4} ádrau cid asmai antár duroṇé viśā́m ná víśvas amṛ́tas svādhī́s „Im Wolkengeklüft <lbinfo n="7"/> wie in der Wohnung der Menschen ist diesem (Agni) jeder Unsterbliche holdgesinnt“; <lbinfo n="9"/> {38,2} kád vas ártham gántā divás ná pṛthivyā́s „zu welchem Zwecke kommt ihr vom Himmel oder von der Erde?“ — Ueber den Wechsel mit iva siehe iva 7.
+;---------------------------------------------------
+; <L>5736<pc>0850<k1>pfc<k2>pfc
+44184 old {@pṛc,@}¦ eine Weiterbildung aus par = pur, mit derselben Grundbedeutung „füllen“ und denselben <lbinfo n="6"/> Begriffsübergängen; aber es entwickelt sich in pṛc der Begriff noch weiter zu dem des Anfüllens einer Flüssigkeit mit einer andern (zu ihr gefüllten), des Mischens. 1) etwas [<ab>A.</ab>] {%füllen, ganz erfüllen,%} namentlich segnend oder befruchtend; 2) jemand [<ab>A.</ab>] {%füllen, sättigen;%} 3) jemand [<ab>A.</ab>] {%füllen, erfüllen%} <lbinfo n="8"/> oder {%reichlich beschenken%} mit [<ab>I.</ab>, <ab>L.</ab>]; 4) etwas [<ab>A.</ab>, <ab>G.</ab>] jemandem [D.] {%zufüllen,%} d. h. {%reichlich geben;%} 5) etwas [<ab>A.</ab>, <ab>G.</ab>] {%reichlich <lbinfo n="4"/> geben;%} 6) eine Flüssigkeit [<ab>A.</ab>] {%anfüllen%} mit, {%mischen%} mit [<ab>I.</ab>]. — Die passiven und medialen Formen haben oft eine Bedeutung, die zwischen der passiven und reflexiven schwankt, z. B. „gefüllt werden“ und „sich
+;
+44184 new {@pṛc,@}¦ eine Weiterbildung aus par = pur, mit derselben Grundbedeutung „füllen“ und denselben <lbinfo n="6"/> Begriffsübergängen; aber es entwickelt sich in pṛc der Begriff noch weiter zu dem des Anfüllens einer Flüssigkeit mit einer andern (zu ihr gefüllten), des Mischens. 1) etwas [<ab>A.</ab>] {%füllen, ganz erfüllen,%} namentlich segnend oder befruchtend; 2) jemand [<ab>A.</ab>] {%füllen, sättigen;%} 3) jemand [<ab>A.</ab>] {%füllen, erfüllen%} <lbinfo n="8"/> oder {%reichlich beschenken%} mit [<ab>I.</ab>, <ab>L.</ab>]; 4) etwas [<ab>A.</ab>, <ab>G.</ab>] jemandem [D.] {%zufüllen,%} d. h. {%reichlich geben;%} 5) etwas [<ab>A.</ab>, <ab>G.</ab>] {%reichlich <lbinfo n="4"/> geben;%} 6) eine Flüssigkeit [<ab>A.</ab>] {%anfüllen%} mit, {%mischen%} mit [<ab>I.</ab>]. — Die passiven und medialen Formen haben oft eine Bedeutung, die zwischen der passiven und reflexiven schwankt, z. B. „gefüllt werden“ und „sich füllen“ 
+;---------------------------------------------------
+; <L>5736<pc>0850<k1>pfc<k2>pfc
+44186 old füllen“ <ab>u. s. w.</ab>; und es sei dies durch ein der Nummer beigefügtes Sternchen(*) bezeichnet. <lbinfo n="9"/>
+;
+44186 new <ab>u. s. w.</ab>; und es sei dies durch ein der Nummer beigefügtes Sternchen(*) bezeichnet. <lbinfo n="9"/>
+;---------------------------------------------------
+; <L>6479<pc>0968<k1>maMh<k2>maMh
+50115 old {@maṃh.@}¦ Diese Wurzel ist mit mah wesentlich gleich, und dass ihr h für gh steht, zeigt. maghá [<ab>go.</ab> mag, altsl. mog-om]. Die Grund, bedeutung ist „gross sein“ und weiter „māch, tig, reich, herrlich, glücklich sein„, und transitiv „gross, mächtig, reich, herrlich, glücklich machen“; daher maṃh 1) {%gross herrlich, glücklich sein;%} 2) jemandem [D.] etwas [<ab>A.</ab>] {%schenken%} (ursprünglich reichlich machen); insbesondere 3) jemandem [D.] etwas [<ab>A.</ab>] zum Geschenke (dānā́ya) {%geben.%} Causale <lbinfo n="4"/> dasselbe in der <ab>Bed.</ab> 2. — Die Formen ohne Nasal siehe unter mah.
+;
+50115 new {@maṃh.@}¦ Diese Wurzel ist mit mah wesentlich gleich, und dass ihr h für gh steht, zeigt. maghá [<ab>go.</ab> mag, altsl. mog-om]. Die Grund, bedeutung ist „gross sein“ und weiter „māch, tig, reich, herrlich, glücklich sein“, und transitiv „gross, mächtig, reich, herrlich, glücklich machen“; daher maṃh 1) {%gross herrlich, glücklich sein;%} 2) jemandem [D.] etwas [<ab>A.</ab>] {%schenken%} (ursprünglich reichlich machen); insbesondere 3) jemandem [D.] etwas [<ab>A.</ab>] zum Geschenke (dānā́ya) {%geben.%} Causale <lbinfo n="4"/> dasselbe in der <ab>Bed.</ab> 2. — Die Formen ohne Nasal siehe unter mah.
+;---------------------------------------------------
+; <L>6585<pc>0990<k1>man<k2>man<h>1
+51053 old <div n="P1"><c 169>-āmahé</c> {@áti@} 2) suvitásya sétum {753,2}.
+;
+51053 new <div n="P1"><c 169>-āmahaí</c> {@áti@} 2) suvitásya sétum {753,2}.
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60142 old <div n="P1">-āca {@prá@} 4) te mahimā́nam <lbinfo n="6"/> {614,3}. — 5) tám vidúṣe {221,2}. — 6) me „hṛṇīyámānas
+;
+60142 new <div n="P1">-āca {@prá@} 4) te mahimā́nam <lbinfo n="6"/> {614,3}. — 5) tám vidúṣe {221,2}. — 6) me „hṛṇīyámānas … aíyes“ {356,8}. 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60143 old … aíyes“ {356,8}. — 8) (agním) ápagūḍham apsú me {858,6}.
+;
+60143 new — 8) (agním) ápagūḍham apsú me {858,6}.
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60156 old <div n="P1">-at {@práti@} 2) mánas me hṛdé ā́ 〰 „ácikradan <lbinfo n="3"/>
+;
+60156 new <div n="P1">-at {@práti@} 2) mánas me hṛdé ā́ 〰 „ácikradan ..“ {709,5}. <lbinfo n="3"/> 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60157 old ..“ {709,5}.
+;
+60157 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60168 old <div n="P1">-ati 9) nas ánāgasas sū́riāya <lbinfo n="5"/> {123,3}. — {@prá@} 5) havyā́ni devébhyas {842,11}. — {@ví@} 2) sá tád dūtás ví 〰 {105,4}; bhrā́tā nas
+;
+60168 new <div n="P1">-ati 9) nas ánāgasas sū́riāya <lbinfo n="5"/> {123,3}. — {@prá@} 5) havyā́ni devébhyas {842,11}. — {@ví@} 2) sá tád dūtás ví 〰 {105,4}; bhrā́tā nas … ví 〰 {837,2}.
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60169 old .
+;
+60169 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60170 old .
+;
+60170 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60171 old . ví 〰 {837,2}.
+;
+60171 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60173 old <div n="P1">-am 12) túbhyam tád {129,3}; námas divé {136,6}; mā́ vas vácāṃsi paricákṣyāṇi <lbinfo n="10"/> {493,14}. — {@áchā@} 2) apás {395,14}. — {@ā́@} 1) jánma {395,14}. — {@prá@} 1) tád {164,26}. — 4) mahitvám vṛṣabhásya {59,6}; káraṇāni <lbinfo n="6"/> {206,1}; {385,6}; vīríā {212,3}; {938,8}; vīríāṇi {32,1}; {154,1}; māyā́m váruṇasya {439,5}; vā́driaśvasya nā́ma {895,5}; índrasya kṛtā́ni {614,5}. — 5) tád rāmé {919,14}. — 6) cikitúṣe jánāya „mā́
+;
+60173 new <div n="P1">-am 12) túbhyam tád {129,3}; námas divé {136,6}; mā́ vas vácāṃsi paricákṣyāṇi <lbinfo n="10"/> {493,14}. — {@áchā@} 2) apás {395,14}. — {@ā́@} 1) jánma {395,14}. — {@prá@} 1) tád {164,26}. — 4) mahitvám vṛṣabhásya {59,6}; káraṇāni <lbinfo n="6"/> {206,1}; {385,6}; vīríā {212,3}; {938,8}; vīríāṇi {32,1}; {154,1}; māyā́m váruṇasya {439,5}; vā́driaśvasya nā́ma {895,5}; índrasya kṛtā́ni {614,5}. — 5) tád rāmé {919,14}. — 6) cikitúṣe jánāya „mā́ …“ {710,15}. 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60174 old .
+;
+60174 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60175 old .
+;
+60175 new 
+;---------------------------------------------------
+; <L>7568<pc>1191<k1>vac<k2>vac
+60176 old .“ {710,15}. — 9) jánimā nū́tanāni pūrviā́ya {235,20}.
+;
+60176 new — 9) jánimā nū́tanāni pūrviā́ya {235,20}.
+;---------------------------------------------------
+; <L>7595<pc>1199<k1>vad<k2>vad
+60514 old <div n="P1">-an 5) ṛtā́ni {179,2} (sākám <lbinfo n="3"/> devébhis). — 6) óṣadhayas „yám jīvám <lbinfo n="3"/>
+;
+60514 new <div n="P1">-an 5) ṛtā́ni {179,2} (sākám <lbinfo n="3"/> devébhis). — 6) óṣadhayas „yám jīvám …“ {923,17}. —
+;---------------------------------------------------
+; <L>7595<pc>1199<k1>vad<k2>vad
+60515 old .
+;
+60515 new 
+;---------------------------------------------------
+; <L>7595<pc>1199<k1>vad<k2>vad
+60516 old . .“ {923,17}. —
+;
+60516 new 
+;---------------------------------------------------
+; <L>8376<pc>1336<k1>vfTAzah<k2>vfTA-za/h
+67214 old {@vṛthā-ṣáh,@}¦ stark {@vṛthā-ṣā́h,@} a„ {%mit leichter Mühe besiegend.%}
+;
+67214 new {@vṛthā-ṣáh,@}¦ stark {@vṛthā-ṣā́h,@} a., {%mit leichter Mühe besiegend.%}
+;---------------------------------------------------
+; <L>8591<pc>1372<k1>Sata<k2>Sata/
+69040 old {@śatá@}¦ [<ab>Cu.</ab> 18], <ab>n.</ab>, {%hundert,%} 1) mit dem <ab>Gen.</ab> des gezählten; 2) in gleichem Casus und Numerus mit dem Substantiv; 3) ohne Nennung des gezählten in dem Sinne {%hundert Mann,%} oder 4) {%hundert Dinge, Gaben%} <ab>u. s. w.</ab>; 5) das gezählte wird durch ein dem Substantiv śatá beigeordnetes Adjektiv bezeichnet, z. B. śatám gávyam, áśviam = 100 Rinder, Rosse; 6) im Plural (oder Dual) mit einem Zahlworte, welches die Anzahl der Hunderte angiebt, und zwar das gezählte im <ab>Gen.</ab> oder 7) in gleichem Casus und Numerus; oder 8) zu ergänzen „Mann“; oder 9) „Gaben (<ab>s.</ab> o.); 10) der Singular neben einem in gleichem Casus stehenden Substantiv des Plurals; 11) <ab>Nom.</ab> oder <ab>Acc.</ab> sing. neben einem Substantiv im <ab>Instr.</ab> plur.; 12) śatā́ oder śatā́ni sahásrā oder sahasrā́ṇi hunderttausend. — <ab>Vgl.</ab> ékaśata <lbinfo n="4"/> <ab>u. s. w.</ab>
+;
+69040 new {@śatá@}¦ [<ab>Cu.</ab> 18], <ab>n.</ab>, {%hundert,%} 1) mit dem <ab>Gen.</ab> des gezählten; 2) in gleichem Casus und Numerus mit dem Substantiv; 3) ohne Nennung des gezählten in dem Sinne {%hundert Mann,%} oder 4) {%hundert Dinge, Gaben%} <ab>u. s. w.</ab>; 5) das gezählte wird durch ein dem Substantiv śatá beigeordnetes Adjektiv bezeichnet, z. B. śatám gávyam, áśviam = 100 Rinder, Rosse; 6) im Plural (oder Dual) mit einem Zahlworte, welches die Anzahl der Hunderte angiebt, und zwar das gezählte im <ab>Gen.</ab> oder 7) in gleichem Casus und Numerus; oder 8) zu ergänzen „Mann“; oder 9) „Gaben“ (<ab>s.</ab> o.); 10) der Singular neben einem in gleichem Casus stehenden Substantiv des Plurals; 11) <ab>Nom.</ab> oder <ab>Acc.</ab> sing. neben einem Substantiv im <ab>Instr.</ab> plur.; 12) śatā́ oder śatā́ni sahásrā oder sahasrā́ṇi hunderttausend. — <ab>Vgl.</ab> ékaśata <lbinfo n="4"/> <ab>u. s. w.</ab>
+;---------------------------------------------------
+; <L>10103<pc>1566<k1>sUpAyana<k2>sUpAyana/
+80231 old <div n="P1">-ā́ [<ab>f.</ab>] pṛthivi…〰‿asmai <lbinfo n="3"/> bhava sūpavañcanā́ <lbinfo n="5"/> {844,11}.
+;
+80231 new <div n="P1">-ā́ [<ab>f.</ab>] pṛthivi … 〰‿asmai <lbinfo n="3"/> bhava sūpavañcanā́ <lbinfo n="5"/> {844,11}.
+;---------------------------------------------------
+; <L>10204<pc>1584<k1>skaB<k2>skaB, skamB
+81157 old <div n="P1">-bha [3. <ab>s.</ab>] índras dyā́m…〰 skámbhanena skábhīyān {937,5}.
+;
+81157 new <div n="P1">-bha [3. <ab>s.</ab>] índras dyā́m … 〰 skámbhanena skábhīyān {937,5}.
+;---------------------------------------------------
+; <L>10271<pc>1603<k1>sTAtf<k2>sTAtf/
+82001 old {@sthātṛ́,@}¦ a., <ab>n.</ab> [von sthā], 1) a., {%stehend, sich nicht bewegend,%} Gegensatz carátha; 2) <ab>n.</ab>, das {%Stehende, Unbewegliche%} mit dem Gegensatze <lbinfo n="5"/> jágat, oder 3) carátham.Merkwürdig ist die Bildung des <ab>Nom.</ab>, <ab>Acc.</ab> <ab>neutr.</ab> auf -úr (wie <ab>Gen.</ab>). Die Nomina auf -ṛ bieten nur selten zur Bildung des Neutrums Veranlassung; die spätere Sprache bildet den Nom„ <ab>Acc.</ab> eines solchen auf -ṛ, was im RV. nicht vorkommt; dagegen finden sich zwei Versuche diese Casusform <lbinfo n="4"/> zu bilden, nämlich erstens auf -ári (<ab>s.</ab> dhartṛ́), und dann in unserm Worte auf -úr.
+;
+82001 new {@sthātṛ́,@}¦ a., <ab>n.</ab> [von sthā], 1) a., {%stehend, sich nicht bewegend,%} Gegensatz carátha; 2) <ab>n.</ab>, das {%Stehende, Unbewegliche%} mit dem Gegensatze <lbinfo n="5"/> jágat, oder 3) carátham.Merkwürdig ist die Bildung des <ab>Nom.</ab>, <ab>Acc.</ab> <ab>neutr.</ab> auf -úr (wie <ab>Gen.</ab>). Die Nomina auf -ṛ bieten nur selten zur Bildung des Neutrums Veranlassung; die spätere Sprache bildet den Nom. <ab>Acc.</ab> eines solchen auf -ṛ, was im RV. nicht vorkommt; dagegen finden sich zwei Versuche diese Casusform <lbinfo n="4"/> zu bilden, nämlich erstens auf -ári (<ab>s.</ab> dhartṛ́), und dann in unserm Worte auf -úr.
+;---------------------------------------------------
+; <L>10739<pc>1680<k1>hetu<k2>hetu/
+85972 old <div n="P1">-ós 2) akṣásya…〰 ápa jāyā́m arodham {860,2}.
+;
+85972 new <div n="P1">-ós 2) akṣásya … 〰 ápa jāyā́m arodham {860,2}.
+;---------------------------------------------------
