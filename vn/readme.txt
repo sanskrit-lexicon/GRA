@@ -383,3 +383,18 @@ vn3_1.txt
 temp_gra_6.txt
 
 ====================================================================
+vn3.1_AB.updated.txt
+Various undocumented changes by AB to vn3.1_AB.txt
+Analysis of the differences
+See orig/vn3ABwork/readme.txt.
+A few minor changes by me.
+Final version from AB: vn3.1_AB.update_ejf_1.txt
+ compare to CDSL version: vn3_1_cd_update.txt
+ diffexamine2_update.txt shows the comparison.
+  The 50 remaining AB changes are 'good' changes
+
+Conclusion: Use vn3.1_AB.update_ejf_1.txt
+# Use renamed copy vn3_2.txt (shorter name)
+ cp orig/vn3ABwork/vn3.1_AB.update_ejf_1.txt orig/vn3_2.txt
+
+====================================================================

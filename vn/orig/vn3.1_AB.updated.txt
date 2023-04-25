@@ -1,0 +1,757 @@
+
+[Page1741-a]
+
+<h>{@Nachträge und Verbesserungen.@}</h>
+
+<h>Zu lesen ist im Wörterbuche (nach Spalte und Zeile)</h>
+
+<c 1> <p>2,4.b: {204,1}    ::AB:: statt {204,2}
+
+<c 2> <p>3,14: -ās    ::AB:: st. -as
+
+<c 3> <p>7,19: ákṣīyamāṇa    ::AB:: st. ákṣīyamāna
+
+<c 4> <p>8,5.b v. u.: bhramā́s    ::AB:: st. bramā́s
+
+<c 5> <p>14,17: añj    ::AB:: st. aṅj
+
+<c 6> <p>15,10: áṅgya    ::AB:: st. ángya
+
+<c 7> <p>20,16.b v. u.: -āṇi    ::AB:: st. -āni
+
+<c 8> <p>21,16: sūrmíā    ::AB:: st. sūrmía
+
+<c 9> <p>21,30 v. u.: ajāví    ::AB:: st. a-jāví
+
+<c 10> <p>22,28: á-joṣa, jóṣa    ::AB:: st. á-josa, jósa
+
+<c 11> <p>26,24 v. u.: áṇu    ::AB:: st. aṇu
+
+<c 12> <p>27,3.b v. u.: -ā́ni    ::AB:: st. āni
+
+<c 13> <p>27,2.b v. u.: -ā́    ::AB:: st. -ā
+
+<c 14> <p>27,1.b v. u.: -éṣu    ::AB:: st. -eṣu
+
+<c 15> <p>31,10.b v. u.: -īṇām    ::AB:: st. -īnām
+
+<c 16> <p>34,11 v. u.: ádabdha-dhīti    ::AB:: st. ádabdha-nīti
+
+<c 17> <p>34,11. 10 v. u.: {%reingesinnt%}    ::AB:: st. {%untrügliche%} u. s. w.
+
+<c 18> <p>38,28: katidhā́    ::AB:: st. katidā́
+
+<c 19> <p>39,14: adma-sádvan, m.    ::AB:: st. admasádvan, a.
+
+<c 20> <p>39,14. 15: {%Tischgenosse%}    ::AB:: st. {%Tischgen. habend%} u. s. w.
+
+<c 21> <p>41,30: -uhā [Vo. d. f.]    ::AB:: st. -úhā [Vo. d. f.]
+
+<c 22> <p>49,31.b v. u.: -ā́ṇaam    ::AB:: st. -āṇaam
+[Page1741-b]
+<c 23> <p>51,22: {%Ungestüm%}    ::AB:: st. {%Glanz%}
+
+<c 24> <p>52,3.b v. u.: {638,2}    ::AB:: st. {638,1}
+
+<c 25> <p>60,3 v. u.: an-ulbaṇá    ::AB:: st. an-ulbaná
+
+<c 26> <p>64,5: -ébhis    ::AB:: st. -ebhis
+
+<c 27> <p>68,16: annā-vṛ́dh    ::AB:: st. annā́-vṛdh
+
+<c 28> <p>68,18: -ṛ́dham    ::AB:: st. -ṛdham
+
+<c 29> <p>69,9 v. u.: sagtet ihr euch    ::AB:: st. sagten sie sich
+
+<c 30> <p>77,2.a v. u.: Text    ::AB:: st. bei Aufrecht
+
+<c 31> <p>81,17 v. u.: ab-dayā́    ::AB:: st. ab-dā́
+
+<c 32> <p>81,16 v. u.: -ā́    ::AB:: st. -ajā́
+
+<c 33> <p>81,9.b v. u.: -āṇas    ::AB:: st. -ānas
+
+<c 34> <p>83,18: abhi-jñú    ::AB:: st. abhi-jnú
+
+<c 35> <p>99,9: etwas    ::AB:: st. etwa
+
+<c 36> <p>99,11 v. u.: Text    ::AB:: st. Aufrecht
+
+<c 37> <p>100,1.a: 31    ::AB:: st. 9
+
+<c 38> <p>100,3.b: {780,9}    ::AB:: st. {780}
+
+<c 39> <p>101,10 v. u.: -ásā    ::AB:: st. -asā
+
+<c 39a> <p>118 Ueberschrift: arvācīná    ::AB:: st. avācīná
+
+<c 40> <p>132,21.b: -ā́ṇi    ::AB:: st. -ā́ni
+
+<c 41> <p>133,1: avyathí    ::AB:: st. ávyathí
+
+<c 42> <p>137,9. 8 v. u.: vádhar    ::AB:: st. vadhám
+
+<c 43> <p>138,23 v. u.: á-śṛthita    ::AB:: st. á-cṛthita
+[Page1742]
+
+<c 44> <p>140,12: a-śrīrá    ::AB:: st. á-śrīrá
+
+<c 45> <p>141,3: {383,9}    ::AB:: st. {583,9}
+
+<c 46> <p>141,3 v. u.: áśva-budhya    ::AB:: st. aśva-búdhya
+
+<c 47> <p>151,23.a: [3. s.]    ::AB:: st. [s. s.]
+
+<c 48> <p>155,7: -eṇa    ::AB:: st. -ena
+
+<c 49> <p>156,9.b v. u: -āṇi    ::AB:: st. āni
+
+<c 50> <p>157,17: -ā́ṇi    ::AB:: st. -ā́ni
+
+<c 51> <p>157,18: nadī́naam    ::AB:: st. síndhūnaam
+
+<c 52> <p>159,21: ásyandamāna    ::AB:: st. á-spandamāna
+
+<c 53> <p>159,21. 22: {%nicht gleitend%}    ::AB:: st. {%nicht … zuckend%}.
+
+<c 54> <p>167,16: {%zischen%}    ::AB:: st. {%glänzen%}
+
+<c 55> <p>168,4. 5: {%Schlangenstösser%} (Raubvogel)    ::AB:: st. {%wie … schiessend%}
+
+<c 56> <p>171,19: mandānā́    ::AB:: st. mandānā́s
+
+<c 57> <p>185,5.a v. u.: -eṇa    ::AB:: st. -ena
+
+<c 58> <p>186,23 v. u.: (āvíṣṭya), ā    ::AB:: st. (ā́viṣṭya), ā́
+
+<c 59> <p>196,32: y:    ::AB:: st. j:
+
+<c 60> <p>201,27.b: {548,5}    ::AB:: st. {548,4}
+
+<c 61> <p>211,7.b: 1. 7;    ::AB:: st. {1,7};
+
+<c 62> <p>213,12.a v. u.: {5,9}    ::AB:: st. {5,8}
+
+<c 63> <p>213,28.b v. u.: {106,1. 6}.    ::AB:: st. {106,1. 5}.
+
+<c 64> <p>215,10 v. u.: indra-    ::AB:: st. índra-
+[Page1743-a]
+
+<c 65> <p>216,20. 21.a: {658,1—9}    ::AB:: st. {658,1. 9}
+
+<c 66> <p>216,27.a: {609,1. 4}.    ::AB:: st. {609,1. 3. 4}
+
+<c 67> <p>226,1: {@iṣaṇay@}    ::AB:: st. {@isaṇay@}
+
+<c 68> <p>232,27 v. u.: {744,2. 3}    ::AB:: st. {774,2. 3}
+
+<c 69> <p>243,25 v. u.: -ā́    ::AB:: st. -ā
+
+<c 70> <p>250,12 v. u.: tā́t    ::AB:: st. tāt
+
+<c 71> <p>252,33. 34: pṛṇītám    ::AB:: st. (váram)
+
+<c 72> <p>255,28 v. u.: pṛkṣ    ::AB:: st. pṛc
+
+<c 73> <p>255,3.a v. u.: -ám    ::AB:: st. -am
+
+<c 74> <p>263,23.a: śáṃsais    ::AB:: st. cáṃsais
+
+<c 75> <p>266,10 v. u.: ulbaṇá    ::AB:: st. ulbaná
+
+<c 76> <p>266,8 v. u.: an-ulbaṇá    ::AB:: st. an-ulbaná
+
+<c 77> <p>267,19 v. u.: ohne    ::AB:: st. von
+
+<c 78> <p>278,24. 25: mártasya    ::AB:: st. bráhmaṇas pátes
+
+<c 79> <p>279,23: ārjīká    ::AB:: st. ārjiká
+
+<c 80> <p>287,3.a: {684,3}    ::AB:: st. {684,2}
+
+<c 81> <p>289,26: -é    ::AB:: st. -e
+
+<c 82> <p>291,25 v. u.: {702,34}    ::AB:: st. {702,3}
+
+<c 83> <p>299,20.b v. u.: -ébhis    ::AB:: st. -ebhis
+
+<c 84> <p>337,22.b: 2    ::AB:: st. 3
+
+<c 85> <p>337,19.b v. u.: {459,14}    ::AB:: st. {459,15}
+
+<c 86> <p>339,2.b v. u.: -avante    ::AB:: st. -avanta
+
+<c 87> <p>345,25.b: {621,12}    ::AB:: st. {821,12}
+
+<c 88> <p>349,24.b v. u.: {62,9}    ::AB:: st. {249,3}
+
+<c 89> <p>357,3 v. u.: kráma (betont {490,15})    ::AB:: st. krama
+
+<c 90> <p>360,12 v. u.: krúdhmi    ::AB:: st. krudhmín u. s. w.
+
+<c 91> <p>360,9 v. u.: -ī    ::AB:: st. -ī́
+
+<c 92> <p>365,11.b v. u.: -aṇi    ::AB:: st. -ani
+
+<c 93> <p>367,6: rayís    ::AB:: st. índras
+
+<c 94> <p>371,25.a: {623,10}    ::AB:: st. {623,19}
+
+<c 95> <p>372,26: {287,19}    ::AB:: st. {287,9}
+
+<c 96> <p>373,22: avakhādá    ::AB:: st. avakādá
+[Page1743-b]
+<c 97> <p>373,24.b: -atha [-athā]    ::AB:: st. -tha [-thā]
+
+<c 98> <p>385,9.a v. u.: vṛṣabhás    ::AB:: st. vṛsabhás
+
+<c 99> <p>388,19 v. u.: -íṇīṣu    ::AB:: st. -ínīṣu
+
+<c 100> <p>393,21.a v. u.: -ánti    ::AB:: st. -anti ;; print error anti for -anti ?
+
+<c 101> <p>399,22.a: {774,25}    ::AB:: st. {774,24}
+
+<c 102> <p>405,22: gṛṇīṣáṇi    ::AB:: st. gṛnīṣáṇi
+
+<c 103> <p>409,13.a: 4. 5    ::AB:: st. 4—6
+
+<c 104> <p>417,25: Plusquamp.    ::AB:: st. Aor.
+
+<c 105> <p>437,12.b: {820,10}    ::AB:: st. {820,6}
+
+<c 106> <p>443,5.a: -ṛ́tā    ::AB:: st. -ṛ́thā
+
+<c 107> <p>452,17.a: {113}    ::AB:: st. {131}
+
+<c 108> <p>458,12.a v. u.: agnís    ::AB:: st. (índras)
+
+<c 109> <p>463,4: {%Kinn%}    ::AB:: st. {%Keim%}
+
+<c 110> <p>473,25.a: {459}    ::AB:: st. {659}
+
+<c 111> <p>482,30 v. u.: gar    ::AB:: st. jar
+
+<c 112> <p>483,8: jāta    ::AB:: st. jātá-
+
+<c 113> <p>487,21 v. u.: 3. s.    ::AB:: st. 2. s.
+
+<c 114> <p>488,4.b: -yúṣas    ::AB:: st. -úṣas
+
+<c 115> <p>491,3.b: {457}    ::AB:: st. {547}
+
+<c 116> <p>501,23.a: -ām    ::AB:: st. -am
+
+<c 117> <p>502,8.b v. u.: -iā́yās    ::AB:: st. -iā́yas
+
+<c 118> <p>521,1: tantí    ::AB:: st. tánti
+
+<c 119> <p>521,2: -áyas    ::AB:: st. -ayas
+
+<c 120> <p>522,9 v. u.: -ás    ::AB:: st. -as
+
+<c 121> <p>527,3.a: -á    ::AB:: st. -ás
+
+<c 122> <p>539,27 v. u.: tuj    ::AB:: st. tug
+
+<c 123> <p>545,1: -śúṣma    ::AB:: st. -cúṣma
+
+<c 124> <p>546,9 v. u.: {%Uebertreffen%}    ::AB:: st. {%Anregung%}
+
+<c 125> <p>550,15 tṛ́ṣyat    ::AB:: st. tṛ́syat
+
+<c 126> <p>550,28.b: -úṇā    ::AB:: st. -únā
+
+<c 127> <p>553,30.b: -yásyai    ::AB:: st. -yásyās
+
+<c 128> <p>579,8: -rṣi    ::AB:: st. -rṣ
+[Page1744]
+
+<c 129> <p>579,9: {644,4}    ::AB:: st. {664,4}
+
+<c 130> <p>595,22 v. u.: agním    ::AB:: st. índram
+
+<c 131> <p>631,31.b v. u.: A. p.    ::AB:: st. N. p.
+
+<c 132> <p>631,18.a v. u.: {985,4}    ::AB:: st. {985,1}
+
+<c 133> <p>632,30.b: -átamāya    ::AB:: st. -átāmaya
+
+<c 134> <p>634,26.b v. u.: {458}    ::AB:: st. {485}
+
+<c 135> <p>640,18: [vastṛ́] {%des Dunkels%}    ::AB:: st. [vastṛ], des Dunkels
+
+<c 136> <p>647,19 v. u.: Plusquamp. ádudru    ::AB:: st. Aorist u. s. w.
+
+<c 137> <p>670,4.b v. u.: váṣṭayas    ::AB:: st. vástayos
+
+<c 138> <p>678,26 v. u.: dhāma-sác    ::AB:: st. dhāma-sáś
+
+<c 139> <p>679,4: dhā́ra    ::AB:: st. dhára
+
+<c 140> <p>681,22: śitipṛṣṭhásya    ::AB:: st. śitipṛṣṭásya
+
+<c 141> <p>682,9: dhiṣáṇa    ::AB:: st. dhiṣána
+
+<c 142> <p>689,16 priyā́s    ::AB:: st. priyā́
+
+<c 143> <p>689,25.a v. u.: -at    ::AB:: st. -as
+
+<c 144> <p>729,9.b: vayám    ::AB:: st. vāyávas
+
+<c 145> <p>731,6: 2)    ::AB:: st. 3)
+
+<c 146> <p>739,23: ā́ 2)    ::AB:: st. 9) sadhamā́s
+
+<c 147> <p>742,15: bṛ́haspátim    ::AB:: st. agním ;; print error <p>342 instead of <p>742!!
+
+<c 148> <p>758,22: {%reifen%}    ::AB:: st. {%kochen%}
+
+<c 149> <p>767,3.a v. u.: -ánthās    ::AB:: st. -ántās
+
+<c 150> <p>770,7: 2)    ::AB:: st. 3)
+
+<c 151> <p>798,22.b v. u.: -ā́tas [Co.]    ::AB:: st. -ātás
+
+<c 152> <p>800,27.a v. u.: antaḥ-    ::AB:: st. antah-
+
+<c 153> <p>807,2.a: víśvebhis    ::AB:: st. víśvehhis
+
+<c 154> <p>807,8: par    ::AB:: st. paṛ
+
+<c 155> <p>823,26: 1. par    ::AB:: st. 2. par
+
+<c 156> <p>841,3 v. u.: Plusquamp.    ::AB:: st. Aor.
+
+<c 157> <p>864,4: sphur    ::AB:: st. spur
+
+<c 158> <p>893,29: {@pruṣa@}    ::AB:: st. {@pruṣ@}
+
+<c 159> <p>904,1: {@bāṇá@}    ::AB:: st. {@āṇá@}
+
+<c 160> <p>924,24.b v. u.: áni-    ::AB:: st. án-
+[Page1745-a]
+
+<c 161> <p>950,17 v. u.: -áṇi    ::AB:: st. -áni
+
+<c 162> <p>952,15.b v. u.: {224,12}    ::AB:: st. {224,2}
+
+<c 163> <p>953,6.b: {946,6}    ::AB:: st. {946,5}
+
+<c 164> <p>959,20.b v. u.: abharat    ::AB:: st. ahharat
+
+<c 165> <p>966,10.a: {734,2}    ::AB:: st. {724,2}
+
+<c 166> <p>972,29.a: {849,2. 3}    ::AB:: st. {849,23}
+
+<c 167> <p>976,10.b: -ā́ṇi    ::AB:: st. -ā́ni
+
+<c 168> <p>989,18.b v. u.: {841,1}    ::AB:: st. {841,4}
+
+<c 169> <p>991,15.b: -āmahe    ::AB:: st. -āmahaí ;;(e-roof) -> aí
+
+<c 170> <p>992,9.a: 4)    ::AB:: st. 1)
+
+<c 171> <p>993,17 v. u.: cit    ::AB:: st. cid
+
+<c 172> <p>999,25: {442,1}    ::AB:: st. {442,4}
+
+<c 173> <p>999,4 v. u.: {960,6}    ::AB:: st. {960,1}
+
+<c 174> <p>1003,23.b v. u.: -áyā    ::AB:: st. -ájā
+
+<c 175> <p>1008,31.b: {612,2}    ::AB:: st. {612,3}
+
+<c 176> <p>1009,17.a v. u.: {311,5}    ::AB:: st. {245,7}
+
+<c 177> <p>1011,15 v. u.: maśarśā́ra    ::AB:: st. maśarcā́ra
+
+<c 178> <p>1012,22.a: {577,6}    ::AB:: st. {577,7}
+
+<c 179> <p>1014,21.a: {173,12}    ::AB:: st. {174,12}
+
+<c 180> <p>1020,13.a v. u.: {338,3}    ::AB:: st. {338,2}
+
+<c 181> <p>1022,18.b v. u.: -ā́ṇām    ::AB:: st. -ā́nām
+
+<c 182> <p>1022,13 v. u.: indischen    ::AB:: st. irdischen
+
+<c 183> <p>1025,2.a: {272,7}    ::AB:: st. {227,7}
+
+<c 184> <p>1031,13.b v. u.: {236,2}    ::AB:: st. {236,1}
+
+<c 185> <p>1039,9.a: -ás    ::AB:: st. -as
+
+<c 186> <p>1064,22.b v. u.: Text    ::AB:: st. Aufr.
+
+<c 187> <p>1067,1.b v. u.: {281,3}    ::AB:: st. {229,3}
+
+<c 188> <p>1072,11: yajasa    ::AB:: st. yájasa
+
+<c 189> <p>1072,11 v. u.: {842,11}    ::AB:: st. {842,41}
+
+<c 190> <p>1077,12: yajñá-pati    ::AB:: st. yajña-páti
+
+<c 191> <p>1092,27.b: {532,8}    ::AB:: st. {532,1}
+
+<c 192> <p>1093,3.b: {85,12}    ::AB:: st. {85,11}
+[Page1745-b]
+<c 193> <p>1104,13.a: {647,17}    ::AB:: st. {47,17}
+
+<c 194> <p>1106,6 v. u.: yāsīs    ::AB:: st. yasīs
+
+<c 195> <p>1118,12.a: {776,19}    ::AB:: st. {976,19}
+
+<c 196> <p>1124,5: yuvā́ku    ::AB:: st. yuvākú
+
+<c 197> <p>1138,30.b v. u.: {428,8}    ::AB:: st. {428,3}
+
+<c 198> <p>1143,7.a v. u.: -ndhí    ::AB:: st. -ndhi
+
+<c 199> <p>1146,2: {174,7}    ::AB:: st. {174,6}
+
+<c 200> <p>1156,20.a: -atas    ::AB:: st. -athas
+
+<c 201> <p>1165,9; -ikṣé    ::AB:: st. -ikṣe
+
+<c 202> <p>1167,4 v. u.: -ṣes    ::AB:: st. -ṣe
+
+<c 203> <p>1178,27.b v. u.: {51,12}    ::AB:: st. {51,2}
+
+<c 204> <p>1184,10.b: śíkṣa    ::AB:: st. cíkṣa
+
+<c 205> <p>1190,2 v. u.: {715,5}    ::AB:: st. {715,15}
+
+<c 206> <p>1202,24.a v. u.: {214,12}    ::AB:: st. {14,12}
+
+<c 207> <p>1206,15.b: -ántā    ::AB:: st. -antā
+
+<c 208> <p>1206,17.b: -ántas    ::AB:: st. -antas
+
+<c 209> <p>1207,22.b: {54,5}    ::AB:: st. {54,4}
+
+<c 210> <p>1219,26.a: -ā́tas    ::AB:: st. -ā́ta
+
+<c 211> <p>1221,23.b v. u.: {223,8}    ::AB:: st. {223,3}
+
+<c 212> <p>1255,6.b v. u.: {488,22}    ::AB:: st. {488,12}
+
+<c 213> <p>1256,26.b: 20    ::AB:: st. 19
+
+<c 214> <p>1267,4.b v. u.: {428,9}    ::AB:: st. {428,5}
+
+<c 215> <p>1269,5.a v. u.: -éṇa    ::AB:: st. -éna
+
+<c 216> <p>1271,27.a: {972,1}    ::AB:: st. {146,1}
+
+<c 217> <p>1272,5.a v. u.: -de    ::AB:: st. -dé
+
+<c 218> <p>1278,13 v. u.: vidathin    ::AB:: st. vidathina
+
+<c 219> <p>1287,22 v. u.: {639,2}    ::AB:: st. {639,1}
+
+<c 220> <p>1292,15: -ī    ::AB:: st. -
+
+<c 221> <p>1293,6.b: {503,5}    ::AB:: st. {303,5}
+
+<c 222> <p>1297,25.a v. u.: {865,8}    ::AB:: st. {865,9}
+
+<c 223> <p>1307,16.a: -és    ::AB:: st. -es
+
+<c 224> <p>1307,27.a v. u.: {236,10}    ::AB:: st. {236,16}
+[Page1746]
+
+<c 225> <p>1309,17 v. u.: m.    ::AB:: st. f.
+
+<c 226> <p>1317,20 v. u.: vīrá-    ::AB:: st. virá-
+
+<c 227> <p>1322,21: -rivā́ṃsam    ::AB:: st. -ṛvā́ṃsam
+
+<c 228> <p>1325,19.b.: -āṇaam    ::AB:: st. -ānaam
+
+<c 229> <p>1326,12: -ās    ::AB:: st. -as
+
+<c 230> <p>1326,12 v. u.: dem    ::AB:: st. der
+
+<c 231> <p>1327,21.a v. u.: 3    ::AB:: st. 2
+
+<c 232> <p>1328,26.b: {665,10}    ::AB:: st. {665,19}
+
+<c 233> <p>1348,6.b: {640,12}    ::AB:: st. {640,11}
+
+<c 234> <p>1351,26 v. u.: {@vṛṣāy@}    ::AB:: st. {@vṛsāy@}
+
+<c 235> <p>1353,17.a v. u.: {639,8}    ::AB:: st. {639,3}
+
+<c 236> <p>1353,5 v. u.: vidh    ::AB:: st. vid
+
+<c 237> <p>1355,8.b: {776,21}    ::AB:: st. {776,2}
+
+<c 238> <p>1355,9 v. u.: vor Vokalen stets    ::AB:: st. stets
+
+<c 239> <p>1355,7 v. u.: {162,21}    ::AB:: st. {62,21}
+
+<c 240> <p>1355,5 v. u.: {963,6}    ::AB:: st. {963,1}
+
+<c 241> <p>1374,2: -am    ::AB:: st. -as (yás)
+
+<c 242> <p>1379,1.a v. u.: {33,15}    ::AB:: st. {33,14}
+
+<c 243> <p>1382,22.a v. u.: {617,2}    ::AB:: st. {617,1}
+
+<c 244> <p>1385,35.b: {249,5}    ::AB:: st. {249,4}
+
+<c 245> <p>1387,24: śáviṣṭha    ::AB:: st. śávistha
+
+<c 246> <p>1391,14: -antā    ::AB:: st. -anā
+
+<c 247> <p>1395,27 v. u.: {634,13}    ::AB:: st. {634,3}
+
+<c 248> <p>1399,7 v. u.: śukra-dúgha    ::AB:: st. śukrá-dugha
+
+<c 249> <p>1400,7.b v. u.: -ugdhí    ::AB:: st. -ugdhi
+
+<c 250> <p>1413,11: -e [L.]    ::AB:: st. -e [D.]
+
+<c 251> <p>1414,7.b: -iṣas    ::AB:: st. -íṣas
+
+<c 252> <p>1419,7 v. u.: {72,2}    ::AB:: st. {72,7}
+
+<c 253> <p>1424,31 v. u.: śrīṇā    ::AB:: st. śriṇā
+
+<c 254> <p>1428,22.a: {486,23}    ::AB:: st. {486,22}
+
+<c 255> <p>1431,18.b v. u.: {862,12}    ::AB:: st. {862,2}
+
+<c 256> <p>1434,25: {670,17}    ::AB:: st. {670,16}
+[Page1747-a]
+
+<h>Nachträge und Verbesserungen.</h>
+
+<c 257> <p>1439,19 v. u.: saṃsúd    ::AB:: st. samsúd
+
+<c 258> <p>1449,15.a: pṛthivī́    ::AB:: st. pṛthiv
+
+<c 259> <p>1450,27.a: {281,2}    ::AB:: st. {281,1}
+
+<c 260> <p>1473,3 v. u.: -ám    ::AB:: st. -am
+
+<c 261> <p>1475,5.a: 7;    ::AB:: st. 4;
+
+<c 262> <p>1486,3.a: 4;    ::AB:: st. 1;
+
+<c 263> <p>1486,5.b: -ā́jā    ::AB:: st. -ā́ja
+[Page1747-b]
+<c 264> <p>1486,5 v. u.: -áḍbhias    ::AB:: st. -aḍbhias
+
+<c 265> <p>1488,11 v. u.: -aṇi    ::AB:: st. -ani
+
+<c 266> <p>1500,11.b v. u.: {632,8}    ::AB:: st. {632,9}
+
+<c 267> <p>1503,8: -bhṛṣṭi    ::AB:: st. -bhṛṣṭí
+
+<c 268> <p>1506,10 v. u.: {1020,1}    ::AB:: st. {1020,4}
+
+<c 269> <p>1510,26.a v. u.: {124,3}    ::AB:: st. {24,3}
+
+<c 270> <p>1513,17 v. u.: -ásya    ::AB:: st. -asya ;;print error <p>5113 instead of <p>1513!!
+[Page1748]
+
+<c 271> <p>1535,21.a v. u.: -e    ::AB:: st. -ā
+
+<c 272> <p>1540,3 v. u.: su-prajā́vat    ::AB:: st. su-prayā́vat
+
+<h>Ferner ist an einigen der citirten Stellen ṇ statt n zu lesen, und in den Verbalpräfixen bisweilen der Accent wegzulassen, was sich überall leicht von selbst ergiebt.</h>
+
+<h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.</h>
+[Page1747-a]
+
+<h>Zu streichen (* bedeutet, dass das Ganze zu streichen ist):</h>
+
+<h>ENGLISH: To be deleted (* means that the whole thing is to be deleted)</h>
+
+<d 273> <p>3,28.a: {63,7}
+
+<d 274> <p>12,6.b v. u.: {792,2}
+
+<d 275> <p>25,21. 22.a: 7) bis {640,8}
+
+<d 276> <p>26,5. 6 v. u.: *
+
+<d 277> <p>33,27: {445,5}
+
+<d 278> <p>79,5 v. u.: {289,5}
+
+<d 279> <p>86,28—31: *
+
+<d 280> <p>100,1.b:31
+
+<d 281> <p>103,7 v. u.: {229,4}
+
+<d 282> <p>106,1.b: {602,7}
+
+<d 283> <p>114,15. 14 v. u.: *
+
+<d 284> <p>117,25 v. u.: [von 1. sū]
+
+<d 285> <p>123,15. 14.b v. u.: tám bis 13
+
+<d 286> <p>135,14. 13.a v. u.: 1) bis {144,6}
+
+<d 287> <p>149,20. 21.a: pári bis {61,8} ;;print error 20,21 instead of 20. 21
+
+<d 288> <p>150,8. 9.a: suvī́ras {491,9}
+
+<d 289> <p>152,7 v. u.: vi bis {893,3}
+
+<d 290> <p>156,13.a: {151,4}
+
+<d 291> <p>160,2 v. u. bis {161,4}: *
+
+<d 292> <p>163,5.a: {844,14}
+
+<d 293> <p>166,19.b v. u.: dákṣam {965,6}
+
+<d 294> <p>178,4: bei Aufr.
+
+<d 295> <p>186,11.b: [A. p.]
+
+<d 296> <p>197,2.b: {226,3}
+
+<d 297> <p>197,21.a: indrāgnī́
+
+<d 298> <p>198,10—7.b v. u.: *
+
+<d 299> <p>201,22. 23: devā́n {519,3}
+
+<d 300> <p>208,17: {808,2}
+
+<d 301> <p>230,15.b v. u.: {355,7}
+
+<d 302> <p>235,16.b: {297,1}
+
+<d 303> <p>258,15.b: {222,5}
+[Page1747-b]
+<d 304> <p>268,25.a: {240,7}
+
+<d 305> <p>278,23.a: *
+
+<d 306> <p>310,11.a:19
+
+<d 307> <p>319,32. 31.b v. u.: 4) bis 3
+
+<d 308> <p>334,4. 3.b v. u.: 17) bis 6
+
+<d 309> <p>335,20. 21.a: ṛ́ṣim bis 11
+
+<d 310> <p>336,13. 14.a: 23) bis 7
+
+<d 311> <p>336,12.b v. u.: {643,18}
+
+<d 312> <p>340,22.a: jāspatyám {382,3}
+
+<d 313> <p>340,20—18.b v. u.: ví bis 3.
+
+<d 314> <p>341,20. 19.b v. u.: 7) bis 2.
+
+<d 315> <p>363,22.a v. u.: {242,1}
+
+<d 316> <p>380,6—4.b v. u.: nas bis nas)
+
+<d 317> <p>382,14.a: 1) {130,9}
+
+<d 318> <p>390,25 v. u.: 2) {534,7}
+
+<d 319> <p>448,30.a: {376,4}.
+
+<d 320> <p>466,7.a v. u.: 7) bis 1.
+
+<d 321> <p>473,5.b v. u.:4
+
+<d 322> <p>474,18. 19.a: ávitāra {181,1};
+
+<d 323> <p>487,14. 15.a: 6) bis 2.
+
+<d 324> <p>520,17.a v. u.: {717,2}
+
+<d 325> <p>528,29. 30.b: *
+
+<d 326> <p>566,18.a: *
+
+<d 327> <p>566,29.a: *
+
+<d 328> <p>588,24.b v. u.: ghanā́
+
+<d 329> <p>597,16.a: [Co.]
+
+<d 330> <p>631,26.a v. u.:5
+
+<d 331> <p>707,21 v. u.: *
+
+<d 332> <p>732,17.b v. u.: {608,1}.
+
+<d 333> <p>770,21.a: {887,8}
+
+<d 334> <p>872,12. 11.a v. u.: *
+[Page1748]
+
+<d 335> <p>878,3 v. u.: oder bringen
+
+<d 336> <p>955,17. 18: 1) bis vām).
+
+<d 337> <p>962,23. 22.a v. u.: ádhi bis {207,2}
+
+<d 338> <p>973,5.a v. u.: {459,7}
+
+<d 339> <p>1012,20.a v. u.: {558,3}
+
+<d 340> <p>1012,19. 18.a v. u.: sám bis 3.
+
+<d 341> <p>1025,12—14.a: 8) bis 13.
+
+<d 341a> <p>1051,9. 10: * ;;print error 1051. 9 instead of 1051,9
+
+<d 342> <p>1059,22.b v. u.: {474,5}
+
+<d 343> <p>1061,14. 13 v. u.: *
+
+<d 344> <p>1072,28 v. u.: {197,8}.
+
+<d 345> <p>1101,35.a: {370,4}.
+
+<d 346> <p>1164,5: {627,28}
+
+<d 347> <p>1234,31. 30.a v. u.: indra {227,1}
+
+<d 348> <p>1261,5—8.a: *
+
+<d 349> <p>1261,1.b v. u.: *
+
+<d 350> <p>1277,26.a v. u.: {190,7}
+
+<d 351> <p>1324,5. 6.a: nís bis 1.
+
+<d 352> <p>1369,30.a: *
+
+<d 353> <p>1381,21.b v. u.: {119,6}
+
+<d 354> <p>1388,7. 6 v. u.: *
+
+<d 355> <p>1388,4. 3 v. u.: sám bis 8.
+
+<d 356> <p>1389,9. 10: *
+
+<d 357> <p>1408,26.a: {205,5}
+
+<d 358> <p>1446,31. 30.b v. u.: nā́kam bis 50
+
+<d 359> <p>1473,17. 18.b: 1) bis 3.
+
+<d 360> <p>1500,15.a v. u.: {80,9}
+
+<d 361> <p>1510,24.a v. u.: (san)
+
+<d 362> <p>1519,10. 9.a v. u.: madacyút {724,3}
+
+<d 363> <p>1528,22.b v. u.: *
+
+<d 364> <p>1608,4. 3.b v. u.: (der Blitz)

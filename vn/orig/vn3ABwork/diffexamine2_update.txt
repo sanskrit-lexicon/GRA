@@ -1,0 +1,150 @@
+60 old <c 27> <p>68,16: annā-vŕdh st. annā́-vṛdh
+60 new <c 27> <p>68,16: annā-vṛ́dh st. annā́-vṛdh
+
+62 old <c 28> <p>68,18: ŕdham st. -ṛdham
+62 new <c 28> <p>68,18: -ṛ́dham st. -ṛdham
+
+86 old <p>118 Ueberschrift: arvācīná st. avācīná
+86 new <c 39a> <p>118 Ueberschrift: arvācīná st. avācīná
+
+115 old <c 53> <p>159,21.22: <i>nicht gleitend</i> st. <i>nicht zuckend</i>
+115 new <c 53> <p>159,21.22: <i>nicht gleitend</i> st. <i>nicht … zuckend</i>.
+
+135 old <c 63> <p>213,28.b v. u.: 106,1. 6. st. 106,1.5.
+135 new <c 63> <p>213,28.b v. u.: 106,1. 6. st. 106,1. 5.
+
+140 old <c 65> <p>216,20.21.a: 658,1--9 st. 658,1. 9
+140 new <c 65> <p>216,20.21.a: 658,1—9 st. 658,1. 9
+
+146 old <c 68> <p>232,27 v. u.: 744,2.3 st. 774,2.3
+146 new <c 68> <p>232,27 v. u.: 744,2. 3 st. 774,2. 3
+
+210 old <c 100> <p>393,21.a v. u.: -ánti st. anti
+210 new <c 100> <p>393,21.a v. u.: -ánti st. -anti
+
+216 old <c 103> <p>409,13.a: 4.5 st. 4--6
+216 new <c 103> <p>409,13.a: 4. 5 st. 4—6
+
+222 old <c 106> <p>443,5.a: -ŕtā st. -ŕthā
+222 new <c 106> <p>443,5.a: -ṛ́tā st. -ṛ́thā
+
+260 old <c 125> <p>550,15 tŕṣyat st. tŕsyat
+260 new <c 125> <p>550,15 tṛ́ṣyat st. tṛ́syat
+
+281 old <c 135> <p>640,18: [vastŕ] <i>des Dunkels</i> st. [vastṛ], des Dunkels
+281 new <c 135> <p>640,18: [vastṛ́] <i>des Dunkels</i> st. [vastṛ], des Dunkels
+
+305 old <c 147> <p>742,15: bŕhaspátim st. agním
+305 new <c 147> <p>742,15: bṛ́haspátim st. agním
+
+344 old <c 166> <p>972,29.a: 849,2.3 st. 849,23
+344 new <c 166> <p>972,29.a: 849,2. 3 st. 849,23
+
+565 old <h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.
+565 new <h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.</h>
+
+584 old <d 279> <p>86,28--31: *
+584 new <d 279> <p>86,28—31: *
+
+586 old <d 280> <p>100,1.b: 31
+586 new <d 280> <p>100,1.b:31
+
+622 old <d 298> <p>198,10--7.b v. u.: *
+622 new <d 298> <p>198,10—7.b v. u.: *
+
+638 old <d 306> <p>310,11.a: 19
+638 new <d 306> <p>310,11.a:19
+
+644 old <d 309> <p>335,20.21.a: ŕṣim bis 11
+644 new <d 309> <p>335,20.21.a: ṛ́ṣim bis 11
+
+652 old <d 313> <p>340,20--18.b v. u.: ví bis 3.
+652 new <d 313> <p>340,20—18.b v. u.: ví bis 3.
+
+658 old <d 316> <p>380,6--4.b v. u.: nas bis nas)
+658 new <d 316> <p>380,6—4.b v. u.: nas bis nas)
+
+668 old <d 321> <p>473,5.b v. u.: 4.
+668 new <d 321> <p>473,5.b v. u.:4
+
+686 old <d 330> <p>631,26.a v. u.: 5.
+686 new <d 330> <p>631,26.a v. u.:5
+
+709 old <d 341> <p>1025,12--14.a: 8) bis 13.
+709 new <d 341> <p>1025,12—14.a: 8) bis 13.
+
+711 old ; <p>1051.9.10: *
+711 new <d 341a> <p>1051,9.10: *
+
+712 old <d 342> <p>1051.9.10: *
+712 new 
+
+713 old <d 343> <p>1059,22.b v. u.: 474,5
+713 new <d 342> <p>1059,22.b v. u.: 474,5
+
+715 old <d 344> <p>1061,14.13 v. u.: *
+715 new <d 343> <p>1061,14.13 v. u.: *
+
+717 old <d 345> <p>1072,28 v. u.: 197,8.
+717 new <d 344> <p>1072,28 v. u.: 197,8.
+
+719 old <d 346> <p>1101,35.a: 370,4.
+719 new <d 345> <p>1101,35.a: 370,4.
+
+721 old <d 347> <p>1164,5: 627,28
+721 new <d 346> <p>1164,5: 627,28
+
+723 old <d 348> <p>1234,31.30.a v. u.: indra 227,1
+723 new <d 347> <p>1234,31.30.a v. u.: indra 227,1
+
+725 old <d 349> <p>1261,5--8.a: *
+725 new <d 348> <p>1261,5—8.a: *
+
+727 old <d 350> <p>1261,1.b v. u.: *
+727 new <d 349> <p>1261,1.b v. u.: *
+
+729 old <d 351> <p>1277,26.a v. u.: 190,7
+729 new <d 350> <p>1277,26.a v. u.: 190,7
+
+731 old <d 352> <p>1324,5.6.a: nís bis 1.
+731 new <d 351> <p>1324,5.6.a: nís bis 1.
+
+733 old <d 353> <p>1369,30.a: *
+733 new <d 352> <p>1369,30.a: *
+
+735 old <d 354> <p>1381,21.b v. u.: 119,6
+735 new <d 353> <p>1381,21.b v. u.: 119,6
+
+737 old <d 355> <p>1388,7.6 v. u.: *
+737 new <d 354> <p>1388,7.6 v. u.: *
+
+739 old <d 356> <p>1388,4.3 v. u.: sám bis 8.
+739 new <d 355> <p>1388,4.3 v. u.: sám bis 8.
+
+741 old <d 357> <p>1389,9.10: *
+741 new <d 356> <p>1389,9.10: *
+
+743 old <d 358> <p>1408,26.a: 205,5
+743 new <d 357> <p>1408,26.a: 205,5
+
+745 old <d 359> <p>1446,31.30.b v. u.: nā́kam bis 50
+745 new <d 358> <p>1446,31.30.b v. u.: nā́kam bis 50
+
+747 old <d 360> <p>1473,17.18.b: 1) bis 3.
+747 new <d 359> <p>1473,17.18.b: 1) bis 3.
+
+749 old <d 361> <p>1500,15.a v. u.: 80,9
+749 new <d 360> <p>1500,15.a v. u.: 80,9
+
+751 old <d 362> <p>1510,24.a v. u.: (san)
+751 new <d 361> <p>1510,24.a v. u.: (san)
+
+753 old <d 363> <p>1519,10.9.a v. u.: madacyút 724,3
+753 new <d 362> <p>1519,10.9.a v. u.: madacyút 724,3
+
+755 old <d 364> <p>1528,22.b v. u.: *
+755 new <d 363> <p>1528,22.b v. u.: *
+
+757 old <d 365> <p>1608,4.3.b v. u.: (der Blitz)
+757 new <d 364> <p>1608,4.3.b v. u.: (der Blitz)
+

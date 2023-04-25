@@ -1,0 +1,207 @@
+40 old <c 17> <p>34,11.10 v. u.: <i>reingesinnt</i> ::AB:: st. <i>untrügliche</i> u. s. w.
+40 new <c 17> <p>34,11. 10 v. u.: <i>reingesinnt</i> ::AB:: st. <i>untrügliche</i> u. s. w.
+
+46 old <c 20> <p>39,14.15: <i>Tischgenosse</i> ::AB:: st. <i>Tischgen. habend</i> u. s. w.
+46 new <c 20> <p>39,14. 15: <i>Tischgenosse</i> ::AB:: st. <i>Tischgen. habend</i> u. s. w.
+
+54 old <c 24> <p>52,3 v. u.: 638,2 ::AB:: st. 638,1
+54 new <c 24> <p>52,3.b v. u.: 638,2 ::AB:: st. 638,1
+
+60 old <c 27> <p>68,16: annā-vŕdh ::AB:: st. annā́-vṛdh
+60 new <c 27> <p>68,16: annā-vṛ́dh ::AB:: st. annā́-vṛdh
+
+62 old <c 28> <p>68,18: -ŕdham ::AB:: st. -ṛdham
+62 new <c 28> <p>68,18: -ṛ́dham ::AB:: st. -ṛdham
+
+82 old <c 38> <p>100,4.b: 780,9 ::AB:: st. 780
+82 new <c 38> <p>100,3.b: 780,9 ::AB:: st. 780
+
+86 old <p>118 Ueberschrift: arvācīná ::AB:: st. avācīná
+86 new <c 39a> <p>118 Ueberschrift: arvācīná ::AB:: st. avācīná
+
+88 old <c 40> <p>132,22.b: -ā́ṇi ::AB:: st. -ā́ni
+88 new <c 40> <p>132,21.b: -ā́ṇi ::AB:: st. -ā́ni
+
+92 old <c 42> <p>137,9.8 v. u.: vádhar ::AB:: st. vadhám
+92 new <c 42> <p>137,9. 8 v. u.: vádhar ::AB:: st. vadhám
+
+115 old <c 53> <p>159,21.22: <i>nicht gleitend</i> ::AB:: st. <i>nicht ... zuckend.</i>
+115 new <c 53> <p>159,21. 22: <i>nicht gleitend</i> ::AB:: st. <i>nicht … zuckend</i>.
+
+119 old <c 55> <p>168,4.5: <i>Schlangenstösser</i> (Raubvogel) ::AB:: st. <i>wie ... schiessend</i>
+119 new <c 55> <p>168,4. 5: <i>Schlangenstösser</i> (Raubvogel) ::AB:: st. <i>wie … schiessend</i>
+
+131 old <c 61> <p>211,7.b: 1.7; ::AB:: st. 1,7;
+131 new <c 61> <p>211,7.b: 1. 7; ::AB:: st. 1,7;
+
+135 old <c 63> <p>213,28.b v. u.: 106,1.6. ::AB:: st. 106,1.5.
+135 new <c 63> <p>213,28.b v. u.: 106,1. 6. ::AB:: st. 106,1. 5.
+
+140 old <c 65> <p>216,20.21.a: 658,1--9 ::AB:: st. 658,1.9
+140 new <c 65> <p>216,20. 21.a: 658,1—9 ::AB:: st. 658,1. 9
+
+142 old <c 66> <p>216,27.a: 609,1.4. ::AB:: st. 609,1.3.4
+142 new <c 66> <p>216,27.a: 609,1. 4. ::AB:: st. 609,1. 3. 4
+
+146 old <c 68> <p>232,27 v. u.: 744,2.3 ::AB:: st. 774,2.3
+146 new <c 68> <p>232,27 v. u.: 744,2. 3 ::AB:: st. 774,2. 3
+
+152 old <c 71> <p>252,33.34: pṛṇītám ::AB:: st. (váram)
+152 new <c 71> <p>252,33. 34: pṛṇītám ::AB:: st. (váram)
+
+166 old <c 78> <p>278,24.25: mártasya ::AB:: st. bráhmaṇas pátes
+166 new <c 78> <p>278,24. 25: mártasya ::AB:: st. bráhmaṇas pátes
+
+210 old <c 100> <p>393,21.a v. u.: -ánti ::AB:: st. anti ;;could this be -anti ?
+210 new <c 100> <p>393,21.a v. u.: -ánti ::AB:: st. -anti ;; print error anti for -anti ?
+
+216 old <c 103> <p>409,13.a: 4.5 ::AB:: st. 4--6
+216 new <c 103> <p>409,13.a: 4. 5 ::AB:: st. 4—6
+
+222 old <c 106> <p>443,5.a: -ŕtā ::AB:: st. -ŕthā
+222 new <c 106> <p>443,5.a: -ṛ́tā ::AB:: st. -ṛ́thā
+
+260 old <c 125> <p>550,15 tŕṣyat ::AB:: st. tŕsyat
+260 new <c 125> <p>550,15 tṛ́ṣyat ::AB:: st. tṛ́syat
+
+281 old <c 135> <p>640,18: [vastŕ] <i>des Dunkels</i> ::AB:: st. [vastṛ], des Dunkels
+281 new <c 135> <p>640,18: [vastṛ́] <i>des Dunkels</i> ::AB:: st. [vastṛ], des Dunkels
+
+299 old <c 144> <p>730,9.b: vayám ::AB:: st. vāyávas
+299 new <c 144> <p>729,9.b: vayám ::AB:: st. vāyávas
+
+305 old <c 147> <p>742,15: bŕhaspátim ::AB:: st. agním ;; print error <p>342 instead of <p>742!!
+305 new <c 147> <p>742,15: bṛ́haspátim ::AB:: st. agním ;; print error <p>342 instead of <p>742!!
+
+344 old <c 166> <p>972,29.a: 849,2.3 ::AB:: st. 849,23
+344 new <c 166> <p>972,29.a: 849,2. 3 ::AB:: st. 849,23
+
+479 old <c 233> <p>1348,6.a: 640,12 ::AB:: st. 640,11
+479 new <c 233> <p>1348,6.b: 640,12 ::AB:: st. 640,11
+
+565 old <h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.
+565 new <h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.</h>
+
+576 old <d 275> <p>25,21.22.a: 7) bis 640,8
+576 new <d 275> <p>25,21. 22.a: 7) bis 640,8
+
+578 old <d 276> <p>26,5.6 v. u.: *
+578 new <d 276> <p>26,5. 6 v. u.: *
+
+584 old <d 279> <p>86,28--31: *
+584 new <d 279> <p>86,28—31: *
+
+586 old <d 280> <p>100,1.b: 31
+586 new <d 280> <p>100,1.b:31
+
+592 old <d 283> <p>114,15.14 v. u.: *
+592 new <d 283> <p>114,15. 14 v. u.: *
+
+596 old <d 285> <p>123,15.14.b v. u.: tám bis 13
+596 new <d 285> <p>123,15. 14.b v. u.: tám bis 13
+
+598 old <d 286> <p>135,14.13.a v. u.: 1) bis 144,6
+598 new <d 286> <p>135,14. 13.a v. u.: 1) bis 144,6
+
+600 old <d 287> <p>149,20.21.a: pári bis 61,8 ;;print error 20,21 instead of 20.21
+600 new <d 287> <p>149,20. 21.a: pári bis 61,8 ;;print error 20,21 instead of 20. 21
+
+602 old <d 288> <p>150,8.9.a: suvī́ras 491,9
+602 new <d 288> <p>150,8. 9.a: suvī́ras 491,9
+
+622 old <d 298> <p>198,10--7.b v. u.: *
+622 new <d 298> <p>198,10—7.b v. u.: *
+
+624 old <d 299> <p>201,22.23: devā́n 519,3
+624 new <d 299> <p>201,22. 23: devā́n 519,3
+
+638 old <d 306> <p>310,11.a: 19
+638 new <d 306> <p>310,11.a:19
+
+640 old <d 307> <p>319,32.31.b v. u.: 4) bis 3
+640 new <d 307> <p>319,32. 31.b v. u.: 4) bis 3
+
+642 old <d 308> <p>334,4.3.b v. u.: 17) bis 6
+642 new <d 308> <p>334,4. 3.b v. u.: 17) bis 6
+
+644 old <d 309> <p>335,20.21.a: ŕṣim bis 11
+644 new <d 309> <p>335,20. 21.a: ṛ́ṣim bis 11
+
+646 old <d 310> <p>336,13.14.a: 23) bis 7
+646 new <d 310> <p>336,13. 14.a: 23) bis 7
+
+652 old <d 313> <p>340,20--18.b v. u.: ví bis 3.
+652 new <d 313> <p>340,20—18.b v. u.: ví bis 3.
+
+654 old <d 314> <p>341,20.19.b v. u.: 7) bis 2.
+654 new <d 314> <p>341,20. 19.b v. u.: 7) bis 2.
+
+658 old <d 316> <p>380,6--4.b v. u.: nas bis nas)
+658 new <d 316> <p>380,6—4.b v. u.: nas bis nas)
+
+668 old <d 321> <p>473,5.b v. u.: 4.
+668 new <d 321> <p>473,5.b v. u.:4
+
+670 old <d 322> <p>474,18.19.a: ávitāra 181,1;
+670 new <d 322> <p>474,18. 19.a: ávitāra 181,1;
+
+672 old <d 323> <p>487,14.15.a: 6) bis 2.
+672 new <d 323> <p>487,14. 15.a: 6) bis 2.
+
+676 old <d 325> <p>528,29.30.b: *
+676 new <d 325> <p>528,29. 30.b: *
+
+686 old <d 330> <p>631,26.a v. u.: 5.
+686 new <d 330> <p>631,26.a v. u.:5
+
+694 old <d 334> <p>872,12.11.a v. u.: *
+694 new <d 334> <p>872,12. 11.a v. u.: *
+
+699 old <d 336> <p>955,17.18: 1) bis vām).
+699 new <d 336> <p>955,17. 18: 1) bis vām).
+
+701 old <d 337> <p>962,23.22.a v. u.: ádhi bis 207,2
+701 new <d 337> <p>962,23. 22.a v. u.: ádhi bis 207,2
+
+707 old <d 340> <p>1012,19.18.a v. u.: sám bis 3.
+707 new <d 340> <p>1012,19. 18.a v. u.: sám bis 3.
+
+709 old <d 341> <p>1025,12--14.a: 8) bis 13.
+709 new <d 341> <p>1025,12—14.a: 8) bis 13.
+
+711 old <p>1051,9.10: * ;;print error 1051.9 instead of 1051,9
+711 new <d 341a> <p>1051,9. 10: * ;;print error 1051. 9 instead of 1051,9
+
+715 old <d 343> <p>1061,14.13 v. u.: *
+715 new <d 343> <p>1061,14. 13 v. u.: *
+
+723 old <d 347> <p>1234,31.30.a v. u.: indra 227,1
+723 new <d 347> <p>1234,31. 30.a v. u.: indra 227,1
+
+725 old <d 348> <p>1261,5--8.a: *
+725 new <d 348> <p>1261,5—8.a: *
+
+731 old <d 351> <p>1324,5.6.a: nís bis 1.
+731 new <d 351> <p>1324,5. 6.a: nís bis 1.
+
+737 old <d 354> <p>1388,7.6 v. u.: *
+737 new <d 354> <p>1388,7. 6 v. u.: *
+
+739 old <d 355> <p>1388,4.3 v. u.: sám bis 8.
+739 new <d 355> <p>1388,4. 3 v. u.: sám bis 8.
+
+741 old <d 356> <p>1389,9.10: *
+741 new <d 356> <p>1389,9. 10: *
+
+745 old <d 358> <p>1446,31.30.b v. u.: nā́kam bis 50
+745 new <d 358> <p>1446,31. 30.b v. u.: nā́kam bis 50
+
+747 old <d 359> <p>1473,17.18.b: 1) bis 3.
+747 new <d 359> <p>1473,17. 18.b: 1) bis 3.
+
+753 old <d 362> <p>1519,10.9.a v. u.: madacyút 724,3
+753 new <d 362> <p>1519,10. 9.a v. u.: madacyút 724,3
+
+757 old <d 364> <p>1608,4.3.b v. u.: (der Blitz)
+757 new <d 364> <p>1608,4. 3.b v. u.: (der Blitz)
+
