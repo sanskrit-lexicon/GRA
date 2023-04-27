@@ -1,0 +1,180 @@
+0004 : 1. d.
+0003 : 1. du.
+0017 : 1. p.
+0001 : 1. Person
+0003 : 1. pl.
+0001 : 1. plur.
+0187 : 1. s.
+0001 : 2. 3. ps.
+0009 : 2. 3. s.
+0075 : 2. d.
+0070 : 2. du.
+0073 : 2. p.
+0055 : 2. pl.
+0210 : 2. s.
+0061 : 3. d.
+0094 : 3. du.
+0143 : 3. p.
+0001 : 3. Person
+0069 : 3. pl.
+0682 : 3. s.
+5997 : a.
+3795 : A.
+0009 : A. d.
+0014 : A. du.
+0496 : A. p.
+0076 : A. pl.
+0020 : A. s.
+0534 : Ab.
+0086 : Abl.
+0028 : Absol.
+0229 : Acc.
+0013 : Act.
+0024 : act.
+0154 : Adj.
+0004 : adj.
+0094 : Adv.
+0038 : adv.
+0007 : Anm.
+0365 : Aor.
+0006 : Augm.
+0069 : Bed.
+0016 : BR.
+0112 : C.
+0608 : Caus.
+0002 : Causat.
+0003 : Cl.
+0295 : Co.
+0016 : Comp.
+0024 : Compar.
+0097 : Conj.
+0007 : Cons.
+0399 : d.
+0777 : D.
+0322 : d. h.
+0439 : dass.
+0156 : Dat.
+0005 : Denom.
+0002 : Denomin.
+0113 : Desid.
+0004 : Desider.
+0710 : du.
+2808 : f.
+0002 : Folg.
+0032 : folg.
+0001 : fut.
+0020 : Fut.
+0867 : G.
+0001 : Gebr.
+0376 : Gen.
+0833 : I.
+0136 : Imperf.
+0001 : imperf.
+0233 : Impf.
+0068 : Impv.
+0027 : Ind.
+0005 : Indic.
+0218 : Inf.
+0035 : Infin.
+0156 : Instr.
+0095 : Int.
+0202 : Intens.
+0130 : Iv.
+0002 : Kons.
+0826 : L.
+0116 : Loc.
+0001 : Locat.
+3682 : m.
+0001 : M.
+0523 : me.
+0011 : Me.
+0182 : med.
+0040 : Med.
+0001 : Metr.
+2340 : n.
+0371 : N.
+0013 : N. A.
+0003 : N. A. d.
+0004 : N. A. du.
+0001 : N. A. p.
+0002 : N. A. pl.
+0006 : N. A. s.
+0011 : N. d.
+0025 : N. du.
+0783 : N. p.
+0137 : N. pl.
+0383 : N. s.
+0041 : neutr.
+0051 : Nom.
+0142 : o.
+0011 : O.
+0040 : Obj.
+0035 : od.
+0147 : Opt.
+0116 : p.
+0001 : pag.
+0016 : par.
+1412 : Part.
+0003 : part.
+0010 : Partic.
+0066 : pass.
+0097 : Pass.
+0001 : Patron.
+0419 : Perf.
+0004 : perf.
+0279 : pl.
+0002 : Pl.
+0009 : Plur.
+0009 : plur.
+0001 : Plusq.
+0002 : Plusquamp.
+0011 : Plusquamperf.
+0028 : pr.
+0018 : Praep.
+0007 : Praes.
+0020 : praes.
+0013 : Prec.
+0022 : pron.
+0014 : prs.
+0013 : Präp.
+0004 : Präpos.
+0006 : Präs.
+0002 : Präsent.
+0001 : präsent.
+0001 : Red.
+0011 : Redupl.
+0001 : regelm.
+0971 : s.
+0002 : schol.
+0001 : scil.
+0017 : Sing.
+0001 : st.
+0010 : Subj.
+0067 : Subst.
+0018 : subst.
+0007 : Sup.
+0072 : Superl.
+0094 : u.
+0740 : u. s. w.
+0001 : unregelm.
+0022 : urspr.
+0283 : v.
+0465 : V.
+0058 : V. d.
+0101 : V. du.
+0039 : V. p.
+0005 : V. pl.
+0036 : V. s.
+0002 : Var.
+0055 : vergl.
+0237 : Vgl.
+1435 : vgl.
+0044 : Vo.
+0001 : Vo. d.
+0005 : Vo. du.
+0001 : Vo. p.
+0001 : Vo. s.
+0039 : Voc.
+0007 : Vok.
+0168 : z. B.
+0007 : ähnl.
