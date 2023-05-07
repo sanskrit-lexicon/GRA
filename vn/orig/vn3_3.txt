@@ -25,7 +25,7 @@
 
 <c 10> <p>22,28: á-joṣa, jóṣa    ::AB:: st. á-josa, jósa
 
-<c 11> <p>26,24 v. u.: áṇu    ::AB:: st. aṇu
+<c 11> <p>26,24 v. u.: áṇu    ::AB:: st. anu
 
 <c 12> <p>27,3.b v. u.: -ā́ni    ::AB:: st. āni
 
@@ -231,7 +231,7 @@
 
 <c 111> <p>482,30 v. u.: gar    ::AB:: st. jar
 
-<c 112> <p>483,8: jāta    ::AB:: st. jātá-
+<c 112> <p>483,8: jāta-    ::AB:: st. jātá-
 
 <c 113> <p>487,21 v. u.: 3. s.    ::AB:: st. 2. s.
 
@@ -257,7 +257,7 @@
 
 <c 124> <p>546,9 v. u.: {%Uebertreffen%}    ::AB:: st. {%Anregung%}
 
-<c 125> <p>550,15 tṛ́ṣyat:    ::AB:: st. tṛ́syat
+<c 125> <p>550,15 tṛ́ṣyat    ::AB:: st. tṛ́syat
 
 <c 126> <p>550,28.b: -úṇā    ::AB:: st. -únā
 
@@ -292,7 +292,7 @@
 
 <c 141> <p>682,9: dhiṣáṇa    ::AB:: st. dhiṣána
 
-<c 142> <p>689,16 priyā́s:    ::AB:: st. priyā́
+<c 142> <p>689,16 priyā́s    ::AB:: st. priyā́
 
 <c 143> <p>689,25.a v. u.: -at    ::AB:: st. -as
 
@@ -411,7 +411,7 @@
 
 <c 200> <p>1156,20.a: -atas    ::AB:: st. -athas
 
-<c 201> <p>1165,9; -ikṣé:    ::AB:: st. -ikṣe
+<c 201> <p>1165,9: -ikṣé    ::AB:: st. -ikṣe
 
 <c 202> <p>1167,4 v. u.: -ṣes    ::AB:: st. -ṣe
 
@@ -655,7 +655,7 @@
 
 <d 315> <p>363,22.a v. u.: {242,1}
 
-<d 316> <p>380,6—4.b v. u.: nas bis nas)
+<d 316> <p>380,16—14.b v. u.: nas bis nas)
 
 <d 317> <p>382,14.a: 1) {130,9}
 
@@ -742,7 +742,7 @@
 
 <d 357> <p>1408,26.a: {205,5}
 
-<d 358> <p>1446,31.30.b v. u.: nā́kam bis 50
+<d 358> <p>1446,31.30.a v. u.: nā́kam bis 50
 
 <d 359> <p>1473,17.18.b: 1) bis 3.
 
@@ -754,4 +754,4 @@
 
 <d 363> <p>1528,22.b v. u.: *
 
-<d 364> <p>1608,4.3.b v. u.: (der Blitz)
+<d 364> <p>1608,4.3.a v. u.: (der Blitz)

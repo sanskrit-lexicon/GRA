@@ -1,0 +1,3510 @@
+[Page1749]
+
+<h>{@Nachträge.@}</h>
+
+<h>(das Zeichen * bedeutet dass das Wort oder die Form im Wörterbuche ganz fehlt).</h>
+<h>ENGLISH: (the character * means that the word or form in the dictionary completely missing</h>
+
+<L>12001<pc>1749<k1>aMSu<k2>aMSu/
+{@aṃśú@}¦:<info vn="add 1 gra"/> -úm {920,9}.
+<LEND>
+
+<L>12002<pc>1749<k1>aMhas<k2>a/Mhas
+{@áṃhas@}¦:<info vn="add 2 gra"/> -as {249,3}; {576,6}; -a sas [Ab.] {117,3}; {952,2}.
+<LEND>
+
+<L>12003<pc>1749<k1>aMhu<k2>aMhu/
+{@aṃhú@}¦:<info vn="add 3 gra"/> -ós {63,7}.
+<LEND>
+
+<L>12004<pc>1749<k1>aMhoyu<k2>aMhoyu/
+*{@aṃhoyú@}¦,<info vn="add 4 gra"/> a., {%bedrängend.%} -úvas [N. p. f.] (rakṣásas)
+369,3.
+<LEND>
+
+<L>12005<pc>1749<k1>akarman<k2>a-karma/n
+*{@a-karmán@}¦,<info vn="add 5 gra"/> a., {%nicht gute Thaten%} [kárman] {%wirkend, Unheil
+wirkend.%} -ā́ dásyus {848,8}.
+<LEND>
+
+<L>12006<pc>1749<k1>aktu<k2>aktu/
+{@aktú@}¦:<info vn="add 6 gra"/> -ós 3) hótāram {918,1}.
+<LEND>
+
+<L>12007<pc>1749<k1>akz<k2>akz
+{@akṣ@}¦:<info vn="add 7 gra"/> ákṣat siehe unter 1. aś.
+<LEND>
+
+<L>12008<pc>1749<k1>akzita<k2>a/-kzita
+{@ákṣita@}¦:<info vn="add 8 gra"/> -am [n.] sumnám {790,3}.
+<LEND>
+
+<L>12009<pc>1749<k1>agni<k2>agni/
+{@agní@}¦:<info vn="add 9 gra"/> -áye 2) {304,5}; {359,1}.11; {361,1}; {663,11};
+... * -és [Ab.] {888,5}.6; {902,5}; {1007,2}.
+<div n="H">-és [G.] 2) ávena {128,5}; ajárās {143,3}; juhúas 507, 10; ánīkam
+604,2; {833,3}; dhā́rām {682,9}; várma {842,7}; śármaṇi {862,12}; samídhas
+877,2; samídh (-ít) {906,2}; bhrā́taras {877,6}. ā́yus 8; saṃdṛ́śas
+895,1. várdhanam 2; dhā́māni {906,4}. gávyūtis 6; 〰 gāyatrī́
+abhavat {956,4}.
+<div n="H">-aú 2) {481,3}; -ā́ 2) {681,15}; -ī́ 2) índra yás 〰 {501,1}; -áyas
+1) {341,5}.
+<LEND>
+
+<L>12010<pc>1749<k1>agra<k2>a/gra
+{@ágra@}¦:<info vn="add 10 gra"/> 8) Schädel der rákṣas.-am 8) {264,17} (rákṣasas);
+-am-agram 5) vásūnām {123,4}; -e 1) {126,4} (sahásrasya); {947,1}
+(bhūtásya). -- 4) {292,4} usrás; * -ā 8) {913,10}.
+<LEND>
+
+<L>12011<pc>1749<k1>aGa<k2>aGa/
+{@aghá@}¦:<info vn="add 11 gra"/> -ā́t 1) śáṃsāt {128,5}; -ásya [n.] 2) dhātā́ {123,5}.
+<LEND>
+
+<L>12012<pc>1749<k1>aGaSaMsa<k2>aGa/-SaMsa
+{@aghá-śaṃsa@}¦:<info vn="add 12 gra"/> -as {233,3}; {300,3}; -āya {669,8}.
+<LEND>
+
+<L>12013<pc>1749<k1>aGAy<k2>aGAy
+{@aghāy@}¦:<info vn="add 13 gra"/> -até {492,6}.
+<LEND>
+
+<L>12014<pc>1749<k1>aGnya<k2>a/Gnya
+({@ághnya@})¦:<info vn="add 13a gra"/> -ā {603,4}.
+<LEND>
+
+<L>12015<pc>1749<k1>aGnya<k2>aGnya/, aGnia/
+{@aghnyá@}¦:<info vn="add 14 gra"/> -ī́ā́s [N. p. f.] {792,2}.
+<LEND>
+
+<L>12016<pc>1749<k1>aNga<k2>aNga/
+{@aṅgá@}¦:<info vn="add 15 gra"/> kím {868,3}.
+<LEND>
+
+<L>12017<pc>1749<k1>aNgiras<k2>a/Ngiras
+{@áṅgiras@}¦:<info vn="add 16 gra"/> -asas [V.] {888,1}; -asas [N.] {299,11}; {558,1}; -obhias
+774,9.
+<LEND>
+
+<L>12018<pc>1749<k1>aj<k2>aj
+{@aj@}¦ <info vn="add 17 gra"/> mit * {@prá@} Heerden [A.] heimwärts [ástam] {%treiben:%}
+Stamm {@ája -ā prá@} yūthā́£iva paśurákṣis {490,12}; Stamm des
+Pass. {@ajyá@}: -áse 2) váne {778,9}.
+<LEND>
+
+<L>12019<pc>1749<k1>ajara<k2>a-ja/ra
+{@a-jára@}¦:<info vn="add 18 gra"/> -as 1) {398,3}; -ebhis 4) {620,5}.
+<LEND>
+
+<L>12020<pc>1749<k1>ajurya<k2>a-jurya/
+{@a-juryá@}¦:<info vn="add 19 gra"/> *-yás {199,2}; {471,1}.
+<LEND>
+
+<L>12021<pc>1749<k1>aYj<k2>aYj
+{@añj@}¦,<info vn="add 20 gra"/> Stamm {@añj@}: -ñjánti 2) tvā́m mádhunā {242,1};
+-ṅgdhué 14) {926,10}. Stamm des Pass. {@ajya@}: -ase 11) góbhis {797,5};
+-ate 7) góbhis {640,8}.
+<LEND>
+
+<L>12022<pc>1749<k1>aRva<k2>a/Rva
+{@áṇva@}¦:<info vn="add 21 gra"/> -āni {798,47}.
+<LEND>
+
+<L>12023<pc>1749<k1>atas<k2>a/tas
+{@átas@}¦:<info vn="add 22 gra"/> 7) {53,3}; {108,7}--12; {312,5}.
+<LEND>
+
+<L>12024<pc>1749<k1>atya<k2>a/tya, a/tia
+{@átya@}¦:<info vn="add 23 gra"/> -yas 3) {236,7}.
+<LEND>
+
+<L>12025<pc>1749<k1>atra<k2>a/tra<h>1
+1. {@átra@}¦:<info vn="add 23a gra"/> 2) {257,1}; {315,1}; {326,7} (£áha); {556,6}; {651,18}; {654,3};
+785,9; {838,8}; {842,13}; {853,6}. 10 (£íd); {877,4}; {879,8}; {890,16}; {899,3};
+917,9; {918,15}; {919,15}; {928,7}. -- 3) {135,8}. -- 4) 726, 4; {857,11}; {868,4}.
+-- 5) {837,8}; {838,4}. 6; 853, 9; {898,6}. 7; {899,1}.
+<LEND>
+
+<L>12026<pc>1749<k1>aTa<k2>a/Ta
+{@átha@}¦:<info vn="add 24 gra"/> 1) {24,15}. -- 3) {827,7}.
+<LEND>
+
+<L>12027<pc>1749<k1>ad<k2>ad
+{@ad@}¦,<info vn="add 25 gra"/> Stamm {@ád@}: - tti 1) ánnam {445,5}; Stamm {@ad@}: -tti 1)
+yád ácyutam {456,1}.
+<LEND>
+
+<L>12028<pc>1749<k1>adas<k2>ada/s
+{@adás@}¦ <info vn="add 26 gra"/> pron.: *-múṣmāt {322,6}.
+<LEND>
+
+[Page1750]
+
+<L>12029<pc>1750<k1>adABya<k2>a/-dABya
+({@ádābhya@})¦:<info vn="add 26a gra"/> -a {531,15}; -as {851,7}; -am {944,6}; -ā [V. du.] {429,7}.
+8.
+<LEND>
+
+<L>12030<pc>1750<k1>aditi<k2>a/-diti<h>2
+2. {@á-diti@}¦:<info vn="add 26b gra"/> -is 7) {43,2}; {554,4}; {556,2}. 4;- im 5) 298, 11; 7)
+891,9.
+<LEND>
+
+<L>12031<pc>1750<k1>adeva<k2>a/-deva
+{@á-deva@}¦:<info vn="add 27 gra"/> * -asya 1) pīyós {174,8}; {210,7}; śū́śuvānasya {937,6}.
+<LEND>
+
+<L>12032<pc>1750<k1>adButa<k2>a/d-Buta
+{@ád-bhuta@}¦:<info vn="add 28 gra"/> -asya in {120,4} ist adbhutásya betont.
+<LEND>
+
+<L>12033<pc>1750<k1>adya<k2>adya/
+{@adyá@}¦:<info vn="add 29 gra"/> {194,3}.
+<LEND>
+
+<L>12034<pc>1750<k1>adri<k2>a/-dri
+{@á-dri@}¦:<info vn="add 30 gra"/> -im 5) {894,11}; -ibhis 4) {738,5}; {763,1}.
+<LEND>
+
+<L>12035<pc>1750<k1>adruh<k2>a-dru/h
+{@a-drúh@}¦:<info vn="add 31 gra"/> -úhas [N. m.] ādityā́s {676,13}.
+<LEND>
+
+<L>12036<pc>1750<k1>adroGa<k2>a-droGa/
+{@a-droghá@}¦:<info vn="add 32 gra"/> -ám in {669,4} auf erster Silbe betont.
+<LEND>
+
+<L>12037<pc>1750<k1>advizeRya<k2>a-dvizeRya/
+({@a-dviṣeṇyá@})¦:<info vn="add 32a gra"/> *ám átithim {948,1}.
+<LEND>
+
+<L>12038<pc>1750<k1>aDa<k2>a/Da
+{@ádha@}¦:<info vn="add 33 gra"/> 1) {204,5}; {420,2}. 4; {536,5}.
+<LEND>
+
+<L>12039<pc>1750<k1>aDapriya<k2>aDa-priya
+*{@adha-priya@}¦,<info vn="add 34 gra"/> a., {%nun erfreut.%} -ā [V. du.] aśvinā {628,4}.
+<LEND>
+
+<L>12040<pc>1750<k1>aDarAt<k2>aDarA/t
+{@adharā́t@}¦:<info vn="add 35 gra"/> {670,16}.
+<LEND>
+
+<L>12041<pc>1750<k1>aDvara<k2>aDvara/
+{@adhvará@}¦:<info vn="add 36 gra"/> -ám {936,2}; -é {382,6}; {784,5}; {794,3}; -ā́n {902,3};
+-ā́ṇaam rā́jantau {628,18}.
+<LEND>
+
+<L>12042<pc>1750<k1>aDvaryu<k2>aDvaryu/
+{@adhvaryú@}¦:<info vn="add 37 gra"/> -o {287,3}; {644,16}; -ús {94,6}.
+<LEND>
+
+<L>12043<pc>1750<k1>an<k2>an-
+{@an@}¦,<info vn="add 38 gra"/> mit {@ví,@} {%athmen.%} Part. {@anát@}: -át {@vi@} {946,2};
+-atás [G.] {@pra@} 2) pátis {101,5}.
+<LEND>
+
+<L>12044<pc>1750<k1>ananta<k2>an-anta/
+{@an-antá@}¦:<info vn="add 39 gra"/> *-ā́n 1) vavrā́n {620,17}.
+<LEND>
+
+<L>12045<pc>1750<k1>anarvan<k2>an-arva/n
+{@an-arván@}¦:<info vn="add 40 gra"/> -áṇām 1) devā́nām {862,11}.
+<LEND>
+
+<L>12046<pc>1750<k1>anavadya<k2>an-avadya/
+{@an-avadyá@}¦:<info vn="add 41 gra"/> -ā́s [m.] ādityā́sas {218,2}.
+<LEND>
+
+<L>12047<pc>1750<k1>anas<k2>a/nas
+{@ánas@}¦:<info vn="add 42 gra"/> -asā 1) {928,6}.
+<LEND>
+
+<L>12048<pc>1750<k1>anApta<k2>a/n-Apta
+*{@án-āpta@}¦,<info vn="add 43 gra"/> a., {%unerreichbar.%} -as yā́mas {100,2}.
+<LEND>
+
+<L>12049<pc>1750<k1>anABayin<k2>an-ABayin
+*{@an-ābhayin@}¦,<info vn="add 44 gra"/> a., {%furchtlos.%} -in [V.] (indra) {622,1}.
+<LEND>
+
+<L>12050<pc>1750<k1>anAyata<k2>a/n-Ayata
+*{@án-āyata@}¦,<info vn="add 45 gra"/> a., {%ungestützt.%} -as (sū́ryas) {309,5}; {310,5}.
+<LEND>
+
+<L>12051<pc>1750<k1>anIka<k2>a/nIka
+{@ánīka@}¦:<info vn="add 46 gra"/> *-ena 2) {200,6}.
+<LEND>
+
+<L>12052<pc>1750<k1>anumAdya<k2>anumA/dya, anumA/dia
+{@anumā́dya@}¦:<info vn="add 47 gra"/> *-iāsas áśvās {115,3}.
+<LEND>
+
+<L>12053<pc>1750<k1>anuyAja<k2>anu-yAja/
+{@anu-yājá@}¦:<info vn="add 48 gra"/> *-ā́s {877,9}; *-ā́n {877,8}.
+<LEND>
+
+<L>12054<pc>1750<k1>anehas<k2>an-eha/s
+{@an-ehás@}¦:<info vn="add 49 gra"/> -ásam [m.] 2) pánthām {492,16}.
+<LEND>
+
+<L>12055<pc>1750<k1>anta<k2>a/nta
+{@ánta@}¦:<info vn="add 50 gra"/> -am 3) bhū́myās {940,10}; -ān 3) divás {846,4}.
+<LEND>
+
+<L>12056<pc>1750<k1>antama<k2>a/ntama
+{@ántama@}¦:<info vn="add 51 gra"/> -asya, in {289,8} antamásya betont.
+<LEND>
+
+<L>12057<pc>1750<k1>antarA<k2>antarA/
+{@antarā́@}¦:<info vn="add 52 gra"/> ródasī {798,13}; pū́rvam áparam ca {965,2}.
+<LEND>
+
+<L>12058<pc>1750<k1>antarikza<k2>anta/ri-kza
+{@antári-kṣa@}¦:<info vn="add 53 gra"/> -eṇa {777,16}; -e {205,3}.
+<LEND>
+
+<L>12059<pc>1750<k1>antarikzya<k2>anta/rikzya
+({@antárikṣya@})¦:<info vn="add 53a gra"/> -ā vásu {776,6}.
+<LEND>
+
+<L>12060<pc>1750<k1>anDas<k2>a/nDas<h>2
+2. {@ándhas@}¦:<info vn="add 53b gra"/> -asas {228,1}; {697,1}; ráṇan {851,1}.
+<LEND>
+
+<L>12061<pc>1750<k1>anya<k2>anya/
+{@anyá@}¦:<info vn="add 54 gra"/> -ás {471,4}; -ám 9) {488,16}; -ád 1) {622,17}; -é [p.] 1)
+59,1; -ā́ [f.] 2) {109,1} yuvát; 3) 123, 7; -ā́m 7) {923,14}; -ā́s [A.]
+10) {611,1}.
+<LEND>
+
+<L>12062<pc>1750<k1>ap<k2>a/p<h>2
+2. {@áp@}¦:<info vn="add 54a gra"/> ā́pas [N.] {399,10}; {408,2}; {678,11}; {892,9}; {915,13}; {947,7};
+(devī́s) {601,3}; {930,8}; apás [A.] {211,7}; apā́m [G.] bhurváṇi {134,5};
+upásthe {834,1}; apáām [G.] yā́mani {903,4}; apsú [L.] {151,1}; {243,4};
+677,9; {792,5}; {819,1}.
+<LEND>
+
+<L>12063<pc>1750<k1>apara<k2>a/para
+{@ápara@}¦:<info vn="add 55 gra"/> *-asyās 2) {855,2}.
+<LEND>
+
+<L>12064<pc>1750<k1>apas<k2>a/pas
+{@ápas@}¦:<info vn="add 56 gra"/> -as {213,4}; {879,6} (vayata); in {838,4} hat Padap. ā́pas.
+<LEND>
+
+<L>12065<pc>1750<k1>apas<k2>apa/s
+{@apás@}¦:<info vn="add 57 gra"/> -ásas [G.] 3) náviṣṭau {622,17}; -ásām [f.] upásthāt
+95,4.
+<LEND>
+
+[Page1751]
+
+<L>12066<pc>1751<k1>apasyu<k2>apasyu/
+{@apasyú@}¦:<info vn="add 58 gra"/> *úvas [A. p. f.] gíras {714,7}.
+<LEND>
+
+<L>12067<pc>1751<k1>apAra<k2>a-pAra/
+{@apārá@}¦:<info vn="add 59 gra"/> -ā́m bhū́mim {264,9}.
+<LEND>
+
+<L>12068<pc>1751<k1>apIcya<k2>apIcy/a
+({@apīcyà@})¦:<info vn="add 59a gra"/> -am [n.] mártānām {659,6}.
+<LEND>
+
+<L>12069<pc>1751<k1>apfRat<k2>a/-pfRat
+{@á-pṛṇat@}¦:<info vn="add 60 gra"/> *-an {943,1}; *-antam {125,7}; {943,7}.
+<LEND>
+
+<L>12070<pc>1751<k1>aptUrya<k2>aptU/rya
+({@aptū́rya@})¦:<info vn="add 60a gra"/> *-e {285,9}.
+<LEND>
+
+<L>12071<pc>1751<k1>apracetas<k2>a/-pracetas
+{@á-pracetas@}¦:<info vn="add 61 gra"/> -asas [A. p. m.] {776,20}.
+<LEND>
+
+<L>12072<pc>1751<k1>aprati<k2>a-prati/
+{@a-pratí@}¦:<info vn="add 62 gra"/> -ī́ [p. n.] vṛtrā́ṇi {485,14}.
+<LEND>
+
+<L>12073<pc>1751<k1>apratIta<k2>a/-pratIta
+*{@á-pratīta@}¦,<info vn="add 63 gra"/> a., {%unwiderstehlich.%} -a indra 133, 6; -as
+346,9; índras {280,3}; {937,3}; {386,9}; {461,9}; bṛ́haspátis {514,3}; -am [m.]
+índram 33, 2; {930,7}; áśvam {117,9}; -am [n.] sáhas 338, 6; {386,7}; -asya
+marutvátas {396,6}.
+<LEND>
+
+<L>12074<pc>1751<k1>aprayuCat<k2>a/-prayuCat
+{@á-prayuchat@}¦:<info vn="add 64 gra"/> -an {833,7} (agnís).
+<LEND>
+
+<L>12075<pc>1751<k1>apravIta<k2>a/-pravIta
+{@á-pravīta@}¦:<info vn="add 65 gra"/> * -ās [N. p. f.] {289,5}.
+<LEND>
+
+<L>12076<pc>1751<k1>aBakta<k2>a/-Bakta
+{@á-bhakta@}¦:<info vn="add 66 gra"/> * -e {938,10}.
+<LEND>
+
+<L>12077<pc>1751<k1>aBaya<k2>a/-Baya
+{@á-bhaya@}¦:<info vn="add 67 gra"/> -am [n.] 1) śárma {889,7}; 2) {670,13}.
+<LEND>
+
+<L>12078<pc>1751<k1>aBi<k2>aBi/
+{@abhí@}¦:<info vn="add 68 gra"/> 1) 〰 práyas {405,5}--7. -- Präp. mit Loc. 〰 druhás padé
+214,16 (falls die Lesart richtig ist).
+<LEND>
+
+<L>12079<pc>1751<k1>aBitas<k2>aBi/tas
+{@abhítas@}¦:<info vn="add 69 gra"/> 1) {%ringsum%} sáras {619,7}; 2) {960,5}.
+<LEND>
+
+<L>12080<pc>1751<k1>aBipitva<k2>aBi-pitva/
+{@abhi-pitvá@}¦:<info vn="add 70 gra"/> -é 2) {331,6}; *-éṣu {83,6}.
+<LEND>
+
+<L>12081<pc>1751<k1>aBivlaNGa<k2>aBivlaNGa/
+*{@abhivlaṅgá@}¦,<info vn="add 71 gra"/> m., {%das Bedrängen, Fortdrängen%} [von vlag,
+vlaṅg m. abhí]. -aís {133,4}.
+<LEND>
+
+<L>12082<pc>1751<k1>aBizwi<k2>aBizwi/
+{@abhíṣṭi@}¦:<info vn="add 72 gra"/> -au {887,22}.
+<LEND>
+
+<L>12083<pc>1751<k1>aBrAtfvya<k2>a-BrAtfvya/
+*{@a-bhrātṛvyá@}¦,<info vn="add 73 gra"/> a., {%ohne Nebenbuhler seiend.%}
+<div n="H">-ás (índras) {641,13}.
+<LEND>
+
+<L>12084<pc>1751<k1>amartya<k2>a/-martya
+({@á-martya@})¦:<info vn="add 73a gra"/> -as {236,11}; {258,2}; {261,5}. 7; {450,7}; {457,6}; {639,25};
+-am {297,1}; {639,3}; {944,6}; -asya {905,1}.
+<LEND>
+
+<L>12085<pc>1751<k1>amA<k2>amA/
+{@amā́@}¦:<info vn="add 74 gra"/> {954,6}.
+<LEND>
+
+<L>12086<pc>1751<k1>amitra<k2>a-mi/tra
+{@amítra@}¦:<info vn="add 75 gra"/> -ān {474,3}.
+<LEND>
+
+<L>12087<pc>1751<k1>aminat<k2>a/-minat
+{@á-minat@}¦:<info vn="add 76 gra"/> *-at 2) náksatram {914,13}.
+<LEND>
+
+<L>12088<pc>1751<k1>amIvA<k2>a/mIvA
+{@ámīvā@}¦:<info vn="add 77 gra"/> *-ās [N. p.] {668,11}.
+<LEND>
+
+<L>12089<pc>1751<k1>amfkta<k2>a/-mfkta
+{@a-mṛkta@}¦:<info vn="add 78 gra"/> -am [n.] rátnam {553,2}.
+<LEND>
+
+<L>12090<pc>1751<k1>amfta<k2>a-mf/ta
+{@a-mṛ́ta@}¦:<info vn="add 79 gra"/> -a agne {372,5}; -am [m.] dūtám 643, 19; -am [n.] 7)
+257,1; -ān {891,15}.
+<LEND>
+
+<L>12091<pc>1751<k1>amftatva<k2>amftatva/
+{@amṛtatvá@}¦:<info vn="add 80 gra"/> *-ásya ī́śānas {916,2}.
+<LEND>
+
+<L>12092<pc>1751<k1>ayas<k2>a/yas
+{@áyas@}¦:<info vn="add 81 gra"/> -as {163,9}.
+<LEND>
+
+<L>12093<pc>1751<k1>ayAsya<k2>a-yA/sya
+({@a-yā́sya@})¦:<info vn="add 81a gra"/> -as Soma {756,1}.
+<LEND>
+
+<L>12094<pc>1751<k1>ayodaMzwra<k2>a/yo-daMzwra
+{@áyo-daṃṣṭra@}¦:<info vn="add 82 gra"/> * -ān varā́hūn {88,5}.
+<LEND>
+
+<L>12095<pc>1751<k1>ar<k2>ar, f
+{@ar@}¦ <info vn="add 83 gra"/> 6 a) {%rinnen, zerrinnen%} (v. Strom). Stamm I. iyar: -rmi
+{@prá@} 2) te ghṛtā́cīm {253,2}. -- Stamm IV. ranta 6 a) síndhavas
+61,11 (anders Roth in Ku. 20). -- Aorist {@āra@}: - at {@sám@} sám u
+〰 nákis asya maghā́ni {958,3} (ergreifen, zusammenraffen; Padap. āran).
+<LEND>
+
+<L>12096<pc>1751<k1>araMkft<k2>araM-kf/t
+{@araṃ-kṛ́t@}¦:<info vn="add 84 gra"/> -ṛ́te {192,7}.
+<LEND>
+
+<L>12097<pc>1751<k1>araRa<k2>a/raRa
+{@áraṇa@}¦:<info vn="add 85 gra"/> *-ās tvát 〰 iva {621,13}.
+<LEND>
+
+<L>12098<pc>1751<k1>arati<k2>arati/
+{@aratí@}¦:<info vn="add 86 gra"/> -ím {448,1}; {456,4}; in {334,4} vielleicht árātim zu lesen.
+<LEND>
+
+<L>12099<pc>1751<k1>aramati<k2>a-ra/mati
+* 2. {@a-rámati@}¦,<info vn="add 86a gra"/> a., {%nicht rastend.%} -is savitā́ {229,4}.
+<LEND>
+
+<L>12100<pc>1751<k1>arAti<k2>a/-rAti
+{@á-rāti@}¦:<info vn="add 87 gra"/> -ayas 3) {1000,2}.
+<LEND>
+
+<L>12101<pc>1751<k1>ari<k2>ari/
+{@arí@}¦:<info vn="add 88 gra"/> -yas [G.] 2) áti yád 〰 árhāt {214,15}.
+<LEND>
+
+<L>12102<pc>1751<k1>aruza<k2>aruza/
+{@aruṣá@}¦:<info vn="add 89 gra"/> -ás áśvas {263,6}; -ám [m.] vadhám {915,9}.
+<LEND>
+
+<L>12103<pc>1751<k1>arka<k2>arka/
+{@arká@}¦:<info vn="add 90 gra"/> -ám 4) {904,4}; -aís 4) {340,3}; {503,1}.
+<LEND>
+
+<L>12104<pc>1751<k1>arc<k2>arc, fc
+{@arc@}¦,<info vn="add 91 gra"/> Stamm {@árca@}: -anti 8) śúṣmam {165,1}; -a {@prá@} 2)
+406,1. 3) Stamm {@arca@}: -e {@abhí@} 3) 
+[Page1752]
+índram {463,1}.
+Part. {@árcat@}: -an 7) tvā {975,5};
+<div n="H">-ate {151,2}.
+<LEND>
+
+<L>12105<pc>1751<k1>arjuna<k2>a/rjuna
+{@árjuna@}¦:<info vn="add 92 gra"/> -ā [p. n.] vástrāṇi {273,2}; -i {438,2}.
+<LEND>
+
+<L>12106<pc>1751<k1>arRava<k2>arRava/
+{@arṇavá@}¦:<info vn="add 93 gra"/> -ám 2) {214,18}.
+<LEND>
+
+<L>12107<pc>1751<k1>arTa<k2>a/rTa
+{@ártha@}¦:<info vn="add 94 gra"/> -am 1) {230,1}; apā́m 〰 yatī́naam {158,6}.
+<LEND>
+
+<L>12108<pc>1751<k1>ard<k2>ard
+{@ard@}¦:<info vn="add 95 gra"/> *Imperf. des Caus. {@ā́rdaya@} (betont nur {930,10}) -as
+{@prá@} nī́cīs apásas {458,12}; -at 2) vṛtrám {930,10}.
+<LEND>
+
+<L>12109<pc>1751<k1>arDadeva<k2>arDa-deva/
+*{@ardha-devá@}¦,<info vn="add 96 gra"/> m., {%Halbgott.%} -ám {338,8}. 9.
+<LEND>
+
+<L>12110<pc>1751<k1>arya<k2>arya/
+{@aryá@}¦:<info vn="add 97 gra"/> * -ám 1) (índram) {653,14}; -é 2) {370,3}.
+<LEND>
+
+<L>12111<pc>1751<k1>aryaman<k2>aryama/n
+{@aryamán@}¦:<info vn="add 98 gra"/> -an 3) {638,21}; -ā́ 3) {167,8} (£u); {218,7}; {580,1};
+-áṇā [du.] 5) {820,14}.
+<LEND>
+
+<L>12112<pc>1751<k1>aryayA<k2>arya-yA/
+*({@arya-yā́@})¦.<info vn="add 98a gra"/> In {429,7} wird aryá ā́ statt aryayā́ zu lesen
+sein (BR.).
+<LEND>
+
+<L>12113<pc>1751<k1>arvat<k2>a/rvat
+{@árvat@}¦:<info vn="add 99 gra"/> -atā 3) {671,3}.
+<LEND>
+
+<L>12114<pc>1751<k1>arvan<k2>a/rvan
+{@árvan@}¦:<info vn="add 100 gra"/> -ā 3) {574,4}.
+<LEND>
+
+<L>12115<pc>1751<k1>arz<k2>arz, fz
+{@arṣ@}¦,<info vn="add 101 gra"/> Stamm {@arṣa@}: -asi 2) {819,22}; -a {@pári@} 1) vā́rāṇi
+808,21.
+<LEND>
+
+<L>12116<pc>1751<k1>av<k2>av
+{@av@}¦,<info vn="add 102 gra"/> Stamm {@áva@}: -athas 2) {642,10}; -ati 2) 203, 14; -as 2)
+yā́n {121,12}; {@ava: -a prá@} 2) 626, 32; {643,12}; -atu {@prá@} 2)
+502,4; -atam 2) 47, 5; 7) śáṃsam {182,4}; Imperf. {@ā́va@}: -at 7) tám
+(drapsám) {705,13}; {@āva@}: -as {@prá@} 1) rátham {997,1}; -at {@prá@}
+1) vájram {312,7}; 2) ā́ryam várṇam {268,9}; námīm {461,6}; sudā́sam
+549,3; -atam 3) índram {957,4}; -an {@prá@} 4) vā́ṇīs 264, 10. --
+Aorist {@ávis@}: -iṣṭam 7) bráhma 625, 13; {@avis@}: -iṣat 2) nas
+81,1; -iṣṭu 2) asmā́n {111,5}.Partic. {@ávat@}: -an [V.] {24,3}.
+<LEND>
+
+<L>12117<pc>1751<k1>avata<k2>avata/
+{@avatá@}¦ <info vn="add 103 gra"/> (SV. avaṭá): -ám {116,9}.
+<LEND>
+
+<L>12118<pc>1751<k1>avadya<k2>a-vadya/
+{@a-vadyá@}¦:<info vn="add 104 gra"/> -ā́t 4) {528,2} (neben duritā́t); {265,8}.
+<LEND>
+
+<L>12119<pc>1751<k1>avas<k2>a/vas
+{@ávas@}¦:<info vn="add 105 gra"/> -as {151,1}; {265,14}; {297,20}; {676,1}; -asā {77,4}; {187,6};
+396,18; -ase {371,1}; {458,13}; 462, 9; {642,16}; {679,2}; {695,4}; {967,3}; {975,5};
+1022, 7; {1023,3}. 7. -- 2) {1023,2}; -asas [G.] amanmahi {376,3}.
+<LEND>
+
+<L>12120<pc>1751<k1>avasyu<k2>avasyu/
+{@avasyú@}¦:<info vn="add 106 gra"/> -ávas {14,5}.
+<LEND>
+
+<L>12121<pc>1751<k1>avi<k2>a/vi
+{@ávi@}¦:<info vn="add 107 gra"/> -yas 2) {820,5}.
+<LEND>
+
+<L>12122<pc>1751<k1>avitf<k2>avitf/
+{@avitṛ́@}¦:<info vn="add 108 gra"/> -ā́ {540,1}.
+<LEND>
+
+<L>12123<pc>1751<k1>avya<k2>a/vya
+{@ávya@}¦:<info vn="add 109 gra"/> -am [n.] 2) {779,5}.
+<LEND>
+
+<L>12124<pc>1751<k1>avyanat<k2>a/-vyanat
+*({@á-vyanat@})¦,<info vn="add 109 gra"/> {@á-vianat,@} a., {%nicht athmend;%} Gegensatz
+vi-anát. -at [n.] {946,2}.
+<LEND>
+
+<L>12125<pc>1751<k1>avyaTya<k2>a/-vyaTya
+*{@á-vyathya@}¦,<info vn="add 110 gra"/> a., {%unerschütterlich.%} -āya devā́ya {226,5}.
+<LEND>
+
+<L>12126<pc>1751<k1>avrata<k2>a-vrata/
+{@a-vratá@}¦:<info vn="add 111 gra"/> -ā́n {785,8}.
+<LEND>
+
+<L>12127<pc>1751<k1>aS<k2>aS<h>1
+1. {@aś@}¦,<info vn="add 111a gra"/> Perf. {@āś@}: -śa [3. s.] 7) ádabhram {667,6}; -śāte 1)
+barhís {144,6}; Perf. {@ānaś@}: -aśús 7) śrávāṃsi {820,4}; amṛtatvám
+879,10; bhāgám {892,2}; maghám {973,3}; -śus amṛtatvám 889, 4. --
+Aorist {@ānaś@}: -ṭ 7 a) hávam {544,2}. -- Partic. {@aṣṭá@}: -ā́
+[du.] hárī {121,8}.
+<LEND>
+
+<L>12128<pc>1751<k1>aSastihan<k2>aSasti-ha/n
+{@aśasti-hán@}¦:<info vn="add 112 gra"/> -ā́ v. Soma {799,2}.
+<LEND>
+
+<L>12129<pc>1751<k1>aSAy<k2>aSAy
+*{@aśāy@}¦ <info vn="add 113 gra"/> = {@aś@} (vgl. Delbrück: das altindische Verbum, S. 217).
+<div n="P">Stamm {@aśāya@}: -as {@ví@} 8 a) paṇī́n {474,2}; -ata [3. s.] 1)
+dyā́m {918,1}.
+<LEND>
+
+<L>12130<pc>1751<k1>aSman<k2>a/Sman
+{@áśman@}¦:<info vn="add 114 gra"/> -ā 3) {915,12}; 4) bildlich 〰 bhavatu nas tanū́s {516,12};
+*-anas [A.] {263,6}.
+<LEND>
+
+<L>12131<pc>1751<k1>aSva<k2>a/Sva
+{@áśva@}¦:<info vn="add 115 gra"/> -am {624,21}; -āt {287,23}; -āsas {1024,4}; -ān {92,15}; {103,5};
+104,1; {126,2}; {171,1}; {225,3}.
+[Page1753]
+8; {339,6}; {341,6}; {385,10}; {409,6};
+412,7; {413,1}; {488,23}; {500,5}; {516,13}; {621,31}; {661,6}.
+<LEND>
+
+<L>12132<pc>1751<k1>aSvAvat<k2>a/SvAvat
+{@áśvāvat@}¦:<info vn="add 116 gra"/> -at 2) {753,4}.
+<LEND>
+
+<L>12133<pc>1751<k1>aSvin<k2>aSvi/n
+{@aśvín@}¦:<info vn="add 117 gra"/> -inā [V. d.] 3) {47,10}; {118,8}; {429,2}; {628,19}; {629,1}--5.
+8--10. 12. 14. 21; -inau [V. d.] 3) {183,6}; {630,5}; -ínā [d.] 3) {341,5};
+625,4; {911,26}; -ínos [G.] 3) ráthas {157,3}.
+<LEND>
+
+<L>12134<pc>1751<k1>aSvya<k2>a/Svya
+{@áśvya@}¦:<info vn="add 118 gra"/> -am [m.] 2) paśúm {874,4}.
+<LEND>
+
+<L>12135<pc>1751<k1>as<k2>as<h>1
+1. {@as@}¦,<info vn="add 119 gra"/> unvollständig auch astu, syāma; Stamm ás: -sat 3)
+{@átra@} {651,18}. -- 5) vaśī́ {257,3}; sákhā e {536,8}; {@as@}: -smi 5)
+859,7; *-sati 5) sudevás {407,15}. -- Imperf. {@ā́s@}: -s [3. s.] 6)
+ánubhṛtam {887,5}; {@ās@}: -san 5) {338,8}. -- Perf. {@ās@}: *-sathus 5)
+bhiṣájā {865,5}.
+<div n="P">schwacher Stamm s-:
+<div n="H">-thás 5) {288,16}; {731,2}; 6) {17,2}; *-tas pári 2) mahimā́nam {61,8};
+-mási 5) {666,1}; -thána 5) yáti {889,6}; -ánti 5) {11,8}; {638,2}; {926,12};
+8) yáthā {937,1}; 10) {91,9}; {@abhí@} 1) jánān 451, 5; 2) nas {214,9};
+pūrvī́s {564,3}; -anti 3) padé {785,4}; 5) {934,5}; {@ápi@} 3) tué {639,8};
+-antu 5) {427,10}; {456,19}; {786,6}; {911,23}; {929,13}; -yām 5) {491,9}; -iā́m
+639,25; -iātām 2) {337,6}; -yus 11) rā́yas asmā́su {123,13}.
+<div n="P">Part. {@sát@}: -án {442,2}; {584,5}; {778,16}; {943,2}; -ántam paścā́t
+689,4; dūré {695,4}; 9) táva {394,7}; -át 1) {398,3}; 3) diví {773,10}; 14)
+831,7; {955,1}; {@abhī́@} 2) {232,10}; -atás [G.] 5) {710,11}; 14) rā́jā
+603,6; {@abhī́@} 5) {548,24}; -ántā 5) {780,5}; -atás [A.] 2) {643,26}.
+<LEND>
+
+<L>12136<pc>1751<k1>as<k2>as<h>2
+2. {@as@}¦,<info vn="add 119a gra"/> Stamm {@asya@}: -a hetím {103,3}; {121,10}. --
+Partic. {@ásyat@}: -an vi 1) náhanā {893,3}. --
+<LEND>
+
+<L>12137<pc>1751<k1>asama<k2>a/-sama
+{@á-sama@}¦:<info vn="add 120 gra"/> * -ā [du.] {508,1} mitrā́váruṇā.
+<LEND>
+
+<L>12138<pc>1751<k1>asaScat<k2>a/-saScat
+{@ásaścat@}¦:<info vn="add 121 gra"/> -atam síndhum {112,9}.
+<LEND>
+
+<L>12139<pc>1751<k1>asura<k2>a/sura
+{@ásura@}¦:<info vn="add 122 gra"/> -asya 2) vṛ́ṣṇas {272,4}; -ā [V. d.] 2) (mitrāvaruṇā)
+151,4.
+<LEND>
+
+<L>12140<pc>1751<k1>asurya<k2>asury/a
+({@asuryà@})¦ <info vn="add 122a gra"/> n.: -ám 1) {364,2}.
+<LEND>
+
+<L>12141<pc>1751<k1>asmatrA<k2>asmatrA/
+{@asmatrā́@}¦:<info vn="add 123 gra"/> 3) {137,1}.
+<LEND>
+
+<L>12142<pc>1751<k1>asmayu<k2>asmayu/
+{@asmayú@}¦:<info vn="add 124 gra"/> -ús {776,18}.
+<LEND>
+
+<L>12143<pc>1751<k1>asmAka<k2>asmA/ka
+{@asmā́ka@}¦:<info vn="add 125 gra"/> -ebhis {660,7}.
+<LEND>
+
+<L>12144<pc>1751<k1>asreDat<k2>a/-sreDat
+{@á-sredhat@}¦:<info vn="add 126 gra"/> *-an tám {810,9} (?).
+<LEND>
+
+<L>12145<pc>1751<k1>ah<k2>ah<h>2
+2. {@ah@}¦,<info vn="add 126a gra"/> Perf. {@āh@}: -hús 2) {162,12}. -- 5) {163,4}; {947,4}. -- 6)
+327,7; -hus 5) {549,13}. -- 6) {868,3}.
+<LEND>
+
+<L>12146<pc>1751<k1>aha<k2>a/ha
+{@áha@}¦:<info vn="add 127 gra"/> íd 〰 {854,1}.
+<LEND>
+
+<L>12147<pc>1751<k1>ahaMsana<k2>ahaM-sana
+*{@ahaṃ-sana@}¦,<info vn="add 128 gra"/> a., {%für sich gewinnend.%} -a [Vo.] {670,9} (vgl.
+429,2).
+<LEND>
+
+<L>12148<pc>1751<k1>ahan<k2>a/han, a/har
+{@áhan@}¦:<info vn="add 129 gra"/> -nas trís {921,5}; -ani {844,14}; -an {34,3}; {100,6}; -nām
+ágre {355,4}. 5; {434,2}; {798,42}; {936,4}; -ar {71,2}.
+<LEND>
+
+<L>12149<pc>1751<k1>aham<k2>aha/m
+{@ahám@}¦:<info vn="add 130 gra"/> máyā {709,1}; máhyam {219,10}; {220,4}; {860,1}. 2; {954,2};
+máhya {865,6}; máyi {778,21}; {1019,10}; asmábhyam {108,13}; {111,3}; {291,6};
+460,6; asmā́su {1028,7}; asmā́kam {114,3}; 140, 12; {174,10}; {858,1}.
+<LEND>
+
+<L>12150<pc>1751<k1>ahiSuzmasatvan<k2>ahiSuzma-sa/tvan
+{@ahiśuṣma-satvan@}¦:<info vn="add 131 gra"/> (im Texte getrennt).
+<LEND>
+
+<L>12151<pc>1751<k1>ahI<k2>ahI/
+{@ahī́@}¦:<info vn="add 132 gra"/> * -ī́nām dákṣam {965,6}.
+<LEND>
+
+<L>12152<pc>1751<k1>ahraya<k2>a/-hraya
+{@á-hraya@}¦:<info vn="add 133 gra"/> -am [n.] 2) rā́dhas {433,5}.
+<LEND>
+
+<L>12153<pc>1751<k1>Aji<k2>Aji/
+{@ājí@}¦:<info vn="add 134 gra"/> -aú 2) {928,1}. -- 3) {266,6}.
+<LEND>
+
+<L>12154<pc>1751<k1>At<k2>A/t
+{@ā́t@}¦:<info vn="add 135 gra"/> 1) {912,18}; 〰 íd {937,9}; {1020,4}; {1024,5}. -- 3) vor einem
+Satze mit yádi {726,3}.
+<LEND>
+
+<L>12155<pc>1751<k1>Aditya<k2>Aditya/, Aditia/<h>1
+1. {@ādityá@}¦:<info vn="add 136 gra"/> -yā́s 12) {667,4}; -yaís 10) {892,2}.
+<LEND>
+
+[Page1754]
+
+<L>12156<pc>1754<k1>Ap<k2>Ap
+{@āp@}¦:<info vn="add 137 gra"/> * Stamm des Desider. {@apsa@} (zu gewinnen suchen) 〰 anta
+tám 〰 śávasas utsavéṣu {100,8}.
+<LEND>
+
+<L>12157<pc>1754<k1>Apya<k2>A/pya
+({@ā́pya@})¦:<info vn="add 137a gra"/> -am {682,6}.
+<LEND>
+
+<L>12158<pc>1754<k1>ABU<k2>ABU/
+{@ābhū́@}¦:<info vn="add 138 gra"/> -úvas [N. p. m.] 1) sutéṣu {777,27}.
+<LEND>
+
+<L>12159<pc>1754<k1>Ayasa<k2>Ayasa/
+{@āyasá@}¦:<info vn="add 139 gra"/> -īm in {649,3} und {709,8} auf letzter Silbe betont.
+<LEND>
+
+<L>12160<pc>1754<k1>Ayu<k2>Ayu/
+{@āyú@}¦:<info vn="add 140 gra"/> -áve 2) {140,8}; -ávas 3) {131,2}.
+<LEND>
+
+<L>12161<pc>1754<k1>Ayus<k2>A/yus
+{@ā́yus@}¦:<info vn="add 141 gra"/> -us {132,5}; {620,15}.
+<LEND>
+
+<L>12162<pc>1754<k1>Aruja<k2>Aruja/
+{@ārujá@}¦:<info vn="add 142 gra"/> *-ás índras dṛḍhā́ cid 〰 {279,2}.
+<LEND>
+
+<L>12163<pc>1754<k1>AroDana<k2>Aro/Dana
+{@āródhana@}¦:<info vn="add 143 gra"/> * -e [L.] divás {105,11}.
+<LEND>
+
+<L>12164<pc>1754<k1>Arya<k2>A/rya, a/ria<h>2
+2. {@ā́rya@}¦:<info vn="add 143a gra"/> -iās [N. p. f.] prajā́s {549,7}.
+<LEND>
+
+<L>12165<pc>1754<k1>Avis<k2>Avi/s
+{@āvís@}¦:<info vn="add 144 gra"/> (siehe kṛ); mit as {628,23}.
+<LEND>
+
+<L>12166<pc>1754<k1>Avft<k2>Avf/t
+*{@āvṛ́t@}¦,<info vn="add 145 gra"/> a., {%sich herwendend.%} -ṛ́tā [du. f.] ródasī
+786,2; -ṛ́tas [N. p. m.] ṛ́ṣayas {956,7}.
+<LEND>
+
+<L>12167<pc>1754<k1>ASir<k2>ASi/r
+{@āśír@}¦:<info vn="add 146 gra"/> -íram {134,6}; {787,5}.
+<LEND>
+
+<L>12168<pc>1754<k1>ASu<k2>ASu/
+{@āśú@}¦:<info vn="add 147 gra"/> -ávas mádāsas {781,7}; {798,2}.
+<LEND>
+
+<L>12169<pc>1754<k1>As<k2>As
+{@ās@}¦,<info vn="add 148 gra"/> Stamm {@ā́s: -sate sam@} 2) tvā́m {243,7}.
+<LEND>
+
+<L>12170<pc>1754<k1>As<k2>A/s
+{@ā́s@}¦:<info vn="add 149 gra"/> āsā́ 2) acakriran {626,20}.
+<LEND>
+
+<L>12171<pc>1754<k1>Asan<k2>Asa/n
+{@āsán@}¦:<info vn="add 150 gra"/> -áni {659,3}.
+<LEND>
+
+<L>12172<pc>1754<k1>Ahuti<k2>A/huti
+{@ā́huti@}¦:<info vn="add 151 gra"/> -im 2) {262,6}.
+<LEND>
+
+<L>12173<pc>1754<k1>i<k2>i
+{@i@}¦,<info vn="add 152 gra"/> Stamm I. stark {@é@}: -ṣi 5) vicā́kaśat {700,2}; {@anu@} 3)
+uttānā́m bhū́mim {968,5}; {@e@}: -ti 4) prathamás, ágram {933,5}. --
+5) ichántī {391,3}; stanáyan {994,1}; 7) niṣkṛtám {296,13}; abhímātim
+928,4 (feindlich losgehen auf); {@úd@} 2) {579,1}; {@pári@} 1) {302,4}. 5;
+{@práti@} 1) agním 643, 22 (srúc); -tu 4) purás {978,2}; {@sám@} ā́
+2) vidathíā {556,1}; -tana: (Padap. itana).
+<div n="P">Stamm I. schwach i: -masi: {@úpa ā́@} 1) tvā {1,7}; -hi ā́ 1)
+1022,5; 2) ádhipatyam {950,5}; -ta {@ā́@} 1) (éto) {399,5}; {644,19}.
+<div n="P">{@y@}: -ánti 7) yuvā́m {343,2}; {@ví@} 1) tvát {248,6}; {@vi@} 3)
+559,1; {@sám@} 3) {226,3}; -anti 7) agním 526, 3; {398,15}; -antu 2)
+vísṛṣṭās {709,12}; {@áchā@} {680,10}; {@ā́@} {890,9}; {@úpa@} tvā
+664,5.
+<div n="P">Imperf. {@ai@}: ait: {@anu-áva@} {965,4}.
+<div n="P">Stamm II. {@áya@}: -āma {@ácha@} yájamānam {399,5}; *-ase {@prá@}
+3) mádāya {317,7}.
+<div n="P">Perf. schwach {@īy@}: -yús 1) {113,11}.
+<div n="P">Part. {@yát@}: -án 1) {715,4}; {914,12}; {@ápi@} 5) 663, 7; -ántam
+{@ā@} 1) {125,2}; -até 9) ṛtám {904,2}; -ántas {@upa pra@} 3) adhvarám
+74,1; {@vipra@} {734,5}; {@vi@} 2) samithé {334,9}; -atás [A. p.] 1)
+spáśas {577,3}; 2) síndhūn {487,14}; -ádbhias {@pra@} 1) {408,9}; -atī́
+{@avā@} 3) {700,1}; {@pra@} 3) pátim {911,12}.
+<div n="P">Part. {@áyamāna@}: *-am 1) nīcā́ {334,5} (śyenám).
+<div n="P">Part. {@II. ita@}: -ās {@sám@} {599,7} (verbündet).
+<div n="P">*Inf. {@áyas@}: -ase 1) {57,3}.
+<div n="P">Stamm des Intens. ī: īmahe 7) {261,4}; 271, 6; {442,7}; {653,3}; {236,14}
+(námasā); 8) te nā́māni {271,3}.
+<div n="P">Stamm II. des Intens. {@īya@}: -ase {@sám@} devā́n {519,3}; -ate 3)
+jóṣam {922,7} (?).
+<div n="P">{@īya@}: -ate 3) nr10n {872,6}.
+<div n="P">Part. des Int. {@iyāná@}: -ás 1) {925,11}. 12; 3) sóme {1019,5}.
+<LEND>
+
+<L>12174<pc>1754<k1>iq<k2>iq
+*{@iḍ@}¦ <info vn="add 155 gra"/> Caus. {%still halten, zur Ruhe kommen.%}
+[Page1755]
+<div n="P">Stamm des Caus. {@iḍáya@}: -ata (-atā) {191,6} (neben tíṣṭhata).
+<LEND>
+
+<L>12175<pc>1754<k1>iti<k2>i/ti
+{@íti@}¦ <info vn="add 156 gra"/> am Schluss der Rede: {162,12}; {164,15}; 203, 5; {702,5}.
+<LEND>
+
+<L>12176<pc>1754<k1>id<k2>i/d
+{@íd@}¦ <info vn="add 157 gra"/> 1) tuā́m 〰 {40,2}; sá 〰 {238,10}; tám 〰 {40,6}; tád 〰 {239,6};
+sávanā 〰 {47,8}; vayā́s {59,1}; 226, 8; 5) viántu 〰 {202,15}.
+<LEND>
+
+<L>12177<pc>1754<k1>idam<k2>ida/m
+{@idám@}¦:<info vn="add 158 gra"/> enā {808,2}; *anéna: ghṛténa {93,10}; havíṣā {251,2};
+mánmanā {664,2}; enā́ {200,6}; asmaí {226,5}. 12; {399,3}; {442,10}; {504,2};
+661,1; {705,1}; {840,9}; {866,9}; {923,7}; asmāt {705,6}; asmā́t 287, 19; ásya
+651,4; {785,4}; {834,3}; asmin {319,5}; asmín {13,3}. 7; imā́n {407,3}; {809,17};
+886,9; {981,5}; {992,3}; imā́ni {700,5}; {1028,1}; ebhis 860, 5; eṣā́m {911,2};
+eṣú {9,3}; áyā: in {507,4} hat auch Chamb. 60 áyā und in {507,5} ayā́h;
+ayā́ {399,11}; {773,1}; asyaí {809,30}; imé [du. f.] 386, 9; {588,3}; {809,54};
+ābhis {465,6}; ābhias [Ab.] {843,10}; āsaam {88,6}; āsu {502,13}; āsú
+485,18; {604,7}.
+<LEND>
+
+<L>12178<pc>1754<k1>iD<k2>iD, inD
+{@idh@}¦,<info vn="add 159 gra"/> Perf. īdhé [3. s.] {36,11}; Part. idhāná: -a {@sam@} 3)
+300,4; {669,5}; -ás {@sam@} 3) {238,11}; {368,1}; {525,6}; {828,7}.
+<LEND>
+
+<L>12179<pc>1754<k1>ina<k2>ina/
+{@iná@}¦:<info vn="add 160 gra"/> -ás índras {653,5}.
+<LEND>
+
+<L>12180<pc>1754<k1>indu<k2>i/ndu
+{@índu@}¦:<info vn="add 161 gra"/> -o {176,5}; {764,5}; {773,29}; {774,7}. 9. 20; {775,30}; {778,16};
+798,28; {808,21}; -us {784,4}; {809,10}; {970,1}; -avas {14,4}; {46,8}.
+<LEND>
+
+<L>12181<pc>1754<k1>indra<k2>i/ndra
+{@índra@}¦ <info vn="add 162 gra"/> (nicht vollständig -a, -as, -am, -āya, -asya); -eṇa
+888,7; {929,2}; {934,4}; -e {80,16}; {132,5}; {288,17}; {475,4}; {536,6}; {548,13};
+623,6; {672,6}. 7; {681,15}; {918,7}; {1023,7}.
+<div n="P">Form índara: -am {173,11}; -asya ājaú {176,5}.
+<LEND>
+
+<L>12182<pc>1754<k1>indrapAna<k2>indra-pA/na
+{@indra-pā́na@}¦:<info vn="add 163 gra"/> *-am [n.] pā́tram {485,16}.
+<LEND>
+
+<L>12183<pc>1754<k1>indravAyu<k2>indra-vAyu/
+{@indra-vāyú@}¦:<info vn="add 164 gra"/> -ū [V.] {607,2}. 4--6; -ū́ {14,3}; 23, 2; {606,7}.
+<LEND>
+
+<L>12184<pc>1754<k1>indrAgni<k2>indrAgni/, indrAagni/
+{@indrāgní@}¦:<info vn="add 165 gra"/> -ī [V.] {501,15}; {610,2}. 7. 9; -ī́ {501,14}.
+<div n="P">Form indrāagní: -ī́ {609,3}; {610,10}.
+<LEND>
+
+<L>12185<pc>1754<k1>indrAvaruRa<k2>i/ndrA-va/ruRa
+{@índrāváruṇa@}¦:<info vn="add 166 gra"/> -ā {337,1}; {338,9}.10.
+<LEND>
+
+<L>12186<pc>1754<k1>indriya<k2>indriya/
+{@indriyá@}¦:<info vn="add 167 gra"/> -ám [n.] 2) {207,3}.
+<LEND>
+
+<L>12187<pc>1754<k1>inv<k2>inv, in
+{@inv@}¦,<info vn="add 168 gra"/> Stamm {@inva@}: -asi 1) samudré vā́cam {819,21}.
+<LEND>
+
+<L>12188<pc>1754<k1>iz<k2>iz<h>1
+1. {@iṣ@}¦,<info vn="add 169 gra"/> Stamm II. {@iṣa@}: -e [1. s. me.] 5) gātúm {463,5}; Part.
+{@iṣita@}: -as {@prá@} 3) {589,3}.
+<LEND>
+
+<L>12189<pc>1754<k1>iz<k2>iz<h>2
+2. {@iṣ@}¦,<info vn="add 170 gra"/> Part. {@ichát@}: *-ántīs 4) {25,15} urucákṣasam;
+Part. II. {@iṣṭa@}: -ā [du.] {@ā́@} (erwünscht) {184,2} éṣṭā narā.
+<LEND>
+
+<L>12190<pc>1754<k1>iz<k2>i/z
+{@íṣ@}¦:<info vn="add 171 gra"/> íṣam 1) {117,21}; {225,8}; 4) {440,6}; *iṣás [Ab.] {791,1};
+íṣas [A. p.] 1) {458,3}; {476,4}; iṣás [A. p.] 3) {163,7}; 4) {465,9}.
+<LEND>
+
+<L>12191<pc>1754<k1>iza<k2>iza/
+{@iṣá@}¦:<info vn="add 172 gra"/> 2) {%saftig, kräftig.%} *-ā́ [du.] 2) méṣā {932,5}.
+<LEND>
+
+<L>12192<pc>1754<k1>izira<k2>izira/
+{@iṣirá@}¦:<info vn="add 173 gra"/> -ā́ya 4) {128,5}.
+<LEND>
+
+<L>12193<pc>1754<k1>izuDy<k2>izuDy
+{@iṣudhy@}¦:<info vn="add 174 gra"/> Partic. *{@iṣudhyát@}: -até {128,6}.
+<LEND>
+
+<L>12194<pc>1754<k1>Iq<k2>Iq
+{@īḍ@}¦,<info vn="add 175 gra"/> Stamm ī́ḍ: -ṭṭe 2) vā́jāya {180,2}; -ḍate 4) {14,5};
+īḍ: -ḍe {261,12}; {289,12}; -ḍate prá {355,7}.Part. {@īḍitá@}: -ás
+895,4.
+<LEND>
+
+<L>12195<pc>1754<k1>Iqenya<k2>Iqe/nya
+({@īḍénya@})¦:<info vn="add 175a gra"/> -as 2) {355,9}.
+<LEND>
+
+<L>12196<pc>1754<k1>Iqya<k2>I/qya, I/qia
+{@ī́ḍya@}¦:<info vn="add 176 gra"/> -ias {261,4}; {454,1}; {669,3}.
+<LEND>
+
+<L>12197<pc>1754<k1>Im<k2>Im
+{@īm@}¦ <info vn="add 177 gra"/> 1) hinter vidánti {67,4}; bruvate {134,2}; úpa {804,2}; ā́
+870,3; svásāras {801,4}. cátasras 5; 
+[Page1756]
+sá {145,5}; tā́s {801,5};
+950,8c; yád {895,1}; 897, 6; {900,6}; {1019,2}; utá {556,3}; {921,7}; sadhrī́
+204,2; 2) hinter yás {951,4} (〰 śṛnóti uktám); yád {145,4}; ā́t {822,6};
+der entsprechende Acc. folgt erst in dem nächsten Versgliede: cayate 〰
+167,8; prá 〰 {639,2}; duhé 〰 {801,2}; sá 〰 {887,8}; {893,7}; ā́t 〰 {809,22};
+yád 〰 1019, 3; vardhanti 〰 {65,4}; 3) hinter tám {819,13}; {959,4}; {960,2};
+tā́s {827,4}; {950,8}b; zu {129,7} hinzuzufügen: „und {920,3}”; der Accusativ
+eines Nomens geht vorher hárim {927,10}; svā́diṣṭham {1018,4}. -- 4)
+nach kás {866,14}.-- Zur Vermeidung des Hiatus eingeschoben zwischen ā
+und e {921,18}; ā und a {893,5}; a und a {688,2}; a (ā) und a {622,17}; a (ā)
+und e 842, 1; i und i {673,12}; {871,4}.
+<LEND>
+
+<L>12198<pc>1754<k1>Ir<k2>Ir
+{@īr@}¦,<info vn="add 178 gra"/> Stamm des Caus. {@īraya@}: * -ethe {@ā́@} 1) mádhu {932,10};
+Perf. des Caus. īr-iré niā 1) {297,1}.
+<LEND>
+
+<L>12199<pc>1754<k1>IS<k2>IS
+{@īś@}¦,<info vn="add 179 gra"/> Stamm {@I. īś@}: -śe [3. s.] 5) eṣām {165,10}; -śate [3.
+s.] 1) vásvas {869,3}.
+<div n="P">Partic. {@ī́śāna@}: -am 1) bhū́res {652,14}; vásūnaam {677,6};
+-ā́sas 9) {141,3}.
+<LEND>
+
+<L>12200<pc>1754<k1>Iz<k2>Iz
+{@īṣ@}¦,<info vn="add 180 gra"/> Part. * {@ī́ṣat@}: -at [n.] ā rákṣas ā£ī́ṣat (zu
+schaden suchend) {915,14}.
+<LEND>
+
+<L>12201<pc>1754<k1>u<k2>u
+{@u@}¦ <info vn="add 181 gra"/> 1) tisrás {254,2}; taú {642,13}; sám {495,2}; bei nicht genauer
+Wiederholung (sá) sá íd 304, 4; (káyā) kā́m {524,3}. -- 3) zu {486,10}
+hinzuzufügen „und in {457,14}. 15”. -- 4) sám 266, 15. -- 7) nach úd
+627,7; ayám {296,2}; imám {456,17}; imā́s {486,28}; tā́n {332,2}; eté
+620,20; yuvós {646,1}; devayā́s {584,4}(?). -- 8) nach ábhūt {330,4}; úd
+239,9; ásthus, ví {347,2}; práti {597,1}; vayám {456,19}; {494,1}; tvā́m
+533,6; tád {534,17}. -- 9) nach ā́£íd {298,4}.-- 9) nach tám {396,11};
+485,14 (hoṣi); imā́s {623,3}; táva £íd {665,33} (asan ?); úd {643,5};
+sám {558,3} (mahayan ?); gómat {232,7}.
+<LEND>
+
+<L>12202<pc>1754<k1>ukTya<k2>ukTy/a
+({@ukthyà@})¦:<info vn="add 181a gra"/> -am [m.] 1) hótāram {236,15}; samudrám {741,3}.
+<LEND>
+
+<L>12203<pc>1754<k1>ukz<k2>ukz<h>2
+2. {@ukṣ@}¦,<info vn="add 181b gra"/> Part. {@ukṣámāṇa@}: * -am (agním) {193,4}.
+<LEND>
+
+<L>12204<pc>1754<k1>ugra<k2>ugra/
+{@ugrá@}¦:<info vn="add 182 gra"/> -a 2) {458,1}; -ás 2) {623,17}; -ám [n.] 1) ávas {467,1};
+-éṣu 2) {977,3}.
+<LEND>
+
+<L>12205<pc>1754<k1>uta<k2>uta/
+{@utá@}¦ <info vn="add 183 gra"/> 1) marútas und maghávā {171,3}. -- 3) sudúghām dhenúm,
+godhúg {164,26}; so nach Vokativen, wenn ein dieselbe Person
+bezeichnender Vokativ in einem vorhergehenden Satze erscheint {129,3};
+116,10. -- 4) in {85,5} vor dem ersten der parallelen Sätze.
+<LEND>
+
+<L>12206<pc>1754<k1>uttama<k2>uttama/
+{@uttamá@}¦:<info vn="add 184 gra"/> -ám [m.] śúṣmam {779,3}.
+<LEND>
+
+<L>12207<pc>1754<k1>uttara<k2>u/ttara
+{@úttara@}¦,<info vn="add 185 gra"/> a., pron.: -āt 7) {414,7}.
+<LEND>
+
+<L>12208<pc>1754<k1>uttAna<k2>uttAna/
+{@úttāna@}¦:<info vn="add 186 gra"/> -ā́yām 1) (dhurí) {164,14}.
+<LEND>
+
+<L>12209<pc>1754<k1>ud<k2>ud
+{@ud@}¦,<info vn="add 187 gra"/> Partic. * {@ódat@} bildlich von der Morgenröthe: -atī
+48,6; -atīnaam nadám {678,2}.
+<LEND>
+
+<L>12210<pc>1754<k1>udac<k2>u/dac
+{@údac@}¦,<info vn="add 188 gra"/> schwächste Form údīc: -īcas [A. p. m.] amítrān
+(nördlich) {957,1}.
+<LEND>
+
+<L>12211<pc>1754<k1>upamAti<k2>u/pamAti
+{@úpamāti@}¦ <info vn="add 189 gra"/> 3) {%Gabe%} (von mā mit úpa).-ayas 3) {319,3}.
+<LEND>
+
+<L>12212<pc>1754<k1>upara<k2>u/para
+{@úpara@}¦:<info vn="add 190 gra"/> *-ān 3) {195,9}; -eṣu 6) {1001,3}.
+<LEND>
+
+<L>12213<pc>1754<k1>upavid<k2>upavi/d
+*{@upavíd@}¦,<info vn="add 191 gra"/> f., das {%Aufsuchen:%} -ídā {643,3}.
+<LEND>
+
+<L>12214<pc>1754<k1>upasadya<k2>upasa/dya
+{@upasádya@}¦:<info vn="add 192 gra"/> -as bṛ́haspátis {214,13}; {873,6}.
+<LEND>
+
+<L>12215<pc>1754<k1>upasTa<k2>upa/sTa
+{@upástha@}¦:<info vn="add 193 gra"/> -e {831,7}; {834,1}.
+<LEND>
+
+[Page1757]
+
+<L>12216<pc>1757<k1>upAka<k2>upAka/
+{@upāká@}¦:<info vn="add 194 gra"/> -é 2) dāśúṣas {178,3}.
+<LEND>
+
+<L>12217<pc>1757<k1>uBa<k2>uBa/
+{@ubhá@}¦:<info vn="add 195 gra"/> -ā́ [du. m.] {954,7}; {957,5}; -é [du. n.] janúṣī {782,3};
+-é [du. f.] víśau {782,4}.
+<LEND>
+
+<L>12218<pc>1757<k1>uBaya<k2>uBa/ya
+{@ubháya@}¦:<info vn="add 196 gra"/> -ān amítrān {474,3}.
+<LEND>
+
+<L>12219<pc>1757<k1>uru<k2>uru/
+{@urú@}¦ <info vn="add 197 gra"/> [s. n.] 12) {339,5} (-úm zu lesen ?).
+<LEND>
+
+<L>12220<pc>1757<k1>uruzy<k2>uruzy
+{@uruṣy@}¦,<info vn="add 198 gra"/> Stamm {@uruṣyá@}: -at 4) átrim {906,3}; -ā́s 4) gíras
+519,8.
+<LEND>
+
+<L>12221<pc>1757<k1>uSij<k2>uSi/j
+{@uśíj@}¦:<info vn="add 199 gra"/> -íjām {128,1}.
+<LEND>
+
+<L>12222<pc>1757<k1>uzarbuD<k2>uzar-bu/D
+{@uṣarbúdh@}¦:<info vn="add 200 gra"/> -údham agním {302,8}.
+<LEND>
+
+<L>12223<pc>1757<k1>uzas<k2>uza/s
+{@uṣás@}¦:<info vn="add 201 gra"/> -as 2) {30,20}; -ā́s 2) {753,5}; {998,4}; 1027, 2; -ā́sam 2)
+32,4; -ásam {295,6}; {560,1}; -ásas [G.] 2) víuṣṭau {585,5}; {867,1};
+víuṣṭiṣu {861,1}. 5; {948,7}; nṛtaú {855,2}; ánas {899,6}; prayā́ṇam
+435,2; yā́man {479,4}; ketús {915,12}; *-ā́sas [G.] 4) doṣā́m 〰 hávias
+865,1; -āsas [V.] 2) {506,4}; -ásas [N.] {918,2}; -ásas [A.] 2) 787, 3;
+914,12; -ásām 2) upā́yane {219,2}; ketávas {917,5}.
+<LEND>
+
+<L>12224<pc>1757<k1>uzwra<k2>u/zwra
+{@úṣṭra@}¦:<info vn="add 202 gra"/> -āṇam und -āṇaam, die Handschriften haben -ānām.
+<LEND>
+
+<L>12225<pc>1757<k1>usra<k2>usra/
+{@usrá@}¦:<info vn="add 203 gra"/> -ā́s 1) mā́nāsas {171,5}.
+<LEND>
+
+<L>12226<pc>1757<k1>usrayAman<k2>usra-yAman
+{@usrá-yāman@}¦:<info vn="add 204 gra"/> *-ā ráthas {587,4}; *-(a)ṇe {328,24}.
+<LEND>
+
+<L>12227<pc>1757<k1>usri<k2>u/sri
+*{@úsri@}¦,<info vn="add 205 gra"/> a., {%morgendlich.%} -ayas {777,1}; {779,9}.
+<LEND>
+
+<L>12228<pc>1757<k1>Uti<k2>Uti/
+{@ūtí@}¦:<info vn="add 206 gra"/> -ī́ [I.] 2) {890,1}; -ī́ [D. s.] 2) {930,4}; -áye 2)
+777,17; -íbhis 2) {640,24}.
+<LEND>
+
+<L>12229<pc>1757<k1>UDar<k2>U/Dar, U/Dan, U/Das
+{@ū́dhar@}¦:<info vn="add 207 gra"/> -ani 1) {52,3}.
+<LEND>
+
+<L>12230<pc>1757<k1>UrDva<k2>UrDva/
+{@ūrdhvá@}¦:<info vn="add 208 gra"/> -ás 1) agnís {355,3}; 14) mánuṣe {211,6} (índras).
+<LEND>
+
+<L>12231<pc>1757<k1>Urmi<k2>Urmi/
+{@ūrmí@}¦:<info vn="add 209 gra"/> -ím {482,2}.
+<LEND>
+
+<L>12232<pc>1757<k1>Urva<k2>Urva/
+{@ūrvá@}¦:<info vn="add 210 gra"/> -vám 3) 〰 áśviam gós {324,5}.
+<LEND>
+
+<L>12233<pc>1757<k1>Uh<k2>Uh<h>2
+2. {@ūh@}¦,<info vn="add 210a gra"/> Stamm oha: -ate [3. pl.] in {214,16} ist es betont (óhate).
+<LEND>
+
+<L>12234<pc>1757<k1>fGAy<k2>fGAy
+{@ṛghāy@}¦,<info vn="add 211 gra"/> Part. {@ṛghāyámāna@}: -as (índus) {176,1}.
+<LEND>
+
+<L>12235<pc>1757<k1>fjIyas<k2>f/jIyas
+*{@ṛ́jīyas@}¦,<info vn="add 212 gra"/> a., {%richtiger,%} Compar. zu ṛjú (von ṛñj, zu
+dessen Verbale es gehört): -as (vácas) {620,12}.
+<LEND>
+
+<L>12236<pc>1757<k1>fju<k2>fju/
+{@ṛjú@}¦:<info vn="add 213 gra"/> -ú [n. pl.] 2) {576,2}.
+<LEND>
+
+<L>12237<pc>1757<k1>fjUy<k2>fjUy
+{@ṛjūy@}¦,<info vn="add 214 gra"/> Part. {@ṛjūyát@}: -atā́m devā́nām {89,2}.
+<LEND>
+
+<L>12238<pc>1757<k1>fta<k2>fta/
+{@ṛtá@}¦:<info vn="add 215 gra"/> -ám [n.] 4) {399,7}; 9) {105,15}; -ásya 6) rátham {214,3};
+9) {704,5}; 14) dhā́man {303,7}.
+<LEND>
+
+<L>12239<pc>1757<k1>ftacit<k2>fta-ci/t
+{@ṛta-cít@}¦:<info vn="add 216 gra"/> -ít [N.] nā́rī {312,10}.
+<LEND>
+
+<L>12240<pc>1757<k1>ftajAta<k2>fta/-jAta
+{@ṛtá-jāta@}¦:<info vn="add 217 gra"/> -a {254,2}.
+<LEND>
+
+<L>12241<pc>1757<k1>ftAvan<k2>ftA/van
+{@ṛtā́-van@}¦:<info vn="add 218 gra"/> -ānas 1) {555,7} (váruṇas, mitrás, agnís); -arī
+1) áditis {645,3}.
+<LEND>
+
+<L>12242<pc>1757<k1>ftAvfD<k2>ftA-vf/D
+{@ṛtā-vṛ́dh@}¦:<info vn="add 219 gra"/> -ṛ́dhas [N.] (devā́s) {814,6}.
+<LEND>
+
+<L>12243<pc>1757<k1>ftu<k2>ftu/
+{@ṛtú@}¦:<info vn="add 220 gra"/> -ū́n 4) {95,3}; -úbhis {15,10}.
+<LEND>
+
+<L>12244<pc>1757<k1>fte<k2>fte/
+{@ṛté@}¦:<info vn="add 221 gra"/> 1) vṛṣā́kapes {912,12}.
+<LEND>
+
+<L>12245<pc>1757<k1>ftviya<k2>ftvi/ya
+{@ṛtvíya@}¦:<info vn="add 222 gra"/> -am 1) {660,11}.
+<LEND>
+
+<L>12246<pc>1757<k1>fD<k2>fD
+{@ṛdh@}¦:<info vn="add 223 gra"/> -yās {284,1} ist 3. s. Prec.
+<LEND>
+
+<L>12247<pc>1757<k1>fDak<k2>f/Dak
+{@ṛ́dhak@}¦,<info vn="add 224 gra"/> einmal (776,30) ṛdhák.
+<LEND>
+
+<L>12248<pc>1757<k1>fBumat<k2>fBuma/t
+{@ṛbhumát@}¦:<info vn="add 225 gra"/> -ā́n 1) (índras) {110,9}.
+<LEND>
+
+<L>12249<pc>1757<k1>fBva<k2>f/Bva
+{@ṛ́bhva@}¦:<info vn="add 226 gra"/> -am (índram) {946,6}.
+<LEND>
+
+<L>12250<pc>1757<k1>fzi<k2>f/zi
+{@ṛ́ṣi@}¦:<info vn="add 227 gra"/> -is {628,15}; -im {549,13}; -ayas [N.] 2) 956, 7; -ibhyas in
+1028,6 steht ṛṣíbhyas; -īṇām stutī́s {84,2}; -īṇaam kṣáye
+848,1; *-ivát {892,14}.
+<LEND>
+
+<L>12251<pc>1757<k1>eka<k2>e/ka
+{@éka@}¦:<info vn="add 228 gra"/> -as 10) {947,8}; -am 8) índram {131,2}.
+<LEND>
+
+<L>12252<pc>1757<k1>ekAdaSa<k2>ekAdaSa/
+{@ekādaśá@}¦:<info vn="add 229 gra"/> -aís 2) {655,3}.
+<LEND>
+
+<L>12253<pc>1757<k1>ej<k2>ej
+{@ej@}¦,<info vn="add 230 gra"/> Stamm {@eja@}: -ati 2) bhū́mis {413,2}.
+<LEND>
+
+<L>12254<pc>1757<k1>etad<k2>e-ta/d
+{@etád@}¦:<info vn="add 231 gra"/> e-ṣás {205,2}; -tád {88,5}; {933,8}; {934,8};
+[Page1758]
+958,5; {991,4}; {1023,1}; -ṣā́ {799,8}; -tā́m {844,13}.
+<LEND>
+
+<L>12255<pc>1757<k1>etad<k2>e-ta/d
+{@etád@}¦ <info vn="add 232 gra"/> Adverb: {921,18}; {987,1}.
+<LEND>
+
+<L>12256<pc>1757<k1>etaSa<k2>e/taSa
+{@étaśa, etaśá@}¦:<info vn="add 233 gra"/> -as 2) {168,5}; -ás 3) {579,2} (so betont).
+<LEND>
+
+<L>12257<pc>1757<k1>etAvat<k2>etA/vat
+{@etā́vat@}¦:<info vn="add 234 gra"/> -at 2) {433,10} (Gegensatz bhū́yas).
+<LEND>
+
+<L>12258<pc>1757<k1>ena<k2>ena
+{@ena@}¦:<info vn="add 235 gra"/> -am {621,17}; {858,8}; {874,9}.
+<LEND>
+
+<L>12259<pc>1757<k1>enA<k2>enA/
+{@enā́@}¦:<info vn="add 236 gra"/> 1) {773,11}; {970,5}. -- 2) {849,7}; {938,6}; 974, 3. -- 5)
+pṛthivyā́ {908,5}.
+<LEND>
+
+<L>12260<pc>1757<k1>eva<k2>eva/
+{@evá@}¦ <info vn="add 237 gra"/> 2) {432,8}. -- 3) {440,6}. -- 4) {821,3} (arṣa). -- 6d) hástena
+〰 {935,3}; f) ihá 〰 {911,42}; 999, 2. -- 8 d) asyá£íd {61,9}. 10.
+<LEND>
+
+<L>12261<pc>1757<k1>eva<k2>e/va
+{@éva@}¦:<info vn="add 238 gra"/> * -ān 4) aryás {492,2}.
+<LEND>
+
+<L>12262<pc>1757<k1>Eyes<k2>E/yes
+(*{@aíyes@})¦ <info vn="add 238a gra"/> siehe īṣ.
+<LEND>
+
+<L>12263<pc>1757<k1>okas<k2>o/kas
+{@ókas@}¦:<info vn="add 239 gra"/> -as {548,4}.
+<LEND>
+
+<L>12264<pc>1757<k1>ojas<k2>o/jas
+{@ójas@}¦:<info vn="add 240 gra"/> -asā {727,4}.
+<LEND>
+
+<L>12265<pc>1757<k1>ozaDi<k2>o/zaDi, o/zaDI
+{@óṣadhi@}¦:<info vn="add 241 gra"/> -īs [A.] {923,7}; -ībhis {239,8}; -ībhias {771,2}; -īṣu
+827,2.
+<LEND>
+
+<L>12266<pc>1757<k1>ka<k2>ka/
+{@ká@}¦:<info vn="add 242 gra"/> -ás 1) {54,5}; {339,4}; {653,7}; {836,6}; {838,5}; {853,11}; {855,3};
+857,7; {866,1}. 2. 14; 4 b) {488,1}; {675,13}; -ád 1) {105,5}; {181,1}; -é 1)
+572,1; {880,3}.
+<LEND>
+
+<L>12267<pc>1757<k1>kakuha<k2>kakuha/
+{@kakuhá@}¦ <info vn="add 243 gra"/> 3) m., {%erhöhter Theil des Wagens;%} -ā́sas 3) {46,3}.
+<LEND>
+
+<L>12268<pc>1757<k1>kakzIvat<k2>kakzI/vat
+{@kakṣī́vat@}¦:<info vn="add 244 gra"/> *-antas {126,4}.
+<LEND>
+
+<L>12269<pc>1757<k1>kaRva<k2>ka/Rva
+{@káṇva@}¦:<info vn="add 245 gra"/> -am {627,18}; -e {36,19}.
+<LEND>
+
+<L>12270<pc>1757<k1>katama<k2>katama/
+{@katamá@}¦:<info vn="add 246 gra"/> -ád ārámbhaṇam {907,2}.
+<LEND>
+
+<L>12271<pc>1757<k1>kaTA<k2>kaTA/
+{@kathā́@}¦ <info vn="add 247 gra"/> wie ? {854,5}; zu {54,1} vgl. kṣoṇī́.
+<LEND>
+
+<L>12272<pc>1757<k1>kadarTa<k2>ka/d-arTa
+*{@kád-artha@}¦,<info vn="add 248 gra"/> a., {%welche Absicht habend.%} -ā [du.] {848,6}.
+<LEND>
+
+<L>12273<pc>1757<k1>kan<k2>kan
+{@kan@}¦,<info vn="add 249 gra"/> Stamm I. des Intens. {@cākán@}: -ánas 2) stómeṣu {1021,4}.
+<LEND>
+
+<L>12274<pc>1757<k1>kam<k2>kam
+{@kam@}¦ <info vn="add 250 gra"/> (<gk>κεν</gk>): {631,10}.
+<LEND>
+
+<L>12275<pc>1757<k1>kalaSa<k2>kala/Sa
+{@kaláśa@}¦:<info vn="add 251 gra"/> *-ānaam dáśa {328,19}.
+<LEND>
+
+<L>12276<pc>1757<k1>kalp<k2>kalp
+{@kalp@}¦,<info vn="add 252 gra"/> Stamm des Caus. {@kalpaya@}: -āti 3) ṛtū́n {828,3}.
+<LEND>
+
+<L>12277<pc>1757<k1>kavi<k2>kavi/
+{@kaví@}¦:<info vn="add 253 gra"/> -ís 1) tváṣṭā {214,17}; -ī́ 4) indrāgnī́ {660,3}.
+<LEND>
+
+<L>12278<pc>1757<k1>kaSA<k2>ka/SA
+{@káśā@}¦:<info vn="add 254 gra"/> -ā {22,3}.
+<LEND>
+
+<L>12279<pc>1757<k1>kAmya<k2>kA/mya
+({@kā́mya@})¦:<info vn="add 254a gra"/> -am [n.] mádhu {797,4}; {902,6}; vásu {1019,1}.
+<LEND>
+
+<L>12280<pc>1757<k1>kAvya<k2>kA/vya, kA/via
+{@kā́vya@}¦:<info vn="add 255 gra"/> -iam {881,5} (devásya).
+<LEND>
+
+<L>12281<pc>1757<k1>kAS<k2>kAS
+{@kāś@}¦,<info vn="add 256 gra"/> Part. {@cā́kaśat@}: -at {@vi@} 2) aśvínā {682,17}.
+<LEND>
+
+<L>12282<pc>1757<k1>kIri<k2>kIri/
+{@kīrí@}¦:<info vn="add 257 gra"/> * -és mántram {31,13}; yajñám {867,2}; coditā́ {203,6}.
+<LEND>
+
+<L>12283<pc>1757<k1>kutsa<k2>ku/tsa
+{@kútsa@}¦:<info vn="add 258 gra"/> -am {33,14}.
+<LEND>
+
+<L>12284<pc>1757<k1>kunamnama<k2>ku-namnama/
+{@kunamnamá@}¦:<info vn="add 259 gra"/> Text kunannamá.
+<LEND>
+
+<L>12285<pc>1757<k1>kulAyay<k2>kulAyay
+{@kulāyay@}¦,<info vn="add 260 gra"/> Part. {@kulāyayát@}: -at (Text kulayáyat).
+<LEND>
+
+<L>12286<pc>1757<k1>kuhacidvid<k2>kuhacid-vi/d
+*{@kuhacid-víd@}¦,<info vn="add 261 gra"/> a., {%wo immer sich aufhaltend.%} -íde {548,19}.
+<LEND>
+
+<L>12287<pc>1757<k1>kf<k2>kf
+{@kṛ@}¦,<info vn="add 262 gra"/> Stamm {@I. kṛ@}: -ṛdhí 17) asmát ā́ rakṣásam {816,6};
+18) nas várivas {796,1}; 23) ṛ́ṣim sahasrasā́m {10,11}; -ar 23)
+mātárā návyasī {239,7}.
+<div n="P">Imperf. {@akṛ@}: -aram 23) veśám namrám {875,5} (karam); -ar [2. s.]
+23) védanā ádharā {33,15}; -ar [3. s.] 12) apáde pā́dā {24,8} (kar);
+gúhā támas {123,7}; {@ákṛ@}: -aram 24) anyám marditā́ram {689,1};
+-arma 3) yā́ni {248,7}; -rata 24) tvā dūtám {643,18}.
+[Page1759]
+<div n="P">Stamm {@II. kara@}: -at 11) supáthā {25,12}; 18) asmábhyam íṣas
+296,14; {@kára@}: * -atām [3. du.] 23) nas surā́dhasas {23,6}.
+<div n="P">Stamm {@IV. kṛṇu@}: -oti 5) ebhyas námas {860,8}; -óti 7) gárbham
+618,2; -avat 5) kím te pā́kas 〰 {833,6}; -ávat 12) te apūpám 871, 9;
+*-avāva 12) índrāya vā́has {287,3}; -ávāma 7) dhíyam {399,6}; 12) te
+bráhmāṇi {671,4}; -otu 23) arvācī́nam te mánas {84,3}; ánāgasam tám
+335,3; víśvā supáthā {706,13}; tád agadám 842, 6; *-utāt [2. s.]
+24) asmā́n ardhám gónām {221,5}; -uta [2. p.] {@ṛ́dhak@} dvéṣas
+638,11; -ute 19) dūtám {303,11}; 21) rūpám {783,8}; {786,7}; nirṇíjam
+783,2; pā́jāṃsi {788,1}; 24) opaśám 〰 nábhas páyas {783,1}; {@prá@}
+6) gā́s {313,10}; -uté {@āvís@} 1) súar {853,24}; -ávate 7) niṣkám
+667,15; -udhvam 24) mitrám (mā) {860,14}; {@íṣ@} 1) raśanā́s {879,7};
+ā́yudhā {927,2}.
+<div n="P">Imperf. {@akṛṇu@}: * -ota {@ví@} 2) camasám cadurdhā́ {331,3};
+{@ákṛṇu@}: -ot 13) ulokám {930,10}.
+<div n="P">Stamm des Pass. {@kriyá@}: -ate 12) vāyáve mádhu {782,8}.
+<div n="P">Perf. {@cakṛ@}: -ártha 5) kārám ebhias {131,5}; yā́ sunvaté {709,6};
+-ráthus 12) jyótis jánāya {92,17}; 15) páyas diví {353,5}; * -ratus 7)
+bhū́ma {159,2}; -re [3. s.] 23) víśas balihṛ́tas {522,5}; 24) vájram
+yújam {33,10}; -ré 24) índrā váruṇā āpī́ {337,2}.
+<div n="P">Partic. {@kṛṇvát@}: -án 7) aruṇā́ni {994,1}; {@kṛṇvāná@}: -ás
+24) dhāsím óṣadhīs {663,7}; {@āvis@} {313,3}; -ā́s [m.] {@nis@}
+(pass.) {92,1}.
+<div n="P">Part. {@II. kṛtá@}: -as {@áram@} 2) yajñás {840,13}; gṛhás
+945,13; -ám [n.] 7) apā́ 〰 íriṇam 624, 3; *-ās [m.] {@áram@} 2)
+sómās {2,1}; -ā́ni 7) víśvā cyávanā {203,4}; {@ṣkṛta@}: -as
+{@pári@} puroḍā́s 262, 2; vahatús {858,3}.
+<LEND>
+
+<L>12288<pc>1757<k1>kftvya<k2>kf/tvya
+({@kṛ́tvya@})¦:<info vn="add 262a gra"/> -e dháne {628,21}.
+<LEND>
+
+<L>12289<pc>1757<k1>kevala<k2>ke/vala
+{@kévala@}¦:<info vn="add 263 gra"/> -am [n.] 2) sávanam {922,13} (te).
+<LEND>
+
+<L>12290<pc>1757<k1>kratu<k2>kra/tu
+{@krátu@}¦:<info vn="add 264 gra"/> -um 2) {627,24}; 4) {662,3}; -vā 1) {887,1}; -ve 2) {481,2}.
+<LEND>
+
+<L>12291<pc>1757<k1>kratuvid<k2>kratu-vi/d
+{@kratu-víd@}¦:<info vn="add 265 gra"/> * -ídam sómam {274,2}.
+<LEND>
+
+<L>12292<pc>1757<k1>kramaRa<k2>kra/maRa
+{@krámaṇa@}¦ <info vn="add 266 gra"/> 2) das {%Schreiten, Wandern:%} -āya 2) ṛjáve 〰
+511,3.
+<LEND>
+
+<L>12293<pc>1757<k1>kzam<k2>kzam
+{@kṣam@}¦,<info vn="add 267 gra"/> Stamm {@kṣáma@} (betont nur {220,2}).
+<LEND>
+
+<L>12294<pc>1757<k1>kzam<k2>kza/m
+{@kṣám@}¦:<info vn="add 268 gra"/> -ámi {665,32}.
+<LEND>
+
+<L>12295<pc>1757<k1>kzaya<k2>kza/ya
+{@kṣáya@}¦:<info vn="add 269 gra"/> -āya {835,3}; -e {944,1}.
+<LEND>
+
+<L>12296<pc>1757<k1>kzar<k2>kzar
+{@kṣar@}¦,<info vn="add 270 gra"/> Stamm {@kṣara@}: -a {@abhí@} 2) mádam {718,2}.
+<LEND>
+
+<L>12297<pc>1757<k1>kzA<k2>kzA/
+{@kṣā́@}¦:<info vn="add 271 gra"/> -ā́s in {848,14} vielleicht {%Glut%} -ā́m {900,2}.
+<LEND>
+
+<L>12298<pc>1757<k1>kzi<k2>kzi<h>1
+1. {@kṣi@}¦ <info vn="add 271a gra"/> mit {@práti,@} {%sich niederlassen%} bei [A.]. Stamm
+{@I. kṣi@}: -itas {@ádhi@} 1) vā́stu {645,5}; Stamm 2. {@ksáya@}: -as
+1) mātúr upásthe {242,1}.
+<div n="P">Part. {@kṣiyát@}: -ántam {@prati@} bhúvanāni víśvā {201,4}.
+<LEND>
+
+<L>12299<pc>1757<k1>kzi<k2>kzi<h>2
+2. {@kṣi@}¦,<info vn="add 271b gra"/> * Imperf. {@ákṣiṇā@}: -ās {@prá@} 1) pitáram
+314,12.
+<LEND>
+
+<L>12300<pc>1757<k1>kziti<k2>kziti/
+{@kṣití@}¦:<info vn="add 272 gra"/> -ís 1) {151,4}; -áyas 4) {33,6}; {151,3}; -īnáam 4)
+máriās {904,1}; 8) vásu {176,3}.
+<LEND>
+
+<L>12301<pc>1757<k1>kzumat<k2>kzuma/t
+{@kṣumát@}¦:<info vn="add 273 gra"/> -ántam vā́jam {195,8}.
+<LEND>
+
+<L>12302<pc>1757<k1>KyA<k2>KyA
+{@khyā@}¦:<info vn="add 274 gra"/> Imperf. {@ákhya@}: -at {@práti@} uṣásas {310,1}.
+<LEND>
+
+<L>12303<pc>1757<k1>gaRa<k2>gaRa/
+{@gaṇá@}¦:<info vn="add 275 gra"/> -ám 1) mā́rutam {406,14}.
+<LEND>
+
+[Page1760]
+
+<L>12304<pc>1760<k1>gaBasti<k2>ga/Basti
+{@gábhasti@}¦:<info vn="add 276 gra"/> -ios 1) {722,2}.
+<LEND>
+
+<L>12305<pc>1760<k1>gam<k2>gam
+{@gam@}¦,<info vn="add 277 gra"/> Stamm {@I. gam@}: -antám 5) nidhím {397,8}; -antam 14)
+arvā́k nas {230,3}; áram vītáye {584,2}; {@ā́@} 1) ávase {629,1};
+-ántana {@úpa ā́@} 2) nas {1023,3}; {@ga@}: -ahi ā́ {633,14}; -atam ā́
+1) {658,4}. 7; {@úpa ā́@} 2) nas sutám {425,3}.
+<div n="P">Imperf. {@ágm@}: -mata {@sám@} 1) {330,2}. sam 1)
+<div n="P">Imperf. {@ajagam@}: -an {@ā́@} 3) nas {161,4}; -miran ist Plusquamperf.
+<div n="P">Imperf. {@agama@}: -at {@ā́@} 1) {886,7}.
+<div n="P">Stamm {@IV. gacha@}: -asī 4) tā́n (sómān) 702, 6; -ati 14)
+devéṣu {18,8}.
+<div n="P">Part. Perf. * {@jaganvā́ṃsā pári@} 2) súarṇaram {418,1};
+{@jagmāṇá@}: -āsu sam.
+<div n="P">Part. {@II. gata@}: -āsas {@sám@} {592,5}; -āni {@sám@} 1) {36,5}
+tué; ā {@sám@} 1) {687,8} tué.
+<div n="P">Part. {@III. gántṛ@}: * -āram 1) ūtáye {9,9}; -ārā 5) gṛhám
+625,5.
+<LEND>
+
+<L>12306<pc>1760<k1>gaya<k2>ga/ya
+{@gáya@}¦:<info vn="add 278 gra"/> -am 1) {512,3}; {644,22}.
+<LEND>
+
+<L>12307<pc>1760<k1>garBa<k2>ga/rBa
+{@gárbha@}¦:<info vn="add 279 gra"/> -am 1) {786,5}. -- 7) anyásyās {209,2}; śakunásya {894,7}.
+<LEND>
+
+<L>12308<pc>1760<k1>gavya<k2>gavya/
+{@gavyá@}¦:<info vn="add 280 gra"/> -ā́ [n.] 7) {534,7}.
+<LEND>
+
+<L>12309<pc>1760<k1>gavyA<k2>gavyA/
+{@gavyā́@}¦:<info vn="add 281 gra"/> * -áyā zu setzen vor „3) {702,17}”.
+<LEND>
+
+<L>12310<pc>1760<k1>gah<k2>gah
+{@gah@}¦,<info vn="add 282 gra"/> * Intens. {%sich verstecken,%} Stamm des Intens. *
+{@jáñgah@}: -he [3. s.] yā́ kaśīkā́£iva 〰 {126,6}.
+<LEND>
+
+<L>12311<pc>1760<k1>gA<k2>gA<h>1
+1. {@gā@}¦,<info vn="add 282a gra"/> Imperf. {@agā@}: -āt {@ánu@} ā́ vratám {229,3}.
+<LEND>
+
+<L>12312<pc>1760<k1>gA<k2>gA<h>2
+2. {@gā@}¦,<info vn="add 282b gra"/> Stamm {@gāya@}: -anti 5) {10,1} ist betont (gā́yanti);
+Doppelstamm *{@gāyiṣa@}: -e [1. s.] 2) bṛhát vácas {612,1}.
+<LEND>
+
+<L>12313<pc>1760<k1>gATAnI<k2>gATA-nI/
+*{@gāthā-nī́@}¦,<info vn="add 283 gra"/> a., {%Gesang leitend.%}
+<div n="H">-íam {701,2}.
+<div n="H">-ías [G.] yásya (bṛ́haspátes) {190,1}.
+<LEND>
+
+<L>12314<pc>1760<k1>gir<k2>gir<h>1
+1. {@gir@}¦,<info vn="add 283a gra"/> Stamm {@gṛṇā́@}: -īmasi {@abhí@} 1) pūṣáṇam
+42,10; *-īta [3. s. m.] 4) kád návyas {623,13}.
+<div n="P">Doppelstamm {@gṛnīṣá@}: -é {@práti@} 1) vām {582,7}.
+<div n="P">Part. {@gṛṇát@}: -ántas 1) índram {9,9}.
+<LEND>
+
+<L>12315<pc>1760<k1>gir<k2>gir<h>2
+2. {@gir@}¦,<info vn="add 283b gra"/> Perf. {@jagār@}: in {314,8} betont (jagā́ra).
+<LEND>
+
+<L>12316<pc>1760<k1>gir<k2>gi/r
+{@gír@}¦:<info vn="add 284 gra"/> -irā́ 3) {151,1}; {398,1}; {660,7}; -íras [A.] 3) {457,16}.37;
+773,23; -īrbhís {522,2}; {662,5}; 669, 9; {755,1}.
+<LEND>
+
+<L>12317<pc>1760<k1>giri<k2>giri/
+{@girí@}¦:<info vn="add 285 gra"/> *-és [G.] bhṛṣṭís {56,3}.
+<LEND>
+
+<L>12318<pc>1760<k1>girvaRas<k2>gi/r-vaRas
+{@gír-vaṇas@}¦:<info vn="add 286 gra"/> -as indra {11,6}.
+<LEND>
+
+<L>12319<pc>1760<k1>guhia<k2>gu/hia, gu/hya
+{@gúhya@}¦:<info vn="add 287 gra"/> -iam [n.] 2) nā́ma {808,16}.
+<LEND>
+
+<L>12320<pc>1760<k1>gfha<k2>gfha/
+{@gṛhá@}¦:<info vn="add 288 gra"/> -ám 2) {625,5}.
+<LEND>
+
+<L>12321<pc>1760<k1>go<k2>go/
+{@gó@}¦:<info vn="add 289 gra"/> -ā́m 4) {294,2}; -ós [G.] 4) śásā {395,18}; -ávi 4) {119,6};
+-āvas [V.] 4) {469,6}; -ā́s 2) 809, 39; 4) {93,4}; {928,8}; 13) {458,6};
+894,11; -óbhis 16) {640,8}; {803,2}; {809,45}; {815,2}; 17) {857,4}(?); -ávām
+2) gópatis {934,3}; póṣam {93,2}; {@ápa@} bhajāma {934,9}; -óṣu {652,25}.
+<LEND>
+
+<L>12322<pc>1760<k1>gopati<k2>go/-pati
+{@gó-pati@}¦:<info vn="add 290 gra"/> -is 1) {634,2}.
+<LEND>
+
+<L>12323<pc>1760<k1>gopA<k2>go-pA/
+{@gopā́@}¦:<info vn="add 291 gra"/> -ā́ [du.] {866,12}.
+<LEND>
+
+<L>12324<pc>1760<k1>gomat<k2>go/mat
+{@gómat@}¦:<info vn="add 292 gra"/> -antam 1) ūrvám {900,4}; 2) rayím 982, 3; -atas [G.] 1)
+vā́jasya {79,4}; -atas [A. p.] 1) vā́jān {597,6}.
+<LEND>
+
+<L>12325<pc>1760<k1>govid<k2>go-vi/d
+{@go-víd@}¦:<info vn="add 293 gra"/> -íd (sómas) {798,39}.
+<LEND>
+
+[Page1761]
+
+<L>12326<pc>1761<k1>gOra<k2>gOra/
+{@gaurá@}¦:<info vn="add 294 gra"/> -ás 2) {354,1}.
+<LEND>
+
+<L>12327<pc>1761<k1>graB<k2>graB
+{@grabh@}¦,<info vn="add 295 gra"/> *Part. Perf. jagṛbhvás: -ā́n 12) námas {319,4}.
+<div n="P">Part. II. {@gṛbhītá@}: -ás śúnaḥśépas {24,13}.
+<div n="P">Absol. {@gṛ́hyā@}: prati 1) {125,1}.
+<LEND>
+
+<L>12328<pc>1761<k1>Ga<k2>Ga
+{@gha@}¦ <info vn="add 296 gra"/> II. 4) yád {632,16}; túbhyam {262,2}.
+<LEND>
+
+<L>12329<pc>1761<k1>Gfta<k2>Gfta/
+{@ghṛtá@}¦:<info vn="add 297 gra"/> -ám 3) {980,1}; -éna 3) {365,3}; -ásya 3) dhā́rās
+354,9.10.
+<LEND>
+
+<L>12330<pc>1761<k1>ca<k2>ca
+{@ca@}¦ <info vn="add 298 gra"/> I. 1) {8,10}; {25,11}; {61,4}; {70,3}; 3) {112,23}; 5) {141,11} (?). --
+{@III.@} 1) {20,5}.-- {@IV.@} {702,10}(?).
+<LEND>
+
+<L>12331<pc>1761<k1>cakra<k2>cakra/
+{@cakrá@}¦:<info vn="add 299 gra"/> -ám 2) {313,14}; -é [L.] 1) {661,6}.
+<LEND>
+
+<L>12332<pc>1761<k1>cakrI<k2>cakrI/
+{@cakrī́@}¦:<info vn="add 300 gra"/> -íyā in {915,4} ist es dual von *cakríya.
+<LEND>
+
+<L>12333<pc>1761<k1>cakz<k2>cakz
+{@cakṣ@}¦,<info vn="add 301 gra"/> Infin. {@cákṣas@}: -ase 4) {819,3}(?).
+<LEND>
+
+<L>12334<pc>1761<k1>catur<k2>catu/r
+{@catúr@}¦:<info vn="add 302 gra"/> -vā́ri śṛ́ṅgā {354,3}.
+<LEND>
+
+<L>12335<pc>1761<k1>cana<k2>cana/
+{@caná@}¦:<info vn="add 303 gra"/> 1) {270,4}; {489,17}. -- 2) pūrvī́s 〰 {548,13}. -- 3)
+cákṣuṣā {1024,5}.
+<LEND>
+
+<L>12336<pc>1761<k1>canohita<k2>ca/no-hita
+{@cáno-hita@}¦:<info vn="add 304 gra"/> -as {236,7}.
+<LEND>
+
+<L>12337<pc>1761<k1>camasa<k2>camasa/
+{@camasá@}¦:<info vn="add 305 gra"/> -éṣu {691,7}.
+<LEND>
+
+<L>12338<pc>1761<k1>camU<k2>camU/
+{@camū́@}¦:<info vn="add 306 gra"/> -úos {781,5}.
+<LEND>
+
+<L>12339<pc>1761<k1>car<k2>car
+{@car@}¦,<info vn="add 307 gra"/> Stamm {@cára@}: -anti 1) arvā́k, parás {897,9}.
+<div n="P">Part. {@cárat@}: -at śíras {500,6} ist hinter patatrí) zu stellen.
+<div n="P">*Inf. {@carádhi@}: -yai 3) {61,12}.
+<LEND>
+
+<L>12340<pc>1761<k1>cAru<k2>cA/ru
+{@cā́ru@}¦:<info vn="add 308 gra"/> -u [pl.] 3) ánnā {61,7}.
+<LEND>
+
+<L>12341<pc>1761<k1>ci<k2>ci<h>1
+1. {@ci@}¦,<info vn="add 308a gra"/> Part. *{@cáyamāna@} [von Stamm II.]: -ās 5) ṛṇā́ni
+218,4.
+<div n="P">Part. {@II. cita@}: -am [n.] {@ā́@} ánas {912,18}.
+<LEND>
+
+<L>12342<pc>1761<k1>cit<k2>cit
+{@cit@}¦,<info vn="add 309 gra"/> Stamm III. {@cikit@}: -iddhí 2) asyá nas {376,4}.
+<div n="P">Perf. {@cikit@}: -eta [1. s.] 3) etám ártham {877,4}; -éta [3. s.]
+9) asmai sumatím {387,1}; -eta [3. s.] 8) triaruṇas sahásrais {381,1}.
+<LEND>
+
+<L>12343<pc>1761<k1>citra<k2>citra/
+{@citrá@}¦:<info vn="add 310 gra"/> -a indra {393,1}; -ám [n.] 10) {37,3} (ṛñjate); auch {295,6}
+gehört hierher statt zu 8) (Delbrück); -ā́ [f.] 2) uṣā́s {113,4};
+92,12; *-ā́s [N. p. f.] 1) śríyas {917,5}; 2) uṣásas {347,2}; 5)
+abhíṣṭayas {119,8}; -ā́s [A. p. f.] 2) uṣásas {501,2}.
+<LEND>
+
+<L>12344<pc>1761<k1>cid<k2>cid
+{@cid@}¦:<info vn="add 311 gra"/> 1) dṛḍhā́ni {168,4}; aṃhós {217,4}; yújyam {156,2};
+ábhaktam {264,7}; ā́pas {290,4}. -- 2) mártānām, vṛdhé {298,18}; ā́
+(dárdarṣi) {203,15}. -- 3) anyátas {4,5}; ādhrásya {31,14}.
+<LEND>
+
+<L>12345<pc>1761<k1>cud<k2>cud
+{@cud@}¦,<info vn="add 312 gra"/> Stamm des Caus. {@codaya@}: -a 2) asmā́n tátra {9,6}; nas
+hávaneṣu {102,10}.
+<LEND>
+
+<L>12346<pc>1761<k1>cyu<k2>cyu
+{@cyu@}¦ <info vn="add 313 gra"/> mit {@prá@} 3) {%in Bewegung setzen,%} Part. II. cyuta: -as
+{@prá@} 3) nṛ́bhis {792,4} neben grā́vabhis sutás (sómas).
+<LEND>
+
+<L>12347<pc>1761<k1>jan<k2>jan
+{@jan@}¦,<info vn="add 314 gra"/> Imperf. {@ajana@}: -at 6) ene (dyā́vāpṛthivī́) {908,1}.
+<div n="P">Perf. {@jajan@}: -ā́na [3. s.] 6) jātā́ni {705,6}; -ñús 9) mā́m
+tavásam {854,7}.
+<div n="P">Aor. des Caus. {@jī́jana@}: -an 5) mitrám ná yám {151,1}.
+<div n="P">Part. {@jā́yamāna@}: -as 11) {313,7}; {615,2}; 13) {451,4}.
+<div n="P">Part. {@II. jātá@}: -ás 11) vṛṣabhás (índras) {282,1};
+pū́ruṣas {916,5}; 13) {145,4}; {263,10}; 14) {204,1}; -ám [m.] 11) (gárbham)
+988,3; -ám [n.] 11) {216,1}; -as {@prá@} 1) {69,2}.
+<LEND>
+
+<L>12348<pc>1761<k1>jana<k2>ja/na
+{@jána@}¦:<info vn="add 315 gra"/> -am 1) {166,8}; -asya 8) gopā́s {365,1}; -e 5) druhyaú
+487,8; -ā [du.] 7) {131,3}; -ās [V.] 15) {879,4}; -ās [N.] 14) {660,7}
+(imé); ān 14)
+[Page1762]
+840,12; -ānām 14) pathíā {595,1}; -ānaam
+14) priyás {776,27}; -ānām (mit Voc.) 14) avitārā {181,1}; -ānaam (mit
+Voc.) 14) śacīpate {486,9}.
+<LEND>
+
+<L>12349<pc>1761<k1>jani<k2>ja/ni, ja/nI
+{@jáni@}¦:<info vn="add 316 gra"/> -īs [A. p.] 1) {637,7}; *-ibhyas 1) {1009,3}.
+<LEND>
+
+<L>12350<pc>1761<k1>janus<k2>janu/s
+{@janús@}¦:<info vn="add 317 gra"/> -úṣām 3) ávas {151,1}.
+<LEND>
+
+<L>12351<pc>1761<k1>jamBa<k2>ja/mBa
+{@jámbha@}¦:<info vn="add 318 gra"/> -ais {939,8}.
+<LEND>
+
+<L>12352<pc>1761<k1>jar<k2>jar<h>3
+3. {@jar@}¦,<info vn="add 318a gra"/> Part. des Caus. {@jarájat@} ist wol (nach Bollensen O.
+und O. II, S. 463) in dem Sinne „erwecken, erregen” mit gar (jar)
+zusammenzustellen.
+<LEND>
+
+<L>12353<pc>1761<k1>jaritf<k2>jaritf/
+{@jaritṛ́@}¦:<info vn="add 319 gra"/> -r1ṇáam kā́mam {30,15}.
+<LEND>
+
+<L>12354<pc>1761<k1>javas<k2>ja/vas
+{@jávas, javás@}¦:<info vn="add 320 gra"/> -asā in {323,1} steht javásā; -ase in {284,2}
+steht javáse.
+<LEND>
+
+<L>12355<pc>1761<k1>javIyas<k2>ja/vIyas, a
+{@jávīyas@}¦:<info vn="add 321 gra"/> -ān ráthas (aśvínos) {181,3}; {183,1}.
+<LEND>
+
+<L>12356<pc>1761<k1>jAtavedas<k2>jAta-vedas
+{@jātá-vedas@}¦:<info vn="add 322 gra"/> -as {913,11}; -ās {451,1}.
+<LEND>
+
+<L>12357<pc>1761<k1>jAvat<k2>jA/vat
+*{@jā́vat@}¦,<info vn="add 323 gra"/> a., {%mit Nachkommen versehen, Nachkommen
+verschaffend.%}
+<div n="H">-atas [G.] sómasya {703,5}.
+<LEND>
+
+<L>12358<pc>1761<k1>ji<k2>ji<h>1
+1. {@ji@}¦,<info vn="add 323a gra"/> Stamm {@II. jáya@}: -a 6) ājī́n {476,2}; {@jaya@}:
+<div n="H">-āsi {@ádhi@} gā́s góṣu {476,2}. -- Part. {@jáyat@}:
+<div n="H">-an {929,4}; -atām ráthānām {929,10}.
+<div n="P">Part. Perf. {@jīgīvás, jigyús@}: -īvā́ṃsas 1) {209,8}; -yúṣām
+1) bháreṣu {759,5}.
+<LEND>
+
+<L>12359<pc>1761<k1>jinv<k2>jinv
+{@jinv@}¦,<info vn="add 324 gra"/> Stamm {@jinva@}: -atam 5) bráhmāṇi {620,6}.
+<LEND>
+
+<L>12360<pc>1761<k1>jIv<k2>jIv
+{@jīv@}¦,<info vn="add 325 gra"/> Infin. {@jīvás@}: -áse {672,9}.
+<LEND>
+
+<L>12361<pc>1761<k1>juz<k2>juz
+{@juṣ@}¦,<info vn="add 326 gra"/> Stamm {@I. juṣá@}: -anta 4) suuktám {574,6}; pávamānam
+793,5; -asva 4) havyám {615,7}; gíram {296,8}; idám {895,4}.
+<div n="P">Stamm III. {@jujuṣ@}: * -ṣan 1) bráhma {577,6}.
+<div n="P">Stamm des Caus. {@joṣaya@}: -ete {95,6}.
+<LEND>
+
+<L>12362<pc>1761<k1>jYA<k2>jYA
+{@jñā@}¦.<info vn="add 327 gra"/> Stamm {@jānā@}: -ate [3. p. me.] 5) sakhiā́ni {897,2}.
+<div n="P">Part. {@jānát@}: -án {@pra@} {560,4}.
+<LEND>
+
+<L>12363<pc>1761<k1>jmA<k2>jmA/
+{@jmā́@}¦:<info vn="add 328 gra"/> -ás [G.] 〰 ántān {915,1}.
+<LEND>
+
+<L>12364<pc>1761<k1>jyezWa<k2>jye/zWa, jie/zWa
+{@jiéṣṭha@}¦:<info vn="add 329 gra"/> -as 1) índras {100,4}.
+<LEND>
+
+<L>12365<pc>1761<k1>jyok<k2>jyo/k, jio/k
+{@jiók@}¦:<info vn="add 330 gra"/> {885,6}.
+<LEND>
+
+<L>12366<pc>1761<k1>jyotis<k2>jyo/tis
+{@jyótis@}¦ <info vn="add 331 gra"/> 2) {57,3}.
+<LEND>
+
+<L>12367<pc>1761<k1>ta<k2>ta/
+{@tá@}¦:<info vn="add 332 gra"/> -éna {47,9}; {353,5}; {557,5}; {625,20}; {629,5}; {916,7}; {928,5};
+935,5; {938,2}; {956,5}. 6; {968,7}; {981,3}; {982,1}; {1001,1}; -ásmai {675,7};
+-ásya 164, 22; {216,2}; -ā́ [du.] {17,1}; {232,6}; {420,2}; 457, 24; {892,7};
+922,6; 2) {518,7}; {580,4}; {609,1}; tā́ vām {17,3}; {420,3}; {424,2}; {958,2};
+-ā́bhyām 914, 15; -ā́n {225,14}; {255,5}; {301,4}; {522,3}; {954,9}; {956,6};
+-ébhyas 2) vas {888,1}; -éṣām {2,1}; {47,2}; {891,3}; {1011,2}; -ā́m {340,2};
+395,18; 853, 11; {880,1}; 2) tā́m mā {951,3}; -é [du. f.] 160, 5; {289,20};
+516,4; {569,1}; -ā́bhyām [f.] {840,11}; -ā́s [N. p.] {124,9}; {155,13};
+506,2; {565,1}; 721, 5; {786,6}; {799,9}; {887,8}; 2) {923,14}; -ā́s [A. p.]
+241,3; {343,4}; {354,8}; {543,1}; {853,8}; {856,5}; 958, 7; -ā́bhis {47,5}.
+<LEND>
+
+<L>12368<pc>1761<k1>takz<k2>takz
+{@takṣ@}¦,<info vn="add 333 gra"/> Perf. {@tatákṣ@}: -ákṣa 4) śárdhas marútām {444,8};
+-akṣus 5) mā śávase {874,11}.
+<LEND>
+
+<L>12369<pc>1761<k1>tatas<k2>ta/tas
+{@tátas@}¦ <info vn="add 334 gra"/> 1) nach dā (geben) {543,3}; 2) nach víkram {916,4}.
+<LEND>
+
+<L>12370<pc>1761<k1>taTA<k2>ta/TA
+{@táthā@}¦,<info vn="add 335 gra"/> einem Satze mit yád entsprechend {136,4}.
+<LEND>
+
+<L>12371<pc>1761<k1>tadbanDu<k2>ta/d-banDu
+*{@tád-bandhu@}¦,<info vn="add 336 gra"/> a., {%zu dieser Sippe gehörig.%}
+<div n="H">-us sūrís {887,18}.
+<LEND>
+
+[Page1763]
+
+<L>12372<pc>1763<k1>tan<k2>tan<h>1
+1. {@tan@}¦,<info vn="add 336a gra"/> Stamm {@tanu@}: * -óti vi 2) bildlich 402, 1; * -vánti
+ā́ 10) raśmíbhis tirás samudrám {19,8}.
+<div n="P">Imperf. {@átanu@}: *-vata [3. p.] 2) yajñám {916,6}.
+<div n="P">Part. {@II. tata@}: -as {@ví@} 1) raśmís {955,5}; -am [n.] {@ví@} 7)
+rájas {83,2}; -ā [f.] {@ví@} 1) jyā́ {516,3}.
+<LEND>
+
+<L>12373<pc>1763<k1>tan<k2>ta/n
+{@tán@}¦:<info vn="add 337 gra"/> -ánā in {919,12} steht tanā́.
+<LEND>
+
+<L>12374<pc>1763<k1>tanaya<k2>ta/naya
+{@tánaya@}¦:<info vn="add 338 gra"/> -am 5) {786,5}.
+<LEND>
+
+<L>12375<pc>1763<k1>tanU<k2>tanU/
+{@tanū́@}¦:<info vn="add 339 gra"/> -ū́s 8) svā́ 〰 in eigener Person {909,5}; -úam 1) {885,7};
+897,4; 2) {836,11}; 4) {147,2}; {507,4}; 7) {282,4}; {620,17}; {808,20}; {885,5}; 938,
+3; {995,3}; 8) {452,2}; {907,5}; -úā [I.] 2) {836,11}; 6) {954,3}; 7) {268,1};
+450,4; -úe 6) {666,15}; -úas [Ab.] 4) ádites {898,8}; -úas [G.] 1)
+dhāsím {395,17}; táras {607,4}; gopā́s {668,9}; rā́jā me 〰 {921,5}; 8)
+bálāni {854,11}; -úā [du.] 6) {181,4} (aśvínau); 7) 〰 śubhānā́ {588,1};
+-úas [N. p.] 1) {934,6}; -úas [A.] 1) {833,7}; 5) {924,10}; 7) 854, 12; 8)
+921,9.
+<LEND>
+
+<L>12376<pc>1763<k1>tanUnapAt<k2>ta/nU-na/pAt
+{@tánū-nápāt@}¦:<info vn="add 340 gra"/> -āt [N.] {717,2}.
+<LEND>
+
+<L>12377<pc>1763<k1>tantu<k2>ta/ntu
+{@tántu@}¦:<info vn="add 341 gra"/> *-ūn 2) 〰 ví tatnire {164,5}.
+<LEND>
+
+<L>12378<pc>1763<k1>tamas<k2>ta/mas
+{@támas@}¦:<info vn="add 342 gra"/> -asā 1) {988,6}; -āṃsi 1) {385,9}.
+<LEND>
+
+<L>12379<pc>1763<k1>tar<k2>tar, tir, tur
+{@tar@}¦,<info vn="add 343 gra"/> Imperf. {@atara@}: -as 2) rasā́yās páyāṃsi {934,1}.
+<div n="P">Stamm {@III. tirá@}: -a {@sám@} 2) ádhvanas {42,1}.
+<div n="P">Stamm {@V. tutur@}: -ryāt 8) tád {705,2}.
+<div n="P">Aorist {@tāris@}: -īt {@prá@} 4) {688,6}; *-iṣīmahi [Opt.]
+{@prá@} 6) {214,10}.
+<LEND>
+
+<L>12380<pc>1763<k1>taraRi<k2>tara/Ri
+{@taráṇi@}¦:<info vn="add 344 gra"/> -í ártham asya {245,3}.
+<LEND>
+
+<L>12381<pc>1763<k1>tavizI<k2>ta/vizI
+{@táviṣī@}¦:<info vn="add 345 gra"/> -īs [A. p.] {939,5}.
+<LEND>
+
+<L>12382<pc>1763<k1>tAt<k2>tA/t
+{@tā́t@}¦:<info vn="add 346 gra"/> {462,6}.
+<LEND>
+
+<L>12383<pc>1763<k1>tiras<k2>tira/s
+{@tirás@}¦:<info vn="add 347 gra"/> 1) rájāṃsi {715,7}.
+<LEND>
+
+<L>12384<pc>1763<k1>tu<k2>tu/
+{@tú@}¦ <info vn="add 348 gra"/> 1) bei Imperativen zweiter Person {462,8}; {477,5}; {547,4};
+678,16; {704,2}; {784,8}; bei auffordernden Conjunctiven yakṣi {827,6}; 3)
+beī sá {1020,4}; ā́ 〰 nas sá vayati {641,10}.
+<LEND>
+
+<L>12385<pc>1763<k1>tumra<k2>tu/mra
+{@túmra@}¦:<info vn="add 349 gra"/> -am índram {463,5}.
+<LEND>
+
+<L>12386<pc>1763<k1>tura<k2>tura/<h>2
+2. {@turá@}¦:<info vn="add 349a gra"/> -ás 1) (váruṇas) {661,8}.
+<LEND>
+
+<L>12387<pc>1763<k1>tUtuji<k2>tU/tuji
+{@tū́tuji@}¦:<info vn="add 350 gra"/> -im 2) dáśonim {461,8}.
+<LEND>
+
+<L>12388<pc>1763<k1>tfRa<k2>tf/Ra
+{@tṛ́ṇa@}¦:<info vn="add 351 gra"/> -am {161,11}.
+<LEND>
+
+<L>12389<pc>1763<k1>tfz<k2>tfz
+{@tṛṣ@}¦,<info vn="add 352 gra"/> Part. Perf. me. {@tātṛṣāṇá@}: -ás 1) váṃsagas
+130,2.
+<LEND>
+
+<L>12390<pc>1763<k1>toka<k2>toka/
+{@toká@}¦:<info vn="add 353 gra"/> -ám {786,5}.
+<LEND>
+
+<L>12391<pc>1763<k1>tman<k2>tma/n
+{@tmán@}¦:<info vn="add 354 gra"/> -áne 2) {578,6}.
+<LEND>
+
+<L>12392<pc>1763<k1>tya<k2>tya/, tia/
+{@tyá@}¦:<info vn="add 355 gra"/> -iám 1) {703,12}; 2) {1004,1} (〰 ū ṣú); -yé [N. p. m.]
+104,2; {187,5}; {400,6}; -yā́s [A. p. f.] 1) {775,9}.
+<LEND>
+
+<L>12393<pc>1763<k1>trAsadasyava<k2>trA/sadasyava
+{@trā́sadasyava@}¦:<info vn="add 356 gra"/> -am in {642,7} oxytonirt.
+<LEND>
+
+<L>12394<pc>1763<k1>tri<k2>tri/
+{@trí@}¦:<info vn="add 357 gra"/> -ibhís in {1028,5} steht tríbhis; -isṛṇā́m Chambers 60
+hat tisr1ṇā́m.
+<LEND>
+
+<L>12395<pc>1763<k1>triMSat<k2>triMSa/t
+{@triṃśát@}¦:<info vn="add 358 gra"/> -átam sahásrāṇi ca {770,4}.
+<LEND>
+
+<L>12396<pc>1763<k1>trivanDura<k2>tri-vanDura/
+{@tri-vandhurá@}¦:<info vn="add 359 gra"/> -éṇa ráthena {694,8}.
+<LEND>
+
+<L>12397<pc>1763<k1>trizaDasTa<k2>tri-zaDasTa/
+{@tri-ṣadhasthá@}¦:<info vn="add 360 gra"/> -as in {453,2} Paroxytonon; ebenso -ā in {502,12}.
+<LEND>
+
+<L>12398<pc>1763<k1>tva<k2>tva, tua
+{@tva@}¦:<info vn="add 361 gra"/> -vam 2) {313,13}; 3) {113,6}; {657,6}.
+<LEND>
+
+<L>12399<pc>1763<k1>tva<k2>tva/, tua/<h>1
+1. {@tvá@}¦:<info vn="add 361a gra"/> -uáyā {797,8}; {559,5}; -úbyam vor Voc. {173,13}; {281,3};
+-uát {307,4}; {448,3}; {454,1}; 472, 2; {521,3}; {537,3}; {644,11}. 12. 15; -ué
+und -vé 
+[Page1764]
+nicht vollständig; Form {@yuvá@}: -ábhyām 584, 4;
+586,6; -ā́bhyām {231,5}; {418,4}; {625,18}; {710,8}.Form {@yu@} (des pl.):
+*-uṣmā́bhis 672, 10; -uṣmábhyam {171,4}; -uṣmát {412,4}; -uṣmé
+306,8; {333,3}; {638,19}.
+<LEND>
+
+<L>12400<pc>1763<k1>tvac<k2>tva/c
+{@tvác@}¦:<info vn="add 362 gra"/> -ácam 9) {753,1}.
+<LEND>
+
+<L>12401<pc>1763<k1>tvazwf<k2>tva/zwf
+{@tváṣṭṛ@}¦:<info vn="add 363 gra"/> *-ur [Ab.] {95,5}.
+<LEND>
+
+<L>12402<pc>1763<k1>tvAdAta<k2>tvA/-dAta
+{@tvā́-dāta@}¦:<info vn="add 364 gra"/> *-am [n.] yáśas {10,7}.
+<LEND>
+
+<L>12403<pc>1763<k1>tvAy<k2>tvAy, tuAy
+{@tvāy@}¦,<info vn="add 365 gra"/> Part, {@tuāyát@}: *-atás [G.] jaritúr {53,3}.
+<LEND>
+
+<L>12404<pc>1763<k1>tvAvat<k2>tvA/vat, tuA/vat
+{@tvā́vat@}¦:<info vn="add 366 gra"/> *-vā́vat [n.] {%was dir gebührt%} {926,1}; *-uā́vatas
+[Ab.] 1) {665,35}; -uā́vatas [G.] 1) 〰 avitúr {541,4}; 3) abhikṣattúr
+537,8.
+<LEND>
+
+<L>12405<pc>1763<k1>tveza<k2>tveza/
+{@tveṣá@}¦:<info vn="add 367 gra"/> -ám [n.] 1) ávas {260,5}.
+<LEND>
+
+<L>12406<pc>1763<k1>tvota<k2>tvo/ta, tuo/ta, tuA/-Uta
+{@tvóta@}¦:<info vn="add 368 gra"/> -uótas {293,2}.
+<LEND>
+
+<L>12407<pc>1763<k1>tvoti<k2>tvo/ti
+*({@tvóti@})¦,<info vn="add 368a gra"/> {@tuóti,@} a., {%von dir%} (tuā́) {%Unterstützung%}
+(ūtí) {%erlangend, von dir unterstützt.%} -ayas {419,5}; {778,14}; {788,5}.
+<LEND>
+
+<L>12408<pc>1763<k1>dakziRa<k2>da/kziRa
+{@dákṣiṇa@}¦:<info vn="add 369 gra"/> -ām {933,7}.
+<LEND>
+
+<L>12409<pc>1763<k1>dadi<k2>dadi/
+{@dadí@}¦:<info vn="add 370 gra"/> -ís 2) vásu {959,3}.
+<LEND>
+
+<L>12410<pc>1763<k1>daB<k2>daB, damB
+{@dabh@}¦,<info vn="add 371 gra"/> Stamm {@dabha@}: -an 1) tvā {913,9}; 946, 4; ā́ tvā
+665,23.
+<LEND>
+
+<L>12411<pc>1763<k1>day<k2>day
+{@day@}¦,<info vn="add 372 gra"/> Stamm {@dáya@}: -ate {@vi@} vásu {84,7}.
+<LEND>
+
+<L>12412<pc>1763<k1>duvas<k2>du/vas
+{@dúvas@}¦:<info vn="add 373 gra"/> -as 1) {236,6}.
+<LEND>
+
+<L>12413<pc>1763<k1>deva<k2>deva/
+{@devá@}¦:<info vn="add 374 gra"/> -aas [V.] {105,5}.
+<LEND>
+
+<L>12414<pc>1763<k1>DA<k2>DA<h>1
+1. {@dhā@}¦,<info vn="add 374a gra"/> Stamm {@dádhā@}: -at {@vi@} rā́jānau ṛtuthā́
+503,9; Part. {@dádhat@}: -at {@vi@} 3) ṛtū́n {911,18}; Part. II.
+{@hitá@}: -ás 3) {51,7} (vájras); 6) {128,7} (vṛjáne); 22) hótā
+457,1; -ám [m.] 8) nā́kam {34,8}(?); 9) gúhā {23,14}; {303,6}; {865,9}; -ám
+[n.] 2) tridhā́ {354,4}; 3) yuvós aptū́riam 246, 8; bāhuós bálam
+80,8; 9) dhánam {486,12}. 15; *-ā́sas 14) bādhé {491,4}; *-ā́s [A. p.
+f.] 34) nadías vavríṇā 〰 {54,10}; {@hita@}: -am [n.] {@sám@} 2)
+168,6; -ā [pl. n.] {@sám@} 1) sā́nu girīṇā́m {705,2}; -āni {@vi@}
+3) {164,15}; -ā [f.] 2) tué táviṣī {51,7}; Part. {@III. dhātṛ@}: -ā
+{@sám@} 2) saṃdhím {621,12}.
+<LEND>
+
+<L>12415<pc>1763<k1>DI<k2>DI
+{@dhī@}¦,<info vn="add 375 gra"/> Part. {@dī́dhiāna@}: -ā [f.] {@pra@} {113,10}.
+<LEND>
+
+<L>12416<pc>1763<k1>Df<k2>Df
+{@dhṛ@}¦,<info vn="add 376 gra"/> Stamm {@dhāraya@}: -at 1) pṛthivī́m {206,2}.
+<LEND>
+
+<L>12417<pc>1763<k1>niyut<k2>niyu/t
+{@niyút@}¦:<info vn="add 377 gra"/> -útas [N. p.] 2) {608,1}.
+<LEND>
+
+<L>12418<pc>1763<k1>pada<k2>pada/
+{@padá@}¦:<info vn="add 378 gra"/> -ā́ 10) dákṣiṇā {887,8}.
+<LEND>
+
+<L>12419<pc>1763<k1>pari<k2>pa/ri
+{@pári@}¦ <info vn="add 379 gra"/> IV. 1) yátas {592,3}.
+<LEND>
+
+<L>12420<pc>1763<k1>pA<k2>pA<h>2
+2. {@pā@}¦,<info vn="add 379a gra"/> Imperf. {@ápā@}: -ās {383,8} ist 3. s. und gehört zum
+Aorist ápās.
+<div n="P">* Part. {@pipāná@} [nach vi von Saft durchtränkt]; -ás vi vṛ́ṣā
+(índras) {312,3}; -ám vi vamrám {112,15}; -ásya {@vi@} ádres {538,4};
+-ā́ [du.] {@vi@} (aśvínā) {957,4}.Part. {@II. pītá@}: -āsas ā́
+629,19 ist zu pi zu stellen (durchtränkt).
+<LEND>
+
+<L>12421<pc>1763<k1>pAjas<k2>pA/jas
+{@pā́jas@}¦:<info vn="add 380 gra"/> -as 1) {462,7}.
+<LEND>
+
+<L>12422<pc>1763<k1>Baj<k2>Baj
+{@bhaj@}¦,<info vn="add 381 gra"/> Stamm {@bhája@}: *-āsi {@vi@} 1) bhāgám 123, 3; rátnā
+837,8.
+<LEND>
+
+<L>12423<pc>1763<k1>Buvana<k2>Bu/vana
+{@bhúvana@}¦:<info vn="add 382 gra"/> -eṣu {164,31}.
+<LEND>
+
+<L>12424<pc>1763<k1>BU<k2>BU
+{@bhū@}¦,<info vn="add 383 gra"/> Aor. {@bhū́@}: -ū́t 3) yúvā {195,5}; -ū́tu 18) {94,12}(?);
+Aor. {@bhū@}: -ūs 4) vṛdhás {456,3}; -ūt 4) {77,3}; {100,4}; 16) te
+śriyé {931,10}; {@abhí@} 3) mitríṇas {178,4}; -ūtá 4) {856,2}; ūta 4)
+640,24; -ūtám 4) {93,7}; {223,1}; {509,2}; {629,11}; 13) 15)
+[Page1765]
+me {866,5}; -ūtam 4) {230,6}; 16) asmé ávase {642,16}.
+<LEND>
+
+<L>12425<pc>1763<k1>BUtAMSa<k2>BUtA/MSa
+*{@bhūtā́ṃśa@}¦,<info vn="add 384 gra"/> m. [Pad. bhūtá-aṃśa], Eigenname eines Dichters.
+<div n="H">-as {932,11}.
+<LEND>
+
+<L>12426<pc>1763<k1>BUman<k2>BU/man
+{@bhū́man@}¦:<info vn="add 385 gra"/> -a 1) {659,7}; 2) {477,5}; -ā 5) {503,8} (?).
+<LEND>
+
+<L>12427<pc>1763<k1>BUmi<k2>BU/mi, BU/mI
+{@bhū́mi@}¦:<info vn="add 386 gra"/> -e {844,11}; -is {87,3}; -im {353,8}; {634,5}; * -iās [Ab.]
+ádhi {80,4}.
+<LEND>
+
+<L>12428<pc>1763<k1>BUri<k2>BU/ri
+{@bhū́ri@}¦:<info vn="add 387 gra"/> -i [s.] 2) {33,3}.
+<LEND>
+
+<L>12429<pc>1763<k1>BUridA<k2>BUri-dA/
+{@bhūri-dā@}¦:<info vn="add 388 gra"/> -as [V.] {328,20}.
+<LEND>
+
+<L>12430<pc>1763<k1>BUz<k2>BUz
+{@bhūṣ@}¦,<info vn="add 389 gra"/> Stamm {@bhū́ṣa@}: -ati {@pári@} 1) dyā́vāpṛthivī́
+642,5.
+<LEND>
+
+<L>12431<pc>1763<k1>Bf<k2>Bf
+{@bhṛ@}¦,<info vn="add 390 gra"/> Stamm des Pass. {@bhriya@}: -ante {@prá@} 2) vas índavas
+14,4.
+<div n="P">Part. {@bhṛta@}: -as {@ví@} 3) apā́m upásthe 144, 2; -ā [n.] ā́
+1) {996,4}.
+<LEND>
+
+<L>12432<pc>1763<k1>Bfgu<k2>Bf/gu
+{@bhṛ́gu@}¦:<info vn="add 391 gra"/> -ave {623,9}; -avas {534,6}; {626,18}.
+<LEND>
+
+<L>12433<pc>1763<k1>BrAtf<k2>BrA/tf
+{@bhrā́tṛ@}¦:<info vn="add 392 gra"/> -aras 1) {877,6}.
+<LEND>
+
+<L>12434<pc>1763<k1>maGavan<k2>maGa/van
+{@maghávan@}¦:<info vn="add 393 gra"/> -ávā 2) {174,7}; {383,6}. 8; {384,3}; {388,8}; {1021,5};
+(agnís) {146,5}; -ávadbhyas 3) {574,3}; -ávatsu 3) {64,14}.
+<LEND>
+
+<L>12435<pc>1763<k1>mati<k2>mati/
+{@matí@}¦:<info vn="add 394 gra"/> -íbhis 2) {629,6}; {833,2}.
+<LEND>
+
+<L>12436<pc>1763<k1>matsara<k2>matsara/
+{@matsará@}¦:<info vn="add 395 gra"/> -ás {746,4}.
+<LEND>
+
+<L>12437<pc>1763<k1>mad<k2>mad
+{@mad@}¦,<info vn="add 396 gra"/> Stamm {@máda@}: -atha {@sám@} 1) índreṇa {330,11}; -athā
+7) {408,10}.
+<LEND>
+
+<L>12438<pc>1763<k1>mada<k2>ma/da
+{@máda@}¦:<info vn="add 397 gra"/> -āya 1) {135,5}; -e 1) {870,8}; {922,6}; 2) sómasya {46,12}.
+<LEND>
+
+<L>12439<pc>1763<k1>maDu<k2>ma/Du
+{@mádhu@}¦:<info vn="add 398 gra"/> -vā 9) {681,9}; -u [p. n.] 3) {339,5}; -vas [A. p. f.]
+íṣas {181,6}.
+<LEND>
+
+<L>12440<pc>1763<k1>maDumat<k2>ma/Dumat
+{@mádhumat@}¦:<info vn="add 399 gra"/> -ān 2) sómas {637,6}; -antam sómam {341,5}.
+<LEND>
+
+<L>12441<pc>1763<k1>maDuzut<k2>maDu-zu/t
+{@madhuṣút@}¦:<info vn="add 400 gra"/> Die Stelle {890,15} gehört zu -út.
+<LEND>
+
+<L>12442<pc>1763<k1>maDya<k2>ma/Dya
+{@mádhya@}¦:<info vn="add 401 gra"/> -e 1) duroṇé {453,1}.
+<LEND>
+
+<L>12443<pc>1763<k1>man<k2>man<h>1
+1. {@man@}¦,<info vn="add 401a gra"/> Stamm {@manya@}: -e 1) {104,7}; {925,5}; -ase ist in {129,5}
+betont.
+<div n="P">Part. {@mányamāna@}: -ās [m.] 3) lodhám páśu {287,23}.
+<LEND>
+
+<L>12444<pc>1763<k1>manIzA<k2>manIzA/
+{@manīṣā́@}¦:<info vn="add 402 gra"/> -ā́m 5) {112,24}; {1028,6}; -ā́s 5) {507,11}.
+<LEND>
+
+<L>12445<pc>1763<k1>manus<k2>ma/nus
+{@mánus@}¦:<info vn="add 403 gra"/> -uṣas [A.] 1) {181,8}.
+<LEND>
+
+<L>12446<pc>1763<k1>manotf<k2>manotf/
+{@manotṛ́@}¦:<info vn="add 404 gra"/> -árā {46,2}.
+<LEND>
+
+<L>12447<pc>1763<k1>mantra<k2>ma/ntra
+{@mántra@}¦:<info vn="add 405 gra"/> -am 1) {40,6}.
+<LEND>
+
+<L>12448<pc>1763<k1>mand<k2>mand
+{@mand@}¦,<info vn="add 406 gra"/> Stamm {@mánda@}: -antu 1) tvā {202,11}; Stamm {@manda@}:
+-antu 1) té tvā {139,6}.
+<LEND>
+
+<L>12449<pc>1763<k1>mandra<k2>mandra/
+{@mandrá@}¦:<info vn="add 407 gra"/> -ás 1) {821,8}; -ám 1) átithim {298,7}.
+<LEND>
+
+<L>12450<pc>1763<k1>manman<k2>ma/nman
+{@mánman@}¦:<info vn="add 408 gra"/> -abhis 5) {26,2}; {904,1}.
+<LEND>
+
+<L>12451<pc>1763<k1>manyu<k2>manyu/
+{@manyú@}¦:<info vn="add 409 gra"/> -úm 4) durvidátrasya {861,4}.
+<LEND>
+
+<L>12452<pc>1763<k1>marut<k2>maru/t
+{@marút@}¦:<info vn="add 410 gra"/> -útām ójas {260,6}; úpastutis {890,11}.
+<LEND>
+
+<L>12453<pc>1763<k1>marta<k2>ma/rta
+{@márta@}¦:<info vn="add 411 gra"/> -as {30,20}; {72,4}; {337,2}; -am {31,7}; 444, 2; -asya ā́yus
+92,10; -ās in {944,6} ist es Vokativ; -āsas {38,4}; {962,3}.
+<LEND>
+
+<L>12454<pc>1763<k1>martya<k2>ma/rtya
+({@mártya@})¦:<info vn="add 411a gra"/> -as 1) {91,14}; {648,4}; {666,4}; -am 1) {129,3}; {421,3};
+-āsas {706,9}; *-ās 1) {944,5}.
+<LEND>
+
+<L>12455<pc>1763<k1>mah<k2>mah
+{@mah@}¦,<info vn="add 412 gra"/> Stamm {@mahaya@}: -an {@sám@} 2) yajñám {558,3}.
+<LEND>
+
+<L>12456<pc>1763<k1>mah<k2>ma/h
+{@máh@}¦:<info vn="add 413 gra"/> -ahé 2) von Indra {705,10}; 8) vā́jäya 244, 6; -ahás [G.]
+1) rájasas {19,3}; 3) {121,8}; 784, 7; {822,8}; 6) rāyás {149,1}; 8) {351,8};
+467,2; {492,3}; -ahī́ [N. s.] 1) pū́r {531,14}; -ahī́ [du.] 5) {352,7};
+717,6; -ahī́bhis 8) {622,32}.
+<LEND>
+
+[Page1766]
+
+<L>12457<pc>1766<k1>mahat<k2>maha/t
+{@mahát@}¦:<info vn="add 414 gra"/> -át 7) śrávas {919,10}; -até 6) {104,7}; -ádbhis 7)
+ávobhis {337,2}.
+<LEND>
+
+<L>12458<pc>1766<k1>mahas<k2>maha/s
+{@mahás@}¦ <info vn="add 415 gra"/> 2) stu {487,2}.
+<LEND>
+
+<L>12459<pc>1766<k1>mahi<k2>ma/hi
+{@máhi@}¦:<info vn="add 416 gra"/> -i [s. n.] 2) śrávas {43,7}; pā́jas {462,7}; āṅgūṣám
+475,5; psáras {41,7}; rā́dhas {488,25}; 11) pávasva {820,1} (?).
+<LEND>
+
+<L>12460<pc>1766<k1>mahimaGa<k2>ma/hi-maGa
+*{@máhi-magha@}¦,<info vn="add 417 gra"/> a., {%grosse Schätze habend:%} -asya {122,8}.
+<LEND>
+
+<L>12461<pc>1766<k1>mA<k2>mA, mI<h>2
+2. {@mā@}¦,<info vn="add 417a gra"/> Stamm {@mímā@}: -āti 2) {164,29}.
+<LEND>
+
+<L>12462<pc>1766<k1>mA<k2>mA/
+{@mā́@}¦ <info vn="add 418 gra"/> 1) 1. s.: radham {50,13}; gām {954,4}; (voce) 41, 8; 2. s.:
+khyas {4,3}; śiṣas {516,16}; 3. s.: dhāt {550,17}; dasat {121,15}; īśata
+198,2; 2. du.: rīradhatam {628,13}; dhātam {120,8}; 2. pl.: gāta {845,1};
+3. pl.: dabhan {84,20}; yaman {340,5}; {585,6}; aran {125,7}. -- 5) {50,13}.
+<LEND>
+
+<L>12463<pc>1766<k1>mAtf<k2>mAtf/
+{@mātṛ́@}¦:<info vn="add 419 gra"/> -áram yásya {388,4}; -úr ū́dhani {781,1}.
+<LEND>
+
+<L>12464<pc>1766<k1>mAtrA<k2>mA/trA
+{@mā́trā@}¦:<info vn="add 420 gra"/> in der ersten Zeile vor „Mass” die Ziffer 2)
+einzufügen.
+<LEND>
+
+<L>12465<pc>1766<k1>mADyaMdina<k2>mA/DyaMdina
+*{@mā́dhyaṃdina@}¦,<info vn="add 421 gra"/> a., {%mittäglich%} (von madhyámdina), überall
+zu sávana gefügt. -am {266,1}; {331,7}; -asya {286,5}; {657,1}; {1005,3}; -e
+262,4; {266,3}; {394,4}; {488,6}.
+<LEND>
+
+<L>12466<pc>1766<k1>mADvI<k2>mADvI
+{@mādhvī@}¦:<info vn="add 422 gra"/> -ī [V.] {339,5}; {504,8}; {583,7}; {587,2}.
+<LEND>
+
+<L>12467<pc>1766<k1>mAnuza<k2>mA/nuza
+{@mā́nuṣa@}¦:<info vn="add 423 gra"/> -eṣu 3) {59,3}.
+<LEND>
+
+<L>12468<pc>1766<k1>mi<k2>mi
+{@mi@}¦,<info vn="add 424 gra"/> Part. {@II. mitá@}: -ā́ {809,1}.
+<LEND>
+
+<L>12469<pc>1766<k1>mitra<k2>mitra/
+{@mitrá@}¦:<info vn="add 425 gra"/> -ás 1) {77,3}; 1) 3) {239,9}; 3) {838,8}; 4) {23,6}; 5) {79,3};
+645,13; 6) {857,9}; -ám 1) 693, 1; 3) {143,7}; {193,3}; -ásya 4) dhā́ma
+152,4; 6) sumnám {639,4}.
+<LEND>
+
+<L>12470<pc>1766<k1>mitrAvaruRa<k2>mitrA/va/ruRa
+{@mitrā́váruṇa@}¦:<info vn="add 426 gra"/> -ā [V.] {152,3}; -au [N., A.] {35,1}; {167,8}; {919,6};
+-ā [N., A.] {2,9}; {23,5}; {71,9}; {417,3}.
+<LEND>
+
+<L>12471<pc>1766<k1>miTaspfDya<k2>miTaspf/Dya
+{@mithaspṛ́dhya@}¦:<info vn="add 427 gra"/> -ā {166,9}.
+<LEND>
+
+<L>12472<pc>1766<k1>mfj<k2>mfj
+{@mṛj@}¦,<info vn="add 428 gra"/> Stamm {@marjaya@}: -anta in {902,7} ist -ante zu lesen.
+<LEND>
+
+<L>12473<pc>1766<k1>mfq<k2>mfq
+{@mṛḍ@}¦,<info vn="add 429 gra"/> Stamm {@mṛḍá@}: -áta 3) {860,14}; Part. {@mṛḍáyat@}:
+-áttamā [du.] 4) {427,9} (auch -ádbhiām, -ántas zu betonen).
+<LEND>
+
+<L>12474<pc>1766<k1>mfqIka<k2>mfqIka/
+*{@mṛḍīká@}¦:<info vn="add 430 gra"/> -ás {474,5}; -ā́ya {976,2}.3.5.
+<LEND>
+
+<L>12475<pc>1766<k1>mfS<k2>mfS
+{@mṛś@}¦,<info vn="add 431 gra"/> * Part. des Intens. {@mármṛśat@}: -at [m.] {@abhí@} 3)
+priyā́ṇi {272,1}; {@pári@} 3) víśvāni {726,8}.
+<LEND>
+
+<L>12476<pc>1766<k1>myakz<k2>myakz
+{@myakṣ@}¦,<info vn="add 432 gra"/> Perf. {@mimikṣus@}: in {1066,6}.a ist {@sám@} vor káyā
+hinzuzufügen.
+<LEND>
+
+<L>12477<pc>1766<k1>ya<k2>ya/
+{@yá@}¦,<info vn="add 433 gra"/> Nicht ganz vollständig auch yásmin, yébhis, yā́s;
+-ásmāt 5) {667,18}; -aú 5) {840,11}; {892,7}; -áyos [G. du. m.] {660,4};
+-ā́ni {880,2}. 5; {882,4}; {917,3}; {1028,6}; 7) {165,10}; -ébhyas 5) {980,1};
+-éṣām {415,12}; {870,7}; 5) {545,4}; -éṣaam 364, 4; 7) {919,13}; -éṣu 5)
+974,4; -ā́m {272,8}; 5) {287,16}; {494,8}; -ásyās 6) {912,23}; -é [du. f.]
+159,1; {185,6}. 7; -áyos [G. du. f.] 5) {223,1}; -ā́sām {133,4}.
+<LEND>
+
+<L>12478<pc>1766<k1>yakza<k2>yakza/
+{@yakṣá@}¦:<info vn="add 434 gra"/> -ásya {914,13}.
+<LEND>
+
+<L>12479<pc>1766<k1>yakzma<k2>ya/kzma
+{@yákṣma@}¦:<info vn="add 435 gra"/> -am {122,9}.
+<LEND>
+
+<L>12480<pc>1766<k1>yaj<k2>yaj
+{@yaj@}¦,<info vn="add 436 gra"/> Stamm {@yája@}: -anti 1) marútas {399,4}; -āsi 8.a) {445,1};
+-ā 1) vásūn {45,1}; Stamm {@yaja@}: -āma 1) tvā {950,6}; Aor. {@yaj@}:
+-ákṣi 8.a) {14,1}; {197,8}; Aor. {@yakṣ@}: -ṣat 1) vanínas {139,10}; 8.a)
+456,10.
+[Page1767]
+<div n="P">Part. {@yájamāná@}: -a 8) {651,16}; -as 8) 492, 12; -am 8) {156,5};
+-āya {1028,4}.
+<LEND>
+
+<L>12481<pc>1766<k1>yajata<k2>yajata/
+{@yajatá@}¦:<info vn="add 437 gra"/> -ásya yajñaís {518,2}.
+<LEND>
+
+<L>12482<pc>1766<k1>yajatra<k2>ya/jatra
+{@yájatra@}¦:<info vn="add 438 gra"/> -as máryas {173,2}.
+<LEND>
+
+<L>12483<pc>1766<k1>yajYa<k2>yajYa/
+{@yajñá@}¦:<info vn="add 439 gra"/> -ñás {298,5}; -ñé {310,4}; {330,11}; {346,10}; {354,2};
+-ñé-yajñe {359,9}; -ñébhis {445,1}; -ñaís {227,2}.
+<LEND>
+
+<L>12484<pc>1766<k1>yajYasAD<k2>yajYa-sA/D
+{@yajña-sā́dh@}¦:<info vn="add 440 gra"/> -ā́dham {128,2}.
+<LEND>
+
+<L>12485<pc>1766<k1>yajYiya<k2>yajYi/ya
+{@yajñíya@}¦:<info vn="add 441 gra"/> -am [n.] 2) nā́ma {6,4}; {689,9}; -ās [f.] 1) {142,9};
+-āsu 2) tanū́ṣu {958,5}.
+<LEND>
+
+<L>12486<pc>1766<k1>yatas<k2>ya/tas
+{@yátas@}¦:<info vn="add 442 gra"/> 3) ā-bhū {955,6}.7.
+<LEND>
+
+<L>12487<pc>1766<k1>yatra<k2>ya/tra
+{@yátra@}¦ <info vn="add 443 gra"/> nicht ganz vollständig.
+<LEND>
+
+<L>12488<pc>1766<k1>yaTA<k2>ya/TA
+{@yáthā@}¦ <info vn="add 444 gra"/> nicht ganz vollständig.
+<LEND>
+
+<L>12489<pc>1766<k1>yadi<k2>ya/di
+{@yádi@}¦ <info vn="add 445 gra"/> 1.a) marmṛjyáte (ichati) {759,4}; c) várdhanti (vavakṣe)
+239,8; e) {301,11}; 2.a) ūhús (asvanīt) {323,3}; jī́janat (vavákṣa)
+941,1; 5.a) ásti {709,3}; 6.a) śrávat (mandantu) {621,15}; b) so {265,2}.13;
+d) śṛṇávat (yoṣati) {653,9}.
+<LEND>
+
+<L>12490<pc>1766<k1>yam<k2>yam
+{@yam@}¦,<info vn="add 446 gra"/> Stamm {@yácha@}: -a 13) nas {22,15}; {@yacha@}: -a 12)
+487,12; -atam 13) {21,6}; asmábhyam {17,8}; Perf.-ematus {@ví@} {415,9};
+Aor. {@yaṃs@}: -sat 4) {809,38}; -san 13) {136,7}.
+<LEND>
+
+<L>12491<pc>1766<k1>yahva<k2>yahva/
+{@yahvá@}¦:<info vn="add 447 gra"/> -ám 7) {370,4}.
+<LEND>
+
+<L>12492<pc>1766<k1>yahvI<k2>yahvI/
+{@yahvī́@}¦:<info vn="add 448 gra"/> -ī́ [du.] 8) {919,1}.
+<LEND>
+
+<L>12493<pc>1766<k1>yA<k2>yA
+{@yā@}¦,<info vn="add 449 gra"/> Stamm {@yā́@}: -ā́ṣi 7) udvátas {968,4}; -ā́ti ā́ 1)
+325,2; {@yā@} -āmi {@úpa@} 4) {913,1} mitrám śárma; -ātam {@ví@} 2)
+865,13; Perf. {@yayā́@}: -us 11) yuvā́m ā́piam {599,1}; Part. {@yā́t@}:
+-ātā́m 4) {324,3}.
+<LEND>
+
+<L>12494<pc>1766<k1>yAtujU<k2>yAtu-jU/
+*{@yātu-jū́@}¦,<info vn="add 450 gra"/> a., {%von Zauberern getrieben.%} -ū́nām {300,5};
+942,5.
+<LEND>
+
+<L>12495<pc>1766<k1>yu<k2>yu<h>2
+2. {@yu@}¦,<info vn="add 450a gra"/> Aor. {@yāvī@}: -īs 2) arárum {129,3}; Part. {@II. yuta@}:
+-e [du. f.] {@ví.@}
+<LEND>
+
+<L>12496<pc>1766<k1>yuj<k2>yuj
+{@yuj@}¦,<info vn="add 451 gra"/> Stamm {@yuñj@}: -ñjáte 13) {139,4}; -ñjate 5) rátham
+417,5.
+<div n="P">Stamm {@II. yuj@}: -kṣvā́ 3) aruṣī́ ráthe 14, 12; Part. {@II.
+yuktá@}: -ás 17) {69,8}; -ā́s 1) dáśa {164,14}; Absol. {@yuktvā́@}: 5)
+161,7.
+<LEND>
+
+<L>12497<pc>1766<k1>yuj<k2>yu/j
+{@yúj@}¦ <info vn="add 452 gra"/> 5) auch ohne Gen.; -ujā́ 7) {705,15}.
+<LEND>
+
+<L>12498<pc>1766<k1>yuD<k2>yu/D
+{@yúdh@}¦:<info vn="add 453 gra"/> -udhā́ {174,4} (?).
+<LEND>
+
+<L>12499<pc>1766<k1>yuvati<k2>yuvati/
+{@yuvatí@}¦:<info vn="add 454 gra"/> -ís 1) arámatis {517,6}; 4) {295,1}.
+<LEND>
+
+<L>12500<pc>1766<k1>yuvan<k2>yu/van
+{@yúvan@}¦:<info vn="add 455 gra"/> -úvānam 2) {460,2}; -úvānas [N.] 6) {64,3}.
+<LEND>
+
+<L>12501<pc>1766<k1>yUTa<k2>yUTa/
+{@yūthá@}¦:<info vn="add 456 gra"/> -ā́ {7,8}.
+<LEND>
+
+<L>12502<pc>1766<k1>yoni<k2>yo/ni
+{@yóni@}¦:<info vn="add 457 gra"/> -au 7) {178,2}(?); {927,3}; 9) sukṛtásya {887,6}.
+<LEND>
+
+<L>12503<pc>1766<k1>rakz<k2>rakz<h>1
+1. {@rakṣ@}¦,<info vn="add 457a gra"/> Stamm {@rákṣa@}: -a£u {174,3}; *-atam 4) nas ábhvāt
+185,2--8; {@rakṣa@}: -a 1) nas 913, 20; 2) yajñám {913,9}.
+<LEND>
+
+<L>12504<pc>1766<k1>rakzas<k2>rakza/s
+{@rakṣás@}¦:<info vn="add 458 gra"/> -ásas [A.] {35,10}.
+<LEND>
+
+<L>12505<pc>1766<k1>rajas<k2>ra/jas
+{@rájas@}¦:<info vn="add 459 gra"/> -as 2) {139,4}; {141,7}; -asi 2) {193,4}; -āṃsi 2) {166,4};
+510,5.
+<LEND>
+
+<L>12506<pc>1766<k1>rajizWa<k2>ra/jizWa
+{@rájiṣṭha@}¦:<info vn="add 460 gra"/> -ām nā́vam {801,2}.
+<LEND>
+
+<L>12507<pc>1766<k1>raRvan<k2>ra/Rvan
+{@ráṇvan@}¦:<info vn="add 461 gra"/> -abhis {398,10}.
+<LEND>
+
+<L>12508<pc>1766<k1>raRvasaMdfS<k2>raRva/-saMdfS
+{@raṇvá-saṃdṛś@}¦:<info vn="add 462 gra"/> -ṛ́k {295,5}; {517,21}.
+<LEND>
+
+<L>12509<pc>1766<k1>ratna<k2>ra/tna
+{@rátna@}¦:<info vn="add 463 gra"/> -am {553,2}; {597,3}.
+<LEND>
+
+<L>12510<pc>1766<k1>raTa<k2>ra/Ta
+{@rátha@}¦:<info vn="add 464 gra"/> -a deva {488,28}; -asya cakrám {30,19}; {427,3}; {642,4};
+cakrā́ {34,9}; -ānaam 2) avitā́ {929,4}; -eṣu 4) {64,9}; {166,9}.
+<LEND>
+
+[Page1768]
+
+<L>12511<pc>1768<k1>raTeSuB<k2>raTe-Su/B
+{@rathe-śúbh@}¦:<info vn="add 465 gra"/> -úbham {410,9}.
+<LEND>
+
+<L>12512<pc>1768<k1>rayi<k2>rayi/
+{@rayí@}¦:<info vn="add 466 gra"/> -ís {943,1}; -īṇā́m rā́jantam {442,8}.
+<LEND>
+
+<L>12513<pc>1768<k1>raSmi<k2>raSmi/
+{@raśmí@}¦:<info vn="add 467 gra"/> -ī́n 2) {144,3}; -íbhis 2) {136,2}; 8) {87,6}; {753,5}.
+<LEND>
+
+<L>12514<pc>1768<k1>rasa<k2>ra/sa
+{@rása@}¦:<info vn="add 468 gra"/> -am 5) {791,5}.
+<LEND>
+
+<L>12515<pc>1768<k1>rA<k2>rA<h>1
+1. {@rā@}¦ <info vn="add 468a gra"/> 9) auch ohne Dat.; Aor. {@rā́sa@}: -at 3) {379,1}; vā́jān
+491,6.
+<LEND>
+
+<L>12516<pc>1768<k1>rAjan<k2>rA/jan
+{@rā́jan@}¦:<info vn="add 469 gra"/> -an [V.] nicht vollständig; -ā {557,2}; 3) sutā́nām
+281,1; jānasya {463,9}; -ānam 3) vasā́m {356,6}; bhúvanasya {797,3};
+-ānā [N. A.] {71,9}.
+<LEND>
+
+<L>12517<pc>1768<k1>rAjayakzma<k2>rAjayakzma/
+*{@rājayakṣmá@}¦,<info vn="add 470 gra"/> m., {%schwere Krankheit.%} -ā́t {987,1}.
+<LEND>
+
+<L>12518<pc>1768<k1>rADas<k2>rA/Das
+{@rā́dhas@}¦:<info vn="add 471 gra"/> -as 3) {57,1}; {327,9}.
+<LEND>
+
+<L>12519<pc>1768<k1>ric<k2>ric
+{@ric@}¦,<info vn="add 472 gra"/> Part. Perf. {@rīrikvás@}: -ā́ṃsas 3) tanúas {72,5}.
+<LEND>
+
+<L>12520<pc>1768<k1>riz<k2>riz
+{@riṣ@}¦,<info vn="add 473 gra"/> Stamm {@III. riṣa@}: -āthana 1) {920,10}; Part. des
+Desid. {@rírikṣat@}: -antam 8) {129,10}.
+<LEND>
+
+<L>12521<pc>1768<k1>ruc<k2>ruc
+{@ruc@}¦,<info vn="add 474 gra"/> Stamm {@roca@}: -ate 1) agnís {148,4}; Part. Aor.
+{@rucāná@}: -ás 1) {480,4}.
+<LEND>
+
+<L>12522<pc>1768<k1>rudra<k2>rudra/, rudara/
+{@rudrá@}¦:<info vn="add 475 gra"/> -ra 2) {357,3}; -rás 2) {192,6}; -rā́s 3) {166,2}.
+<LEND>
+
+<L>12523<pc>1768<k1>ruSat<k2>ru/Sat
+{@rúśat@}¦:<info vn="add 476 gra"/> -at {875,10}.
+<LEND>
+
+<L>12524<pc>1768<k1>ruh<k2>ruh
+{@ruh@}¦,<info vn="add 477 gra"/> Aor. {@ruhá@}: -at 1) in {390,2} ist rúhat betont.
+<LEND>
+
+<L>12525<pc>1768<k1>rUpa<k2>rUpa/
+{@rūpá@}¦:<info vn="add 478 gra"/> -ám 1) {95,8}; 2) mandrásya {780,6}.
+<LEND>
+
+<L>12526<pc>1768<k1>rE<k2>rE/, rA/
+{@raí@}¦:<info vn="add 479 gra"/> āyé {942,1}; -āyás [G.] éṣe {395,8}; vantā́ras {524,3};
+-ā́yas [G.?] niyútas {337,10}; -ā́yas [N. p.] {550,23}.
+<LEND>
+
+<L>12527<pc>1768<k1>loka<k2>loka/
+{@loká@}¦:<info vn="add 480 gra"/> -ám 1) amṛ́tasya 〰 {911,20}.
+<LEND>
+
+<L>12528<pc>1768<k1>vac<k2>vac
+{@vac@}¦,<info vn="add 481 gra"/> Aor. {@voca@}: -am {@prá@} 1) vidáthā {449,1};
+<div n="H">-éma 4) bráhma {75,2}; -e 10) nr10n {549,1}.
+<LEND>
+
+<L>12529<pc>1768<k1>vacas<k2>va/cas
+{@vácas@}¦:<info vn="add 482 gra"/> -as 3) {94,8}; {144,7}; -as (als Instr.) 2) {683,1}; -asas [G.]
+3) avitrī́ {223,1}; bodha {147,2}.
+<LEND>
+
+<L>12530<pc>1768<k1>vaj<k2>vaj, uj
+{@vaj@}¦,<info vn="add 483 gra"/> Part. {@vājáyat@}: -antas {@abhí@} {446,7}.
+<LEND>
+
+<L>12531<pc>1768<k1>vajra<k2>va/jra
+{@vájra@}¦:<info vn="add 484 gra"/> -as {52,10}.
+<LEND>
+
+<L>12532<pc>1768<k1>vajrin<k2>vajri/n
+{@vajrín@}¦:<info vn="add 485 gra"/> -ī́ {103,4}; {706,13}.
+<LEND>
+
+<L>12533<pc>1768<k1>vajrivat<k2>vajrivat
+{@vajrivat@}¦:<info vn="add 486 gra"/> -as {621,5}.
+<LEND>
+
+<L>12534<pc>1768<k1>vad<k2>vad
+{@vad@}¦,<info vn="add 487 gra"/> Stamm {@vadá@}: -anti 11) ekám sát {164,46}; -ema 2) ṛtám
+289,3.
+<LEND>
+
+<L>12535<pc>1768<k1>van<k2>van
+{@van@}¦,<info vn="add 488 gra"/> Stamm {@vána@}: -atam 2) {610,2}; Perf. {@vavan@}: -ánas
+[Co.Text vāvánas] 2) mánma {307,2}.
+<LEND>
+
+<L>12536<pc>1768<k1>vana<k2>va/na
+{@vána@}¦:<info vn="add 489 gra"/> -e 1) {855,1}(?); 7) {818,11}; 9) {819,22}; -ā 1) {64,7}; {88,3};
+6) in {243,2} ist vanā́ betont; -eṣu 8) {719,6}.
+<LEND>
+
+<L>12537<pc>1768<k1>vanad<k2>van-a/d
+{@vanád@}¦,<info vn="add 490 gra"/> m. [von van], {%Freund, Genosse%} (Sāy. sambhaktṛ,
+stotṛ): -ádas [N. p.] {195,5} (so zu ändern).
+<LEND>
+
+<L>12538<pc>1768<k1>vanaspati<k2>va/nas-pa/ti
+{@vánas-páti@}¦:<info vn="add 491 gra"/> -au 3) {456,2}.
+<LEND>
+
+<L>12539<pc>1768<k1>vand<k2>vand
+{@vand@}¦,<info vn="add 492 gra"/> Inf. vandádhyai 1) vṛṣabhám {238,3} (áchā).
+<LEND>
+
+<L>12540<pc>1768<k1>vayoDeya<k2>vayo-De/ya
+*{@vayo-dhéya@}¦,<info vn="add 493 gra"/> n., {%Kräftigung.%} -āya {851,8}.
+<LEND>
+
+<L>12541<pc>1768<k1>vara<k2>va/ra<h>1
+1. {@vára@}¦:<info vn="add 493a gra"/> -e {706,10}(?).
+<LEND>
+
+<L>12542<pc>1768<k1>vara<k2>va/ra<h>2
+2. {@vára@}¦:<info vn="add 493b gra"/> -am 3) {780,2}(?).
+<LEND>
+
+<L>12543<pc>1768<k1>varAhayu<k2>varAhayu/
+*{@varāhayú@}¦,<info vn="add 494 gra"/> a., {%auf Eber%} [varā́ha] {%begierig, auf Eberjagd
+abgerichtet.%} -ús śvā́ {912,4}.
+<LEND>
+
+<L>12544<pc>1768<k1>varivovid<k2>varivo-vi/d
+{@varivo-víd@}¦:<info vn="add 495 gra"/> -ídas [N. p.] devā́sas {647,14}.
+<LEND>
+
+[Page1769]
+
+<L>12545<pc>1769<k1>varuRa<k2>va/ruRa
+{@váruṇa@}¦:<info vn="add 496 gra"/> -a in {418,6}; {509,5}; {577,1} hat Pad.-ā.
+<LEND>
+
+<L>12546<pc>1769<k1>vareRya<k2>va/reRya
+{@váreṇia@}¦:<info vn="add 497 gra"/> -am [n.] 1) rā́dhas {9,5}.
+<LEND>
+
+<L>12547<pc>1769<k1>vartikA<k2>va/rtikA
+{@vártikā@}¦:<info vn="add 498 gra"/> *-ā {117,16} (in -ām zu streichen).
+<LEND>
+
+<L>12548<pc>1769<k1>varDana<k2>va/rDana
+{@várdhana@}¦:<info vn="add 499 gra"/> -ā [du. m.] 2) in {628,5} ist es Vocativ.
+<LEND>
+
+<L>12549<pc>1769<k1>vaS<k2>vaS
+{@vaś@}¦,<info vn="add 500 gra"/> Stamm {@vaś@}: -śmi 1) {621,16} te suṣṭutím.
+<LEND>
+
+<L>12550<pc>1769<k1>vas<k2>vas, uz<h>1
+1. {@vas@}¦,<info vn="add 500a gra"/> Stamm des Caus. {@vāsáya@}: *-atha uṣā́sam {513,2};
+Part. {@uchát@}: -ántī {@vi@} 1) {48,9}; {49,4}.
+<LEND>
+
+<L>12551<pc>1769<k1>vas<k2>vas<h>3
+3. {@vas@}¦,<info vn="add 500b gra"/> mit {@ní@} etwa: {%Stand halten,%} Stamm *{@vāsa@}
+(metrisch verlängert): -ate {@ní@} ná te ádevas pradívas 〰 {863,3}
+(BR.).
+<LEND>
+
+<L>12552<pc>1769<k1>vasu<k2>va/su
+{@vásu@}¦ <info vn="add 501 gra"/> (nicht vollständig -o, -u, -ūni): -ū [V. du.] 1) {120,7};
+-avas [V.] 1) devās {395,18}; -ūnām 9) dāváne {805,4}.
+<LEND>
+
+<L>12553<pc>1769<k1>vasuvid<k2>vasu-vi/d
+{@vasu-víd@}¦:<info vn="add 502 gra"/> -ídam {816,4}.
+<LEND>
+
+<L>12554<pc>1769<k1>vah<k2>vah
+{@vah@}¦ <info vn="add 503 gra"/> (vaha nicht ganz vollständig), Stamm {@váha@}: -ati 1)
+cakrám etaśás {579,2}; -anti 1) harítas tvā {50,8}; {582,15} (diese unter
+vahanti zu streichen); {@vaha@}: -atas 4) {461,9}; * -ātas ā́ índram
+úpa yajñám {269,2}; -atām ā́ 1) tvā {621,25}; Aor. {@vah@}: -oḍhám
+13) nas íṣas 625, 10; Aor. {@vakṣa@}: -at 2) vām {135,4}; Part.
+{@váhat@}: -antas 1) {69,10} (dúras).
+<LEND>
+
+<L>12555<pc>1769<k1>vAc<k2>vA/c
+{@vā́c@}¦:<info vn="add 504 gra"/> -ā́k 16) {709,11}; -ā́cam 1) {785,3}; 8) {619,8}; -āci 3)
+ṛtásya {936,11}.
+<LEND>
+
+<L>12556<pc>1769<k1>vAja<k2>vA/ja
+{@vā́ja@}¦:<info vn="add 505 gra"/> -am 6) {922,10}; 9) {511,6}; -āya 7) {121,2}; {180,2}; -asya 9)
+dātā́ {705,20}; -ān 9) {779,5}; {879,8}; -ebhis 8) {147,1}; -ais 8) {173,7};
+-eṣu 3) {27,7}; {625,26}; {669,10}; {677,10}; {679,8}; {759,5}; 4) {777,12}.
+<LEND>
+
+<L>12557<pc>1769<k1>vAjin<k2>vAji/n
+{@vājín@}¦:<info vn="add 506 gra"/> -ī́ 2) {443,2}; 5) {652,18}; -ínā 1) áśvena {162,3};
+-ínas [N. p.] 8) víprās {609,3}.
+<LEND>
+
+<L>12558<pc>1769<k1>vAta<k2>vA/ta
+{@vā́ta@}¦:<info vn="add 507 gra"/> -as 2) {638,9}; -as (váatas) 1) {809,52}; 2) {984,1}; -āya 2)
+299,6; -asya 1) sárgas {263,11}; ityás {552,3}.
+<LEND>
+
+<L>12559<pc>1769<k1>vADryaSva<k2>vA/DryaSva
+{@vā́dhriaśva@}¦:<info vn="add 508 gra"/> -a {895,12}.
+<LEND>
+
+<L>12560<pc>1769<k1>vAyu<k2>vAyu/
+{@vāyú@}¦:<info vn="add 509 gra"/> -ús 1) {445,5}.
+<LEND>
+
+<L>12561<pc>1769<k1>vAra<k2>vA/ra<h>1
+1. {@vā́ra@}¦:<info vn="add 509a gra"/> -e 4) {778,11}.
+<LEND>
+
+<L>12562<pc>1769<k1>vArya<k2>vA/rya, vA/ria
+{@vā́rya@}¦:<info vn="add 510 gra"/> -iāṇi 2) {290,6}.
+<LEND>
+
+<L>12563<pc>1769<k1>vi<k2>vi
+{@ví@}¦:<info vn="add 511 gra"/> -áyas {894,1} (udaprútas).
+<LEND>
+
+<L>12564<pc>1769<k1>vigra<k2>vigra/
+{@vigrá@}¦:<info vn="add 512 gra"/> -ám in {4,4} vígram betont.
+<LEND>
+
+<L>12565<pc>1769<k1>vicayizWa<k2>vi/cayizWa
+* {@vícayiṣṭha@}¦,<info vn="add 512a gra"/> a., {%aufs beste wegschaffend%} (von 1. ci m.
+ví).-as dāśúṣe áṃhas {316,9}.
+<LEND>
+
+<L>12566<pc>1769<k1>vid<k2>vid<h>1
+1. {@vid@}¦,<info vn="add 512b gra"/> Stamm {@vindá@}: * -at 1) amṛ́tam {485,23}; Stamm
+{@vidá@}: -as 15) nas śrávas {732,3}; -ás 15) in {939,10} ist á£u zu
+lesen; -át 1) ūrvám {72,8}; 15) gātúm bráhmaṇe {808,10}; Part.
+{@vídāna@}: -as 23) ahám ugrás {165,10}; {@vidāná@}: -ás 7)
+747,4?; -ā́sas 16) jánmanas {330,2}; -ā́s [m.] 13) asya yójanam {719,1}.
+<LEND>
+
+<L>12567<pc>1769<k1>vid<k2>vid<h>2
+2. {@vid@}¦,<info vn="add 512c gra"/> Stamm {@vid@}: -idyā́ma 6) bhújas {848,13}; Perf.
+{@vid@}: -éda [3. s.] 7) jánimāni {238,10}; -eda 6) {139,7}(?); 7)
+apīcíam {659,6}; 19) 145, 1; -idmá 13) {666,2}; {873,1}; -idús 4) {338,7};
+9) yótave {638,5}; -idus 7) padā́ni {164,45}; Part. {@vidvás@}: -vā́n
+14) ā́rtvijyā {94,6}; 19) 90, 1; -úṣṭaras 19) {105,13}. 14; {207,4};
+457,9.
+<LEND>
+
+<L>12568<pc>1769<k1>vidaTa<k2>vida/Ta
+{@vidátha@}¦:<info vn="add 513 gra"/> -e 2) {153,3}.
+<LEND>
+
+[Page1770]
+
+<L>12569<pc>1770<k1>vidyut<k2>vidyu/t
+{@vidyút@}¦:<info vn="add 513a gra"/> -útā 3) {86,9}.
+<LEND>
+
+<L>12570<pc>1770<k1>viD<k2>viD<h>2
+2. {@vidh@}¦,<info vn="add 513b gra"/> Stamm {@vindha@}: -ate in {1020,3} vindháte betont.
+<LEND>
+
+<L>12571<pc>1770<k1>vipra<k2>vi/pra
+{@vípra@}¦:<info vn="add 514 gra"/> -a 6) {680,5}; -am 4) {165,14}; -asya matím {851,10}; -ais 5)
+62,4.
+<LEND>
+
+<L>12572<pc>1770<k1>viBAvan<k2>viBA/van
+{@vibhā́van@}¦:<info vn="add 515 gra"/> -ā {69,9}.
+<LEND>
+
+<L>12573<pc>1770<k1>viBvatazwa<k2>viBva-tazwa/
+{@vibhva-taṣṭá@}¦:<info vn="add 516 gra"/> -ám rā́jānam {412,4}.
+<LEND>
+
+<L>12574<pc>1770<k1>vivAs<k2>vivAs
+{@vivās@}¦,<info vn="add 517 gra"/> Part. {@vívāsat@}: -antī mit ā verbunden.
+<LEND>
+
+<L>12575<pc>1770<k1>viS<k2>vi/S
+{@víś@}¦:<info vn="add 518 gra"/> -iśé 2) {669,6}; {798,15}; -iśé-viśe 2) {27,10}; -íśas [N. p.]
+3) {362,3}; 5) {25,1}; -íśas [A. p.] 3) mṛdhrávācas {174,2}; mā́nuṣīs
+521,2; 5) 442, 7; -ikṣú 1) {303,2}. -- 3) nā́huṣīṣu {100,16}.
+<LEND>
+
+<L>12576<pc>1770<k1>viSpati<k2>viS-pa/ti
+{@viś-páti@}¦:<info vn="add 519 gra"/> -im 5) {918,1}.
+<LEND>
+
+<L>12577<pc>1770<k1>viSva<k2>vi/Sva
+{@víśva@}¦:<info vn="add 520 gra"/> -as 1) {229,8}; {388,7}; {1020,9}; -asmai 1) {92,4}; 3) {760,4};
+-asmin 1) {875,1}; -ān 1) devā́n {240,6}; {293,8}; {792,4}; {892,13}; pathás
+341,6; anyā́n {355,8}; marútas {397,10}; mahás {643,26}; amítrān {957,1}.
+-- 3) {771,4}; -ais 1) {91,4}; -eṣām 1) {68,2}; {214,2}; {229,6}; {303,3}; {828,6};
+-asyās [Ab.] {680,1}; -ābhis ūtíbhis {327,12}; -āsu dhīṣú {79,7}.
+<LEND>
+
+<L>12578<pc>1770<k1>viSvatas<k2>viSva/tas
+{@viśvátas@}¦:<info vn="add 521 gra"/> {285,2}; {753,6}.
+<LEND>
+
+<L>12579<pc>1770<k1>viSvavedas<k2>viSva/-vedas
+{@viśvávedas@}¦:<info vn="add 522 gra"/> -asas [V. p.] in {421,3} ist es N. p.
+<LEND>
+
+<L>12580<pc>1770<k1>viSvAmitra<k2>viSvA/-mitra
+{@viśvā́-mitra@}¦:<info vn="add 523 gra"/> * -as {287,9}.
+<LEND>
+
+<L>12581<pc>1770<k1>vIra<k2>vIra/
+{@vīrá@}¦:<info vn="add 524 gra"/> -a {217,2}; 2) {486,13}; {81,2}; {545,2}; -ás 1) {653,16}; -ā́ya
+485,14; -ā́sas {448,3}; -ā́n {476,2}; -aís {476,2}.
+<LEND>
+
+<L>12582<pc>1770<k1>vIrya<k2>vIry/a
+{@vīría@}¦:<info vn="add 525 gra"/> -am 1) {93,4}; 2) {103,7}.
+<LEND>
+
+<L>12583<pc>1770<k1>vf<k2>vf<h>1
+1. {@vṛ@}¦,<info vn="add 525a gra"/> mit {@sám@} 2) {%sich sammeln, sich häufen,%} Stamm
+{@vara@}: -anta {@sám@} 2) íṣas {121,15}; Perf. {@vavṛ@}: -rus {@ví@}
+vrajám {312,6}; Part. {@vṛta@}: -am {@sám@}: die Stelle {637,7} gehaurt
+zu -as.
+<LEND>
+
+<L>12584<pc>1770<k1>vf<k2>vf<h>2
+2. {@vṛ@}¦,<info vn="add 525b gra"/> Stamm {@vṛṇī@}: -īté 5) śruṣṭím {67,1}; -ate
+{@nís@} {315,1}.Part. {@vṛṇāná@}: -ā́s 5) ā́yus {844,6}.
+<LEND>
+
+<L>12585<pc>1770<k1>vfktabarhis<k2>vfkta/-barhis
+{@vṛktá-barhis@}¦:<info vn="add 526 gra"/> -iṣas [N.] {822,7}.
+<LEND>
+
+<L>12586<pc>1770<k1>vft<k2>vf/t
+{@vṛt@}¦,<info vn="add 527 gra"/> Stamm {@vavṛt@}: -ṛtyās ā́ 4) aśvínā {899,3}; 5)
+devā́n adhvaré {491,9}; Stamm {@vartaya@}: -a {@ní@} 4) {845,6}.
+<LEND>
+
+<L>12587<pc>1770<k1>vftra<k2>vftra/
+{@vṛtrá@}¦:<info vn="add 528 gra"/> -ā́ 2) {541,5}.
+<LEND>
+
+<L>12588<pc>1770<k1>vftrahan<k2>vftra-ha/n
+{@vṛtra-hán@}¦:<info vn="add 529 gra"/> -hā́ nicht ganz vollständig.
+<LEND>
+
+<L>12589<pc>1770<k1>vfD<k2>vfD
+{@vṛdh@}¦,<info vn="add 530 gra"/> Stamm {@várdha@}: -āma vṛ́ṣṇiāni {870,2}; várdha:
+-asva {@abhí@} pátnīs {398,5}; Stamm vardhaya: -a 10) yajñám {10,4};
+Part. {@várdhamāna@}: -am [m.] 13) agním {1,8}; Part. des
+Caus. {@vardháyat@}: -an 2) {657,7}.
+<LEND>
+
+<L>12590<pc>1770<k1>vfD<k2>vf/D
+{@vṛ́dh@}¦:<info vn="add 531 gra"/> -rdhé {89,1}.5.
+<LEND>
+
+<L>12591<pc>1770<k1>vfDa<k2>vfDa/
+{@vṛdhá@}¦:<info vn="add 532 gra"/> -ás rāyás {546,1}.
+<LEND>
+
+<L>12592<pc>1770<k1>vfzan<k2>vf/zan
+{@vṛ́ṣan@}¦:<info vn="add 533 gra"/> -ā 12) {173,2}; 13) {793,2}; {798,12}. 31. 44; 14) {140,2}
+(jénias); {489,3}; 15) matīnáam 798, 19; -aṇam 12) {16,1}; -aṇau [V.
+du.] 14) {180,7}; {153,2}; -aṇā [V. du.] 14) {117,12}; {646,1}. 2. 12;
+{@-aṇā@} [N., A. du.] 2) hárī {10,3}; -ṇas [A.] 14) {640,20}; -abhis 6)
+179,2.
+<LEND>
+
+<L>12593<pc>1770<k1>vfzaBa<k2>vfzaBa/
+{@vṛṣabhá@}¦:<info vn="add 534 gra"/> -ás 3) {487,4}, wo aber der Text vṛṣabhéva (Pad.
+vṛsabhā́-iva) hat; 4) {140,10}; 831, 7; -ám 10) {33,15}; *-ā́n 1) {854,3}.
+<LEND>
+
+<L>12594<pc>1770<k1>vfzwi<k2>vfzwi/
+{@vṛṣṭí@}¦:<info vn="add 535 gra"/> -ís {152,7}; *-és svanás {753,3}; ī́śe {786,3}.
+<LEND>
+
+<L>12595<pc>1770<k1>veDas<k2>veDa/s
+{@vedhás@}¦:<info vn="add 536 gra"/> -ā́s 3) agnís {69,3}.
+<LEND>
+
+[Page1771]
+
+<L>12596<pc>1771<k1>vE<k2>vE/
+{@vaí@}¦:<info vn="add 537 gra"/> asyá {371,3}; yám {394,9}; jánivān {398,7}; mádeṣu {536,4};
+yéna {685,4}; etád {858,7}; púnar {935,6}; íti {945,1}; ná {224,10}; {921,15};
+2) ná 〰 {224,9}; {836,12}; {853,5}; íd 〰 {427,9}; nānānám {824,1}; utá
+968,3.
+<LEND>
+
+<L>12597<pc>1771<k1>vESvAnara<k2>vESvAnara/
+{@vaiśvānará@}¦:<info vn="add 538 gra"/> -a {59,2}.
+<LEND>
+
+<L>12598<pc>1771<k1>voQf<k2>voQf/
+{@voḍhṛ́@}¦:<info vn="add 539 gra"/> -ā́ {585,1} (iṣā́m).
+<LEND>
+
+<L>12599<pc>1771<k1>vyuzwi<k2>vy/uzwi
+({@vyùṣṭi@})¦:<info vn="add 539a gra"/> -iṣu 2) śáśvatīnām {171,5}.
+<LEND>
+
+<L>12600<pc>1771<k1>vraja<k2>vraja/
+{@vrajá@}¦:<info vn="add 540 gra"/> -ám 1) {156,4}; -ā́n 4) {514,3}.
+<LEND>
+
+<L>12601<pc>1771<k1>vrata<k2>vrata/
+{@vratá@}¦:<info vn="add 541 gra"/> -ébhis 7) {551,9}; -éṣu 2) ásya {781,1}; 7) {288,5};
+773,24.
+<LEND>
+
+<L>12602<pc>1771<k1>SaMs<k2>SaMs, Sas
+{@śaṃs@}¦,<info vn="add 542 gra"/> Part. II. {@śastá@}: -ám [n.] {665,2} (Preis, Lob).
+<LEND>
+
+<L>12603<pc>1771<k1>Sak<k2>Sak
+{@śak@}¦,<info vn="add 543 gra"/> Stamm des Desid. {@śikṣa@}: -a 5) asmábhyam tā́m {959,7};
+-atam 4) {34,4}.
+<LEND>
+
+<L>12604<pc>1771<k1>Sakti<k2>Sakti/
+{@śaktí@}¦:<info vn="add 544 gra"/> -ím 6) {339,3}.
+<LEND>
+
+<L>12605<pc>1771<k1>Sagmya<k2>Sagmya^
+*({@śagmyà@})¦,<info vn="add 544a gra"/> {@śagmía,@} a. = śagmá: -ena mánasā {265,1}.
+<LEND>
+
+<L>12606<pc>1771<k1>Sata<k2>Sata/
+{@śatá@}¦:<info vn="add 545 gra"/> -ám 10) pakvā́ {504,9}; khārías {328,17}; dhā́māni
+923,2; 11) pūrbhís {532,10}.
+<LEND>
+
+<L>12607<pc>1771<k1>Satakratu<k2>Sata/-kratu
+{@śatá-kratu@}¦:<info vn="add 546 gra"/> -o {271,9}; {653,11}; -um {1021,6}.
+<LEND>
+
+<L>12608<pc>1771<k1>Satamanyu<k2>Sata/-manyu
+*{@śatá-manyu@}¦,<info vn="add 547 gra"/> a., {%hundertfach zürnend.%} -us índras {929,7}.
+<LEND>
+
+<L>12609<pc>1771<k1>Satru<k2>Sa/tru
+{@śátru@}¦:<info vn="add 548 gra"/> -os nṛmṇám {564,3}.
+<LEND>
+
+<L>12610<pc>1771<k1>SaMtama<k2>Sa/Mtama
+{@śáṃtama@}¦:<info vn="add 549 gra"/> -ena ávasā {430,3}.
+<LEND>
+
+<L>12611<pc>1771<k1>Sam<k2>Sa/m
+{@śám@}¦ <info vn="add 550 gra"/> 3) te {5,7}; hṛdé {923,18}; 4) prajā́yai {821,5}.
+<LEND>
+
+<L>12612<pc>1771<k1>SamBU<k2>Sam-BU/
+{@śam-bhū́@}¦:<info vn="add 551 gra"/> -úvā [A. du. m.] indrāgnī́ {501,14}.
+<LEND>
+
+<L>12613<pc>1771<k1>SamyA<k2>SamyA/
+{@śamiā́@}¦:<info vn="add 552 gra"/> -ās (śámiās) [A. p.] {267,13}.
+<LEND>
+
+<L>12614<pc>1771<k1>Sayu<k2>Sayu/
+{@śayú@}¦:<info vn="add 553 gra"/> *-ós avasám {119,6}.
+<LEND>
+
+<L>12615<pc>1771<k1>SayutrA<k2>SayutrA/
+{@śayutrā́@}¦ <info vn="add 554 gra"/> {117,12} (oder du. von śayu-trā́ den śayú schützend).
+<LEND>
+
+<L>12616<pc>1771<k1>Sar<k2>Sar, Sir
+{@śar@}¦,<info vn="add 555 gra"/> Stamm {@śṛṇī@}: -īhi {@práti@} in {913,25} -īhí betont.
+<LEND>
+
+<L>12617<pc>1771<k1>SarD<k2>SarD
+{@śardh@}¦,<info vn="add 556 gra"/> Part. {@śárdhat@}: -atas [A.] 3) dásyūn {464,2}.
+<LEND>
+
+<L>12618<pc>1771<k1>Sarman<k2>Sa/rman
+{@śárman@}¦:<info vn="add 557 gra"/> -a [A. s.] 1) {882,2}; 4) {136,7}; -an [L.] 6) {957,1}.
+<LEND>
+
+<L>12619<pc>1771<k1>Savas<k2>Sa/vas
+{@śávas@}¦:<info vn="add 558 gra"/> -as {623,8}; -ase {57,1}; -asas pátim {485,4}.
+<LEND>
+
+<L>12620<pc>1771<k1>SavizWa<k2>Sa/vizWa
+{@śáviṣṭha@}¦:<info vn="add 559 gra"/> -a {679,12}.
+<LEND>
+
+<L>12621<pc>1771<k1>SaSvat<k2>Sa/Svat
+{@śáśvat@}¦:<info vn="add 560 gra"/> -atīṣu 5) in {669,17} śaśvatī́ṣu betont.
+<LEND>
+
+<L>12622<pc>1771<k1>SA<k2>SA, Si
+{@śā@}¦,<info vn="add 561 gra"/> Stamm {@śiśī@}: -ītá 1) in {444,5} śíśīta betont; Aor.
+*áśī: -īta {@sám@} 1) (pass.) vájras {57,2}.
+<LEND>
+
+<L>12623<pc>1771<k1>SimIvat<k2>Si/mIvat
+{@śímīvat@}¦:<info vn="add 562 gra"/> -ān sómas {915,5}.
+<LEND>
+
+<L>12624<pc>1771<k1>Siras<k2>Si/ras
+{@śíras@}¦:<info vn="add 563 gra"/> -as asya {158,5}.
+<LEND>
+
+<L>12625<pc>1771<k1>SIrzan<k2>SIrza/n
+{@śīrṣán@}¦:<info vn="add 564 gra"/> -ā́ṇi 3) téṣām {913,16}.
+<LEND>
+
+<L>12626<pc>1771<k1>Sukra<k2>Sukra/
+{@śukrá@}¦:<info vn="add 565 gra"/> -ám [n.] 1) {302,8}; -aís 1) ūrmíbhis {95,10}.
+<LEND>
+
+<L>12627<pc>1771<k1>Suci<k2>Su/ci
+{@śúci@}¦:<info vn="add 566 gra"/> -is [m.] 5) {787,4}.
+<LEND>
+
+<L>12628<pc>1771<k1>Sunahotra<k2>Suna/-hotra
+{@śuná-hotra@}¦:<info vn="add 567 gra"/> -eṣu {232,14}. 17.
+<LEND>
+
+<L>12629<pc>1771<k1>SunAsIra<k2>SunA-sIra
+{@śunā-sīra@}¦:<info vn="add 568 gra"/> -ā [V.] {353,8}.
+<LEND>
+
+<L>12630<pc>1771<k1>SuB<k2>SuB, SumB
+{@śubh@}¦,<info vn="add 569 gra"/> Stamm {@śúmbha@} (tonlos {140,6}); Part. {@śúmbhamāna@}:
+-ā [f.] 2) kaníā {933,10}; hierher auch {92,10} statt unter
+śumbhámāna.
+<LEND>
+
+<L>12631<pc>1771<k1>Suzma<k2>Su/zma
+{@śúṣma@}¦:<info vn="add 570 gra"/> -am 3) {779,3}.
+<LEND>
+
+<L>12632<pc>1771<k1>SUra<k2>SU/ra
+{@śū́ra@}¦:<info vn="add 571 gra"/> -am 2) {868,2}.
+<LEND>
+
+<L>12633<pc>1771<k1>Socis<k2>Soci/s
+{@śocís@}¦:<info vn="add 572 gra"/> -ís {148,4}.
+<LEND>
+
+<L>12634<pc>1771<k1>Syeta<k2>Syeta/
+{@śyetá@}¦:<info vn="add 573 gra"/> -tā́sas in {387,8} ist śyétāsas betont.
+<LEND>
+
+[Page1772]
+
+<L>12635<pc>1772<k1>Syena<k2>Syena/
+{@śyená@}¦:<info vn="add 574 gra"/> -ás {798,35}; -ébhis {625,7}.
+<LEND>
+
+<L>12636<pc>1772<k1>Sravas<k2>Sra/vas
+{@śrávas@}¦:<info vn="add 575 gra"/> -as 3) {43,7}.
+<LEND>
+
+<L>12637<pc>1772<k1>Sri<k2>Sri
+{@śri@}¦,<info vn="add 576 gra"/> Stamm {@śraya@}: *-ethe 10) phárvareṣu {932,2}.
+<LEND>
+
+<L>12638<pc>1772<k1>Sriz<k2>Sriz
+{@śriṣ@}¦ <info vn="add 577 gra"/> mit {@ā́,@} {%hängen bleiben%} an [L.], Stamm *śris: -ṣat
+ā́ mā́ tád bhū́myām 〰 {162,11}; Verbale {@śríṣ@}: -íṣas [Ab.]
+{@abhi.@}
+<LEND>
+
+<L>12639<pc>1772<k1>SrI<k2>SrI
+{@śrī@}¦,<info vn="add 578 gra"/> Stamm {@śrīṇā@}: -ánti und -anti in {84,11} tonlos, in
+713,9 betont mit abhí.
+<LEND>
+
+<L>12640<pc>1772<k1>SrI<k2>SrI/
+{@śrī́@}¦:<info vn="add 579 gra"/> -iyā́ 4.b) {188,6}; -iyé 5) {184,3}; {428,6}; -íyas [A. p.]
+1) {199,5}.
+<LEND>
+
+<L>12641<pc>1772<k1>Sru<k2>Sru<h>1
+1. {@śru@}¦,<info vn="add 579a gra"/> Stamm {@śṛṇu@}: -utam {@úpa@} 2) gíras 510, 4; Aor.
+{@śru;@} -udhí 5) sindho {645,12}; -udhi 3) {462,8}; 5) {129,2}; -uta 1)
+hávam {23,8}; Part. {@śṛṇvát@}: -atī́s [N. p. f.] ā; Part. II.
+{@śrutá@}: -ám 7) {6,6}; -ásya 7) {705,11}.
+<LEND>
+
+<L>12642<pc>1772<k1>Sruz<k2>Sruz
+{@śruṣ@}¦,<info vn="add 580 gra"/> Stamm {@śroṣa@}: -an in {68,9} śróṣan betont.
+<LEND>
+
+<L>12643<pc>1772<k1>SreRiSas<k2>SreRiSa/s
+{@śreṇiśás@}¦:<info vn="add 581 gra"/> {163,10}.
+<LEND>
+
+<L>12644<pc>1772<k1>Sloka<k2>Slo/ka
+{@ślóka@}¦:<info vn="add 582 gra"/> -am 3) {288,11}.
+<LEND>
+
+<L>12645<pc>1772<k1>Svas<k2>Svas, Suz
+{@śvas@}¦,<info vn="add 583 gra"/> *Part. {@śuṣát@}: -ántam 2) vṛtrám {61,10}.
+<LEND>
+
+<L>12646<pc>1772<k1>sa<k2>sa/
+{@sá@}¦:<info vn="add 584 gra"/> auch {@sā́@} nicht ganz vollständig.
+<LEND>
+
+<L>12647<pc>1772<k1>saMyat<k2>saM-ya/t
+{@saṃyát@}¦:<info vn="add 585 gra"/> -átā 1) mánmanā {151,8}.
+<LEND>
+
+<L>12648<pc>1772<k1>saMvasu<k2>sa/M-vasu
+{@sáṃ-vasu@}¦:<info vn="add 586 gra"/> -us {659,7}.
+<LEND>
+
+<L>12649<pc>1772<k1>sakzaRi<k2>sakza/Ri<h>2
+2. {@sakṣáṇi@}¦:<info vn="add 586a gra"/> -ī [du.] auch in {858,1} wird -ī statt -i zu lesen
+sein.
+<LEND>
+
+<L>12650<pc>1772<k1>saKi<k2>sa/Ki
+{@sákhi@}¦:<info vn="add 587 gra"/> -āyam 1) {486,7}. 19; -ye 1) {583,7}; -āyas [V.] {644,19};
+-āyas [N.] 3) tvāyántas {622,16}; -ibhis 1) {100,18}; -ibhyas [D.] 1)
+265,15.
+<LEND>
+
+<L>12651<pc>1772<k1>saKya<k2>saKya/, saKia/
+{@sakhyá@}¦:<info vn="add 588 gra"/> -iám {277,2}; {552,5} (asya); {809,11} (índrasya); -yé
+11,2; -ie {468,2}.
+<LEND>
+
+<L>12652<pc>1772<k1>sac<k2>sac
+{@sac@}¦,<info vn="add 589 gra"/> Stamm II. {@siṣac@}: -kti 20) in {831,1} betont (síṣakti);
+Stamm III. {@sáca@}: -ante 3) {134,2}; {@saca@}: -ate 9) divás rétasā
+786,1; -anta 20) {164,50}.
+<LEND>
+
+<L>12653<pc>1772<k1>sacA<k2>sa/cA
+{@sácā@}¦ <info vn="add 590 gra"/> II. 1) tué {328,4}.
+<LEND>
+
+<L>12654<pc>1772<k1>sajoza<k2>sa-jo/za
+{@sa-jóṣa@}¦:<info vn="add 591 gra"/> -ās [N. p. m.] 1) {564,4}; {492,5}; -ā [f.] dafür ist
+-ās zu lesen, und das Ganze unter sa-jóṣas zu stellen.
+<LEND>
+
+<L>12655<pc>1772<k1>sajozas<k2>sa-jo/zas
+{@sa-jóṣas@}¦:<info vn="add 592 gra"/> -asā [du. m.] 3) {710,7}; -asas 2) ādityaís {330,8}.
+<LEND>
+
+<L>12656<pc>1772<k1>satya<k2>satya/
+{@satyá@}¦:<info vn="add 593 gra"/> -ás 2) mitrás {855,4}; -ám [n.] 8) {683,15}; 13) {576,1}.
+<LEND>
+
+<L>12657<pc>1772<k1>satrA<k2>satrA/
+{@satrā́@}¦:<info vn="add 594 gra"/> 2) {211,8}; {477,2}.
+<LEND>
+
+<L>12658<pc>1772<k1>sad<k2>sad
+{@sad@}¦,<info vn="add 595 gra"/> Stamm {@sīda@}: -atam {@ā́@} 2) {47,8}; Stamm {@sādaya@}:
+-a {@ā́@} 5) ist in {861,10} betont (sādáyā).
+<LEND>
+
+<L>12659<pc>1772<k1>sadas<k2>sa/das
+{@sádas@}¦:<info vn="add 596 gra"/> -as {85,7}; 2) {457,17}.
+<LEND>
+
+<L>12660<pc>1772<k1>sadA<k2>sa/dA
+{@sádā@}¦ <info vn="add 597 gra"/> {12,2}; {26,2}; {129,9}; {237,8}; {395,9}.
+<LEND>
+
+<L>12661<pc>1772<k1>sadAsA<k2>sadA-sA/
+{@sádā-sā́@}¦:<info vn="add 598 gra"/> * -ā́m rayím {555,6}.
+<LEND>
+
+<L>12662<pc>1772<k1>sadyas<k2>sadya/s
+{@sadyás@}¦ <info vn="add 599 gra"/> 4) {265,7}.
+<LEND>
+
+<L>12663<pc>1772<k1>saDri<k2>sa/-Dri, sa/-DrI
+{@sádhrī@}¦:<info vn="add 600 gra"/> -īm; Padap. sadhrī́ īm richtig, also sadhrī́
+anzusetzen.
+<LEND>
+
+<L>12664<pc>1772<k1>san<k2>san, sA
+{@san@}¦,<info vn="add 601 gra"/> Stamm {@saná@}: -éma 4) {17,6}; Aor. {@saniṣa@}: -anta in
+791,1 sániṣanta betont; Stamm des Desid. {@siṣāsa@}: -asi 5) {735,6};
+Part. Perf. {@sasavás@}: -ā́n 4) {485,7}(?); Part. des
+Desid. {@síṣāsat@}: -atas [G.] 3) {623,12}.
+<LEND>
+
+<L>12665<pc>1772<k1>sanitf<k2>sanitf/
+{@sanitṛ́@}¦:<info vn="add 602 gra"/> -ā́ 3) in {36,13} sánitā betont.
+<LEND>
+
+<L>12666<pc>1772<k1>sapary<k2>sapary
+{@sapary@}¦,<info vn="add 603 gra"/> Stamm {@saparyá@}: *-am 1) {833,3}.
+<LEND>
+
+[Page1773]
+
+<L>12667<pc>1773<k1>saptan<k2>sapta/n
+{@saptán@}¦:<info vn="add 604 gra"/> -á [N., A.] tántūn {164,5}; raśmáyas {105,9}; yahvī́s
+71,7; {72,8}; nadías {102,2}; 804, 4; vā́ṇīs {164,24}; ṛ́ṣayas {956,7};
+paridháyas {916,15}; dhā́māni {948,3}; 4) padā́ {72,6}; samídhas {916,15};
+-á [für I.] víprais {62,4}.
+<LEND>
+
+<L>12668<pc>1773<k1>sama<k2>sama/
+{@samá@}¦:<info vn="add 605 gra"/> -áyā 4) {797,5}; {809,56}.
+<LEND>
+
+<L>12669<pc>1773<k1>samarya<k2>samarya/
+{@samaryá@}¦:<info vn="add 606 gra"/> -é 2) {63,6}; {178,4}.
+<LEND>
+
+<L>12670<pc>1773<k1>samAna<k2>samAna/
+{@samāná@}¦:<info vn="add 607 gra"/> -ám [m.] 2) vatsám {146,3}.
+<LEND>
+
+<L>12671<pc>1773<k1>samudra<k2>sam-udra/
+{@samudrá@}¦:<info vn="add 608 gra"/> -ám 3) {174,9}; 4) {856,3}; -é 3) {636,2}; -aís {161,14}.
+<LEND>
+
+<L>12672<pc>1773<k1>sarasvat<k2>sa/rasvat
+{@sárasvat@}¦:<info vn="add 609 gra"/> -atī 3) {843,7}.
+<LEND>
+
+<L>12673<pc>1773<k1>sarva<k2>sa/rva
+{@sárva@}¦:<info vn="add 610 gra"/> -as 3) yajñás {877,9}; -am [n.] 1) rákṣas {133,5}; 3)
+etád {933,8}; -é adṛ́ṣṭās {191,3}. 7; devā́s {954,2}; -ān 1)
+adṛ́ṣṭān {191,8}; -ā [n.] 1) tā́ {162,8}. 14. 17; -ās [N. p. f.] 1)
+víśas {999,1}; -ās [A. p. f.] 1) yātudhānías {191,8}; -āsaam 1)
+rópuṣīṇaam {191,13}.
+<LEND>
+
+<L>12674<pc>1773<k1>savana<k2>sa/vana<h>1
+1. {@sávana@}¦:<info vn="add 610a gra"/> -āni 1) {922,6}; -ā {915,16}.
+<LEND>
+
+<L>12675<pc>1773<k1>savitf<k2>savitf/
+{@savitṛ́@}¦:<info vn="add 611 gra"/> -ā́ 1) {435,2}; 2) {35,8}; {556,1}; -úr 2) savā́ya {290,7}.
+<LEND>
+
+<L>12676<pc>1773<k1>saMsTAvan<k2>saMsTA/van
+{@sasthā́van@}¦ <info vn="add 612 gra"/> siehe saṃsthā́van.
+<LEND>
+
+<L>12677<pc>1773<k1>saha<k2>saha/<h>2
+2. {@sahá@}¦:<info vn="add 612a gra"/> 1) várcasā {911,39}; mádena {810,7}; pátniā {865,11}.
+<LEND>
+
+<L>12678<pc>1773<k1>sahas<k2>sa/has
+{@sáhas@}¦:<info vn="add 613 gra"/> -as 2) {56,2}; {225,7}; {640,13}; {711,5}; -asā {576,10}; {909,1};
+-asas [G. mit Voc.] putra 248, 4. 6; {357,1}. 6; sūno {252,4}; yaho {639,12}.
+<LEND>
+
+<L>12679<pc>1773<k1>sahasra<k2>saha/sra
+{@sahásra@}¦:<info vn="add 614 gra"/> -am 1) gávām {928,5}. 9; 3) {116,2}; -āṇi 4) {770,4}.
+<LEND>
+
+<L>12680<pc>1773<k1>sAkam<k2>sAka/m
+{@sākám@}¦ <info vn="add 615 gra"/> 2) 〰 hí śúcinā {196,4}.
+<LEND>
+
+<L>12681<pc>1773<k1>sAti<k2>sAti/
+{@sātí@}¦:<info vn="add 616 gra"/> -áye 3) {102,5}; {531,9}.
+<LEND>
+
+<L>12682<pc>1773<k1>sAD<k2>sAD
+{@sādh@}¦,<info vn="add 617 gra"/> Stamm {@sādha@}: -ate, -anta in den Stellen {783,3}; {660,9}
+betont; Aor. des Caus.-as 7) in {215,1} sī́ṣadhas betont.
+<LEND>
+
+<L>12683<pc>1773<k1>sADu<k2>sADu/
+{@sādhú@}¦:<info vn="add 618 gra"/> -ú 9) bei i {844,5}.
+<LEND>
+
+<L>12684<pc>1773<k1>sAnu<k2>sA/nu
+{@sā́nu@}¦:<info vn="add 619 gra"/> -ú 2) diviám {518,1}.
+<LEND>
+
+<L>12685<pc>1773<k1>sAman<k2>sA/man<h>1
+1. {@sā́man@}¦:<info vn="add 619a gra"/> -a {690,5}.
+<LEND>
+
+<L>12686<pc>1773<k1>sAmrAjya<k2>sA/mrAjya
+{@sā́mrājia@}¦:<info vn="add 620 gra"/> -ásya okíā {645,17}.
+<LEND>
+
+<L>12687<pc>1773<k1>sArasvata<k2>sArasvata/
+*{@sārasvatá@}¦,<info vn="add 621 gra"/> m., {%Sohn der Sarasvati.%} -ébhis {238,8}.
+<LEND>
+
+<L>12688<pc>1773<k1>sic<k2>sic
+{@sic@}¦,<info vn="add 622 gra"/> Stamm des Pass. {@sicyá@}: -ate pári 3) {754,4}.
+<LEND>
+
+<L>12689<pc>1773<k1>sinDu<k2>si/nDu
+{@síndhu@}¦:<info vn="add 623 gra"/> -os [G.] ūrmaú {724,3}; -avas [N.] 1) 72, 10; 15) {140,13}
+(?); -ūn 9) gṛbhītā́n {93,5}; -ūnām 7) rā́jā {801,2}.
+<LEND>
+
+<L>12690<pc>1773<k1>sIm<k2>sIm
+{@sīm@}¦ <info vn="add 624 gra"/> 1) váhanti 〰 (uṣásam) {505,3}; yád 〰 ánu {141,9}; 3) {179,5};
+4) {140,5}.
+<LEND>
+
+<L>12691<pc>1773<k1>su<k2>su
+{@su@}¦,<info vn="add 625 gra"/> Part. (suvāná): -ás 2) {819,8}; Part. II. {@sutá@}: -ás 1)
+642,8; {484,1}; {485,1}; 2) {482,4}; {754,6}; {773,28}; {774,16}; -ám [m.] 2)
+655,7; {702,31}.32; {822,2}; -ásya 6) {277,5}; {386,6}; -é 2) {481,3}; 6) {500,3};
+-ā́s 2) {84,5}; -ā́naam 6) {135,5}; -ā́nām 6) {134,6}; {485,20}.
+<LEND>
+
+<L>12692<pc>1773<k1>sukratu<k2>su-kra/tu
+{@su-krátu@}¦:<info vn="add 626 gra"/> -o {398,2}; {374,4}; {532,6}.
+<LEND>
+
+<L>12693<pc>1773<k1>sujAta<k2>su-jAta/
+{@su-jātá@}¦:<info vn="add 627 gra"/> -a {833,2}.
+<LEND>
+
+<L>12694<pc>1773<k1>sujyotis<k2>su-jyo/tis
+{@su-jyótis@}¦:<info vn="add 628 gra"/> -iṣas [N. p.] in {915,15} sujyotíṣas betont.
+<LEND>
+
+<L>12695<pc>1773<k1>sutAvat<k2>sutA/vat
+{@sutā́vat@}¦:<info vn="add 629 gra"/> *-atām 2) prámatis {926,11}.
+<LEND>
+
+<L>12696<pc>1773<k1>sudAnu<k2>su-dA/nu
+{@su-dā́nu@}¦:<info vn="add 630 gra"/> -ū [V. du.] 2) {117,24}.
+<LEND>
+
+[Page1774]
+
+<L>12697<pc>1774<k1>sUrya<k2>sU/rya, sU/ria
+{@sū́rya@}¦:<info vn="add 631 gra"/> -yas {124,1}; {264,12}; -yam {7,3}; {51,4}; {100,18}; {112,13};
+117,5.
+<LEND>
+
+<L>12698<pc>1774<k1>soma<k2>soma
+{@sóma@}¦:<info vn="add 632 gra"/> -āsas {819,14}.
+<LEND>
+
+<L>12699<pc>1774<k1>stotf<k2>stotf/
+{@stotṛ́@}¦:<info vn="add 633 gra"/> -ré {669,6}; {732,7}; {733,2}; {752,5}; {757,6}; {774,30}; {778,27};
+779,19; {784,8}; {809,6}; {982,5}.
+<LEND>
+
+<L>12700<pc>1774<k1>stoma<k2>sto/ma
+{@stóma@}¦:<info vn="add 634 gra"/> -ebhis {139,3}.
+<LEND>
+
+<L>12701<pc>1774<k1>sTavira<k2>sTa/vira
+{@sthávira@}¦:<info vn="add 635 gra"/> -am [n.] {877,1}.
+<LEND>
+
+<p>Im Verzeichnisse nach dem Endlaute zuzufügen: *gah-.
+<p>ENLISH: To be added in the index after the final: *gah-.
+
+<h>ENGLISH FIRST SENTENCE: To the text of the Rigveda, on which the dictionary is based, to determine exactly, I give the deviations from Aufrecht's text output, as far as they have an influence on the dictionary, and note that that everywhere, where not in the following, a mark is placed next to it is, the reading I took up both in the large text edition by M. Müller as in the Codd. Chambers 60 and 61 of the Royals Library in Berlin stands.</h>
+
+<p>Um den Text des Rigveda, welcher dem Wörterbuch zu Grunde liegt,
+genau festzustellen, gebe ich die Abweichungen von der Aufrecht'schen
+Textausgabe, soweit sie aufs Wörterbuch Einfluss haben, an, und bemerke,
+dass überall, wo nicht im Folgenden ein Merkzeichen daneben gesetzt
+ist, die von mir aufgenommene Lesart sowohl in der grossen Textausgabe
+von M. Müller als in den Codd. Chambers 60 und 61 der Königlichen
+Bibliothek zu Berlin steht. Diese letzteren Codices sind mir durch die
+Liberalität des Königlichen Ministerii wiederholt zur Verfügung
+gestellt und haben sich als im höchsten Grade zuverlässig erwiesen. Das
+beigefügte Merkzeichen * bedeutet, dass Aufrecht mit M. Müller
+übereinstimmt, aber die von mir vorgezogene Lesart in den oben
+genannten Codd. steht. Wo es sich um den Samhita-Text im Gegensatze
+gegen den Pada-Text handelt, und also die obigen Codices, da sie nur
+den letzteren liefern, keine Entscheidung gewähren, ist dafür das
+Rigveda- Prātiśākhya (Ausg.M. Müller) zu Rathe gezogen, und wo dies
+allein gegen die beiden Textausgaben die gewählte Lesart verlangt, ist
+das Merkzeichen ** beigesetzt.(Die von mir gewählte Transskription ist
+beibehalten.)
+
+<p>Zu lesen ist: 3,12 rājati; 7,9 yá; 10,11 ā́; 10,12 Pad.
+júṣṭāḥ; 11,4 kavír; 16,4 háribhir; 22,8 rā́dhāṃsi; 30,3
+dadhé; 33,10 adukṣat, 11 hánmanāhan (Pad. richtig); 36,11 īdhá;
+38,12 súsaṃskṛtā; 40,1 tvemahe (Pad. richtig); 40,6 vocemā (statt
+vócema); 51,11 sácān{??} (auch Pad. falsch); 54,8 kṣatrám; 55,7
+vandanaśrud; 61,7 víṣṇuḥ; * 61,16 Pad. hāri-yojana; 64,2 śúcayah,
+5 dhū́tayo; 67,4 vidántīm (auch Pad. falsch); 72,2 vatsám, 6
+paśū́ñ; 76,3 dhákṣi; 79,1 śúcibhrājā, 2 nonāva; 82,1 yadā́;
+83,3 ásaṃyatto; 84,1 indra; 88,1 yāta; 90,1 ṛjunītī́; 94,11
+yavasā́do; 95,1 bhávati; 102,2 saptá; 118,9 abhíbhūtim; 128,4
+ghṛtaśrī́r; 138,4 ū ṣú und ó ṣú; 140,5 té, 12 agne; 141,8 té;
+144,2 páṛīvṛtāḥ (Pad. richtig) und svadhā́; 144,5 sá; 145,5
+ū1pamásyāṃ; 148,4 purū́ṇi; 151,4 fehlt Pad. asurā; 151,7
+gáchatho; 154,5 bándhur; 157,4 tā́riṣṭaṃ; 161,12 Pad. ábravīt;
+163,11 dhrájīmān, 13 gamyā́; 164,7 vásānā, 17 páreṇa, 38
+ā1nyáṃ cikyúr; 165,5 étān{??}, 15 yāsīṣṭa; 169,7 patáyanta;
+174,7 kúyavācam; 177,1 yuktvā́, 2 yāhi; 181,6 pīpáyanta; 188,4
+astṛṇan; 191,8 viśvádṛṣṭo; 192,5 vidhaté;
+
+[Page1775]
+
+<h>Abweichungen von der Aufrecht'schen Textausgabe.</h>
+
+<h>ENGLISH: Deviations from Aufrecht's text edition</h>
+
+201,2 fehlt Pad. śruyā́ḥ [Prāt. 583]; 204,8 pṛkṣā́ya ca; 207,3 yójanā,
+8 sumatíbhiḥ; 209,4 indra; 211,2 dāśúṣo; 212,2.3 fehlt Pad.
+satrā-sáhe, satrā-saháṇ, 5 dráviṇāni; 214,10 dhīmahe; 220,1
+dhṛ́tavratā, 6 kartā́d; 226,3 anyā́ yánti, 15 maghávadbhyaḥ; 231,4
+cakrá, Pad. cakré; 239,9 mātaríśvā́ (Pad. mātaríśvā ā́); 241,4
+fehlt Pad. stabhu-yámānaṃ, 7 gúh; 249,1 śóśucāno; 250,4 fehlt Pad.
+sasahíḥ; 251,1 ajyate; 256,4 fehlt Pad. pravaṇébhiḥ; 264,4 fehlt
+Pad. cyaváyan, 10 niráje gā́ḥ, 15 yāmakośā́; 265,7 fehlt Pad.
+sakhi-yán; 266,4 marúto; 268,8 fehlt Pad. satrā-sáhaṃ; 270,3
+índra, 10 índra; 272,1 mármṛśat; *274,3 tira (so auch AV. 20,6,3);
+281,1 indra; 283,3 fehlt Pad. sahá-vā; 284,2 ásyá; 285,9 Pad.
+ámandan, 10 ásyá; 287,18 ási, *19 syandané; 289,15 sadhrīcīnā́
+pathyā; 290,2 dárśy; 299,7 agne, *10 ásyandamāno; 300,7 ā́yuṣi;
+301, 9 gaúḥ, 11 asyá; 210,2 dyā́vāpṛthivī́; 311,2 yā́ty; 317,9
+nó (Pad. nó íti); 322,1 kútsam, 3 atithigváṃ; 325,2 yā́ti; 327,9
+váranta (Pad. várante); 328,7 índra, 10 fehlt Pad. yā́h, 12 índra,
+18 rā́dha; 332,2 ā1syá, 6 ā́viṣuḥ; 336,4 āpánīphaṇat; 337,8
+fehlt Pad. tā́ḥ, 9 ágmann; 338,9 ádāśad; 346,4 vyau1man (Pad.
+ví-oman), 8 brahmā́; 353,8 śúnāsīrā; 364,4 purū́ (Pad. purú,
+Prāt. 465,466); 364,4 śúṣmebhiḥ; 366,3 asyá; 369,5 dógham; 370,3
+sám aryé, 4 suvī́ryasya; 377,4 dadhé; 382,3 sáṃ; 383,3 ávindad;
+386,1 sṛjó; **387,4 purū́ (Pad. purú, Prāt. 465,466); 388,4
+práyatā; 390,3 Pad. stoṣat; 396,9 visarmā́ṇaṃ; 398,4 pravaṇé, 5
+dhāravākéṣv; 400,8 varuṇānī́; 408,9 prayádbhyaḥ; 415,1 naraḥ;
+420,3 urvī́ṃ; 421,1 mítrā́ryaman (Pad. richtig); *426,1 juhūmo, 3
+ní barhíṣi sadatāṃ; 437,4 vā́nti; 439,6 āsiñcántīr; 441,6
+sthā́tāro; 443,4 dviṣó; 448,3 spṛhayā́yyāṇi; 452,1 pṛthivī́;
+*454,6 vājí no (auch Sāy. setzt diese Lesart voraus); 456,3 vṛdhó;
+457,27 iṣáyanto; 459,9 Pad. ut-ávatā,
+[Page1776]
+**13 purū́ (Pad.
+purú, Prāt. 466,467); *464,6 rā́ṇḍyā; 465,7 avakarśáyanti; 470,4
+dhānā́ḥ; 479,3 vardhad índre; 482,4 indra; 485,11 prá, 18 ardhám
+(arddhám), 23 supátnīr; 487,10 girvaṇas; 488,22 atithigvásya, 25
+sārñjayó; 490,14 óṣadhībhir; 491,9 táva syām; 492,6 aghāyaté
+(Pad. richtig); 501,10 kṛṇóti; 503,2 purū́ (Pad. purú); 504,7
+mánojavā; 506,4 ṣma; 507,4 yā, Pad. áyā, 6 yujanta; 508,3 apáseva
+(Pad. richtig); 511,4 abhī́vṛte; 547,4 viddhī́; 549,8 prajavó;
+550,5 Pad. áha-iva, 11 rāṣṭrā́nām; 554,8 viprā, mádhvaḥ; 556,4
+Pad. ápaḥ; 563,4 sindhavo; 567,1 ādityā́nām; 572,19 marúto; 580,2
+íḍām; 582,5 yé, 18 ātujī́ (Pad, richtig); 583,10 járatam ca;
+588,2 bándhur, 3 dhíṣṇyemé, Pad. dhísṇye-imé; 589,1 aśvínā;
+607,3 náraḥ; 611,5 Pad. júhvānāḥ; 613,6 nī́lavat; 622,29
+kāríṇam; 623,12 índra prā́vaḥ; 625,13 fehlt Pad. yā́ áviṣṭam;
+628,19 vipanyū; 629,9 ācucyuvīmáhi; 632, 14 stómam; 638,6
+sadā́vṛdhā (Pad. richtig); 639, 36 pañcāśátaṃ; 640,4 yujanta;
+641,5 yathā, 9 stuṣe; 643,24 vaiyaśva, 26 ní ṣatsi; 644,23
+vaíyaśva; 646,11 vaiyaśvásya; 652,14 āyantā́ram; *653,9 Pad.
+ániḥ-stṛtah; 655,20 sárgān{??} 660,3 kavī́; 665,39 sumádrathā
+(Pad. richtig); 666,22 úṣṭrānāṃ; 710,9 śrīṇānau1 (Pad.
+richtig); 712,9 asya; 724,3 síndhor; 738,3 dharṇasím; 758,4 Pad.
+śukrā́; 773,1 ayā́; 809,30 mināti, 57 gṛ́dhrāh; 832,2 sakhyā́;
+833,3 saparyaṃ; 855,3 rántyo; 870,1 vṛ́ṣṇyena; *877,6 kṣeptór (?);
+879,6 anulbaṇám; 894,3 Pad. sādhu-aryā́ḥ; 911,3 tásyāśnāti (Pad.
+richtig), 9 sūryā́ṃ; 912,7 Pad. yáthā-iva, 15 bhāvayúr; 921,13
+śivā́yai; 927,1 sánīḍāḥ (sánīḷāḥ); 945,2 sómasyā́pām (Pad.
+richtig); 949,5 jārám; 955,4 bándhum, 7 yádi vā- dadhé; 956,7
+dhī́rā; 969,6 śaṃyū́; *986,5 vā- jayánto (?); 1007,3 dyútānāt;
+1021,5 īśānakṛ́t; 1023,7 fehlt Pad. índre; 1028,7 prajā́m.
+
+<h>{@Nachwort.@}</h>
+
+<p>Zum Schlusse spreche ich meinen innigen Dank aus vor allen den Herren
+Professoren R. {@Roth@} und B. {@Delbrück,@} welche durch
+uneigennützigste und bereitwilligste Mittheilung ihrer Ansichten und
+Arbeiten mein Werk wesentlich gefördert und unterstützt haben, ferner
+dem Herrn Dr. {@Fritzsche,@} der die erste Correctur mit grosser Sorgfalt
+ausgeführt und die Citate aus andern Werken genau revidirt hat, dem
+Herrn Charles R. {@Lanman,@} Schüler des Professor Whitney, welcher
+ebenso wie Herr Dr. Fritzsche mir wichtige Ergänzungen und
+Berichtigungen hat zukommen lassen, endlich dem Herrn Professor A.
+{@Weber,@} durch den mir wesentliche Hülfsmittel für meine Arbeit
+zugänglich gemacht sind. Die citirten Stellen habe ich durch den
+inzwischen erschienenen Index von M. {@Müller@} {%vollständig%} ergänzt.
+In der Feststellung der Bedeutungen wird meine Uebersetzung des Rigveda,
+die in nicht langer Frist erscheinen wird, wesentliche Berichtigungen
+liefern. In ihr wird auch durch Unterscheidung des Alters der Hymnen
+wichtiges Material für die āusserst schwierige Feststellung der
+Bedeutung der liturgischen Ausdrücke geliefert werden.
+
+<p>Stettin den 8. August 1875.
+
+<p>{@Der Verfasser.@}

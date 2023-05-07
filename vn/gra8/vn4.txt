@@ -1,0 +1,757 @@
+
+[Page1741-a]
+
+<h>{@Nachträge und Verbesserungen.@}</h>
+
+<h>Zu lesen ist im Wörterbuche (nach Spalte und Zeile)</h>
+
+2,4.b: {204,1} statt {204,2} <info vn="chg 1 gra"/>
+
+3,14: -ās st. -as <info vn="chg 2 gra"/>
+
+7,19: ákṣīyamāṇa st. ákṣīyamāna <info vn="chg 3 gra"/>
+
+8,5.b v. u.: bhramā́s st. bramā́s <info vn="chg 4 gra"/>
+
+14,17: añj st. aṅj <info vn="chg 5 gra"/>
+
+15,10: áṅgya st. ángya <info vn="chg 6 gra"/>
+
+20,16.b v. u.: -āṇi st. -āni <info vn="chg 7 gra"/>
+
+21,16: sūrmíā st. sūrmía <info vn="chg 8 gra"/>
+
+21,30 v. u.: ajāví st. a-jāví <info vn="chg 9 gra"/>
+
+22,28: á-joṣa, jóṣa st. á-josa, jósa <info vn="chg 10 gra"/>
+
+26,24 v. u.: áṇu st. anu <info vn="chg 11 gra"/>
+
+27,3.b v. u.: -ā́ni st. āni <info vn="chg 12 gra"/>
+
+27,2.b v. u.: -ā́ st. -ā <info vn="chg 13 gra"/>
+
+27,1.b v. u.: -éṣu st. -eṣu <info vn="chg 14 gra"/>
+
+31,10.b v. u.: -īṇām st. -īnām <info vn="chg 15 gra"/>
+
+34,11 v. u.: ádabdha-dhīti st. ádabdha-nīti <info vn="chg 16 gra"/>
+
+34,11.10 v. u.: {%reingesinnt%} st. {%untrügliche%} u. s. w. <info vn="chg 17 gra"/>
+
+38,28: katidhā́ st. katidā́ <info vn="chg 18 gra"/>
+
+39,14: adma-sádvan, m. st. admasádvan, a. <info vn="chg 19 gra"/>
+
+39,14.15: {%Tischgenosse%} st. {%Tischgen. habend%} u. s. w. <info vn="chg 20 gra"/>
+
+41,30: -uhā [Vo. d. f.] st. -úhā [Vo. d. f.] <info vn="chg 21 gra"/>
+
+49,31.b v. u.: -ā́ṇaam st. -āṇaam <info vn="chg 22 gra"/>
+[Page1741-b]
+51,22: {%Ungestüm%} st. {%Glanz%} <info vn="chg 23 gra"/>
+
+52,3.b v. u.: {638,2} st. {638,1} <info vn="chg 24 gra"/>
+
+60,3 v. u.: an-ulbaṇá st. an-ulbaná <info vn="chg 25 gra"/>
+
+64,5: -ébhis st. -ebhis <info vn="chg 26 gra"/>
+
+68,16: annā-vṛ́dh st. annā́-vṛdh <info vn="chg 27 gra"/>
+
+68,18: -ṛ́dham st. -ṛdham <info vn="chg 28 gra"/>
+
+69,9 v. u.: sagtet ihr euch st. sagten sie sich <info vn="chg 29 gra"/>
+
+77,2.a v. u.: Text st. bei Aufrecht <info vn="chg 30 gra"/>
+
+81,17 v. u.: ab-dayā́ st. ab-dā́ <info vn="chg 31 gra"/>
+
+81,16 v. u.: -ā́ st. -ajā́ <info vn="chg 32 gra"/>
+
+81,9.b v. u.: -āṇas st. -ānas <info vn="chg 33 gra"/>
+
+83,18: abhi-jñú st. abhi-jnú <info vn="chg 34 gra"/>
+
+99,9: etwas st. etwa <info vn="chg 35 gra"/>
+
+99,11 v. u.: Text st. Aufrecht <info vn="chg 36 gra"/>
+
+100,1.a: 31 st. 9 <info vn="chg 37 gra"/>
+
+100,3.b: {780,9} st. {780} <info vn="chg 38 gra"/>
+
+101,10 v. u.: -ásā st. -asā <info vn="chg 39 gra"/>
+
+; 118 Ueberschrift: arvācīná st. avācīná <info vn="chg 39a gra"/> Column title not in digitization
+
+132,21.b: -ā́ṇi st. -ā́ni <info vn="chg 40 gra"/>
+
+133,1: avyathí st. ávyathí <info vn="chg 41 gra"/>
+
+137,9.8 v. u.: vádhar st. vadhám <info vn="chg 42 gra"/>
+
+138,23 v. u.: á-śṛthita st. á-cṛthita <info vn="chg 43 gra"/>
+[Page1742]
+
+140,12: a-śrīrá st. á-śrīrá <info vn="chg 44 gra"/>
+
+141,3: {383,9} st. {583,9} <info vn="chg 45 gra"/>
+
+141,3 v. u.: áśva-budhya st. aśva-búdhya <info vn="chg 46 gra"/>
+
+151,23.a: [3. s.] st. [s. s.] <info vn="chg 47 gra"/>
+
+155,7: -eṇa st. -ena <info vn="chg 48 gra"/>
+
+156,9.b v. u: -āṇi st. āni <info vn="chg 49 gra"/>
+
+157,17: -ā́ṇi st. -ā́ni <info vn="chg 50 gra"/>
+
+157,18: nadī́naam st. síndhūnaam <info vn="chg 51 gra"/>
+
+159,21: ásyandamāna st. á-spandamāna <info vn="chg 52 gra"/>
+
+159,21.22: {%nicht gleitend%} st. {%nicht … zuckend%}. <info vn="chg 53 gra"/>
+
+167,16: {%zischen%} st. {%glänzen%} <info vn="chg 54 gra"/>
+
+168,4.5: {%Schlangenstösser%} (Raubvogel) st. {%wie … schiessend%} <info vn="chg 55 gra"/>
+
+171,19: mandānā́ st. mandānā́s <info vn="chg 56 gra"/>
+
+185,5.a v. u.: -eṇa st. -ena <info vn="chg 57 gra"/>
+
+186,23 v. u.: (āvíṣṭya), ā st. (ā́viṣṭya), ā́ <info vn="chg 58 gra"/>
+
+196,32: y: st. j: <info vn="chg 59 gra"/>
+
+201,27.b: {548,5} st. {548,4} <info vn="chg 60 gra"/>
+
+211,7.b: 1. 7; st. {1,7}; <info vn="chg 61 gra"/>
+
+213,12.a v. u.: {5,9} st. {5,8} <info vn="chg 62 gra"/>
+
+213,28.b v. u.: {106,1. 6}. st. {106,1. 5}. <info vn="chg 63 gra"/>
+
+215,10 v. u.: indra- st. índra- <info vn="chg 64 gra"/>
+[Page1743-a]
+
+216,20.21.a: {658,1—9} st. {658,1. 9} <info vn="chg 65 gra"/>
+
+216,27.a: {609,1. 4}. st. {609,1. 3. 4} <info vn="chg 66 gra"/>
+
+226,1: {@iṣaṇay@} st. {@isaṇay@} <info vn="chg 67 gra"/>
+
+232,27 v. u.: {744,2. 3} st. {774,2. 3} <info vn="chg 68 gra"/>
+
+243,25 v. u.: -ā́ st. -ā <info vn="chg 69 gra"/>
+
+250,12 v. u.: tā́t st. tāt <info vn="chg 70 gra"/>
+
+252,33.34: pṛṇītám st. (váram) <info vn="chg 71 gra"/>
+
+255,28 v. u.: pṛkṣ st. pṛc <info vn="chg 72 gra"/>
+
+255,3.a v. u.: -ám st. -am <info vn="chg 73 gra"/>
+
+263,23.a: śáṃsais st. cáṃsais <info vn="chg 74 gra"/>
+
+266,10 v. u.: ulbaṇá st. ulbaná <info vn="chg 75 gra"/>
+
+266,8 v. u.: an-ulbaṇá st. an-ulbaná <info vn="chg 76 gra"/>
+
+267,19 v. u.: ohne st. von <info vn="chg 77 gra"/>
+
+278,24.25: mártasya st. bráhmaṇas pátes <info vn="chg 78 gra"/>
+
+279,23: ārjīká st. ārjiká <info vn="chg 79 gra"/>
+
+287,3.a: {684,3} st. {684,2} <info vn="chg 80 gra"/>
+
+289,26: -é st. -e <info vn="chg 81 gra"/>
+
+291,25 v. u.: {702,34} st. {702,3} <info vn="chg 82 gra"/>
+
+299,20.b v. u.: -ébhis st. -ebhis <info vn="chg 83 gra"/>
+
+337,22.b: 2 st. 3 <info vn="chg 84 gra"/>
+
+337,19.b v. u.: {459,14} st. {459,15} <info vn="chg 85 gra"/>
+
+339,2.b v. u.: -avante st. -avanta <info vn="chg 86 gra"/>
+
+345,25.b: {621,12} st. {821,12} <info vn="chg 87 gra"/>
+
+349,24.b v. u.: {62,9} st. {249,3} <info vn="chg 88 gra"/>
+
+357,3 v. u.: kráma (betont {490,15}) st. krama <info vn="chg 89 gra"/>
+
+360,12 v. u.: krúdhmi st. krudhmín u. s. w. <info vn="chg 90 gra"/>
+
+360,9 v. u.: -ī st. -ī́ <info vn="chg 91 gra"/>
+
+365,11.b v. u.: -aṇi st. -ani <info vn="chg 92 gra"/>
+
+367,6: rayís st. índras <info vn="chg 93 gra"/>
+
+371,25.a: {623,10} st. {623,19} <info vn="chg 94 gra"/>
+
+372,26: {287,19} st. {287,9} <info vn="chg 95 gra"/>
+
+373,22: avakhādá st. avakādá <info vn="chg 96 gra"/>
+[Page1743-b]
+373,24.b: -atha [-athā] st. -tha [-thā] <info vn="chg 97 gra"/>
+
+385,9.a v. u.: vṛṣabhás st. vṛsabhás <info vn="chg 98 gra"/>
+
+388,19 v. u.: -íṇīṣu st. -ínīṣu <info vn="chg 99 gra"/>
+
+393,21.a v. u.: -ánti st. -anti <info vn="chg 100 gra"/>
+
+399,22.a: {774,25} st. {774,24} <info vn="chg 101 gra"/>
+
+405,22: gṛṇīṣáṇi st. gṛnīṣáṇi <info vn="chg 102 gra"/>
+
+409,13.a: 4. 5 st. 4—6 <info vn="chg 103 gra"/>
+
+417,25: Plusquamp. st. Aor. <info vn="chg 104 gra"/>
+
+437,12.b: {820,10} st. {820,6} <info vn="chg 105 gra"/>
+
+443,5.a: -ṛ́tā st. -ṛ́thā <info vn="chg 106 gra"/>
+
+452,17.a: {113} st. {131} <info vn="chg 107 gra"/>
+
+458,12.a v. u.: agnís st. (índras) <info vn="chg 108 gra"/>
+
+463,4: {%Kinn%} st. {%Keim%} <info vn="chg 109 gra"/>
+
+473,25.a: {459} st. {659} <info vn="chg 110 gra"/>
+
+482,30 v. u.: gar st. jar <info vn="chg 111 gra"/>
+
+483,8: jāta- st. jātá- <info vn="chg 112 gra"/>
+
+487,21 v. u.: 3. s. st. 2. s. <info vn="chg 113 gra"/>
+
+488,4.b: -yúṣas st. -úṣas <info vn="chg 114 gra"/>
+
+491,3.b: {457} st. {547} <info vn="chg 115 gra"/>
+
+501,23.a: -ām st. -am <info vn="chg 116 gra"/>
+
+502,8.b v. u.: -iā́yās st. -iā́yas <info vn="chg 117 gra"/>
+
+521,1: tantí st. tánti <info vn="chg 118 gra"/>
+
+521,2: -áyas st. -ayas <info vn="chg 119 gra"/>
+
+522,9 v. u.: -ás st. -as <info vn="chg 120 gra"/>
+
+527,3.a: -á st. -ás <info vn="chg 121 gra"/>
+
+539,27 v. u.: tuj st. tug <info vn="chg 122 gra"/>
+
+545,1: -śúṣma st. -cúṣma <info vn="chg 123 gra"/>
+
+546,9 v. u.: {%Uebertreffen%} st. {%Anregung%} <info vn="chg 124 gra"/>
+
+550,15 tṛ́ṣyat st. tṛ́syat <info vn="chg 125 gra"/>
+
+550,28.b: -úṇā st. -únā <info vn="chg 126 gra"/>
+
+553,30.b: -yásyai st. -yásyās <info vn="chg 127 gra"/>
+
+579,8: -rṣi st. -rṣ <info vn="chg 128 gra"/>
+[Page1744]
+
+579,9: {644,4} st. {664,4} <info vn="chg 129 gra"/>
+
+595,22 v. u.: agním st. índram <info vn="chg 130 gra"/>
+
+631,31.b v. u.: A. p. st. N. p. <info vn="chg 131 gra"/>
+
+631,18.a v. u.: {985,4} st. {985,1} <info vn="chg 132 gra"/>
+
+632,30.b: -átamāya st. -átāmaya <info vn="chg 133 gra"/>
+
+634,26.b v. u.: {458} st. {485} <info vn="chg 134 gra"/>
+
+640,18: [vastṛ́] {%des Dunkels%} st. [vastṛ], des Dunkels <info vn="chg 135 gra"/>
+
+647,19 v. u.: Plusquamp. ádudru st. Aorist u. s. w. <info vn="chg 136 gra"/>
+
+670,4.b v. u.: váṣṭayas st. vástayos <info vn="chg 137 gra"/>
+
+678,26 v. u.: dhāma-sác st. dhāma-sáś <info vn="chg 138 gra"/>
+
+679,4: dhā́ra st. dhára <info vn="chg 139 gra"/>
+
+681,22: śitipṛṣṭhásya st. śitipṛṣṭásya <info vn="chg 140 gra"/>
+
+682,9: dhiṣáṇa st. dhiṣána <info vn="chg 141 gra"/>
+
+689,16 priyā́s st. priyā́ <info vn="chg 142 gra"/>
+
+689,25.a v. u.: -at st. -as <info vn="chg 143 gra"/>
+
+729,9.b: vayám st. vāyávas <info vn="chg 144 gra"/>
+
+731,6: 2) st. 3) <info vn="chg 145 gra"/>
+
+739,23: ā́ 2) st. 9) sadhamā́s <info vn="chg 146 gra"/>
+
+742,15: bṛ́haspátim st. agním <info vn="chg 147 gra"/>
+
+758,22: {%reifen%} st. {%kochen%} <info vn="chg 148 gra"/>
+
+767,3.a v. u.: -ánthās st. -ántās <info vn="chg 149 gra"/>
+
+770,7: 2) st. 3) <info vn="chg 150 gra"/>
+
+798,22.b v. u.: -ā́tas [Co.] st. -ātás <info vn="chg 151 gra"/>
+
+800,27.a v. u.: antaḥ- st. antah- <info vn="chg 152 gra"/>
+
+807,2.a: víśvebhis st. víśvehhis <info vn="chg 153 gra"/>
+
+807,8: par st. paṛ <info vn="chg 154 gra"/>
+
+823,26: 1. par st. 2. par <info vn="chg 155 gra"/>
+
+841,3 v. u.: Plusquamp. st. Aor. <info vn="chg 156 gra"/>
+
+864,4: sphur st. spur <info vn="chg 157 gra"/>
+
+893,29: {@pruṣa@} st. {@pruṣ@} <info vn="chg 158 gra"/>
+
+904,1: {@bāṇá@} st. {@āṇá@} <info vn="chg 159 gra"/>
+
+924,24.b v. u.: áni- st. án- <info vn="chg 160 gra"/>
+[Page1745-a]
+
+950,17 v. u.: -áṇi st. -áni <info vn="chg 161 gra"/>
+
+952,15.b v. u.: {224,12} st. {224,2} <info vn="chg 162 gra"/>
+
+953,6.b: {946,6} st. {946,5} <info vn="chg 163 gra"/>
+
+959,20.b v. u.: abharat st. ahharat <info vn="chg 164 gra"/>
+
+966,10.a: {734,2} st. {724,2} <info vn="chg 165 gra"/>
+
+972,29.a: {849,2. 3} st. {849,23} <info vn="chg 166 gra"/>
+
+976,10.b: -ā́ṇi st. -ā́ni <info vn="chg 167 gra"/>
+
+989,18.b v. u.: {841,1} st. {841,4} <info vn="chg 168 gra"/>
+
+991,15.b: -āmahe st. -āmahaí <info vn="chg 169 gra"/>
+
+992,9.a: 4) st. 1) <info vn="chg 170 gra"/>
+
+993,17 v. u.: cit st. cid <info vn="chg 171 gra"/>
+
+999,25: {442,1} st. {442,4} <info vn="chg 172 gra"/>
+
+999,4 v. u.: {960,6} st. {960,1} <info vn="chg 173 gra"/>
+
+1003,23.b v. u.: -áyā st. -ájā <info vn="chg 174 gra"/>
+
+1008,31.b: {612,2} st. {612,3} <info vn="chg 175 gra"/>
+
+1009,17.a v. u.: {311,5} st. {245,7} <info vn="chg 176 gra"/>
+
+1011,15 v. u.: maśarśā́ra st. maśarcā́ra <info vn="chg 177 gra"/>
+
+1012,22.a: {577,6} st. {577,7} <info vn="chg 178 gra"/>
+
+1014,21.a: {173,12} st. {174,12} <info vn="chg 179 gra"/>
+
+1020,13.a v. u.: {338,3} st. {338,2} <info vn="chg 180 gra"/>
+
+1022,18.b v. u.: -ā́ṇām st. -ā́nām <info vn="chg 181 gra"/>
+
+1022,13 v. u.: indischen st. irdischen <info vn="chg 182 gra"/>
+
+1025,2.a: {272,7} st. {227,7} <info vn="chg 183 gra"/>
+
+1031,13.b v. u.: {236,2} st. {236,1} <info vn="chg 184 gra"/>
+
+1039,9.a: -ás st. -as <info vn="chg 185 gra"/>
+
+1064,22.b v. u.: Text st. Aufr. <info vn="chg 186 gra"/>
+
+1067,1.b v. u.: {281,3} st. {229,3} <info vn="chg 187 gra"/>
+
+1072,11: yajasa st. yájasa <info vn="chg 188 gra"/>
+
+1072,11 v. u.: {842,11} st. {842,41} <info vn="chg 189 gra"/>
+
+1077,12: yajñá-pati st. yajña-páti <info vn="chg 190 gra"/>
+
+1092,27.b: {532,8} st. {532,1} <info vn="chg 191 gra"/>
+
+1093,3.b: {85,12} st. {85,11} <info vn="chg 192 gra"/>
+[Page1745-b]
+1104,13.a: {647,17} st. {47,17} <info vn="chg 193 gra"/>
+
+1106,6 v. u.: yāsīs st. yasīs <info vn="chg 194 gra"/>
+
+1118,12.a: {776,19} st. {976,19} <info vn="chg 195 gra"/>
+
+1124,5: yuvā́ku st. yuvākú <info vn="chg 196 gra"/>
+
+1138,30.b v. u.: {428,8} st. {428,3} <info vn="chg 197 gra"/>
+
+1143,7.a v. u.: -ndhí st. -ndhi <info vn="chg 198 gra"/>
+
+1146,2: {174,7} st. {174,6} <info vn="chg 199 gra"/>
+
+1156,20.a: -atas st. -athas <info vn="chg 200 gra"/>
+
+1165,9: -ikṣé st. -ikṣe <info vn="chg 201 gra"/>
+
+1167,4 v. u.: -ṣes st. -ṣe <info vn="chg 202 gra"/>
+
+1178,27.b v. u.: {51,12} st. {51,2} <info vn="chg 203 gra"/>
+
+1184,10.b: śíkṣa st. cíkṣa <info vn="chg 204 gra"/>
+
+1190,2 v. u.: {715,5} st. {715,15} <info vn="chg 205 gra"/>
+
+1202,24.a v. u.: {214,12} st. {14,12} <info vn="chg 206 gra"/>
+
+1206,15.b: -ántā st. -antā <info vn="chg 207 gra"/>
+
+1206,17.b: -ántas st. -antas <info vn="chg 208 gra"/>
+
+1207,22.b: {54,5} st. {54,4} <info vn="chg 209 gra"/>
+
+1219,26.a: -ā́tas st. -ā́ta <info vn="chg 210 gra"/>
+
+1221,23.b v. u.: {223,8} st. {223,3} <info vn="chg 211 gra"/>
+
+1255,6.b v. u.: {488,22} st. {488,12} <info vn="chg 212 gra"/>
+
+1256,26.b: 20 st. 19 <info vn="chg 213 gra"/>
+
+1267,4.b v. u.: {428,9} st. {428,5} <info vn="chg 214 gra"/>
+
+1269,5.a v. u.: -éṇa st. -éna <info vn="chg 215 gra"/>
+
+1271,27.a: {972,1} st. {146,1} <info vn="chg 216 gra"/>
+
+1272,5.a v. u.: -de st. -dé <info vn="chg 217 gra"/>
+
+1278,13 v. u.: vidathin st. vidathina <info vn="chg 218 gra"/>
+
+1287,22 v. u.: {639,2} st. {639,1} <info vn="chg 219 gra"/>
+
+1292,15: -ī st. - <info vn="chg 220 gra"/>
+
+1293,6.b: {503,5} st. {303,5} <info vn="chg 221 gra"/>
+
+1297,25.a v. u.: {865,8} st. {865,9} <info vn="chg 222 gra"/>
+
+1307,16.a: -és st. -es <info vn="chg 223 gra"/>
+
+1307,27.a v. u.: {236,10} st. {236,16} <info vn="chg 224 gra"/>
+[Page1746]
+
+1309,17 v. u.: m. st. f. <info vn="chg 225 gra"/>
+
+1317,20 v. u.: vīrá- st. virá- <info vn="chg 226 gra"/>
+
+1322,21: -rivā́ṃsam st. -ṛvā́ṃsam <info vn="chg 227 gra"/>
+
+1325,19.b.: -āṇaam st. -ānaam <info vn="chg 228 gra"/>
+
+1326,12: -ās st. -as <info vn="chg 229 gra"/>
+
+1326,12 v. u.: dem st. der <info vn="chg 230 gra"/>
+
+1327,21.a v. u.: 3 st. 2 <info vn="chg 231 gra"/>
+
+1328,26.b: {665,10} st. {665,19} <info vn="chg 232 gra"/>
+
+1348,6.b: {640,12} st. {640,11} <info vn="chg 233 gra"/>
+
+1351,26 v. u.: {@vṛṣāy@} st. {@vṛsāy@} <info vn="chg 234 gra"/>
+
+1353,17.a v. u.: {639,8} st. {639,3} <info vn="chg 235 gra"/>
+
+1353,5 v. u.: vidh st. vid <info vn="chg 236 gra"/>
+
+1355,8.b: {776,21} st. {776,2} <info vn="chg 237 gra"/>
+
+1355,9 v. u.: vor Vokalen stets st. stets <info vn="chg 238 gra"/>
+
+1355,7 v. u.: {162,21} st. {62,21} <info vn="chg 239 gra"/>
+
+1355,5 v. u.: {963,6} st. {963,1} <info vn="chg 240 gra"/>
+
+1374,2: -am st. -as (yás) <info vn="chg 241 gra"/>
+
+1379,1.a v. u.: {33,15} st. {33,14} <info vn="chg 242 gra"/>
+
+1382,22.a v. u.: {617,2} st. {617,1} <info vn="chg 243 gra"/>
+
+1385,35.b: {249,5} st. {249,4} <info vn="chg 244 gra"/>
+
+1387,24: śáviṣṭha st. śávistha <info vn="chg 245 gra"/>
+
+1391,14: -antā st. -anā <info vn="chg 246 gra"/>
+
+1395,27 v. u.: {634,13} st. {634,3} <info vn="chg 247 gra"/>
+
+1399,7 v. u.: śukra-dúgha st. śukrá-dugha <info vn="chg 248 gra"/>
+
+1400,7.b v. u.: -ugdhí st. -ugdhi <info vn="chg 249 gra"/>
+
+1413,11: -e [L.] st. -e [D.] <info vn="chg 250 gra"/>
+
+1414,7.b: -iṣas st. -íṣas <info vn="chg 251 gra"/>
+
+1419,7 v. u.: {72,2} st. {72,7} <info vn="chg 252 gra"/>
+
+1424,31 v. u.: śrīṇā st. śriṇā <info vn="chg 253 gra"/>
+
+1428,22.a: {486,23} st. {486,22} <info vn="chg 254 gra"/>
+
+1431,18.b v. u.: {862,12} st. {862,2} <info vn="chg 255 gra"/>
+
+1434,25: {670,17} st. {670,16} <info vn="chg 256 gra"/>
+[Page1747-a]
+
+<h>Nachträge und Verbesserungen.</h>
+
+1439,19 v. u.: saṃsúd st. samsúd <info vn="chg 257 gra"/>
+
+1449,15.a: pṛthivī́ st. pṛthiv <info vn="chg 258 gra"/>
+
+1450,27.a: {281,2} st. {281,1} <info vn="chg 259 gra"/>
+
+1473,3 v. u.: -ám st. -am <info vn="chg 260 gra"/>
+
+1475,5.a: 7; st. 4; <info vn="chg 261 gra"/>
+
+1486,3.a: 4; st. 1; <info vn="chg 262 gra"/>
+
+1486,5.b: -ā́jā st. -ā́ja <info vn="chg 263 gra"/>
+[Page1747-b]
+1486,5 v. u.: -áḍbhias st. -aḍbhias <info vn="chg 264 gra"/>
+
+1488,11 v. u.: -aṇi st. -ani <info vn="chg 265 gra"/>
+
+1500,11.b v. u.: {632,8} st. {632,9} <info vn="chg 266 gra"/>
+
+1503,8: -bhṛṣṭi st. -bhṛṣṭí <info vn="chg 267 gra"/>
+
+1506,10 v. u.: {1020,1} st. {1020,4} <info vn="chg 268 gra"/>
+
+1510,26.a v. u.: {124,3} st. {24,3} <info vn="chg 269 gra"/>
+
+1513,17 v. u.: -ásya st. -asya <info vn="chg 270 gra"/>
+[Page1748]
+
+1535,21.a v. u.: -e st. -ā <info vn="chg 271 gra"/>
+
+1540,3 v. u.: su-prajā́vat st. su-prayā́vat <info vn="chg 272 gra"/>
+
+<h>Ferner ist an einigen der citirten Stellen ṇ statt n zu lesen, und in den Verbalpräfixen bisweilen der Accent wegzulassen, was sich überall leicht von selbst ergiebt.</h>
+
+<h>ENGLISH: Furthermore, in some of the passages cited, ṇ is to be read instead of n, and in the verbal prefixes sometimes to omit the accent, which is everywhere easily yields by itself.</h>
+[Page1747-a]
+
+<h>Zu streichen (* bedeutet, dass das Ganze zu streichen ist):</h>
+
+<h>ENGLISH: To be deleted (* means that the whole thing is to be deleted)</h>
+
+3,28.a: {63,7} <info vn="del 273 gra"/>
+
+12,6.b v. u.: {792,2} <info vn="del 274 gra"/>
+
+25,21.22.a: 7) bis {640,8} <info vn="del 275 gra"/>
+
+26,5.6 v. u.: * <info vn="del 276 gra"/>
+
+33,27: {445,5} <info vn="del 277 gra"/>
+
+79,5 v. u.: {289,5} <info vn="del 278 gra"/>
+
+86,28—31: * <info vn="del 279 gra"/>
+
+100,1.b:31 <info vn="del 280 gra"/>
+
+103,7 v. u.: {229,4} <info vn="del 281 gra"/>
+
+106,1.b: {602,7} <info vn="del 282 gra"/>
+
+114,15.14 v. u.: * <info vn="del 283 gra"/>
+
+117,25 v. u.: [von 1. sū] <info vn="del 284 gra"/>
+
+123,15.14.b v. u.: tám bis 13 <info vn="del 285 gra"/>
+
+135,14.13.a v. u.: 1) bis {144,6} <info vn="del 286 gra"/>
+
+149,20.21.a: pári bis {61,8} <info vn="del 287 gra"/>
+
+150,8.9.a: suvī́ras {491,9} <info vn="del 288 gra"/>
+
+152,7 v. u.: vi bis {893,3} <info vn="del 289 gra"/>
+
+156,13.a: {151,4} <info vn="del 290 gra"/>
+
+160,2 v. u. bis 161,4: * <info vn="del 291 gra"/>
+
+163,5.a: {844,14} <info vn="del 292 gra"/>
+
+166,19.b v. u.: dákṣam {965,6} <info vn="del 293 gra"/>
+
+178,4: bei Aufr. <info vn="del 294 gra"/>
+
+186,11.b: [A. p.] <info vn="del 295 gra"/>
+
+197,2.b: {226,3} <info vn="del 296 gra"/>
+
+197,21.a: indrāgnī́ <info vn="del 297 gra"/>
+
+198,10—7.b v. u.: * <info vn="del 298 gra"/>
+
+201,22.23: devā́n {519,3} <info vn="del 299 gra"/>
+
+208,17: {808,2} <info vn="del 300 gra"/>
+
+230,15.b v. u.: {355,7} <info vn="del 301 gra"/>
+
+235,16.b: {297,1} <info vn="del 302 gra"/>
+
+258,15.b: {222,5} <info vn="del 303 gra"/>
+[Page1747-b]
+268,25.a: {240,7} <info vn="del 304 gra"/>
+
+278,23.a: * <info vn="del 305 gra"/>
+
+310,11.a:19 <info vn="del 306 gra"/>
+
+319,32.31.b v. u.: 4) bis 3 <info vn="del 307 gra"/>
+
+334,4.3.b v. u.: 17) bis 6 <info vn="del 308 gra"/>
+
+335,20.21.a: ṛ́ṣim bis 11 <info vn="del 309 gra"/>
+
+336,13.14.a: 23) bis 7 <info vn="del 310 gra"/>
+
+336,12.b v. u.: {643,18} <info vn="del 311 gra"/>
+
+340,22.a: jāspatyám {382,3} <info vn="del 312 gra"/>
+
+340,20—18.b v. u.: ví bis 3. <info vn="del 313 gra"/>
+
+341,20.19.b v. u.: 7) bis 2. <info vn="del 314 gra"/>
+
+363,22.a v. u.: {242,1} <info vn="del 315 gra"/>
+
+380,16—14.b v. u.: nas bis nas) <info vn="del 316 gra"/>
+
+382,14.a: 1) {130,9} <info vn="del 317 gra"/>
+
+390,25 v. u.: 2) {534,7} <info vn="del 318 gra"/>
+
+448,30.a: {376,4}. <info vn="del 319 gra"/>
+
+466,7.a v. u.: 7) bis 1. <info vn="del 320 gra"/>
+
+473,5.b v. u.:4 <info vn="del 321 gra"/>
+
+474,18.19.a: ávitāra {181,1}; <info vn="del 322 gra"/>
+
+487,14.15.a: 6) bis 2. <info vn="del 323 gra"/>
+
+520,17.a v. u.: {717,2} <info vn="del 324 gra"/>
+
+528,29.30.b: * <info vn="del 325 gra"/>
+
+566,18.a: * <info vn="del 326 gra"/>
+
+566,29.a: * <info vn="del 327 gra"/>
+
+588,24.b v. u.: ghanā́ <info vn="del 328 gra"/>
+
+597,16.a: [Co.] <info vn="del 329 gra"/>
+
+631,26.a v. u.:5 <info vn="del 330 gra"/>
+
+707,21 v. u.: * <info vn="del 331 gra"/>
+
+732,17.b v. u.: {608,1}. <info vn="del 332 gra"/>
+
+770,21.a: {887,8} <info vn="del 333 gra"/>
+
+872,12.11.a v. u.: * <info vn="del 334 gra"/>
+[Page1748]
+
+878,3 v. u.: oder bringen <info vn="del 335 gra"/>
+
+955,17.18: 1) bis vām). <info vn="del 336 gra"/>
+
+962,23.22.a v. u.: ádhi bis {207,2} <info vn="del 337 gra"/>
+
+973,5.a v. u.: {459,7} <info vn="del 338 gra"/>
+
+1012,20.a v. u.: {558,3} <info vn="del 339 gra"/>
+
+1012,19.18.a v. u.: sám bis 3. <info vn="del 340 gra"/>
+
+1025,12—14.a: 8) bis 13. <info vn="del 341 gra"/>
+
+1051,9.10: * <info vn="del 341a gra"/>
+
+1059,22.b v. u.: {474,5} <info vn="del 342 gra"/>
+
+1061,14.13 v. u.: * <info vn="del 343 gra"/>
+
+1072,28 v. u.: {197,8}. <info vn="del 344 gra"/>
+
+1101,35.a: {370,4}. <info vn="del 345 gra"/>
+
+1164,5: {627,28} <info vn="del 346 gra"/>
+
+1234,31.30.a v. u.: indra {227,1} <info vn="del 347 gra"/>
+
+1261,5—8.a: * <info vn="del 348 gra"/>
+
+1261,1.b v. u.: * <info vn="del 349 gra"/>
+
+1277,26.a v. u.: {190,7} <info vn="del 350 gra"/>
+
+1324,5.6.a: nís bis 1. <info vn="del 351 gra"/>
+
+1369,30.a: * <info vn="del 352 gra"/>
+
+1381,21.b v. u.: {119,6} <info vn="del 353 gra"/>
+
+1388,7.6 v. u.: * <info vn="del 354 gra"/>
+
+1388,4.3 v. u.: sám bis 8. <info vn="del 355 gra"/>
+
+1389,9.10: * <info vn="del 356 gra"/>
+
+1408,26.a: {205,5} <info vn="del 357 gra"/>
+
+1446,31.30.a v. u.: nā́kam bis 50 <info vn="del 358 gra"/>
+
+1473,17.18.b: 1) bis 3. <info vn="del 359 gra"/>
+
+1500,15.a v. u.: {80,9} <info vn="del 360 gra"/>
+
+1510,24.a v. u.: (san) <info vn="del 361 gra"/>
+
+1519,10.9.a v. u.: madacyút {724,3} <info vn="del 362 gra"/>
+
+1528,22.b v. u.: * <info vn="del 363 gra"/>
+
+1608,4.3.a v. u.: (der Blitz) <info vn="del 364 gra"/>
