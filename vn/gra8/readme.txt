@@ -279,3 +279,9 @@ sh prepare_upload.sh gra9
 #
 cologne display url:
   https://sanskrit-lexicon.uni-koeln.de/work/gra-dev/gra9/web/
+-----------------------------------
+vn_hws
+python vn_hws.py temp_gra_9.txt vn_hws.txt
+843 headwords with a vn  of either type:
+  <chg type="chg/del"
+  <info vn="chg/del/add"
