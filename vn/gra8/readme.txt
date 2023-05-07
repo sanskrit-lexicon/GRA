@@ -276,4 +276,6 @@ gra_8.txt.
 -----------------------------------
 prepare Cologne version of display:  work/gra9/
 sh prepare_upload.sh gra9
-# g
+#
+cologne display url:
+  https://sanskrit-lexicon.uni-koeln.de/work/gra-dev/gra9/web/
