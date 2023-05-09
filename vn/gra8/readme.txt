@@ -173,7 +173,7 @@ DONE: <info vn="chg 5 gra">  in display (basicadjust)
 -----------------------------------------------------------------
 Additions
 orig/vn3add.txt
-lines from [Page1749] to the end  (2166 lines)
+lines from [Page1749] to the end  (2166 lines)  (of orig/vn3.txt)
 
 Objective is to add meta-lines, then append to temp_gra_8.txt.
 cp ../orig/vn3add.txt vn3add_1.txt
