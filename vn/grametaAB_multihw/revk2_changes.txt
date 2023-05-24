@@ -1,0 +1,2597 @@
+10 old <L>10<pc>0003<k1>aMsya<k2>a/Msya	{@(áṃsya),@} {@áṃsia,@}¦ 
+10 new <L>10<pc>0003<k1>aMsya<k2>a/Msya, a/Msia	{@(áṃsya),@} {@áṃsia,@}¦ 
+;
+25 old <L>25<pc>0004<k1>akutra<k2>a-ku/tra	{@a-kútra,@} {@a-kútrā.@}¦ 
+25 new <L>25<pc>0004<k1>akutra<k2>a-ku/tra, a-ku/trA	{@a-kútra,@} {@a-kútrā.@}¦ 
+;
+26 old <L>26<pc>0004<k1>akuDryac<k2>a-kuDrya^c	{@(a-kudhryàc),@} {@akudhríac.@}¦ 
+26 new <L>26<pc>0004<k1>akuDryac<k2>a-kuDrya^c, akuDri/ac	{@(a-kudhryàc),@} {@akudhríac.@}¦ 
+;
+52 old <L>51<pc>0006<k1>akzi<k2>a/kzi, akzi/	{@ákṣi,@} {@akṣí,@}¦ 
+52 new <L>51<pc>0006<k1>akzi<k2>a/kzi, akzi/	{@ákṣi,@} {@akṣí,@}¦ 
+;
+70 old <L>69<pc>0007<k1>agastya<k2>aga/stya, aga/stia	{@agástya,@} {@agástia,@}¦ 
+70 new <L>69<pc>0007<k1>agastya<k2>aga/stya, aga/stia	{@agástya,@} {@agástia,@}¦ 
+;
+72 old <L>71<pc>0008<k1>agu<k2>a/-gu	{@á-gu@} oder {@á-go,@}¦ 
+72 new <L>71<pc>0008<k1>agu<k2>a/-gu, a/-go	{@á-gu@} oder {@á-go,@}¦ 
+;
+78 old <L>77<pc>0008<k1>agohya<k2>a/-gohya	{@(á-gohya),@} {@ágohia,@}¦ 
+78 new <L>77<pc>0008<k1>agohya<k2>a/-gohya, a/gohia	{@(á-gohya),@} {@ágohia,@}¦ 
+;
+120 old <L>119<pc>0012<k1>aGASva<k2>aGA/Sva	{@(aghā́śva),@} {@aghá-aśva,@}¦ 
+120 new <L>119<pc>0012<k1>aGASva<k2>aGA/Sva, aGa/-aSva	{@(aghā́śva),@} {@aghá-aśva,@}¦ 
+;
+123 old <L>122<pc>0012<k1>aGnya<k2>a/Gnya	{@(ághnya),@} {@á-ghnia,@}¦ 
+123 new <L>122<pc>0012<k1>aGnya<k2>a/Gnya, a/-Gnia	{@(ághnya),@} {@á-ghnia,@}¦ 
+;
+124 old <L>123<pc>0012<k1>aGnya<k2>aGnya/, aGnia/	{@aghnyá,@} {@aghniá,@}¦ 
+124 new <L>123<pc>0012<k1>aGnya<k2>aGnya/, aGnia/	{@aghnyá,@} {@aghniá,@}¦ 
+;
+144 old <L>143<pc>0015<k1>aNgya<k2>a/Ngya	{@(áṅgya),@} {@áṅgia,@}¦ 
+144 new <L>143<pc>0015<k1>aNgya<k2>a/Ngya, a/Ngia	{@(áṅgya),@} {@áṅgia,@}¦ 
+;
+161 old <L>160<pc>0016<k1>aCa<k2>a/Ca, a/CA	{@ácha,@} {@áchā,@}¦ 
+161 new <L>160<pc>0016<k1>aCa<k2>a/Ca, a/CA	{@ácha,@} {@áchā,@}¦ 
+;
+167 old <L>166<pc>0018<k1>aCidroDan<k2>a/CidroDan	{@(áchidrodhan),@} {@áchidra-ūdhan,@}¦ 
+167 new <L>166<pc>0018<k1>aCidroDan<k2>a/CidroDan, a/Cidra-UDan	{@(áchidrodhan),@} {@áchidra-ūdhan,@}¦ 
+;
+169 old <L>168<pc>0018<k1>aCokti<k2>a/Cokti	{@(áchokti),@} {@ácha-ukti,@}¦ 
+169 new <L>168<pc>0018<k1>aCokti<k2>a/Cokti, a/Ca-ukti	{@(áchokti),@} {@ácha-ukti,@}¦ 
+;
+187 old <L>186<pc>0021<k1>ajASva<k2>ajA/Sva	{@(ajā́śva),@} {@ajā́śua,@}¦ 
+187 new <L>186<pc>0021<k1>ajASva<k2>ajA/Sva, ajA/Sua	{@(ajā́śva),@} {@ajā́śua,@}¦ 
+;
+198 old <L>197<pc>0022<k1>ajozya<k2>a/-jozya	{@(á-joṣya),@} {@á-joṣia,@}¦ 
+198 new <L>197<pc>0022<k1>ajozya<k2>a/-jozya, a/-jozia	{@(á-joṣya),@} {@á-joṣia,@}¦ 
+;
+208 old <L>207<pc>0023<k1>ajrya<k2>ajrya^	{@(ajryà),@} {@ajría,@}¦ 
+208 new <L>207<pc>0023<k1>ajrya<k2>ajrya^, ajri/a	{@(ajryà),@} {@ajría,@}¦ 
+;
+227 old <L>226<pc>0028<k1>atasAyya<k2>atasA/yya	{@(atasā́yya),@} {@atasā́yia,@}¦ 
+227 new <L>226<pc>0028<k1>atasAyya<k2>atasA/yya, atasA/yia	{@(atasā́yya),@} {@atasā́yia,@}¦ 
+;
+252 old <L>251<pc>0030<k1>atya<k2>a/tya, a/tia	{@átya,@} {@átia,@}¦ 
+252 new <L>251<pc>0030<k1>atya<k2>a/tya, a/tia	{@átya,@} {@átia,@}¦ 
+;
+254 old <L>253<pc>0030<k1>atyAya<k2>aty-A/ya	{@(aty-ā́ya),@} {@atiā́ya,@}¦ 
+254 new <L>253<pc>0030<k1>atyAya<k2>aty-A/ya, atiA/ya	{@(aty-ā́ya),@} {@atiā́ya,@}¦ 
+;
+282 old <L>281<pc>0035<k1>adABya<k2>a/-dABya	{@(á-dābhya),@} {@á-dābhia,@}¦ 
+282 new <L>281<pc>0035<k1>adABya<k2>a/-dABya, a/-dABia	{@(á-dābhya),@} {@á-dābhia,@}¦ 
+;
+320 old <L>319<pc>0039<k1>adyUtya<k2>a-dyUtya^	{@(a-dyūtyà),@} {@adyūtía,@}¦ 
+320 new <L>319<pc>0039<k1>adyUtya<k2>a-dyUtya^, adyUti/a	{@(a-dyūtyà),@} {@adyūtía,@}¦ 
+;
+342 old <L>341<pc>0041<k1>advizeRya<k2>a-dvizeRya/	{@(a-dviṣeṇyá),@} {@adviṣeṇiá,@}¦ 
+342 new <L>341<pc>0041<k1>advizeRya<k2>a-dvizeRya/, advizeRia/	{@(a-dviṣeṇyá),@} {@adviṣeṇiá,@}¦ 
+;
+357 old <L>356<pc>0046<k1>aDigartya<k2>a/Di-gartya	{@(ádhi-gartya),@} {@ádhigartia,@}¦ 
+357 new <L>356<pc>0046<k1>aDigartya<k2>a/Di-gartya, a/Digartia	{@(ádhi-gartya),@} {@ádhigartia,@}¦ 
+;
+371 old <L>370<pc>0047<k1>aDizavaRya<k2>aDizavaRya^	{@(adhiṣavaṇyà),@} {@adhiṣavaṇía,@}¦ 
+371 new <L>370<pc>0047<k1>aDizavaRya<k2>aDizavaRya^, aDizavaRi/a	{@(adhiṣavaṇyà),@} {@adhiṣavaṇía,@}¦ 
+;
+378 old <L>377<pc>0047<k1>aDoakza<k2>aDo-akza/	{@(adho-akṣá),@} {@adhas-akṣá,@}¦ 
+378 new <L>377<pc>0047<k1>aDoakza<k2>aDo-akza/, aDas-akza/	{@(adho-akṣá),@} {@adhas-akṣá,@}¦ 
+;
+466 old <L>465<pc>0055<k1>anApya<k2>an-Apya/	{@(an-āpyá),@} {@anāpiá,@}¦ 
+466 new <L>465<pc>0055<k1>anApya<k2>an-Apya/, anApia/	{@(an-āpyá),@} {@anāpiá,@}¦ 
+;
+485 old <L>484<pc>0056<k1>anindya<k2>a-nindya/	{@a-nindyá,@} {@a-nindiá,@}¦ 
+485 new <L>484<pc>0056<k1>anindya<k2>a-nindya/, a-nindia/	{@a-nindyá,@} {@a-nindiá,@}¦ 
+;
+517 old <L>515<pc>0060<k1>anugra<k2>a/n-ugra, anugra/	{@án-ugra,@} {@anugrá,@}¦ 
+517 new <L>515<pc>0060<k1>anugra<k2>a/n-ugra, anugra/	{@án-ugra,@} {@anugrá,@}¦ 
+;
+532 old <L>530<pc>0060<k1>anumAdya<k2>anumA/dya, anumA/dia	{@anumā́dya,@} {@anumā́dia,@}¦ 
+532 new <L>530<pc>0060<k1>anumAdya<k2>anumA/dya, anumA/dia	{@anumā́dya,@} {@anumā́dia,@}¦ 
+;
+547 old <L>545<pc>0061<k1>anUkya<k2>anUkya^	{@(anūkyà),@} {@anūkía,@}¦ 
+547 new <L>545<pc>0061<k1>anUkya<k2>anUkya^, anUki/a	{@(anūkyà),@} {@anūkía,@}¦ 
+;
+565 old <L>563<pc>0062<k1>anedya<k2>a/-nedya	{@(á-nedya),@} {@á-nedia,@}¦ 
+565 new <L>563<pc>0062<k1>anedya<k2>a/-nedya, a/-nedia	{@(á-nedya),@} {@á-nedia,@}¦ 
+;
+582 old <L>580<pc>0066<k1>antarikzya<k2>anta/rikzya	{@(antárikṣya),@} {@antárikṣia,@}¦ 
+582 new <L>580<pc>0066<k1>antarikzya<k2>anta/rikzya, anta/rikzia	{@(antárikṣya),@} {@antárikṣia,@}¦ 
+;
+593 old <L>591<pc>0067<k1>antyUti<k2>a/nty-Uti	{@(ánty-ūti),@} {@ánti-ūti,@}¦ 
+593 new <L>591<pc>0067<k1>antyUti<k2>a/nty-Uti, a/nti-Uti	{@(ánty-ūti),@} {@ánti-ūti,@}¦ 
+;
+604 old <L>602<pc>0069<k1>anya<k2>a/-nya	{@(á-nya),@} {@á-nia,@}¦ 
+604 new <L>602<pc>0069<k1>anya<k2>a/-nya, a/-nia	{@(á-nya),@} {@á-nia,@}¦ 
+;
+653 old <L>651<pc>0074<k1>apasya<k2>apasya^	{@(apasyà),@} {@apasía,@}¦ 
+653 new <L>651<pc>0074<k1>apasya<k2>apasya^, apasi/a	{@(apasyà),@} {@apasía,@}¦ 
+;
+664 old <L>662<pc>0075<k1>apAcya<k2>apAcya/	{@(apācyá),@} {@apāciá,@}¦ 
+664 new <L>662<pc>0075<k1>apAcya<k2>apAcya/, apAcia/	{@(apācyá),@} {@apāciá,@}¦ 
+;
+673 old <L>671<pc>0076<k1>apikakzya<k2>apikakzya^	{@(apikakṣyà),@} {@apikakṣía,@}¦ 
+673 new <L>671<pc>0076<k1>apikakzya<k2>apikakzya^, apikakzi/a	{@(apikakṣyà),@} {@apikakṣía,@}¦ 
+;
+681 old <L>679<pc>0077<k1>apIcya<k2>apIcya^	{@(apīcyà),@} {@apīcía,@}¦ 
+681 new <L>679<pc>0077<k1>apIcya<k2>apIcya^, apIci/a	{@(apīcyà),@} {@apīcía,@}¦ 
+;
+691 old <L>689<pc>0077<k1>apUrvya<k2>a/-pUrvya	{@(á-pūrvya),@} {@á-pūrvia,@}¦ 
+691 new <L>689<pc>0077<k1>apUrvya<k2>a/-pUrvya, a/-pUrvia	{@(á-pūrvya),@} {@á-pūrvia,@}¦ 
+;
+697 old <L>695<pc>0078<k1>aptUrya<k2>aptU/rya	{@(aptū́rya),@} {@aptū́ria,@}¦ 
+697 new <L>695<pc>0078<k1>aptUrya<k2>aptU/rya, aptU/ria	{@(aptū́rya),@} {@aptū́ria,@}¦ 
+;
+698 old <L>696<pc>0078<k1>aptya<k2>aptya/	{@(aptyá),@} {@aptiá,@}¦ 
+698 new <L>696<pc>0078<k1>aptya<k2>aptya/, aptia/	{@(aptyá),@} {@aptiá,@}¦ 
+;
+704 old <L>702<pc>0078<k1>apya<k2>a/pya, a/pia	{@ápya,@} {@ápia,@}¦ 
+704 new <L>702<pc>0078<k1>apya<k2>a/pya, a/pia	{@ápya,@} {@ápia,@}¦ 
+;
+736 old <L>734<pc>0080<k1>apvA<k2>apvA/	{@(apvā́),@} {@apuā́,@}¦ 
+736 new <L>734<pc>0080<k1>apvA<k2>apvA/, apuA/	{@(apvā́),@} {@apuā́,@}¦ 
+;
+790 old <L>788<pc>0084<k1>aBiBUtyojas<k2>aBiBUty-o/jas	{@(abhibhūty-ójas),@} {@abhibhūti-ójas,@}¦ 
+790 new <L>788<pc>0084<k1>aBiBUtyojas<k2>aBiBUty-o/jas, aBiBUti-o/jas	{@(abhibhūty-ójas),@} {@abhibhūti-ójas,@}¦ 
+;
+796 old <L>794<pc>0085<k1>aBimAtizAhya<k2>aBimAti-zA/hya	{@(abhimāti-ṣā́hya),@} {@abhimāti-ṣā́hia,@}¦ 
+796 new <L>794<pc>0085<k1>aBimAtizAhya<k2>aBimAti-zA/hya, aBimAti-zA/hia	{@(abhimāti-ṣā́hya),@} {@abhimāti-ṣā́hia,@}¦ 
+;
+844 old <L>841<pc>0088<k1>aByaYjana<k2>aBya/Yjana	{@(abhyáñjana),@} {@abhiáñjana,@}¦ 
+844 new <L>841<pc>0088<k1>aByaYjana<k2>aBya/Yjana, aBia/Yjana	{@(abhyáñjana),@} {@abhiáñjana,@}¦ 
+;
+846 old <L>843<pc>0088<k1>aByarDayajvan<k2>aByarDa-ya/jvan	{@(abhyardha-yájvan),@} {@abhiardha-yájvan,@}¦ 
+846 new <L>843<pc>0088<k1>aByarDayajvan<k2>aByarDa-ya/jvan, aBiarDa-ya/jvan	{@(abhyardha-yájvan),@} {@abhiardha-yájvan,@}¦ 
+;
+854 old <L>851<pc>0089<k1>aBriya<k2>aBri/ya, aBriya/	{@abhríya,@} {@abhriyá,@}¦ 
+854 new <L>851<pc>0089<k1>aBriya<k2>aBri/ya, aBriya/	{@abhríya,@} {@abhriyá,@}¦ 
+;
+871 old <L>868<pc>0091<k1>amartya<k2>a/-martya	{@(á-martya),@} {@á-martia,@}¦ 
+871 new <L>868<pc>0091<k1>amartya<k2>a/-martya, a/-martia	{@(á-martya),@} {@á-martia,@}¦ 
+;
+880 old <L>877<pc>0092<k1>amAtya<k2>amA/tya	{@(amā́tya),@} {@amā́tia,@}¦ 
+880 new <L>877<pc>0092<k1>amAtya<k2>amA/tya, amA/tia	{@(amā́tya),@} {@amā́tia,@}¦ 
+;
+943 old <L>940<pc>0097<k1>ayAsya<k2>a-yA/sya	{@(a-yā́sya),@} {@a-yā́sia,@}¦ 
+943 new <L>940<pc>0097<k1>ayAsya<k2>a-yA/sya, a-yA/sia	{@(a-yā́sya),@} {@a-yā́sia,@}¦ 
+;
+951 old <L>948<pc>0098<k1>ayoagra<k2>a/yo-agra	{@(áyo-agra),@} {@áyas-agra,@}¦ 
+951 new <L>948<pc>0098<k1>ayoagra<k2>a/yo-agra, a/yas-agra	{@(áyo-agra),@} {@áyas-agra,@}¦ 
+;
+954 old <L>951<pc>0098<k1>ayopAzwi<k2>a/yopAzwi	{@(áyopāṣṭi),@} {@áyas-apāṣṭi,@}¦ 
+954 new <L>951<pc>0098<k1>ayopAzwi<k2>a/yopAzwi, a/yas-apAzwi	{@(áyopāṣṭi),@} {@áyas-apāṣṭi,@}¦ 
+;
+957 old <L>954<pc>0098<k1>ar<k2>ar, f	{@√ar,@} {@√ṛ,@}¦ 
+957 new <L>954<pc>0098<k1>ar<k2>ar, f	{@√ar,@} {@√ṛ,@}¦ 
+;
+968 old <L>965<pc>0102<k1>araRi<k2>ara/Ri	{@aráṇi@} und {@aráṇī,@}¦ 
+968 new <L>965<pc>0102<k1>araRi<k2>ara/Ri, ara/RI	{@aráṇi@} und {@aráṇī,@}¦ 
+;
+970 old <L>967<pc>0102<k1>araRyAni<k2>araRyAni/	{@araṇyāní@} und {@araṇyānī́,@}¦ 
+970 new <L>967<pc>0102<k1>araRyAni<k2>araRyAni/, araRyAnI/	{@araṇyāní@} und {@araṇyānī́,@}¦ 
+;
+1036 old <L>1033<pc>0110<k1>arc<k2>arc, fc	{@√arc,@} {@√ṛc.@}¦ 
+1036 new <L>1033<pc>0110<k1>arc<k2>arc, fc	{@√arc,@} {@√ṛc.@}¦ 
+;
+1039 old <L>1036<pc>0112<k1>arcatrya<k2>arcatrya^	{@(arcatryà),@} {@arcatría,@}¦ 
+1039 new <L>1036<pc>0112<k1>arcatrya<k2>arcatrya^, arcatri/a	{@(arcatryà),@} {@arcatría,@}¦ 
+;
+1068 old <L>1065<pc>0115<k1>arDya<k2>a/rDya	{@(árdhya),@} {@árdhia,@}¦ 
+1068 new <L>1065<pc>0115<k1>arDya<k2>a/rDya, a/rDia	{@(árdhya),@} {@árdhia,@}¦ 
+;
+1076 old <L>1073<pc>0116<k1>arya<k2>arya^	{@(aryà),@} {@aría@}¦ 
+1076 new <L>1073<pc>0116<k1>arya<k2>arya^, ari/a	{@(aryà),@} {@aría@}¦ 
+;
+1079 old <L>1076<pc>0116<k1>aryamya<k2>aryamya^	{@(aryamyà),@} {@aryamía,@}¦ 
+1079 new <L>1076<pc>0116<k1>aryamya<k2>aryamya^, aryami/a	{@(aryamyà),@} {@aryamía,@}¦ 
+;
+1081 old <L>1078<pc>0116<k1>arva<k2>arva<h>2	<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ 
+1081 new <L>1078<pc>0116<k1>arva<k2>arva, arvan, arvaRa<h>2	<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ 
+;
+1089 old <L>1086<pc>0118<k1>arvAcIna<k2>arvAcIna/, arvAcI/na	{@arvācīná,@} {@arvācī́na@}¦ 
+1089 new <L>1086<pc>0118<k1>arvAcIna<k2>arvAcIna/, arvAcI/na	{@arvācīná,@} {@arvācī́na@}¦ 
+;
+1091 old <L>1088<pc>0119<k1>arS<k2>arS	{@√arś,@} {@(√ṛś),@}¦ 
+1091 new <L>1088<pc>0119<k1>arS<k2>arS, fS	{@√arś,@} {@(√ṛś),@}¦ 
+;
+1093 old <L>1090<pc>0119<k1>arz<k2>arz, fz<h>1	<hom>1.</hom> {@√arṣ,@} {@√ṛṣ,@}¦ 
+1093 new <L>1090<pc>0119<k1>arz<k2>arz, fz<h>1	<hom>1.</hom> {@√arṣ,@} {@√ṛṣ,@}¦ 
+;
+1102 old <L>1099<pc>0121<k1>alAyya<k2>alA/yya	{@(alā́yya),@} {@alā́yia,@}¦ 
+1102 new <L>1099<pc>0121<k1>alAyya<k2>alA/yya, alA/yia	{@(alā́yya),@} {@alā́yia,@}¦ 
+;
+1164 old <L>1159<pc>0129<k1>avAryakratu<k2>avArya/-kratu	{@(avāryá-kratu),@} {@avāriá-kratu,@}¦ 
+1164 new <L>1159<pc>0129<k1>avAryakratu<k2>avArya/-kratu, avAria/-kratu	{@(avāryá-kratu),@} {@avāriá-kratu,@}¦ 
+;
+1209 old <L>1204<pc>0132<k1>avyat<k2>a/-vyat	{@(á-vyat),@} {@á-viat,@}¦ 
+1209 new <L>1204<pc>0132<k1>avyat<k2>a/-vyat, a/-viat	{@(á-vyat),@} {@á-viat,@}¦ 
+;
+1215 old <L>1210<pc>0133<k1>aS<k2>aS<h>1	<hom>1.</hom> {@√aś,@} ursprünglich {@√aṃś@}¦ 
+1215 new <L>1210<pc>0133<k1>aS<k2>aS, aMS<h>1	<hom>1.</hom> {@√aś,@} ursprünglich {@√aṃś@}¦ 
+;
+1227 old <L>1222<pc>0138<k1>aSAsya<k2>a-SAsya/	{@(a-śāsyá),@} {@a-śāsiá,@}¦ 
+1227 new <L>1222<pc>0138<k1>aSAsya<k2>a-SAsya/, a-SAsia/	{@(a-śāsyá),@} {@a-śāsiá,@}¦ 
+;
+1247 old <L>1242<pc>0139<k1>aSmAsya<k2>a/SmAsya	{@(áśmāsya),@} {@áśmāsia,@}¦ 
+1247 new <L>1242<pc>0139<k1>aSmAsya<k2>a/SmAsya, a/SmAsia	{@(áśmāsya),@} {@áśmāsia,@}¦ 
+;
+1269 old <L>1264<pc>0141<k1>aSvapastya<k2>a/Sva-pastya	{@(áśva-pastya),@} {@áśva-pastia,@}¦ 
+1269 new <L>1264<pc>0141<k1>aSvapastya<k2>a/Sva-pastya, a/Sva-pastia	{@(áśva-pastya),@} {@áśva-pastia,@}¦ 
+;
+1300 old <L>1295<pc>0144<k1>azwa<k2>azwa/	{@aṣṭá,@} {@(aṣṭan),@}¦ 
+1300 new <L>1295<pc>0144<k1>azwa<k2>azwa/, azwan	{@aṣṭá,@} {@(aṣṭan),@}¦ 
+;
+1308 old <L>1303<pc>0145<k1>azWi<k2>azWi, azWI	{@(aṣṭhi,@} {@aṣṭhī),@}¦ 
+1308 new <L>1303<pc>0145<k1>azWi<k2>azWi, azWI	{@(aṣṭhi,@} {@aṣṭhī),@}¦ 
+;
+1328 old <L>1323<pc>0153<k1>asamazwakAvya<k2>a/samazwa-kAvya	{@(ásamaṣṭa-kāvya),@} {@ásamaṣṭa-kāvia,@}¦ 
+1328 new <L>1323<pc>0153<k1>asamazwakAvya<k2>a/samazwa-kAvya, a/samazwa-kAvia	{@(ásamaṣṭa-kāvya),@} {@ásamaṣṭa-kāvia,@}¦ 
+;
+1330 old <L>1325<pc>0154<k1>asamAtyojas<k2>a/samAtyojas	{@(ásamātyojas),@} {@ásamāti-ojas,@}¦ 
+1330 new <L>1325<pc>0154<k1>asamAtyojas<k2>a/samAtyojas, a/samAti-ojas	{@(ásamātyojas),@} {@ásamāti-ojas,@}¦ 
+;
+1353 old <L>1348<pc>0156<k1>asurya<k2>asurya^	<hom>1.</hom> {@(asuryà),@} {@asurī́a,@}¦ 
+1353 new <L>1348<pc>0156<k1>asurya<k2>asurya^, asurI/a	<hom>1.</hom> {@(asuryà),@} {@asurī́a,@}¦ 
+;
+1354 old <L>1349<pc>0156<k1>asurya<k2>asurya^	<hom>2.</hom> {@(asuryà),@} {@asuryá,@}¦ 
+1354 new <L>1349<pc>0156<k1>asurya<k2>asurya^, asurya/	<hom>2.</hom> {@(asuryà),@} {@asuryá,@}¦ 
+;
+1360 old <L>1355<pc>0157<k1>asUrya<k2>a-sUrya/	{@(a-sūryá),@} {@asūriá,@}¦ 
+1360 new <L>1355<pc>0157<k1>asUrya<k2>a-sUrya/, asUria/	{@(a-sūryá),@} {@asūriá,@}¦ 
+;
+1362 old <L>1357<pc>0157<k1>asenya<k2>a-senya/	{@(a-senyá),@} {@a-seniá,@}¦ 
+1362 new <L>1357<pc>0157<k1>asenya<k2>a-senya/, a-senia/	{@(a-senyá),@} {@a-seniá,@}¦ 
+;
+1388 old <L>1383<pc>0159<k1>asmadryac<k2>asmadrya^c	{@(asmadryàc),@} {@asmadrí-ac,@}¦ 
+1388 new <L>1383<pc>0159<k1>asmadryac<k2>asmadrya^c, asmadri/-ac	{@(asmadryàc),@} {@asmadrí-ac,@}¦ 
+;
+1401 old <L>1396<pc>0160<k1>ah<k2>ah, aMh<h>1	<hom>1.</hom> {@√ah,@} {@√aṃh,@}¦ 
+1401 new <L>1396<pc>0160<k1>ah<k2>ah, aMh<h>1	<hom>1.</hom> {@√ah,@} {@√aṃh,@}¦ 
+;
+1406 old <L>1401<pc>0162<k1>ahan<k2>a/han, a/har	{@áhan,@} {@áhar,@} <hom>2.</hom> {@áha,@}¦ 
+1406 new <L>1401<pc>0162<k1>ahan<k2>a/han, a/har, a/ha	{@áhan,@} {@áhar,@} <hom>2.</hom> {@áha,@}¦ 
+;
+1442 old <L>1437<pc>0168<k1>ahnavAyya<k2>a-hnavAyya/	{@(a-hnavāyyá),@} {@a-hnavāyiá,@}¦ 
+1442 new <L>1437<pc>0168<k1>ahnavAyya<k2>a-hnavAyya/, a-hnavAyia/	{@(a-hnavāyyá),@} {@a-hnavāyiá,@}¦ 
+;
+1451 old <L>1446<pc>0171<k1>AkAyya<k2>AkAyya^	{@(ākāyyà),@} {@ākāyia,@}¦ 
+1451 new <L>1446<pc>0171<k1>AkAyya<k2>AkAyya^, AkAyia	{@(ākāyyà),@} {@ākāyia,@}¦ 
+;
+1473 old <L>1468<pc>0172<k1>ANgUzya<k2>ANgUzya^	{@(āṅgūṣyà),@} {@āṅgūṣía,@}¦ 
+1473 new <L>1468<pc>0172<k1>ANgUzya<k2>ANgUzya^, ANgUzi/a	{@(āṅgūṣyà),@} {@āṅgūṣía,@}¦ 
+;
+1487 old <L>1482<pc>0173<k1>Ajya<k2>A/jya, A/jia	{@ā́jya,@} {@ā́jia,@}¦ 
+1487 new <L>1482<pc>0173<k1>Ajya<k2>A/jya, A/jia	{@ā́jya,@} {@ā́jia,@}¦ 
+;
+1498 old <L>1493<pc>0175<k1>AtiTigva<k2>AtiTigva/	{@(ātithigvá),@} {@ātithiguá,@}¦ 
+1498 new <L>1493<pc>0175<k1>AtiTigva<k2>AtiTigva/, AtiTigua/	{@(ātithigvá),@} {@ātithiguá,@}¦ 
+;
+1513 old <L>1508<pc>0176<k1>Aditya<k2>Aditya/, Aditia/<h>1	<hom>1.</hom> {@ādityá,@} {@āditiá,@}¦ 
+1513 new <L>1508<pc>0176<k1>Aditya<k2>Aditya/, Aditia/<h>1	<hom>1.</hom> {@ādityá,@} {@āditiá,@}¦ 
+;
+1547 old <L>1542<pc>0180<k1>ApfCya<k2>Apf/Cya	{@(āpṛ́chya),@} {@āpṛ́chia,@}¦ 
+1547 new <L>1542<pc>0180<k1>ApfCya<k2>Apf/Cya, Apf/Cia	{@(āpṛ́chya),@} {@āpṛ́chia,@}¦ 
+;
+1548 old <L>1543<pc>0180<k1>Aptya<k2>Aptya/, Aptia/	{@āptyá,@} {@āptiá,@}¦ 
+1548 new <L>1543<pc>0180<k1>Aptya<k2>Aptya/, Aptia/	{@āptyá,@} {@āptiá,@}¦ 
+;
+1549 old <L>1544<pc>0180<k1>Apya<k2>A/pya	{@(ā́pya),@} {@ā́pia,@}¦ 
+1549 new <L>1544<pc>0180<k1>Apya<k2>A/pya, A/pia	{@(ā́pya),@} {@ā́pia,@}¦ 
+;
+1572 old <L>1567<pc>0181<k1>Amenya<k2>Amenya/	{@(āmenyá),@} {@āmeniá,@}¦ 
+1572 new <L>1567<pc>0181<k1>Amenya<k2>Amenya/, Amenia/	{@(āmenyá),@} {@āmeniá,@}¦ 
+;
+1609 old <L>1604<pc>0185<k1>Artana<k2>A/rtana	{@(ā́rtana),@} {@ā́artana,@}¦ 
+1609 new <L>1604<pc>0185<k1>Artana<k2>A/rtana, A/artana	{@(ā́rtana),@} {@ā́artana,@}¦ 
+;
+1613 old <L>1608<pc>0185<k1>Arya<k2>A/rya<h>1	<hom>1.</hom> {@(ā́rya),@} {@ā́ria,@}¦ 
+1613 new <L>1608<pc>0185<k1>Arya<k2>A/rya, A/ria<h>1	<hom>1.</hom> {@(ā́rya),@} {@ā́ria,@}¦ 
+;
+1614 old <L>1609<pc>0186<k1>Arya<k2>A/rya, a/ria<h>2	<hom>2.</hom> {@ā́rya,@} {@ária,@}¦ 
+1614 new <L>1609<pc>0186<k1>Arya<k2>A/rya, a/ria<h>2	<hom>2.</hom> {@ā́rya,@} {@ária,@}¦ 
+;
+1624 old <L>1619<pc>0186<k1>Avizwya<k2>A/vizwya	{@(ā́viṣṭya),@} {@ā́víṣṭia,@}¦ 
+1624 new <L>1619<pc>0186<k1>Avizwya<k2>A/vizwya, A/vi/zwia	{@(ā́viṣṭya),@} {@ā́víṣṭia,@}¦ 
+;
+1646 old <L>1641<pc>0188<k1>ASvapas<k2>ASva^pas	{@(āśvàpas),@} {@āśú-apas,@}¦ 
+1646 new <L>1641<pc>0188<k1>ASvapas<k2>ASva^pas, ASu/-apas	{@(āśvàpas),@} {@āśú-apas,@}¦ 
+;
+1648 old <L>1643<pc>0188<k1>ASvaSva<k2>ASva^Sva	{@(āśvàśva),@} {@āśú-aśva,@}¦ 
+1648 new <L>1643<pc>0188<k1>ASvaSva<k2>ASva^Sva, ASu/-aSva	{@(āśvàśva),@} {@āśú-aśva,@}¦ 
+;
+1649 old <L>1644<pc>0188<k1>ASvaSvya<k2>ASva^Svya	{@(āśvàśvya),@} {@āśúaśvia,@}¦ 
+1649 new <L>1644<pc>0188<k1>ASvaSvya<k2>ASva^Svya, ASu/aSvia	{@(āśvàśvya),@} {@āśúaśvia,@}¦ 
+;
+1671 old <L>1666<pc>0191<k1>Asya<k2>Asya^	{@(āsyà),@} {@āsía,@}¦ 
+1671 new <L>1666<pc>0191<k1>Asya<k2>Asya^, Asi/a	{@(āsyà),@} {@āsía,@}¦ 
+;
+1679 old <L>1674<pc>0192<k1>AhUrya<k2>AhU/rya	{@(āhū́rya),@} {@āhū́ria,@}¦ 
+1679 new <L>1674<pc>0192<k1>AhUrya<k2>AhU/rya, AhU/ria	{@(āhū́rya),@} {@āhū́ria,@}¦ 
+;
+1689 old <L>1684<pc>0203<k1>itaUti<k2>ita/-Uti	{@(itá-ūti),@} {@itás-ūti,@}¦ 
+1689 new <L>1684<pc>0203<k1>itaUti<k2>ita/-Uti, ita/s-Uti	{@(itá-ūti),@} {@itás-ūti,@}¦ 
+;
+1705 old <L>1700<pc>0210<k1>idDAgni<k2>idDA/gni, idDa/-agni	{@iddhā́gni,@} {@iddhá-agni,@}¦ 
+1705 new <L>1700<pc>0210<k1>idDAgni<k2>idDA/gni, idDa/-agni	{@iddhā́gni,@} {@iddhá-agni,@}¦ 
+;
+1706 old <L>1701<pc>0210<k1>iD<k2>iD, inD	{@√idh,@} {@√indh@}¦ 
+1706 new <L>1701<pc>0210<k1>iD<k2>iD, inD	{@√idh,@} {@√indh@}¦ 
+;
+1719 old <L>1714<pc>0215<k1>indranAsatya<k2>indra-nAsatya	{@(indra-nāsatya),@} {@indra-naasatya,@}¦ 
+1719 new <L>1714<pc>0215<k1>indranAsatya<k2>indra-nAsatya, indra-naasatya	{@(indra-nāsatya),@} {@indra-naasatya,@}¦ 
+;
+1725 old <L>1720<pc>0215<k1>indramAdana<k2>indra-mA/dana	{@(indra-mā́dana),@} {@indara-mā́dana,@}¦ 
+1725 new <L>1720<pc>0215<k1>indramAdana<k2>indra-mA/dana, indara-mA/dana	{@(indra-mā́dana),@} {@indara-mā́dana,@}¦ 
+;
+1728 old <L>1723<pc>0215<k1>indravat<k2>i/ndravat, i/ndrAvat	{@índravat,@} {@índrāvat,@}¦ 
+1728 new <L>1723<pc>0215<k1>indravat<k2>i/ndravat, i/ndrAvat	{@índravat,@} {@índrāvat,@}¦ 
+;
+1729 old <L>1724<pc>0215<k1>indravah<k2>indra-va/h	{@indra-váh,@} stark {@indra-vā́h,@}¦ 
+1729 new <L>1724<pc>0215<k1>indravah<k2>indra-va/h, indra-vA/h	{@indra-váh,@} stark {@indra-vā́h,@}¦ 
+;
+1730 old <L>1725<pc>0215<k1>indravAta<k2>i/ndra-vAta	{@(índra-vāta),@} {@índara-vāta,@}¦ 
+1730 new <L>1725<pc>0215<k1>indravAta<k2>i/ndra-vAta, i/ndara-vAta	{@(índra-vāta),@} {@índara-vāta,@}¦ 
+;
+1740 old <L>1735<pc>0216<k1>indrAgni<k2>indrAgni/, indrAagni/	{@indrāgní,@} {@indrāagní,@}¦ 
+1740 new <L>1735<pc>0216<k1>indrAgni<k2>indrAgni/, indrAagni/	{@indrāgní,@} {@indrāagní,@}¦ 
+;
+1753 old <L>1748<pc>0217<k1>indrota<k2>i/ndrota/, indra-Uta/	{@índrotá,@} {@indra-ūtá,@}¦ 
+1753 new <L>1748<pc>0217<k1>indrota<k2>i/ndrota/, indra-Uta/	{@índrotá,@} {@indra-ūtá,@}¦ 
+;
+1758 old <L>1753<pc>0217<k1>inv<k2>inv, in	{@√inv,@} {@√in.@}¦ 
+1758 new <L>1753<pc>0217<k1>inv<k2>inv, in	{@√inv,@} {@√in.@}¦ 
+;
+1778 old <L>1773<pc>0220<k1>irya<k2>i/rya, i/ria	{@írya,@} {@íria,@}¦ 
+1778 new <L>1773<pc>0220<k1>irya<k2>i/rya, i/ria	{@írya,@} {@íria,@}¦ 
+;
+1818 old <L>1813<pc>0228<k1>izwASva<k2>izwA/Sva	{@(iṣṭā́śva),@} {@iṣṭá-aśva,@}¦ 
+1818 new <L>1813<pc>0228<k1>izwASva<k2>izwA/Sva, izwa/-aSva	{@(iṣṭā́śva),@} {@iṣṭá-aśva,@}¦ 
+;
+1826 old <L>1821<pc>0229<k1>IkzeRya<k2>Ikze/Rya	{@(īkṣéṇya),@} {@īkṣéṇia,@}¦ 
+1826 new <L>1821<pc>0229<k1>IkzeRya<k2>Ikze/Rya, Ikze/Ria	{@(īkṣéṇya),@} {@īkṣéṇia,@}¦ 
+;
+1831 old <L>1826<pc>0231<k1>Iqenya<k2>Iqe/nya	{@(īḍénya),@} {@īḍénia,@}¦ 
+1831 new <L>1826<pc>0231<k1>Iqenya<k2>Iqe/nya, Iqe/nia	{@(īḍénya),@} {@īḍénia,@}¦ 
+;
+1832 old <L>1827<pc>0231<k1>Iqya<k2>I/qya, I/qia	{@ī́ḍya,@} {@ī́ḍia@}¦ 
+1832 new <L>1827<pc>0231<k1>Iqya<k2>I/qya, I/qia	{@ī́ḍya,@} {@ī́ḍia@}¦ 
+;
+1857 old <L>1852<pc>0243<k1>ukTArka<k2>ukTArka/	{@(ukthārká),@} {@uktha-arká,@}¦ 
+1857 new <L>1852<pc>0243<k1>ukTArka<k2>ukTArka/, ukTa-arka/	{@(ukthārká),@} {@uktha-arká,@}¦ 
+;
+1859 old <L>1854<pc>0243<k1>ukTya<k2>ukTya^	{@(ukthyà),@} {@ukthía,@}¦ 
+1859 new <L>1854<pc>0243<k1>ukTya<k2>ukTya^, ukTi/a	{@(ukthyà),@} {@ukthía,@}¦ 
+;
+1863 old <L>1858<pc>0245<k1>ukzaRyAyana<k2>ukzaRyA/yana	{@(ukṣaṇyā́yana),@} {@ukṣaṇiā́yana,@}¦ 
+1863 new <L>1858<pc>0245<k1>ukzaRyAyana<k2>ukzaRyA/yana, ukzaRiA/yana	{@(ukṣaṇyā́yana),@} {@ukṣaṇiā́yana,@}¦ 
+;
+1877 old <L>1872<pc>0247<k1>ucaTya<k2>ucaTya^	{@(ucathyà),@} {@ucathía,@}¦ 
+1877 new <L>1872<pc>0247<k1>ucaTya<k2>ucaTya^, ucaTi/a	{@(ucathyà),@} {@ucathía,@}¦ 
+;
+1886 old <L>1881<pc>0250<k1>uttamAyya<k2>uttamA/yya	{@(uttamā́yya),@} {@uttamā́yia,@}¦ 
+1886 new <L>1881<pc>0250<k1>uttamAyya<k2>uttamA/yya, uttamA/yia	{@(uttamā́yya),@} {@uttamā́yia,@}¦ 
+;
+1910 old <L>1903<pc>0252<k1>udanya<k2>udanya^	{@(udanyà),@} {@udanía,@}¦ 
+1910 new <L>1903<pc>0252<k1>udanya<k2>udanya^, udani/a	{@(udanyà),@} {@udanía,@}¦ 
+;
+1969 old <L>1962<pc>0257<k1>uparimartya<k2>upa/ri-martya	{@(upári-martya),@} {@upári-martía,@}¦ 
+1969 new <L>1962<pc>0257<k1>uparimartya<k2>upa/ri-martya, upa/ri-marti/a	{@(upári-martya),@} {@upári-martía,@}¦ 
+;
+1977 old <L>1970<pc>0257<k1>upavAkya<k2>upavAkya^	{@(upavākyà),@} {@upavākía,@}¦ 
+1977 new <L>1970<pc>0257<k1>upavAkya<k2>upavAkya^, upavAki/a	{@(upavākyà),@} {@upavākía,@}¦ 
+;
+1978 old <L>1971<pc>0257<k1>upavAcya<k2>upavA/cya	{@(upavā́cya),@} {@upavā́cia,@}¦ 
+1978 new <L>1971<pc>0257<k1>upavAcya<k2>upavA/cya, upavA/cia	{@(upavā́cya),@} {@upavā́cia,@}¦ 
+;
+2026 old <L>2019<pc>0261<k1>uBayAhastya<k2>uBayA-hastya/	{@(ubhayā-hastyá),@} {@ubhayā-hastiá,@}¦ 
+2026 new <L>2019<pc>0261<k1>uBayAhastya<k2>uBayA-hastya/, uBayA-hastia/	{@(ubhayā-hastyá),@} {@ubhayā-hastiá,@}¦ 
+;
+2058 old <L>2051<pc>0265<k1>urvajra<k2>urv-a/jra	{@(urv-ájra),@} {@uru-ájra,@}¦ 
+2058 new <L>2051<pc>0265<k1>urvajra<k2>urv-a/jra, uru-a/jra	{@(urv-ájra),@} {@uru-ájra,@}¦ 
+;
+2066 old <L>2059<pc>0266<k1>urvyUti<k2>urvyU^ti	{@(urvyū̀ti),@} {@urví-ūti,@}¦ 
+2066 new <L>2059<pc>0266<k1>urvyUti<k2>urvyU^ti, urvi/-Uti	{@(urvyū̀ti),@} {@urví-ūti,@}¦ 
+;
+2081 old <L>2074<pc>0267<k1>uSenya<k2>uSe/nya	{@(uśénya),@} {@uśénia,@}¦ 
+2081 new <L>2074<pc>0267<k1>uSenya<k2>uSe/nya, uSe/nia	{@(uśénya),@} {@uśénia,@}¦ 
+;
+2104 old <L>2097<pc>0271<k1>UDar<k2>U/Dar, U/Dan, U/Das	{@ū́dhar,@} {@ū́dhan,@} {@ū́dhas,@}¦ 
+2104 new <L>2097<pc>0271<k1>UDar<k2>U/Dar, U/Dan, U/Das	{@ū́dhar,@} {@ū́dhan,@} {@ū́dhas,@}¦ 
+;
+2111 old <L>2103<pc>0273<k1>Urjay<k2>Urja/y	{@√ūrjáy,@} {@(√ūrjí),@}¦ 
+2111 new <L>2103<pc>0273<k1>Urjay<k2>Urja/y, Urji/	{@√ūrjáy,@} {@(√ūrjí),@}¦ 
+;
+2112 old <L>2104<pc>0273<k1>Urjavya<k2>Urjavya^	{@(ūrjavyà),@} {@ūrjavía,@}¦ 
+2112 new <L>2104<pc>0273<k1>Urjavya<k2>Urjavya^, Urjavi/a	{@(ūrjavyà),@} {@ūrjavía,@}¦ 
+;
+2116 old <L>2108<pc>0273<k1>UrjAd<k2>UrjAd	{@(ūrjād),@} {@ūrja-ad,@}¦ 
+2116 new <L>2108<pc>0273<k1>UrjAd<k2>UrjAd, Urja-ad	{@(ūrjād),@} {@ūrja-ad,@}¦ 
+;
+2136 old <L>2128<pc>0276<k1>UrmyA<k2>U/rmyA	{@(ū́rmyā),@} {@ū́rmiā,@}¦ 
+2136 new <L>2128<pc>0276<k1>UrmyA<k2>U/rmyA, U/rmiA	{@(ū́rmyā),@} {@ū́rmiā,@}¦ 
+;
+2139 old <L>2131<pc>0276<k1>UzmaRya<k2>UzmaRya^	{@(ūṣmaṇyà),@} {@ūṣmaṇía,@}¦ 
+2139 new <L>2131<pc>0276<k1>UzmaRya<k2>UzmaRya^, UzmaRi/a	{@(ūṣmaṇyà),@} {@ūṣmaṇía,@}¦ 
+;
+2151 old <L>2143<pc>0278<k1>fgmiya<k2>fgmi/ya, fgmiya/	{@ṛgmíya,@} {@ṛgmiyá,@}¦ 
+2151 new <L>2143<pc>0278<k1>fgmiya<k2>fgmi/ya, fgmiya/	{@ṛgmíya,@} {@ṛgmiyá,@}¦ 
+;
+2180 old <L>2172<pc>0280<k1>fjra<k2>fjra/	{@ṛjrá,@} selten {@ṛjará@}¦ 
+2180 new <L>2172<pc>0280<k1>fjra<k2>fjra/, fjara/	{@ṛjrá,@} selten {@ṛjará@}¦ 
+;
+2181 old <L>2173<pc>0280<k1>fjrASva<k2>fjrA/Sva	{@ṛjrā́śva@} ({117,17}), {@ṛjrá-aśva,@}¦ 
+2181 new <L>2173<pc>0280<k1>fjrASva<k2>fjrA/Sva, fjra/-aSva	{@ṛjrā́śva@} ({117,17}), {@ṛjrá-aśva,@}¦ 
+;
+2182 old <L>2174<pc>0280<k1>fjvac<k2>fjv-a/c	{@(ṛjv-ác),@} {@ṛju-ác,@} stark {@ṛju-áñc,@}¦ 
+2182 new <L>2174<pc>0280<k1>fjvac<k2>fjv-a/c, fju-a/c, fju-a/Yc	{@(ṛjv-ác),@} {@ṛju-ác,@} stark {@ṛju-áñc,@}¦ 
+;
+2183 old <L>2175<pc>0280<k1>fYj<k2>fYj, fj	{@√ṛñj,@} {@√ṛj@}¦ 
+2183 new <L>2175<pc>0280<k1>fYj<k2>fYj, fj	{@√ṛñj,@} {@√ṛj@}¦ 
+;
+2238 old <L>2230<pc>0289<k1>ftvya<k2>f/tvya	{@(ṛ́tvya),@} {@ṛ́tvia,@}¦ 
+2238 new <L>2230<pc>0289<k1>ftvya<k2>f/tvya, f/tvia	{@(ṛ́tvya),@} {@ṛ́tvia,@}¦ 
+;
+2250 old <L>2242<pc>0291<k1>fBukzA<k2>fBukzA/, fBukza/n	{@ṛbhukṣā́,@} {@ṛbhukṣán,@}¦ 
+2250 new <L>2242<pc>0291<k1>fBukzA<k2>fBukzA/, fBukza/n	{@ṛbhukṣā́,@} {@ṛbhukṣán,@}¦ 
+;
+2279 old <L>2271<pc>0294<k1>fzvOjas<k2>fzvO/jas	{@ṛṣvaújas@} oder {@ṛṣvá-ojas,@}¦ 
+2279 new <L>2271<pc>0294<k1>fzvOjas<k2>fzvO/jas, fzva/-ojas	{@ṛṣvaújas@} oder {@ṛṣvá-ojas,@}¦ 
+;
+2337 old <L>2329<pc>0304<k1>ezEzya<k2>ezEzya^	{@(eṣaiṣyà),@} {@eṣaiṣía,@}¦ 
+2337 new <L>2329<pc>0304<k1>ezEzya<k2>ezEzya^, ezEzi/a	{@(eṣaiṣyà),@} {@eṣaiṣía,@}¦ 
+;
+2338 old <L>2330<pc>0304<k1>ezwi<k2>e/zwi	{@(éṣṭi),@} {@ā́-iṣṭi,@}¦ 
+2338 new <L>2330<pc>0304<k1>ezwi<k2>e/zwi, A/-izwi	{@(éṣṭi),@} {@ā́-iṣṭi,@}¦ 
+;
+2346 old <L>2338<pc>0304<k1>okya<k2>okya^	{@(okyà),@} {@okía,@}¦ 
+2346 new <L>2338<pc>0304<k1>okya<k2>okya^, oki/a	{@(okyà),@} {@okía,@}¦ 
+;
+2365 old <L>2357<pc>0306<k1>omyAvat<k2>omyA/vat	{@(omyā́vat),@} {@omiā́vat,@}¦ 
+2365 new <L>2357<pc>0306<k1>omyAvat<k2>omyA/vat, omiA/vat	{@(omyā́vat),@} {@omiā́vat,@}¦ 
+;
+2368 old <L>2360<pc>0306<k1>ozaDi<k2>o/zaDi, o/zaDI	{@óṣadhi,@} {@óṣadhī,@}¦ 
+2368 new <L>2360<pc>0306<k1>ozaDi<k2>o/zaDi, o/zaDI	{@óṣadhi,@} {@óṣadhī,@}¦ 
+;
+2374 old <L>2366<pc>0307<k1>OcaTya<k2>OcaTya/	{@(aucathyá),@} {@aucathiá,@}¦ 
+2374 new <L>2366<pc>0307<k1>OcaTya<k2>OcaTya/, OcaTia/	{@(aucathyá),@} {@aucathiá,@}¦ 
+;
+2376 old <L>2368<pc>0307<k1>Orva<k2>Orva/, Orua/	{@(aurvá,@} {@auruá),@}¦ 
+2376 new <L>2368<pc>0307<k1>Orva<k2>Orva/, Orua/	{@(aurvá,@} {@auruá),@}¦ 
+;
+2377 old <L>2369<pc>0307<k1>OrvaBfguvat<k2>OrvaBfguva/t	{@(aurvabhṛguvát),@} {@auruabhṛguvát,@}¦ 
+2377 new <L>2369<pc>0307<k1>OrvaBfguvat<k2>OrvaBfguva/t, OruaBfguva/t	{@(aurvabhṛguvát),@} {@auruabhṛguvát,@}¦ 
+;
+2390 old <L>2382<pc>0309<k1>kakzya<k2>kakzya^	{@(kakṣyà),@} {@kakṣía,@}¦ 
+2390 new <L>2382<pc>0309<k1>kakzya<k2>kakzya^, kakzi/a	{@(kakṣyà),@} {@kakṣía,@}¦ 
+;
+2391 old <L>2383<pc>0309<k1>kakzyaprA<k2>kakzyaprA/	{@(kakṣyaprā́),@} {@kakṣiaprā́,@}¦ 
+2391 new <L>2383<pc>0309<k1>kakzyaprA<k2>kakzyaprA/, kakziaprA/	{@(kakṣyaprā́),@} {@kakṣiaprā́,@}¦ 
+;
+2425 old <L>2417<pc>0313<k1>kanyA<k2>kanyA^	{@kanyā̀,@} {@kaníā,@}¦ 
+2425 new <L>2417<pc>0313<k1>kanyA<k2>kanyA^, kani/A	{@kanyā̀,@} {@kaníā,@}¦ 
+;
+2472 old <L>2464<pc>0316<k1>karmaRya<k2>karmaRya^	{@(karmaṇyà),@} {@karmaṇía,@}¦ 
+2472 new <L>2464<pc>0316<k1>karmaRya<k2>karmaRya^, karmaRi/a	{@(karmaṇyà),@} {@karmaṇía,@}¦ 
+;
+2521 old <L>2513<pc>0322<k1>kARa<k2>kA/Ra, kARa/	{@kā́ṇa,@} {@kāṇá@}¦ 
+2521 new <L>2513<pc>0322<k1>kARa<k2>kA/Ra, kARa/	{@kā́ṇa,@} {@kāṇá@}¦ 
+;
+2535 old <L>2527<pc>0323<k1>kAmya<k2>kA/mya	{@(kā́mya),@} {@kā́mia,@}¦ 
+2535 new <L>2527<pc>0323<k1>kAmya<k2>kA/mya, kA/mia	{@(kā́mya),@} {@kā́mia,@}¦ 
+;
+2548 old <L>2540<pc>0324<k1>kAvya<k2>kAvya/, kAvia/	{@kāvyá,@} {@kāviá,@}¦ 
+2548 new <L>2540<pc>0324<k1>kAvya<k2>kAvya/, kAvia/	{@kāvyá,@} {@kāviá,@}¦ 
+;
+2549 old <L>2541<pc>0324<k1>kAvya<k2>kA/vya, kA/via	{@kā́vya,@} {@kā́via,@}¦ 
+2549 new <L>2541<pc>0324<k1>kAvya<k2>kA/vya, kA/via	{@kā́vya,@} {@kā́via,@}¦ 
+;
+2569 old <L>2561<pc>0326<k1>kila<k2>ki/la	{@kíla,@} {@(kílā),@}¦ 
+2569 new <L>2561<pc>0326<k1>kila<k2>ki/la, ki/lA	{@kíla,@} {@(kílā),@}¦ 
+;
+2585 old <L>2577<pc>0327<k1>kIrtenya<k2>kIrte/nya	{@(kīrténya),@} {@kīrténia,@}¦ 
+2585 new <L>2577<pc>0327<k1>kIrtenya<k2>kIrte/nya, kIrte/nia	{@(kīrténya),@} {@kīrténia,@}¦ 
+;
+2596 old <L>2588<pc>0328<k1>kuRqapAyya<k2>kuRqapA/yya	{@(kuṇḍapā́yya),@} {@kuṇḍa-pā́yia,@}¦ 
+2596 new <L>2588<pc>0328<k1>kuRqapAyya<k2>kuRqapA/yya, kuRqa-pA/yia	{@(kuṇḍapā́yya),@} {@kuṇḍa-pā́yia,@}¦ 
+;
+2603 old <L>2595<pc>0329<k1>kutsya<k2>kutsya/	{@(kutsyá),@} {@kutsiá,@}¦ 
+2603 new <L>2595<pc>0329<k1>kutsya<k2>kutsya/, kutsia/	{@(kutsyá),@} {@kutsiá,@}¦ 
+;
+2604 old <L>2596<pc>0329<k1>kuDryac<k2>ku-Dry-a^c, ku-Dri/-ac	{@(ku-dhry-àc,@} {@ku-dhrí-ac),@}¦ 
+2604 new <L>2596<pc>0329<k1>kuDryac<k2>ku-Dry-a^c, ku-Dri/-ac	{@(ku-dhry-àc,@} {@ku-dhrí-ac),@}¦ 
+;
+2608 old <L>2600<pc>0329<k1>kuB<k2>*kuB, kumB	{@*√kubh,@} {@√kumbh@}¦ 
+2608 new <L>2600<pc>0329<k1>kuB<k2>*kuB, kumB	{@*√kubh,@} {@√kumbh@}¦ 
+;
+2631 old <L>2623<pc>0330<k1>kulyA<k2>kulyA/, kuliA/	{@kulyā́,@} {@kuliā́,@}¦ 
+2631 new <L>2623<pc>0330<k1>kulyA<k2>kulyA/, kuliA/	{@kulyā́,@} {@kuliā́,@}¦ 
+;
+2651 old <L>2643<pc>0332<k1>kUrmi<k2>kUrmi, kUrmin	{@(kūrmi,@} {@kūrmin),@}¦ 
+2651 new <L>2643<pc>0332<k1>kUrmi<k2>kUrmi, kUrmin	{@(kūrmi,@} {@kūrmin),@}¦ 
+;
+2659 old <L>2653<pc>0346<k1>kft<k2>kf/t, kfta/	{@kṛ́t,@} {@kṛtá@}¦ 
+2659 new <L>2653<pc>0346<k1>kft<k2>kf/t, kfta/	{@kṛ́t,@} {@kṛtá@}¦ 
+;
+2672 old <L>2666<pc>0347<k1>kftvya<k2>kf/tvya	{@(kṛ́tvya),@} {@kṛ́tvia,@}¦ 
+2672 new <L>2666<pc>0347<k1>kftvya<k2>kf/tvya, kf/tvia	{@(kṛ́tvya),@} {@kṛ́tvia,@}¦ 
+;
+2696 old <L>2690<pc>0349<k1>kfzwyojas<k2>kfzwy-ojas	{@(kṛṣṭy-ojas),@} {@kṛṣṭi-ojas,@}¦ 
+2696 new <L>2690<pc>0349<k1>kfzwyojas<k2>kfzwy-ojas, kfzwi-ojas	{@(kṛṣṭy-ojas),@} {@kṛṣṭi-ojas,@}¦ 
+;
+2708 old <L>2702<pc>0350<k1>kfzRADvan<k2>kfzRA/Dvan	{@(kṛṣṇā́dhvan),@} {@kṛṣṇá-adhvan,@}¦ 
+2708 new <L>2702<pc>0350<k1>kfzRADvan<k2>kfzRA/Dvan, kfzRa/-aDvan	{@(kṛṣṇā́dhvan),@} {@kṛṣṇá-adhvan,@}¦ 
+;
+2728 old <L>2722<pc>0352<k1>komya<k2>komya/	{@(komyá),@} {@komiá,@}¦ 
+2728 new <L>2722<pc>0352<k1>komya<k2>komya/, komia/	{@(komyá),@} {@komiá,@}¦ 
+;
+2770 old <L>2764<pc>0360<k1>kruDmin<k2>kruDmi/n	{@krudhmín@} oder {@krudhmí,@}¦ 
+2770 new <L>2764<pc>0360<k1>kruDmin<k2>kruDmi/n, kruDmi/	{@krudhmín@} oder {@krudhmí,@}¦ 
+;
+2776 old <L>2770<pc>0361<k1>kva<k2>kva^	{@(kvà),@} {@kúa@}¦ 
+2776 new <L>2770<pc>0361<k1>kva<k2>kva^, ku/a	{@(kvà),@} {@kúa@}¦ 
+;
+2792 old <L>2786<pc>0363<k1>kzamya<k2>kza/mya	{@(kṣámya),@} {@kṣámia,@}¦ 
+2792 new <L>2786<pc>0363<k1>kzamya<k2>kza/mya, kza/mia	{@(kṣámya),@} {@kṣámia,@}¦ 
+;
+2813 old <L>2807<pc>0369<k1>kziprezu<k2>kzipre/zu	{@(kṣipréṣu),@} {@kṣiprá-iṣu,@}¦ 
+2813 new <L>2807<pc>0369<k1>kziprezu<k2>kzipre/zu, kzipra/-izu	{@(kṣipréṣu),@} {@kṣiprá-iṣu,@}¦ 
+;
+2835 old <L>2829<pc>0370<k1>kzemya<k2>kzemya/	{@(kṣemyá),@} {@kṣemiá,@}¦ 
+2835 new <L>2829<pc>0370<k1>kzemya<k2>kzemya/, kzemia/	{@(kṣemyá),@} {@kṣemiá,@}¦ 
+;
+2841 old <L>2835<pc>0371<k1>kzoRI<k2>kzoRI/	{@kṣoṇī́,@} <ab>f.</ab>, {@kṣoṇí,@}¦ 
+2841 new <L>2835<pc>0371<k1>kzoRI<k2>kzoRI/, kzoRi/	{@kṣoṇī́,@} <ab>f.</ab>, {@kṣoṇí,@}¦ 
+;
+2873 old <L>2867<pc>0373<k1>KAdoarRas<k2>KA/do-arRas	{@(khā́do-arṇas),@} {@khā́das-arṇas@}¦ 
+2873 new <L>2867<pc>0373<k1>KAdoarRas<k2>KA/do-arRas, KA/das-arRas	{@(khā́do-arṇas),@} {@khā́das-arṇas@}¦ 
+;
+2875 old <L>2869<pc>0373<k1>Kid<k2>Kid	{@√khid,@} {@(√skhid).@}¦ 
+2875 new <L>2869<pc>0373<k1>Kid<k2>Kid, sKid	{@√khid,@} {@(√skhid).@}¦ 
+;
+2890 old <L>2884<pc>0376<k1>gaRya<k2>ga/Rya	{@(gáṇya),@} {@gáṇia,@}¦ 
+2890 new <L>2884<pc>0376<k1>gaRya<k2>ga/Rya, ga/Ria	{@(gáṇya),@} {@gáṇia,@}¦ 
+;
+2896 old <L>2890<pc>0376<k1>gaDya<k2>ga/Dya	{@(gádhya),@} {@gádhia,@}¦ 
+2896 new <L>2890<pc>0376<k1>gaDya<k2>ga/Dya, ga/Dia	{@(gádhya),@} {@gádhia,@}¦ 
+;
+2944 old <L>2938<pc>0389<k1>gavya<k2>ga/vya	{@gávya,@} selten {@gávia,@}¦ 
+2944 new <L>2938<pc>0389<k1>gavya<k2>ga/vya, ga/via	{@gávya,@} selten {@gávia,@}¦ 
+;
+2951 old <L>2945<pc>0391<k1>gah<k2>gah	{@(√gah),@} {@(√gabh),@}¦ 
+2951 new <L>2945<pc>0391<k1>gah<k2>gah, gaB	{@(√gah),@} {@(√gabh),@}¦ 
+;
+2955 old <L>2949<pc>0394<k1>gANgya<k2>gANgya/	{@(gāṅgyá),@} {@gāṅgiá,@}¦ 
+2955 new <L>2949<pc>0394<k1>gANgya<k2>gANgya/, gANgia/	{@(gāṅgyá),@} {@gāṅgiá,@}¦ 
+;
+2987 old <L>2981<pc>0401<k1>girizWA<k2>giri-zWA/	{@giri-ṣṭhā́@} oder {@giri-ṣṭháa,@}¦ 
+2987 new <L>2981<pc>0401<k1>girizWA<k2>giri-zWA/, giri-zWa/a	{@giri-ṣṭhā́@} oder {@giri-ṣṭháa,@}¦ 
+;
+3008 old <L>3002<pc>0404<k1>guhia<k2>gu/hia, gu/hya	{@gúhia,@} {@gúhya,@}¦ 
+3008 new <L>3002<pc>0404<k1>guhia<k2>gu/hia, gu/hya	{@gúhia,@} {@gúhya,@}¦ 
+;
+3036 old <L>3030<pc>0407<k1>gehya<k2>gehya^	{@(gehyà),@} {@gehía,@}¦ 
+3036 new <L>3030<pc>0407<k1>gehya<k2>gehya^, gehi/a	{@(gehyà),@} {@gehía,@}¦ 
+;
+3039 old <L>3033<pc>0410<k1>goagra<k2>go/-agra	{@(gó-agra),@} {@gáv-agra,@}¦ 
+3039 new <L>3033<pc>0410<k1>goagra<k2>go/-agra, ga/v-agra	{@(gó-agra),@} {@gáv-agra,@}¦ 
+;
+3040 old <L>3034<pc>0410<k1>goajana<k2>go-a/jana	{@(go-ájana),@} {@gav-ájana,@}¦ 
+3040 new <L>3034<pc>0410<k1>goajana<k2>go-a/jana, gav-a/jana	{@(go-ájana),@} {@gav-ájana,@}¦ 
+;
+3041 old <L>3035<pc>0410<k1>goarRas<k2>go/-arRas	{@(gó-arṇas),@} {@gáv-arṇas,@}¦ 
+3041 new <L>3035<pc>0410<k1>goarRas<k2>go/-arRas, ga/v-arRas	{@(gó-arṇas),@} {@gáv-arṇas,@}¦ 
+;
+3042 old <L>3036<pc>0410<k1>gofjIka<k2>go/-fjIka	{@(gó-ṛjīka),@} {@gáv-ṛjīka,@}¦ 
+3042 new <L>3036<pc>0410<k1>gofjIka<k2>go/-fjIka, ga/v-fjIka	{@(gó-ṛjīka),@} {@gáv-ṛjīka,@}¦ 
+;
+3043 old <L>3037<pc>0410<k1>goopaSa<k2>go/-opaSa	{@(gó-opaśa),@} {@gáv-opaśa,@}¦ 
+3043 new <L>3037<pc>0410<k1>goopaSa<k2>go/-opaSa, ga/v-opaSa	{@(gó-opaśa),@} {@gáv-opaśa,@}¦ 
+;
+3059 old <L>3053<pc>0411<k1>gonyoGas<k2>go/-nyoGas	{@(gó-nyoghas),@} {@gó-nioghas,@}¦ 
+3059 new <L>3053<pc>0411<k1>gonyoGas<k2>go/-nyoGas, go/-nioGas	{@(gó-nyoghas),@} {@gó-nioghas,@}¦ 
+;
+3062 old <L>3056<pc>0412<k1>gopayatya<k2>gopaya/tya	{@(gopayátya),@} {@gopayátia,@}¦ 
+3062 new <L>3056<pc>0412<k1>gopayatya<k2>gopaya/tya, gopaya/tia	{@(gopayátya),@} {@gopayátia,@}¦ 
+;
+3071 old <L>3065<pc>0413<k1>gopITya<k2>go-pI/Tya	{@(go-pī́thya),@} {@go-pī́thia,@}¦ 
+3071 new <L>3065<pc>0413<k1>gopITya<k2>go-pI/Tya, go-pI/Tia	{@(go-pī́thya),@} {@go-pī́thia,@}¦ 
+;
+3101 old <L>3095<pc>0415<k1>gnAspati<k2>gnA/s-pa/ti	{@(gnā́s-páti),@} {@ganā́s-páti,@}¦ 
+3101 new <L>3095<pc>0415<k1>gnAspati<k2>gnA/s-pa/ti, ganA/s-pa/ti	{@(gnā́s-páti),@} {@ganā́s-páti,@}¦ 
+;
+3105 old <L>3099<pc>0415<k1>graT<k2>graT, granT	{@√grath,@} {@√granth,@}¦ 
+3105 new <L>3099<pc>0415<k1>graT<k2>graT, granT	{@√grath,@} {@√granth,@}¦ 
+;
+3109 old <L>3103<pc>0416<k1>graB<k2>graB	{@√grabh@} oder {@√gṛbh,@}¦ 
+3109 new <L>3103<pc>0416<k1>graB<k2>graB, gfB	{@√grabh@} oder {@√gṛbh,@}¦ 
+;
+3121 old <L>3115<pc>0418<k1>grAmya<k2>grAmya/	{@(grāmyá),@} {@grāmiá,@}¦ 
+3121 new <L>3115<pc>0418<k1>grAmya<k2>grAmya/, grAmia/	{@(grāmyá),@} {@grāmiá,@}¦ 
+;
+3126 old <L>3120<pc>0419<k1>grAhya<k2>grAhya^	{@(grāhyà),@} {@grāhía,@}¦ 
+3126 new <L>3120<pc>0419<k1>grAhya<k2>grAhya^, grAhi/a	{@(grāhyà),@} {@grāhía,@}¦ 
+;
+3143 old <L>3137<pc>0422<k1>GarmyezWA<k2>GarmyezWA/	{@(gharmyeṣṭhā́),@} {@gharmieṣṭhā́,@}¦ 
+3143 new <L>3137<pc>0422<k1>GarmyezWA<k2>GarmyezWA/, GarmiezWA/	{@(gharmyeṣṭhā́),@} {@gharmieṣṭhā́,@}¦ 
+;
+3173 old <L>3167<pc>0426<k1>GftAnna<k2>GftA/nna	{@(ghṛtā́nna),@} {@ghṛtá-anna,@}¦ 
+3173 new <L>3167<pc>0426<k1>GftAnna<k2>GftA/nna, Gfta/-anna	{@(ghṛtā́nna),@} {@ghṛtá-anna,@}¦ 
+;
+3241 old <L>3235<pc>0436<k1>candrAgra<k2>candrA/gra	{@(candrā́gra),@} {@candrá-agra,@}¦ 
+3241 new <L>3235<pc>0436<k1>candrAgra<k2>candrA/gra, candra/-agra	{@(candrā́gra),@} {@candrá-agra,@}¦ 
+;
+3265 old <L>3259<pc>0442<k1>carkftya<k2>carkf/tya, carkf/tia	{@carkṛ́tya,@} {@carkṛ́tia,@}¦ 
+3265 new <L>3259<pc>0442<k1>carkftya<k2>carkf/tya, carkf/tia	{@carkṛ́tya,@} {@carkṛ́tia,@}¦ 
+;
+3317 old <L>3311<pc>0454<k1>citrAyus<k2>citrA/yus	{@(citrā́yus),@} {@citrá-āyus,@}¦ 
+3317 new <L>3311<pc>0454<k1>citrAyus<k2>citrA/yus, citra/-Ayus	{@(citrā́yus),@} {@citrá-āyus,@}¦ 
+;
+3320 old <L>3314<pc>0454<k1>citrya<k2>ci/trya	{@(cítrya),@} {@cítria,@}¦ 
+3320 new <L>3314<pc>0454<k1>citrya<k2>ci/trya, ci/tria	{@(cítrya),@} {@cítria,@}¦ 
+;
+3325 old <L>3319<pc>0457<k1>cup<k2>cup, cump	{@(√cup,@} {@√cump),@}¦ 
+3325 new <L>3319<pc>0457<k1>cup<k2>cup, cump	{@(√cup,@} {@√cump),@}¦ 
+;
+3334 old <L>3328<pc>0458<k1>cetyA<k2>cetyA/	{@(cetyā́),@} {@cetiā́,@}¦ 
+3334 new <L>3328<pc>0458<k1>cetyA<k2>cetyA/, cetiA/	{@(cetyā́),@} {@cetiā́,@}¦ 
+;
+3338 old <L>3332<pc>0458<k1>cEdya<k2>cEdya/	{@(caidyá),@} {@caidiá,@}¦ 
+3338 new <L>3332<pc>0458<k1>cEdya<k2>cEdya/, cEdia/	{@(caidyá),@} {@caidiá,@}¦ 
+;
+3357 old <L>3351<pc>0460<k1>Cad<k2>Cad, Cand<h>2	<hom>2.</hom> {@√chad,@} {@√chand.@}¦ 
+3357 new <L>3351<pc>0460<k1>Cad<k2>Cad, Cand<h>2	<hom>2.</hom> {@√chad,@} {@√chand.@}¦ 
+;
+3363 old <L>3357<pc>0461<k1>Candasya<k2>Candasya^	{@(chandasyà),@} {@chandasía,@}¦ 
+3363 new <L>3357<pc>0461<k1>Candasya<k2>Candasya^, Candasi/a	{@(chandasyà),@} {@chandasía,@}¦ 
+;
+3406 old <L>3400<pc>0475<k1>jani<k2>ja/ni, ja/nI	{@jáni,@} {@jánī,@}¦ 
+3406 new <L>3400<pc>0475<k1>jani<k2>ja/ni, ja/nI	{@jáni,@} {@jánī,@}¦ 
+;
+3423 old <L>3417<pc>0477<k1>janya<k2>ja/nya, ja/nia	{@jánya,@} {@jánia,@}¦ 
+3423 new <L>3417<pc>0477<k1>janya<k2>ja/nya, ja/nia	{@jánya,@} {@jánia,@}¦ 
+;
+3425 old <L>3419<pc>0477<k1>jaB<k2>jaB, jamB	{@√jabh,@} {@√jambh@}¦ 
+3425 new <L>3419<pc>0477<k1>jaB<k2>jaB, jamB	{@√jabh,@} {@√jambh@}¦ 
+;
+3488 old <L>3482<pc>0483<k1>jAmarya<k2>jA/marya	{@(jā́marya),@} {@jā́maria,@}¦ 
+3488 new <L>3482<pc>0483<k1>jAmarya<k2>jA/marya, jA/maria	{@(jā́marya),@} {@jā́maria,@}¦ 
+;
+3500 old <L>3494<pc>0485<k1>jArya<k2>jArya^	{@(jāryà),@} {@jāría,@}¦ 
+3500 new <L>3494<pc>0485<k1>jArya<k2>jArya^, jAri/a	{@(jāryà),@} {@jāría,@}¦ 
+;
+3530 old <L>3524<pc>0491<k1>jIrASva<k2>jIrA/Sva, jIra/aSva	{@jīrā́śva,@} {@jīráaśva,@}¦ 
+3530 new <L>3524<pc>0491<k1>jIrASva<k2>jIrA/Sva, jIra/aSva	{@jīrā́śva,@} {@jīráaśva,@}¦ 
+;
+3552 old <L>3546<pc>0497<k1>juhvAsya<k2>juhvA^sya	{@(juhvā̀sya),@} {@juhū́-āsia,@}¦ 
+3552 new <L>3546<pc>0497<k1>juhvAsya<k2>juhvA^sya, juhU/-Asia	{@(juhvā̀sya),@} {@juhū́-āsia,@}¦ 
+;
+3559 old <L>3553<pc>0499<k1>jUrya<k2>jU/rya	{@(jū́rya),@} {@jū́ria,@}¦ 
+3559 new <L>3553<pc>0499<k1>jUrya<k2>jU/rya, jU/ria	{@(jū́rya),@} {@jū́ria,@}¦ 
+;
+3564 old <L>3558<pc>0499<k1>jenya<k2>je/nya	{@(jénya),@} {@jénia,@}¦ 
+3564 new <L>3558<pc>0499<k1>jenya<k2>je/nya, je/nia	{@(jénya),@} {@jénia,@}¦ 
+;
+3575 old <L>3569<pc>0500<k1>jozya<k2>jo/zya	{@(jóṣya),@} {@jóṣia,@}¦ 
+3575 new <L>3569<pc>0500<k1>jozya<k2>jo/zya, jo/zia	{@(jóṣya),@} {@jóṣia,@}¦ 
+;
+3587 old <L>3581<pc>0502<k1>jyA<k2>jyA/, jiA/<h>1	<hom>1.</hom> {@(jyā́,@} {@jiā́),@}¦ 
+3587 new <L>3581<pc>0502<k1>jyA<k2>jyA/, jiA/<h>1	<hom>1.</hom> {@(jyā́,@} {@jiā́),@}¦ 
+;
+3588 old <L>3582<pc>0502<k1>jyA<k2>jyA/, jiA/<h>2	<hom>2.</hom> {@jyā́,@} {@jiā́,@}¦ 
+3588 new <L>3582<pc>0502<k1>jyA<k2>jyA/, jiA/<h>2	<hom>2.</hom> {@jyā́,@} {@jiā́,@}¦ 
+;
+3589 old <L>3583<pc>0502<k1>jyAkA<k2>jyAkA/	{@(jyākā́),@} {@jiākā́,@}¦ 
+3589 new <L>3583<pc>0502<k1>jyAkA<k2>jyAkA/, jiAkA/	{@(jyākā́),@} {@jiākā́,@}¦ 
+;
+3590 old <L>3584<pc>0502<k1>jyAyas<k2>jyA/yas, jiA/yas	{@jyā́yas,@} {@jiā́yas,@}¦ 
+3590 new <L>3584<pc>0502<k1>jyAyas<k2>jyA/yas, jiA/yas	{@jyā́yas,@} {@jiā́yas,@}¦ 
+;
+3591 old <L>3585<pc>0503<k1>jyAvAja<k2>jyA/-vAja	{@(jyā́-vāja),@} {@jiā́-vāja,@}¦ 
+3591 new <L>3585<pc>0503<k1>jyAvAja<k2>jyA/-vAja, jiA/-vAja	{@(jyā́-vāja),@} {@jiā́-vāja,@}¦ 
+;
+3593 old <L>3587<pc>0503<k1>jyezWa<k2>jye/zWa, jie/zWa	{@jyéṣṭha,@} {@jiéṣṭha,@}¦ 
+3593 new <L>3587<pc>0503<k1>jyezWa<k2>jye/zWa, jie/zWa	{@jyéṣṭha,@} {@jiéṣṭha,@}¦ 
+;
+3598 old <L>3592<pc>0503<k1>jyok<k2>jyo/k, jio/k	{@jyók,@} {@jiók,@}¦ 
+3598 new <L>3592<pc>0503<k1>jyok<k2>jyo/k, jio/k	{@jyók,@} {@jiók,@}¦ 
+;
+3655 old <L>3649<pc>0520<k1>tanUpA<k2>tanU-pA/, tanU-pa/a	{@tanū-pā́,@} {@tanū-páa,@}¦ 
+3655 new <L>3649<pc>0520<k1>tanUpA<k2>tanU-pA/, tanU-pa/a	{@tanū-pā́,@} {@tanū-páa,@}¦ 
+;
+3691 old <L>3685<pc>0525<k1>tar<k2>tar, tir, tur	{@√tar,@} {@√tir,@} {@√tur.@}¦ 
+3691 new <L>3685<pc>0525<k1>tar<k2>tar, tir, tur	{@√tar,@} {@√tir,@} {@√tur.@}¦ 
+;
+3713 old <L>3707<pc>0531<k1>tarzyAvat<k2>tarzyA/vat	{@(tarṣyā́vat),@} {@tarṣiā́vat,@}¦ 
+3713 new <L>3707<pc>0531<k1>tarzyAvat<k2>tarzyA/vat, tarziA/vat	{@(tarṣyā́vat),@} {@tarṣiā́vat,@}¦ 
+;
+3742 old <L>3736<pc>0533<k1>tAnva<k2>tA/nva<h>1	<hom>1.</hom> {@(tā́nva),@} {@tā́nua,@}¦ 
+3742 new <L>3736<pc>0533<k1>tAnva<k2>tA/nva, tA/nua<h>1	<hom>1.</hom> {@(tā́nva),@} {@tā́nua,@}¦ 
+;
+3743 old <L>3737<pc>0533<k1>tanva<k2>ta/nva<h>2	<hom>2.</hom> {@(tánva),@} {@tā́nua,@}¦ 
+3743 new <L>3737<pc>0533<k1>tanva<k2>ta/nva, tA/nua<h>2	<hom>2.</hom> {@(tánva),@} {@tā́nua,@}¦ 
+;
+3744 old <L>3738<pc>0533<k1>tAnva<k2>tA/nva<h>3	<hom>3.</hom> {@(tā́nva),@} {@tā́nua,@}¦ 
+3744 new <L>3738<pc>0533<k1>tAnva<k2>tA/nva, tA/nua<h>3	<hom>3.</hom> {@(tā́nva),@} {@tā́nua,@}¦ 
+;
+3769 old <L>3763<pc>0536<k1>tiroahnya<k2>tiro/ahnya	{@(tiróahnya),@} {@tirásahnia,@} {@tirásahnya,@}¦ 
+3769 new <L>3763<pc>0536<k1>tiroahnya<k2>tiro/ahnya, tira/sahnia, tira/sahnya	{@(tiróahnya),@} {@tirásahnia,@} {@tirásahnya,@}¦ 
+;
+3770 old <L>3764<pc>0536<k1>tiryac<k2>tirya/c	{@tiryác@} oder {@tiri-ác,@} schwach tiraśc,¦ 
+3770 new <L>3764<pc>0536<k1>tiryac<k2>tirya/c, tiri-a/c	{@tiryác@} oder {@tiri-ác,@} schwach tiraśc,¦ 
+;
+3773 old <L>3767<pc>0537<k1>tizya<k2>tizya^	{@(tiṣyà),@} {@tiṣía,@}¦ 
+3773 new <L>3767<pc>0537<k1>tizya<k2>tizya^, tizi/a	{@(tiṣyà),@} {@tiṣía,@}¦ 
+;
+3783 old <L>3777<pc>0538<k1>tugrya<k2>tu/grya	{@(túgrya),@} {@túgria,@}¦ 
+3783 new <L>3777<pc>0538<k1>tugrya<k2>tu/grya, tu/gria	{@(túgrya),@} {@túgria,@}¦ 
+;
+3784 old <L>3778<pc>0538<k1>tugryAvfD<k2>tugryA-vf/D	{@(tugryā-vṛ́dh),@} {@tugriā-vṛ́dh,@}¦ 
+3784 new <L>3778<pc>0538<k1>tugryAvfD<k2>tugryA-vf/D, tugriA-vf/D	{@(tugryā-vṛ́dh),@} {@tugriā-vṛ́dh,@}¦ 
+;
+3857 old <L>3851<pc>0545<k1>tuvyojas<k2>tuvy-o/jas	{@(tuvy-ójas),@} {@tuvi-ójas,@}¦ 
+3857 new <L>3851<pc>0545<k1>tuvyojas<k2>tuvy-o/jas, tuvi-o/jas	{@(tuvy-ójas),@} {@tuvi-ójas,@}¦ 
+;
+3867 old <L>3861<pc>0546<k1>tUrRyarTa<k2>tU/rRy-arTa	{@(tū́rṇy-artha),@} {@tū́rṇi-artha,@}¦ 
+3867 new <L>3861<pc>0546<k1>tUrRyarTa<k2>tU/rRy-arTa, tU/rRi-arTa	{@(tū́rṇy-artha),@} {@tū́rṇi-artha,@}¦ 
+;
+3887 old <L>3881<pc>0549<k1>tfptAMSu<k2>tfptA/MSu	{@(tṛptā́ṃśu),@} {@tṛptá-aṃśu,@}¦ 
+3887 new <L>3881<pc>0549<k1>tfptAMSu<k2>tfptA/MSu, tfpta/-aMSu	{@(tṛptā́ṃśu),@} {@tṛptá-aṃśu,@}¦ 
+;
+3910 old <L>3904<pc>0552<k1>tOgrya<k2>tOgrya/	{@(taugryá),@} {@taugriá,@}¦ 
+3910 new <L>3904<pc>0552<k1>tOgrya<k2>tOgrya/, tOgria/	{@(taugryá),@} {@taugriá,@}¦ 
+;
+3913 old <L>3907<pc>0552<k1>tya<k2>tya/, tia/	{@tyá,@} {@tiá,@}¦ 
+3913 new <L>3907<pc>0552<k1>tya<k2>tya/, tia/	{@tyá,@} {@tiá,@}¦ 
+;
+3921 old <L>3915<pc>0554<k1>trayayAyya<k2>trayayA/yya	{@(trayayā́yya),@} {@trayayā́yia,@}¦ 
+3921 new <L>3915<pc>0554<k1>trayayAyya<k2>trayayA/yya, trayayA/yia	{@(trayayā́yya),@} {@trayayā́yia,@}¦ 
+;
+3949 old <L>3943<pc>0558<k1>tripastya<k2>tripastya/	{@(tripastyá),@} {@tripastiá,@}¦ 
+3949 new <L>3943<pc>0558<k1>tripastya<k2>tripastya/, tripastia/	{@(tripastyá),@} {@tripastiá,@}¦ 
+;
+3976 old <L>3970<pc>0560<k1>treDa<k2>treDA/, trayaDA/	{@tredhā́,@} {@trayadhā́,@}¦ 
+3976 new <L>3970<pc>0560<k1>treDa<k2>treDA/, trayaDA/	{@tredhā́,@} {@trayadhā́,@}¦ 
+;
+3980 old <L>3974<pc>0561<k1>tryanIka<k2>tryanIka/	{@(tryanīká),@} {@tri-anīká,@}¦ 
+3980 new <L>3974<pc>0561<k1>tryanIka<k2>tryanIka/, tri-anIka/	{@(tryanīká),@} {@tri-anīká,@}¦ 
+;
+3981 old <L>3975<pc>0561<k1>tryambaka<k2>trya^mbaka	{@(tryàmbaka),@} {@trí-ambaka,@}¦ 
+3981 new <L>3975<pc>0561<k1>tryambaka<k2>trya^mbaka, tri/-ambaka	{@(tryàmbaka),@} {@trí-ambaka,@}¦ 
+;
+3982 old <L>3976<pc>0561<k1>tryaruRa<k2>trya^ruRa	{@(tryàruṇa),@} {@trí-aruṇa,@}¦ 
+3982 new <L>3976<pc>0561<k1>tryaruRa<k2>trya^ruRa, tri/-aruRa	{@(tryàruṇa),@} {@trí-aruṇa,@}¦ 
+;
+3983 old <L>3977<pc>0561<k1>tryaruza<k2>trya^ruza	{@(tryàruṣa),@} {@trí-aruṣa,@}¦ 
+3983 new <L>3977<pc>0561<k1>tryaruza<k2>trya^ruza, tri/-aruza	{@(tryàruṣa),@} {@trí-aruṣa,@}¦ 
+;
+3984 old <L>3978<pc>0561<k1>tryavi<k2>trya/vi	{@(tryávi),@} {@tri-ávi,@}¦ 
+3984 new <L>3978<pc>0561<k1>tryavi<k2>trya/vi, tri-a/vi	{@(tryávi),@} {@tri-ávi,@}¦ 
+;
+3985 old <L>3979<pc>0561<k1>tryASir<k2>tryA^Sir	{@(tryā̀śir),@} {@trí-āśir,@}¦ 
+3985 new <L>3979<pc>0561<k1>tryASir<k2>tryA^Sir, tri/-ASir	{@(tryā̀śir),@} {@trí-āśir,@}¦ 
+;
+3986 old <L>3980<pc>0561<k1>tryudAya<k2>tryudAya/	{@(tryudāyá),@} {@tri-udāyá,@}¦ 
+3986 new <L>3980<pc>0561<k1>tryudAya<k2>tryudAya/, tri-udAya/	{@(tryudāyá),@} {@tri-udāyá,@}¦ 
+;
+3987 old <L>3981<pc>0561<k1>tryuDan<k2>tryuDa/n	{@(tryudhán),@} {@tri-udhán,@}¦ 
+3987 new <L>3981<pc>0561<k1>tryuDan<k2>tryuDa/n, tri-uDa/n	{@(tryudhán),@} {@tri-udhán,@}¦ 
+;
+3988 old <L>3982<pc>0561<k1>tva<k2>tva, tua	{@tva,@} {@tua,@}¦ 
+3988 new <L>3982<pc>0561<k1>tva<k2>tva, tua	{@tva,@} {@tua,@}¦ 
+;
+3989 old <L>3983<pc>0561<k1>tva<k2>tva/, tua/<h>1	<hom>1.</hom> {@tvá,@} {@tuá,@}¦ 
+3989 new <L>3983<pc>0561<k1>tva<k2>tva/, tua/<h>1	<hom>1.</hom> {@tvá,@} {@tuá,@}¦ 
+;
+3990 old <L>3984<pc>0563<k1>tva<k2>tva/, tua/<h>2	<hom>2.</hom> {@tvá,@} {@tuá,@}¦ 
+3990 new <L>3984<pc>0563<k1>tva<k2>tva/, tua/<h>2	<hom>2.</hom> {@tvá,@} {@tuá,@}¦ 
+;
+4002 old <L>3996<pc>0566<k1>tvAdatta<k2>tvA/-datta, tuA/-datta	{@tvā́-datta,@} {@tuā́-datta,@}¦ 
+4002 new <L>3996<pc>0566<k1>tvAdatta<k2>tvA/-datta, tuA/-datta	{@tvā́-datta,@} {@tuā́-datta,@}¦ 
+;
+4004 old <L>3998<pc>0566<k1>tvAdUta<k2>tvA/-dUta, tuA/-dUta	{@tvā́-dūta,@} {@tuā́-dūta,@}¦ 
+4004 new <L>3998<pc>0566<k1>tvAdUta<k2>tvA/-dUta, tuA/-dUta	{@tvā́-dūta,@} {@tuā́-dūta,@}¦ 
+;
+4005 old <L>3999<pc>0566<k1>tvAnid<k2>tvA-ni/d	{@(tvā-níd),@} {@tuā-níd,@}¦ 
+4005 new <L>3999<pc>0566<k1>tvAnid<k2>tvA-ni/d, tuA-ni/d	{@(tvā-níd),@} {@tuā-níd,@}¦ 
+;
+4006 old <L>4000<pc>0566<k1>tvAy<k2>tvAy, tuAy	{@√tvāy,@} {@√tuāy@}¦ 
+4006 new <L>4000<pc>0566<k1>tvAy<k2>tvAy, tuAy	{@√tvāy,@} {@√tuāy@}¦ 
+;
+4007 old <L>4001<pc>0566<k1>tvAyA<k2>tvAyA/, tuAyA/	{@tvāyā́,@} {@tuāyā́,@}¦ 
+4007 new <L>4001<pc>0566<k1>tvAyA<k2>tvAyA/, tuAyA/	{@tvāyā́,@} {@tuāyā́,@}¦ 
+;
+4008 old <L>4002<pc>0566<k1>tvAyu<k2>tvAyu/, tuAyu/	{@tvāyú,@} {@tuāyú,@}¦ 
+4008 new <L>4002<pc>0566<k1>tvAyu<k2>tvAyu/, tuAyu/	{@tvāyú,@} {@tuāyú,@}¦ 
+;
+4009 old <L>4003<pc>0566<k1>tvAvat<k2>tvA/vat, tuA/vat	{@tvā́vat,@} {@tuā́vat,@}¦ 
+4009 new <L>4003<pc>0566<k1>tvAvat<k2>tvA/vat, tuA/vat	{@tvā́vat,@} {@tuā́vat,@}¦ 
+;
+4010 old <L>4004<pc>0566<k1>tvAvasu<k2>tvA/-vasu	{@(tvā́-vasu),@} {@tuā́-vasu,@}¦ 
+4010 new <L>4004<pc>0566<k1>tvAvasu<k2>tvA/-vasu, tuA/-vasu	{@(tvā́-vasu),@} {@tuā́-vasu,@}¦ 
+;
+4012 old <L>4006<pc>0567<k1>tvAzwra<k2>tvAzwra/, tvAzwara/	{@tvāṣṭrá,@} {@tvāṣṭará,@}¦ 
+4012 new <L>4006<pc>0567<k1>tvAzwra<k2>tvAzwra/, tvAzwara/	{@tvāṣṭrá,@} {@tvāṣṭará,@}¦ 
+;
+4027 old <L>4021<pc>0568<k1>tvezita<k2>tve/zita	{@(tvéṣita),@} {@tuéṣita,@}¦ 
+4027 new <L>4021<pc>0568<k1>tvezita<k2>tve/zita, tue/zita	{@(tvéṣita),@} {@tuéṣita,@}¦ 
+;
+4029 old <L>4023<pc>0568<k1>tvezya<k2>tvezya^	{@(tveṣyà),@} {@tveṣía,@}¦ 
+4029 new <L>4023<pc>0568<k1>tvezya<k2>tvezya^, tvezi/a	{@(tveṣyà),@} {@tveṣía,@}¦ 
+;
+4030 old <L>4024<pc>0569<k1>tvota<k2>tvo/ta, tuo/ta, tuA/-Uta	{@tvóta,@} {@tuóta,@} {@tuā́-ūta,@}¦ 
+4030 new <L>4024<pc>0569<k1>tvota<k2>tvo/ta, tuo/ta, tuA/-Uta	{@tvóta,@} {@tuóta,@} {@tuā́-ūta,@}¦ 
+;
+4035 old <L>4029<pc>0569<k1>daMS<k2>daMS, daS	{@√daṃś,@} {@√daś@}¦ 
+4035 new <L>4029<pc>0569<k1>daMS<k2>daMS, daS	{@√daṃś,@} {@√daś@}¦ 
+;
+4052 old <L>4046<pc>0571<k1>dakzAyya<k2>dakzA/yya, dakzA/yia	{@dakṣā́yya,@} {@dakṣā́yia,@}¦ 
+4052 new <L>4046<pc>0571<k1>dakzAyya<k2>dakzA/yya, dakzA/yia	{@dakṣā́yya,@} {@dakṣā́yia,@}¦ 
+;
+4076 old <L>4070<pc>0574<k1>daDan<k2>daDa/n, da/Di	{@dadhán,@} {@dádhi,@}¦ 
+4076 new <L>4070<pc>0574<k1>daDan<k2>daDa/n, da/Di	{@dadhán,@} {@dádhi,@}¦ 
+;
+4085 old <L>4079<pc>0574<k1>daDyac<k2>daDya/c, daDi-a/c	{@dadhyác,@} {@dadhi-ác,@}¦ 
+4085 new <L>4079<pc>0574<k1>daDyac<k2>daDya/c, daDi-a/c	{@dadhyác,@} {@dadhi-ác,@}¦ 
+;
+4086 old <L>4080<pc>0575<k1>daDyASir<k2>da/DyASir	{@(dádhyāśir),@} {@dádhi-āśir,@}¦ 
+4086 new <L>4080<pc>0575<k1>daDyASir<k2>da/DyASir, da/Di-ASir	{@(dádhyāśir),@} {@dádhi-āśir,@}¦ 
+;
+4090 old <L>4084<pc>0575<k1>daB<k2>daB, damB	{@√dabh,@} {@√dambh,@}¦ 
+4090 new <L>4084<pc>0575<k1>daB<k2>daB, damB	{@√dabh,@} {@√dambh,@}¦ 
+;
+4093 old <L>4087<pc>0576<k1>daBya<k2>da/Bya	{@(dábhya),@} {@dábhia,@}¦ 
+4093 new <L>4087<pc>0576<k1>daBya<k2>da/Bya, da/Bia	{@(dábhya),@} {@dábhia,@}¦ 
+;
+4108 old <L>4101<pc>0578<k1>damya<k2>da/mya	{@(dámya),@} {@dámia,@}¦ 
+4108 new <L>4101<pc>0578<k1>damya<k2>da/mya, da/mia	{@(dámya),@} {@dámia,@}¦ 
+;
+4111 old <L>4104<pc>0578<k1>dar<k2>dar, dir	{@√dar,@} {@√dir@}¦ 
+4111 new <L>4104<pc>0578<k1>dar<k2>dar, dir	{@√dar,@} {@√dir@}¦ 
+;
+4117 old <L>4110<pc>0580<k1>darB<k2>darB, dfB	{@(√darbh,@} {@√dṛbh)@}¦ 
+4117 new <L>4110<pc>0580<k1>darB<k2>darB, dfB	{@(√darbh,@} {@√dṛbh)@}¦ 
+;
+4125 old <L>4118<pc>0580<k1>darSya<k2>da/rSya	{@(dárśya),@} {@dárśia,@}¦ 
+4125 new <L>4118<pc>0580<k1>darSya<k2>da/rSya, da/rSia	{@(dárśya),@} {@dárśia,@}¦ 
+;
+4128 old <L>4121<pc>0581<k1>daSakakzya<k2>da/Sa-kakzya	{@(dáśa-kakṣya),@} {@dáśa-kakṣia,@}¦ 
+4128 new <L>4121<pc>0581<k1>daSakakzya<k2>da/Sa-kakzya, da/Sa-kakzia	{@(dáśa-kakṣya),@} {@dáśa-kakṣia,@}¦ 
+;
+4139 old <L>4132<pc>0582<k1>daSamAsya<k2>da/SamAsya	{@(dáśamāsya),@} {@dáśamāsia,@}¦ 
+4139 new <L>4132<pc>0582<k1>daSamAsya<k2>da/SamAsya, da/SamAsia	{@(dáśamāsya),@} {@dáśamāsia,@}¦ 
+;
+4156 old <L>4149<pc>0583<k1>daSoRya<k2>da/SoRya	{@(dáśoṇya),@} {@dáśoṇia,@}¦ 
+4156 new <L>4149<pc>0583<k1>daSoRya<k2>da/SoRya, da/SoRia	{@(dáśoṇya),@} {@dáśoṇia,@}¦ 
+;
+4163 old <L>4156<pc>0584<k1>dasmya<k2>da/smya	{@(dásmya),@} {@dásmia,@}¦ 
+4163 new <L>4156<pc>0584<k1>dasmya<k2>da/smya, da/smia	{@(dásmya),@} {@dásmia,@}¦ 
+;
+4189 old <L>4182<pc>0594<k1>dAnApnas<k2>dAnA/pnas	{@(dānā́pnas),@} {@dāná-apnas,@}¦ 
+4189 new <L>4182<pc>0594<k1>dAnApnas<k2>dAnA/pnas, dAna/-apnas	{@(dānā́pnas),@} {@dāná-apnas,@}¦ 
+;
+4196 old <L>4189<pc>0595<k1>dAnOkas<k2>dAnO/kas	{@(dānaúkas),@} {@dāaná-okas,@}¦ 
+4196 new <L>4189<pc>0595<k1>dAnOkas<k2>dAnO/kas, dAana/-okas	{@(dānaúkas),@} {@dāaná-okas,@}¦ 
+;
+4198 old <L>4191<pc>0595<k1>dABya<k2>dABya	{@(dābhya),@} {@dābhia,@}¦ 
+4198 new <L>4191<pc>0595<k1>dABya<k2>dABya, dABia	{@(dābhya),@} {@dābhia,@}¦ 
+;
+4207 old <L>4200<pc>0596<k1>dArBya<k2>dArBya/	{@(dārbhyá),@} {@dārbhiá,@}¦ 
+4207 new <L>4200<pc>0596<k1>dArBya<k2>dArBya/, dArBia/	{@(dārbhyá),@} {@dārbhiá,@}¦ 
+;
+4214 old <L>4206<pc>0597<k1>dASvaDvara<k2>dASva^Dvara	{@(dāśvàdhvara),@} {@dāśú-adhvara,@}¦ 
+4214 new <L>4206<pc>0597<k1>dASvaDvara<k2>dASva^Dvara, dASu/-aDvara	{@(dāśvàdhvara),@} {@dāśú-adhvara,@}¦ 
+;
+4215 old <L>4207<pc>0597<k1>dASvas<k2>dASva/s, dASua/s	{@dāśvás,@} {@dāśuás,@}¦ 
+4215 new <L>4207<pc>0597<k1>dASvas<k2>dASva/s, dASua/s	{@dāśvás,@} {@dāśuás,@}¦ 
+;
+4222 old <L>4214<pc>0599<k1>dAsvat<k2>dA/svat, da/asvat	{@dā́svat,@} {@dáasvat,@}¦ 
+4222 new <L>4214<pc>0599<k1>dAsvat<k2>dA/svat, da/asvat	{@dā́svat,@} {@dáasvat,@}¦ 
+;
+4231 old <L>4223<pc>0600<k1>diDizAyya<k2>diDizA/yya	{@(didhiṣā́yya),@} {@didhiṣā́yia,@}¦ 
+4231 new <L>4223<pc>0600<k1>diDizAyya<k2>diDizA/yya, diDizA/yia	{@(didhiṣā́yya),@} {@didhiṣā́yia,@}¦ 
+;
+4239 old <L>4231<pc>0601<k1>div<k2>di/v, dyu/, dyo/	{@dív,@} {@dyú,@} {@dyó,@}¦ 
+4239 new <L>4231<pc>0601<k1>div<k2>di/v, dyu/, dyo/	{@dív,@} {@dyú,@} {@dyó,@}¦ 
+;
+4257 old <L>4249<pc>0606<k1>divya<k2>divya/, divia/	{@divyá,@} {@diviá,@}¦ 
+4257 new <L>4249<pc>0606<k1>divya<k2>divya/, divia/	{@divyá,@} {@diviá,@}¦ 
+;
+4265 old <L>4257<pc>0610<k1>dIti<k2>dIti/, dI/diti	{@(dītí,@} {@dī́diti),@}¦ 
+4265 new <L>4257<pc>0610<k1>dIti<k2>dIti/, dI/diti	{@(dītí,@} {@dī́diti),@}¦ 
+;
+4266 old <L>4258<pc>0610<k1>dIdyagni<k2>dI/dyagni	{@(dī́dyagni),@} {@dī́di-agni,@}¦ 
+4266 new <L>4258<pc>0610<k1>dIdyagni<k2>dI/dyagni, dI/di-agni	{@(dī́dyagni),@} {@dī́di-agni,@}¦ 
+;
+4274 old <L>4266<pc>0611<k1>dIrGajihvya<k2>dIrGa-jihvya^, dIrGa-jihvi/a	{@(dīrgha-jihvyà),@} {@dīrgha-jihvía,@}¦ 
+4274 new <L>4266<pc>0611<k1>dIrGajihvya<k2>dIrGa-jihvya^, dIrGa-jihvi/a	{@(dīrgha-jihvyà),@} {@dīrgha-jihvía,@}¦ 
+;
+4292 old <L>4284<pc>0612<k1>du<k2>du<h>2	(<hom>2.</hom> {@√du@}* oder {@√dū@}*),¦ 
+4292 new <L>4284<pc>0612<k1>du<k2>du, dU<h>2	(<hom>2.</hom> {@√du@}* oder {@√dū@}*),¦ 
+;
+4309 old <L>4301<pc>0613<k1>durAvya<k2>dur-A/vya	{@(dur-ā́vya),@} {@dur-ā́via,@}¦ 
+4309 new <L>4301<pc>0613<k1>durAvya<k2>dur-A/vya, dur-A/via	{@(dur-ā́vya),@} {@dur-ā́via,@}¦ 
+;
+4345 old <L>4337<pc>0616<k1>durya<k2>du/rya, du/ria	{@dúrya,@} {@dúria,@}¦ 
+4345 new <L>4337<pc>0616<k1>durya<k2>du/rya, du/ria	{@dúrya,@} {@dúria,@}¦ 
+;
+4370 old <L>4362<pc>0618<k1>duHSAsu<k2>duH-SA/su	{@duḥ-śā́su@} oder {@duḥ-śā́sus,@}¦ 
+4370 new <L>4362<pc>0618<k1>duHSAsu<k2>duH-SA/su, duH-SA/sus	{@duḥ-śā́su@} oder {@duḥ-śā́sus,@}¦ 
+;
+4382 old <L>4374<pc>0619<k1>duzvapnya<k2>duzva/pnya	{@(duṣvápnya),@} {@duṣvápnia,@}¦ 
+4382 new <L>4374<pc>0619<k1>duzvapnya<k2>duzva/pnya, duzva/pnia	{@(duṣvápnya),@} {@duṣvápnia,@}¦ 
+;
+4385 old <L>4377<pc>0619<k1>duh<k2>duh, duG	{@√duh,@} {@√dugh@}¦ 
+4385 new <L>4377<pc>0619<k1>duh<k2>duh, duG	{@√duh,@} {@√dugh@}¦ 
+;
+4398 old <L>4387<pc>0624<k1>dUtya<k2>dUtya^	{@(dūtyà),@} {@dūtía,@}¦ 
+4398 new <L>4387<pc>0624<k1>dUtya<k2>dUtya^, dUti/a	{@(dūtyà),@} {@dūtía,@}¦ 
+;
+4400 old <L>4389<pc>0625<k1>dUraAdiS<k2>dUra/-AdiS	{@(dūrá-ādiś),@} {@dūráy-ādiś,@}¦ 
+4400 new <L>4389<pc>0625<k1>dUraAdiS<k2>dUra/-AdiS, dUra/y-AdiS	{@(dūrá-ādiś),@} {@dūráy-ādiś,@}¦ 
+;
+4401 old <L>4390<pc>0625<k1>dUraADI<k2>dUra/-ADI	{@(dūrá-ādhī),@} {@dūráy-ādhī,@}¦ 
+4401 new <L>4390<pc>0625<k1>dUraADI<k2>dUra/-ADI, dUra/y-ADI	{@(dūrá-ādhī),@} {@dūráy-ādhī,@}¦ 
+;
+4402 old <L>4391<pc>0625<k1>dUraupabda<k2>dUra/-upabda	{@(dūrá-upabda),@} {@dūráy-upabda (?),@}¦ 
+4402 new <L>4391<pc>0625<k1>dUraupabda<k2>dUra/-upabda, dUra/y-upabda ?	{@(dūrá-upabda),@} {@dūráy-upabda (?),@}¦ 
+;
+4404 old <L>4393<pc>0625<k1>dUreanta<k2>dUre/-anta	{@(dūré-anta),@} {@dūráy-anta,@}¦ 
+4404 new <L>4393<pc>0625<k1>dUreanta<k2>dUre/-anta, dUra/y-anta	{@(dūré-anta),@} {@dūráy-anta,@}¦ 
+;
+4405 old <L>4394<pc>0625<k1>dUrearTa<k2>dUre/-arTa	{@(dūré-artha),@} {@dūráy-artha,@}¦ 
+4405 new <L>4394<pc>0625<k1>dUrearTa<k2>dUre/-arTa, dUra/y-arTa	{@(dūré-artha),@} {@dūráy-artha,@}¦ 
+;
+4423 old <L>4412<pc>0628<k1>dfSenya<k2>dfSe/nya	{@(dṛśénya),@} {@dṛśénia,@}¦ 
+4423 new <L>4412<pc>0628<k1>dfSenya<k2>dfSe/nya, dfSe/nia	{@(dṛśénya),@} {@dṛśénia,@}¦ 
+;
+4424 old <L>4413<pc>0628<k1>dfSya<k2>df/Sya	{@(dṛ́śya),@} {@dṛ́śia,@}¦ 
+4424 new <L>4413<pc>0628<k1>dfSya<k2>df/Sya, df/Sia	{@(dṛ́śya),@} {@dṛ́śia,@}¦ 
+;
+4427 old <L>4416<pc>0629<k1>dfzwavIrya<k2>dfzwa/-vIrya	{@(dṛṣṭá-vīrya),@} {@dṛṣṭá-vīria,@}¦ 
+4427 new <L>4416<pc>0629<k1>dfzwavIrya<k2>dfzwa/-vIrya, dfzwa/-vIria	{@(dṛṣṭá-vīrya),@} {@dṛṣṭá-vīria,@}¦ 
+;
+4428 old <L>4417<pc>0629<k1>dfh<k2>dfh, dfMh	{@√dṛh,@} {@√dṛṃh,@}¦ 
+4428 new <L>4417<pc>0629<k1>dfh<k2>dfh, dfMh	{@√dṛh,@} {@√dṛṃh,@}¦ 
+;
+4499 old <L>4488<pc>0638<k1>devedDa<k2>deve/dDa, deva/-idDa	{@devéddha,@} {@devá-iddha,@}¦ 
+4499 new <L>4488<pc>0638<k1>devedDa<k2>deve/dDa, deva/-idDa	{@devéddha,@} {@devá-iddha,@}¦ 
+;
+4501 old <L>4490<pc>0638<k1>devya<k2>devya^	{@[devyà],@} {@devía,@}¦ 
+4501 new <L>4490<pc>0638<k1>devya<k2>devya^, devi/a	{@[devyà],@} {@devía,@}¦ 
+;
+4504 old <L>4493<pc>0638<k1>dezWa<k2>de/zWa	{@(déṣṭha),@} {@dáyiṣṭha@} (oder {@dáïṣṭha@}),¦ 
+4504 new <L>4493<pc>0638<k1>dezWa<k2>de/zWa, da/yizWa, da/ïzWa	{@(déṣṭha),@} {@dáyiṣṭha@} (oder {@dáïṣṭha@}),¦ 
+;
+4505 old <L>4494<pc>0639<k1>dezRa<k2>dezRa/, daïzRa/	{@deṣṇá,@} {@daïṣṇá,@}¦ 
+4505 new <L>4494<pc>0639<k1>dezRa<k2>dezRa/, daizRa/	{@deṣṇá,@} {@daïṣṇá,@}¦ 
+;
+4509 old <L>4498<pc>0639<k1>dEvodAsa<k2>dE/vodAsa	{@(daívodāsa),@} {@daívodaasa,@}¦ 
+4509 new <L>4498<pc>0639<k1>dEvodAsa<k2>dE/vodAsa, dE/vodaasa	{@(daívodāsa),@} {@daívodaasa,@}¦ 
+;
+4510 old <L>4499<pc>0639<k1>dEvya<k2>dE/vya, dE/via	{@daívya,@} {@daívia,@}¦ 
+4510 new <L>4499<pc>0639<k1>dEvya<k2>dE/vya, dE/via	{@daívya,@} {@daívia,@}¦ 
+;
+4541 old <L>4530<pc>0644<k1>dyUtya<k2>dyUtya^, dyUti/a	{@(dyūtyà,@} {@dyūtía),@}¦ 
+4541 new <L>4530<pc>0644<k1>dyUtya<k2>dyUtya^, dyUti/a	{@(dyūtyà,@} {@dyūtía),@}¦ 
+;
+4542 old <L>4531<pc>0644<k1>dyo<k2>dyo/, dio/	{@dyó,@} {@dió,@}¦ 
+4542 new <L>4531<pc>0644<k1>dyo<k2>dyo/, dio/	{@dyó,@} {@dió,@}¦ 
+;
+4543 old <L>4532<pc>0644<k1>dyotana<k2>dyo/tana, dyotana/, dio/tana	{@dyótana,@} {@dyotaná,@} {@diótana@}¦ 
+4543 new <L>4532<pc>0644<k1>dyotana<k2>dyo/tana, dyotana/, dio/tana	{@dyótana,@} {@dyotaná,@} {@diótana@}¦ 
+;
+4593 old <L>4582<pc>0649<k1>droRya<k2>dro/Rya	{@(dróṇya),@} {@dróṇia,@}¦ 
+4593 new <L>4582<pc>0649<k1>droRya<k2>dro/Rya, dro/Ria	{@(dróṇya),@} {@dróṇia,@}¦ 
+;
+4594 old <L>4583<pc>0649<k1>droRyaSva<k2>droRya^Sva	{@(droṇyàśva),@} {@droṇī́-aśva,@}¦ 
+4594 new <L>4583<pc>0649<k1>droRyaSva<k2>droRya^Sva, droRI/-aSva	{@(droṇyàśva),@} {@droṇī́-aśva,@}¦ 
+;
+4595 old <L>4584<pc>0649<k1>drvanna<k2>drva^nna	{@(drvànna),@} {@drú-anna,@}¦ 
+4595 new <L>4584<pc>0649<k1>drvanna<k2>drva^nna, dru/-anna	{@(drvànna),@} {@drú-anna,@}¦ 
+;
+4596 old <L>4585<pc>0649<k1>dva<k2>dva/, dua/	{@dvá,@} {@duá,@}¦ 
+4596 new <L>4585<pc>0649<k1>dva<k2>dva/, dua/	{@dvá,@} {@duá,@}¦ 
+;
+4605 old <L>4594<pc>0650<k1>dvaras<k2>dvaras	{@(dvaras)@} für {@dhvaras,@}¦ 
+4605 new <L>4594<pc>0650<k1>dvaras<k2>dvaras, Dvaras	{@(dvaras)@} für {@dhvaras,@}¦ 
+;
+4606 old <L>4595<pc>0650<k1>dvari<k2>dvari/	{@dvarí@} oder {@dvarín,@}¦ 
+4606 new <L>4595<pc>0650<k1>dvari<k2>dvari/, dvari/n	{@dvarí@} oder {@dvarín,@}¦ 
+;
+4608 old <L>4597<pc>0650<k1>dvAdaSan<k2>dvA/-daSan, duA/daSan	{@dvā́-daśan,@} {@duā́daśan,@}¦ 
+4608 new <L>4597<pc>0650<k1>dvAdaSan<k2>dvA/-daSan, duA/daSan	{@dvā́-daśan,@} {@duā́daśan,@}¦ 
+;
+4610 old <L>4599<pc>0650<k1>dvAdaSAra<k2>dvA/daSAra	{@(dvā́daśāra),@} {@duā́daśāra,@}¦ 
+4610 new <L>4599<pc>0650<k1>dvAdaSAra<k2>dvA/daSAra, duA/daSAra	{@(dvā́daśāra),@} {@duā́daśāra,@}¦ 
+;
+4622 old <L>4611<pc>0652<k1>dvibanDu<k2>dvi-ba/nDu	{@dvi-bándhu,@} oder {@dui-bándhu,@}¦ 
+4622 new <L>4611<pc>0652<k1>dvibanDu<k2>dvi-ba/nDu, dui-ba/nDu	{@dvi-bándhu,@} oder {@dui-bándhu,@}¦ 
+;
+4652 old <L>4641<pc>0656<k1>Danya<k2>Da/nya, Da/nia	{@dhánya,@} {@dhánia,@}¦ 
+4652 new <L>4641<pc>0656<k1>Danya<k2>Da/nya, Da/nia	{@dhánya,@} {@dhánia,@}¦ 
+;
+4655 old <L>4644<pc>0657<k1>Danvacyut<k2>Danva-cyu/t	{@(dhanva-cyút),@} {@dhanua-cyút,@}¦ 
+4655 new <L>4644<pc>0657<k1>Danvacyut<k2>Danva-cyu/t, Danua-cyu/t	{@(dhanva-cyút),@} {@dhanua-cyút,@}¦ 
+;
+4657 old <L>4646<pc>0657<k1>Danvan<k2>Da/nvan, Da/nuan<h>2	<hom>2.</hom> {@dhánvan,@} {@dhánuan,@}¦ 
+4657 new <L>4646<pc>0657<k1>Danvan<k2>Da/nvan, Da/nuan<h>2	<hom>2.</hom> {@dhánvan,@} {@dhánuan,@}¦ 
+;
+4660 old <L>4649<pc>0657<k1>Dam<k2>Dam, DmA	{@√dham,@} {@√dhmā,@}¦ 
+4660 new <L>4649<pc>0657<k1>Dam<k2>Dam, DmA	{@√dham,@} {@√dhmā,@}¦ 
+;
+4685 old <L>4674<pc>0677<k1>DAnya<k2>DAnya^	{@(dhānyà),@} {@dhānía,@}¦ 
+4685 new <L>4674<pc>0677<k1>DAnya<k2>DAnya^, DAni/a	{@(dhānyà),@} {@dhānía,@}¦ 
+;
+4686 old <L>4675<pc>0677<k1>DAnyAkft<k2>DAnyAkf/t	{@(dhānyākṛ́t),@} {@dhāniākṛ́t,@}¦ 
+4686 new <L>4675<pc>0677<k1>DAnyAkft<k2>DAnyAkf/t, DAniAkf/t	{@(dhānyākṛ́t),@} {@dhāniākṛ́t,@}¦ 
+;
+4690 old <L>4679<pc>0678<k1>DAmasac<k2>DAma-sa/c	{@dhāma-sác,@} stark {@dhāma-sā́c,@}¦ 
+4690 new <L>4679<pc>0678<k1>DAmasac<k2>DAma-sa/c, DAma-sA/c	{@dhāma-sác,@} stark {@dhāma-sā́c,@}¦ 
+;
+4719 old <L>4708<pc>0683<k1>DizRya<k2>Di/zRya	{@(dhíṣṇya),@} {@dhíṣṇia,@}¦ 
+4719 new <L>4708<pc>0683<k1>DizRya<k2>Di/zRya, Di/zRia	{@(dhíṣṇya),@} {@dhíṣṇia,@}¦ 
+;
+4728 old <L>4717<pc>0687<k1>DIrya<k2>DIrya^	{@(dhīryà),@} {@dhīría,@}¦ 
+4728 new <L>4717<pc>0687<k1>DIrya<k2>DIrya^, DIri/a	{@(dhīryà),@} {@dhīría,@}¦ 
+;
+4761 old <L>4750<pc>0695<k1>DfzRvojas<k2>DfzRv-o^jas	{@(dhṛṣṇv-òjas),@} {@dhṛṣṇú-ojas,@}¦ 
+4761 new <L>4750<pc>0695<k1>DfzRvojas<k2>DfzRv-o^jas, DfzRu/-ojas	{@(dhṛṣṇv-òjas),@} {@dhṛṣṇú-ojas,@}¦ 
+;
+4766 old <L>4755<pc>0696<k1>DezWa<k2>De/zWa	{@(dhéṣṭha),@} {@dháiṣṭha,@}¦ 
+4766 new <L>4755<pc>0696<k1>DezWa<k2>De/zWa, Da/izWa	{@(dhéṣṭha),@} {@dháiṣṭha,@}¦ 
+;
+4781 old <L>4770<pc>0697<k1>Dru<k2>Dru/	{@(dhrú),@} {@dhrút,@}¦ 
+4781 new <L>4770<pc>0697<k1>Dru<k2>Dru/, Dru/t	{@(dhrú),@} {@dhrút,@}¦ 
+;
+4793 old <L>4782<pc>0698<k1>Dvanya<k2>Dvanya^	{@(dhvanyà),@} {@dhvanía,@}¦ 
+4793 new <L>4782<pc>0698<k1>Dvanya<k2>Dvanya^, Dvani/a	{@(dhvanyà),@} {@dhvanía,@}¦ 
+;
+4802 old <L>4791<pc>0700<k1>Dvf<k2>Dvf, Dru	{@√dhvṛ,@} {@√dhru,@}¦ 
+4802 new <L>4791<pc>0700<k1>Dvf<k2>Dvf, Dru	{@√dhvṛ,@} {@√dhru,@}¦ 
+;
+4835 old <L>4824<pc>0707<k1>nantva<k2>na/ntva	{@(nántva),@} {@nántua,@}¦ 
+4835 new <L>4824<pc>0707<k1>nantva<k2>na/ntva, na/ntua	{@(nántva),@} {@nántua,@}¦ 
+;
+4843 old <L>4832<pc>0708<k1>naBanya<k2>naBanya^	{@(nabhanyà),@} {@nabhanía,@}¦ 
+4843 new <L>4832<pc>0708<k1>naBanya<k2>naBanya^, naBani/a	{@(nabhanyà),@} {@nabhanía,@}¦ 
+;
+4858 old <L>4847<pc>0712<k1>namasya<k2>namasya^	{@(namasyà),@} {@namasía,@}¦ 
+4858 new <L>4847<pc>0712<k1>namasya<k2>namasya^, namasi/a	{@(namasyà),@} {@namasía,@}¦ 
+;
+4875 old <L>4864<pc>0713<k1>narya<k2>na/rya, na/ria	{@nárya,@} {@nária,@}¦ 
+4875 new <L>4864<pc>0713<k1>narya<k2>na/rya, na/ria	{@nárya,@} {@nária,@}¦ 
+;
+4876 old <L>4865<pc>0714<k1>naryApas<k2>na/ryApas	{@(náryāpas),@} {@náriāpas,@}¦ 
+4876 new <L>4865<pc>0714<k1>naryApas<k2>na/ryApas, na/riApas	{@(náryāpas),@} {@náriāpas,@}¦ 
+;
+4886 old <L>4875<pc>0715<k1>navavAstva<k2>na/va-vAstva, na/va-vAstua	{@náva-vāstva,@} {@náva-vāstua,@}¦ 
+4886 new <L>4875<pc>0715<k1>navavAstva<k2>na/va-vAstva, na/va-vAstua	{@náva-vāstva,@} {@náva-vāstua,@}¦ 
+;
+4895 old <L>4884<pc>0716<k1>navya<k2>na/vya, na/via<h>1	<hom>1.</hom> {@návya,@} {@návia,@}¦ 
+4895 new <L>4884<pc>0716<k1>navya<k2>na/vya, na/via<h>1	<hom>1.</hom> {@návya,@} {@návia,@}¦ 
+;
+4911 old <L>4900<pc>0721<k1>nahuzya<k2>nahuzya^	{@(nahuṣyà),@} {@nahuṣía,@}¦ 
+4911 new <L>4900<pc>0721<k1>nahuzya<k2>nahuzya^, nahuzi/a	{@(nahuṣyà),@} {@nahuṣía,@}¦ 
+;
+4918 old <L>4907<pc>0722<k1>nAdya<k2>nAdya/	{@(nādyá),@} {@nādiá,@}¦ 
+4918 new <L>4907<pc>0722<k1>nAdya<k2>nAdya/, nAdia/	{@(nādyá),@} {@nādiá,@}¦ 
+;
+4938 old <L>4927<pc>0725<k1>nAri<k2>nA/ri, nA/rI	{@nā́ri,@} {@nā́rī,@}¦ 
+4938 new <L>4927<pc>0725<k1>nAri<k2>nA/ri, nA/rI	{@nā́ri,@} {@nā́rī,@}¦ 
+;
+4940 old <L>4929<pc>0725<k1>nArmin<k2>nA/rmin	{@(nā́rmin),@} {@náarmin,@}¦ 
+4940 new <L>4929<pc>0725<k1>nArmin<k2>nA/rmin, na/armin	{@(nā́rmin),@} {@náarmin,@}¦ 
+;
+4941 old <L>4930<pc>0726<k1>nArya<k2>nArya/	{@(nāryá),@} {@nāriá,@}¦ 
+4941 new <L>4930<pc>0726<k1>nArya<k2>nArya/, nAria/	{@(nāryá),@} {@nāriá,@}¦ 
+;
+4945 old <L>4934<pc>0726<k1>nAvyA<k2>nAvyA^	{@(nāvyā̀),@} {@nāvíā,@}¦ 
+4945 new <L>4934<pc>0726<k1>nAvyA<k2>nAvyA^, nAvi/A	{@(nāvyā̀),@} {@nāvíā,@}¦ 
+;
+4946 old <L>4935<pc>0726<k1>nAsatya<k2>nA/satya, na/-asatya	{@nā́satya,@} {@ná-asatya,@}¦ 
+4946 new <L>4935<pc>0726<k1>nAsatya<k2>nA/satya, na/-asatya	{@nā́satya,@} {@ná-asatya,@}¦ 
+;
+4971 old <L>4959<pc>0728<k1>niRya<k2>niRya/, niRia/	{@niṇyá,@} {@niṇiá@}¦ 
+4971 new <L>4959<pc>0728<k1>niRya<k2>niRya/, niRia/	{@niṇyá,@} {@niṇiá@}¦ 
+;
+4979 old <L>4967<pc>0729<k1>nid<k2>nid, nind	{@√nid,@} {@√nind@}¦ 
+4979 new <L>4967<pc>0729<k1>nid<k2>nid, nind	{@√nid,@} {@√nind@}¦ 
+;
+4988 old <L>4976<pc>0730<k1>niDAnya<k2>niDAnya^	{@(nidhānyà),@} {@nidhānía,@}¦ 
+4988 new <L>4976<pc>0730<k1>niDAnya<k2>niDAnya^, niDAni/a	{@(nidhānyà),@} {@nidhānía,@}¦ 
+;
+4998 old <L>4986<pc>0731<k1>nindya<k2>ni/ndya	{@(níndya),@} {@níndia,@}¦ 
+4998 new <L>4986<pc>0731<k1>nindya<k2>ni/ndya, ni/ndia	{@(níndya),@} {@níndia,@}¦ 
+;
+5055 old <L>5042<pc>0736<k1>nizwya<k2>ni/zwya	{@(níṣṭya),@} {@níṣṭia,@}¦ 
+5055 new <L>5042<pc>0736<k1>nizwya<k2>ni/zwya, ni/zwia	{@(níṣṭya),@} {@níṣṭia,@}¦ 
+;
+5059 old <L>5046<pc>0736<k1>nizzah<k2>nizza/h	{@niṣṣáh,@} stark {@niṣṣā́h,@}¦ 
+5059 new <L>5046<pc>0736<k1>nizzah<k2>nizza/h, nizzA/h	{@niṣṣáh,@} stark {@niṣṣā́h,@}¦ 
+;
+5087 old <L>5074<pc>0742<k1>nIvyA<k2>nIvyA	{@(nīvyā),@} {@nīvíā,@}¦ 
+5087 new <L>5074<pc>0742<k1>nIvyA<k2>nIvyA, nIvi/A	{@(nīvyā),@} {@nīvíā,@}¦ 
+;
+5089 old <L>5076<pc>0742<k1>nu<k2>nu, nU<h>1	<hom>1.</hom> {@√nu,@} {@√nū,@}¦ 
+5089 new <L>5076<pc>0742<k1>nu<k2>nu, nU<h>1	<hom>1.</hom> {@√nu,@} {@√nū,@}¦ 
+;
+5091 old <L>5078<pc>0744<k1>nu<k2>nu/, nU/	{@nú,@} {@nū́@}¦ 
+5091 new <L>5078<pc>0744<k1>nu<k2>nu/, nU/	{@nú,@} {@nū́@}¦ 
+;
+5093 old <L>5081<pc>0747<k1>nU<k2>nU, nU/	{@√nū,@} {@√nū́@}¦ 
+5093 new <L>5081<pc>0747<k1>nU<k2>nU, nU/	{@√nū,@} {@√nū́@}¦ 
+;
+5110 old <L>5098<pc>0752<k1>nfpAyya<k2>nf-pA/yya	{@(nṛ-pā́yya),@} {@nṛ-pā́yia,@}¦ 
+5110 new <L>5098<pc>0752<k1>nfpAyya<k2>nf-pA/yya, nf-pA/yia	{@(nṛ-pā́yya),@} {@nṛ-pā́yia,@}¦ 
+;
+5125 old <L>5113<pc>0753<k1>nfzac<k2>nf-za/c	{@nṛ-ṣác,@} stark {@nṛ-ṣā́c,@}¦ 
+5125 new <L>5113<pc>0753<k1>nfzac<k2>nf-za/c, nf-zA/c	{@nṛ-ṣác,@} stark {@nṛ-ṣā́c,@}¦ 
+;
+5130 old <L>5118<pc>0753<k1>nfzah<k2>nf-za/h	{@nṛ-ṣáh,@} stark {@nṛ-ṣā́h,@}¦ 
+5130 new <L>5118<pc>0753<k1>nfzah<k2>nf-za/h, nf-zA/h	{@nṛ-ṣáh,@} stark {@nṛ-ṣā́h,@}¦ 
+;
+5134 old <L>5122<pc>0754<k1>nfzAhya<k2>nf-zA/hya, nf-zA/hia	{@nṛ-ṣā́hya,@} {@nṛ-ṣā́hia,@}¦ 
+5134 new <L>5122<pc>0754<k1>nfzAhya<k2>nf-zA/hya, nf-zA/hia	{@nṛ-ṣā́hya,@} {@nṛ-ṣā́hia,@}¦ 
+;
+5147 old <L>5135<pc>0755<k1>nemanniz<k2>nemann-i/z, neman-i/z	{@nemann-íṣ,@} {@neman-íṣ@}¦ 
+5147 new <L>5135<pc>0755<k1>nemanniz<k2>nemann-i/z, neman-i/z	{@nemann-íṣ,@} {@neman-íṣ@}¦ 
+;
+5158 old <L>5146<pc>0756<k1>nya<k2>nya/	{@(nyá),@} {@niá,@}¦ 
+5158 new <L>5146<pc>0756<k1>nya<k2>nya/, nia/	{@(nyá),@} {@niá,@}¦ 
+;
+5159 old <L>5147<pc>0756<k1>nyac<k2>nya^c	{@(nyàc),@} {@níac,@}¦ 
+5159 new <L>5147<pc>0756<k1>nyac<k2>nya^c, ni/ac	{@(nyàc),@} {@níac,@}¦ 
+;
+5160 old <L>5148<pc>0756<k1>nyaYcana<k2>nya/Ycana	{@(nyáñcana),@} {@niáñcana,@}¦ 
+5160 new <L>5148<pc>0756<k1>nyaYcana<k2>nya/Ycana, nia/Ycana	{@(nyáñcana),@} {@niáñcana,@}¦ 
+;
+5161 old <L>5149<pc>0756<k1>nyayana<k2>nya/yana	{@(nyáyana),@} {@niáyana,@}¦ 
+5161 new <L>5149<pc>0756<k1>nyayana<k2>nya/yana, nia/yana	{@(nyáyana),@} {@niáyana,@}¦ 
+;
+5162 old <L>5150<pc>0757<k1>nyarTa<k2>ny-arTa/	{@(ny-arthá),@} {@ni-arthá,@}¦ 
+5162 new <L>5150<pc>0757<k1>nyarTa<k2>ny-arTa/, ni-arTa/	{@(ny-arthá),@} {@ni-arthá,@}¦ 
+;
+;Warning please check
+5163 old <L>5151<pc>0758<k1>nyokas<k2>nyokas	{@(nyòkas),@} {@níokas,@}¦ 
+5163 new <L>5151<pc>0758<k1>nyokas<k2>nyo^kas, ni/okas	{@(nyòkas),@} {@níokas,@}¦ 
+;
+5164 old <L>5152<pc>0758<k1>nyocanI<k2>nyo/canI	{@(nyócanī),@} {@niócanī,@}¦ 
+5164 new <L>5152<pc>0758<k1>nyocanI<k2>nyo/canI, nio/canI	{@(nyócanī),@} {@niócanī,@}¦ 
+;
+5172 old <L>5160<pc>0758a<k1>pakzya<k2>pakzya^	{@(pakṣyà),@} {@pakṣía,@}¦ 
+5172 new <L>5160<pc>0758a<k1>pakzya<k2>pakzya^, pakzi/a	{@(pakṣyà),@} {@pakṣía,@}¦ 
+;
+5177 old <L>5165<pc>0759<k1>pacatya<k2>pacatya^	{@(pacatyà),@} {@pacatía,@}¦ 
+5177 new <L>5165<pc>0759<k1>pacatya<k2>pacatya^, pacati/a	{@(pacatyà),@} {@pacatía,@}¦ 
+;
+5229 old <L>5217<pc>0767<k1>paT<k2>paT, panT	{@(√path,@} {@√panth),@}¦ 
+5229 new <L>5217<pc>0767<k1>paT<k2>paT, panT	{@(√path,@} {@√panth),@}¦ 
+;
+5236 old <L>5224<pc>0768<k1>paTyA<k2>paTyA^	{@(pathyā̀),@} {@pathíā,@}¦ 
+5236 new <L>5224<pc>0768<k1>paTyA<k2>paTyA^, paTi/A	{@(pathyā̀),@} {@pathíā,@}¦ 
+;
+5238 old <L>5226<pc>0770<k1>pad<k2>pa/d	{@pád,@} stark {@pā́d,@}¦ 
+5238 new <L>5226<pc>0770<k1>pad<k2>pa/d, pA/d	{@pád,@} stark {@pā́d,@}¦ 
+;
+5245 old <L>5233<pc>0771<k1>padyA<k2>pa/dyA, pa/diA	{@pádyā,@} {@pádiā,@}¦ 
+5245 new <L>5233<pc>0771<k1>padyA<k2>pa/dyA, pa/diA	{@pádyā,@} {@pádiā,@}¦ 
+;
+5248 old <L>5236<pc>0772<k1>panayAyya<k2>panayA/yya	{@(panayā́yya),@} {@panayā́yia,@}¦ 
+5248 new <L>5236<pc>0772<k1>panayAyya<k2>panayA/yya, panayA/yia	{@(panayā́yya),@} {@panayā́yia,@}¦ 
+;
+5252 old <L>5240<pc>0772<k1>panAyya<k2>panA/yya	{@(panā́yya),@} {@panā́yia,@}¦ 
+5252 new <L>5240<pc>0772<k1>panAyya<k2>panA/yya, panA/yia	{@(panā́yya),@} {@panā́yia,@}¦ 
+;
+5257 old <L>5245<pc>0773<k1>panu<k2>panu/	{@panú@} oder {@panū́,@}¦ 
+5257 new <L>5245<pc>0773<k1>panu<k2>panu/, panU/	{@panú@} oder {@panū́,@}¦ 
+;
+5272 old <L>5260<pc>0775<k1>par<k2>par, pur<h>1	<hom>1.</hom> {@√par,@} {@√pur,@}¦ 
+5272 new <L>5260<pc>0775<k1>par<k2>par, pur<h>1	<hom>1.</hom> {@√par,@} {@√pur,@}¦ 
+;
+5277 old <L>5265<pc>0781<k1>paramajyA<k2>parama-jyA/, parama-jiA/	{@parama-jyā́,@} {@parama-jiā́,@}¦ 
+5277 new <L>5265<pc>0781<k1>paramajyA<k2>parama-jyA/, parama-jiA/	{@parama-jyā́,@} {@parama-jiā́,@}¦ 
+;
+5301 old <L>5289<pc>0785<k1>paricakzya<k2>parica/kzya	{@(paricákṣya),@} {@paricákṣia@}¦ 
+5301 new <L>5289<pc>0785<k1>paricakzya<k2>parica/kzya, parica/kzia	{@(paricákṣya),@} {@paricákṣia@}¦ 
+;
+5304 old <L>5292<pc>0786<k1>paritakmya<k2>pa/ritakmya	{@(páritakmya),@} {@páritakmia,@}¦ 
+5304 new <L>5292<pc>0786<k1>paritakmya<k2>pa/ritakmya, pa/ritakmia	{@(páritakmya),@} {@páritakmia,@}¦ 
+;
+5305 old <L>5293<pc>0786<k1>paritakmyA<k2>pa/ritakmyA	{@(páritakmyā),@} {@páritakmiā,@}¦ 
+5305 new <L>5293<pc>0786<k1>paritakmyA<k2>pa/ritakmyA, pa/ritakmiA	{@(páritakmyā),@} {@páritakmiā,@}¦ 
+;
+5347 old <L>5335<pc>0790<k1>parjanyakrandya<k2>parja/nya-krandya	{@(parjánya-krandya),@} {@parjánya-krandia,@}¦ 
+5347 new <L>5335<pc>0790<k1>parjanyakrandya<k2>parja/nya-krandya, parja/nya-krandia	{@(parjánya-krandya),@} {@parjánya-krandia,@}¦ 
+;
+5359 old <L>5347<pc>0791<k1>paryetf<k2>paryetf/	{@(paryetṛ́),@} {@parietṛ́,@}¦ 
+5359 new <L>5347<pc>0791<k1>paryetf<k2>paryetf/, parietf/	{@(paryetṛ́),@} {@parietṛ́,@}¦ 
+;
+5364 old <L>5352<pc>0792<k1>parvatya<k2>parvatya^	{@(parvatyà),@} {@parvatía,@}¦ 
+5364 new <L>5352<pc>0792<k1>parvatya<k2>parvatya^, parvati/a	{@(parvatyà),@} {@parvatía,@}¦ 
+;
+5411 old <L>5399<pc>0797<k1>paSviz<k2>paSvi/z	{@(paśvíṣ),@} {@paśu-íṣ,@}¦ 
+5411 new <L>5399<pc>0797<k1>paSviz<k2>paSvi/z, paSu-i/z	{@(paśvíṣ),@} {@paśu-íṣ,@}¦ 
+;
+5412 old <L>5400<pc>0797<k1>pastya<k2>pastya^	{@(pastyà),@} {@pastía,@}¦ 
+5412 new <L>5400<pc>0797<k1>pastya<k2>pastya^, pasti/a	{@(pastyà),@} {@pastía,@}¦ 
+;
+5413 old <L>5401<pc>0797<k1>pastyasad<k2>pastya-sa/d	{@(pastya-sád),@} {@pastia-sád,@}¦ 
+5413 new <L>5401<pc>0797<k1>pastyasad<k2>pastya-sa/d, pastia-sa/d	{@(pastya-sád),@} {@pastia-sád,@}¦ 
+;
+5414 old <L>5402<pc>0797<k1>pastyA<k2>pastyA^	{@(pastyā̀),@} {@pastiā,@}¦ 
+5414 new <L>5402<pc>0797<k1>pastyA<k2>pastyA^, pastiA	{@(pastyā̀),@} {@pastiā,@}¦ 
+;
+5415 old <L>5403<pc>0797<k1>pastyAvat<k2>pastyA^vat	{@(pastyā̀vat),@} {@pastíāvat,@}¦ 
+5415 new <L>5403<pc>0797<k1>pastyAvat<k2>pastyA^vat, pasti/Avat	{@(pastyā̀vat),@} {@pastíāvat,@}¦ 
+;
+5428 old <L>5416<pc>0804<k1>pAkyA<k2>pAkyA^	{@(pākyā̀),@} {@pākíā,@}¦ 
+5428 new <L>5416<pc>0804<k1>pAkyA<k2>pAkyA^, pAki/A	{@(pākyā̀),@} {@pākíā,@}¦ 
+;
+5440 old <L>5428<pc>0806<k1>pATya<k2>pATya/	{@(pāthyá),@} {@pāthiá,@}¦ 
+5440 new <L>5428<pc>0806<k1>pATya<k2>pATya/, pATia/	{@(pāthyá),@} {@pāthiá,@}¦ 
+;
+5451 old <L>5439<pc>0807<k1>pAyya<k2>pAyya, pAyia<h>1	<hom>1.</hom> {@(pāyya,@} {@pāyia),@}¦ 
+5451 new <L>5439<pc>0807<k1>pAyya<k2>pAyya, pAyia<h>1	<hom>1.</hom> {@(pāyya,@} {@pāyia),@}¦ 
+;
+5452 old <L>5440<pc>0807<k1>pAyya<k2>pAyya, pAyia<h>2	<hom>2.</hom> {@(pāyya,@} {@pāyia)@}¦ 
+5452 new <L>5440<pc>0807<k1>pAyya<k2>pAyya, pAyia<h>2	<hom>2.</hom> {@(pāyya,@} {@pāyia)@}¦ 
+;
+5460 old <L>5448<pc>0808<k1>pArTya<k2>pArTya/	{@(pārthyá),@} {@pārthiá,@}¦ 
+5460 new <L>5448<pc>0808<k1>pArTya<k2>pArTya/, pArTia/	{@(pārthyá),@} {@pārthiá,@}¦ 
+;
+5461 old <L>5449<pc>0808<k1>pArya<k2>pA/rya	{@pā́rya,@} {@pā́ria,@}¦ 
+5461 new <L>5449<pc>0808<k1>pArya<k2>pA/rya, pA/ria	{@pā́rya,@} {@pā́ria,@}¦ 
+;
+5462 old <L>5450<pc>0808<k1>pArSva<k2>pArSva/	{@(pārśvá),@} {@pārśuá,@}¦ 
+5462 new <L>5450<pc>0808<k1>pArSva<k2>pArSva/, pArSua/	{@(pārśvá),@} {@pārśuá,@}¦ 
+;
+5478 old <L>5466<pc>0810<k1>pAzya<k2>pAzya^	{@(pāṣyà),@} {@pāṣia,@}¦ 
+5478 new <L>5466<pc>0810<k1>pAzya<k2>pAzya^, pAzia	{@(pāṣyà),@} {@pāṣia,@}¦ 
+;
+5479 old <L>5467<pc>0810<k1>pAstya<k2>pAstya/	{@(pāstyá),@} {@pāstiá,@}¦ 
+5479 new <L>5467<pc>0810<k1>pAstya<k2>pAstya/, pAstia/	{@(pāstyá),@} {@pāstiá,@}¦ 
+;
+5480 old <L>5468<pc>0810<k1>pi<k2>pi, pI	{@√pi,@} {@√pī@}¦ 
+5480 new <L>5468<pc>0810<k1>pi<k2>pi, pI	{@√pi,@} {@√pī@}¦ 
+;
+5500 old <L>5488<pc>0815<k1>pitrya<k2>pi/trya	{@(pítrya),@} {@pítria,@}¦ 
+5500 new <L>5488<pc>0815<k1>pitrya<k2>pi/trya, pi/tria	{@(pítrya),@} {@pítria,@}¦ 
+;
+5501 old <L>5489<pc>0815<k1>pitryAvat<k2>pi/tryAvat	{@(pítryāvat),@} {@pítriāvat,@}¦ 
+5501 new <L>5489<pc>0815<k1>pitryAvat<k2>pi/tryAvat, pi/triAvat	{@(pítryāvat),@} {@pítriāvat,@}¦ 
+;
+5542 old <L>5529<pc>0821<k1>puMs<k2>pu/Ms	{@púṃs,@} stark {@púmāṃs,@}¦ 
+5542 new <L>5529<pc>0821<k1>puMs<k2>pu/Ms, pu/mAMs	{@púṃs,@} stark {@púmāṃs,@}¦ 
+;
+5580 old <L>5567<pc>0827<k1>purIzya<k2>purIzya^	{@(purīṣyà),@} {@purīṣía,@}¦ 
+5580 new <L>5567<pc>0827<k1>purIzya<k2>purIzya^, purIzi/a	{@(purīṣyà),@} {@purīṣía,@}¦ 
+;
+5606 old <L>5593<pc>0830<k1>purunizWa<k2>puru-nizWa/	{@puru-niṣṭhá,@} {@puru-niṣṭhā́,@}¦ 
+5606 new <L>5593<pc>0830<k1>purunizWa<k2>puru-nizWa/, puru-nizWA/	{@puru-niṣṭhá,@} {@puru-niṣṭhā́,@}¦ 
+;
+5625 old <L>5612<pc>0831<k1>purumAyya<k2>purumA/yya	{@(purumā́yya),@} {@purumáyia,@}¦ 
+5625 new <L>5612<pc>0831<k1>purumAyya<k2>purumA/yya, puruma/yia	{@(purumā́yya),@} {@purumáyia,@}¦ 
+;
+5649 old <L>5636<pc>0834<k1>puruzya<k2>puruzya^	{@(puruṣyà),@} {@puruṣía,@}¦ 
+5649 new <L>5636<pc>0834<k1>puruzya<k2>puruzya^, puruzi/a	{@(puruṣyà),@} {@puruṣía,@}¦ 
+;
+5675 old <L>5662<pc>0836<k1>purvanIka<k2>purv-anIka	{@(purv-anīka),@} {@puru-anīka,@}¦ 
+5675 new <L>5662<pc>0836<k1>purvanIka<k2>purv-anIka, puru-anIka	{@(purv-anīka),@} {@puru-anīka,@}¦ 
+;
+5693 old <L>5680<pc>0838<k1>puzya<k2>pu/zya	{@(púṣya),@} {@púṣia,@}¦ 
+5693 new <L>5680<pc>0838<k1>puzya<k2>pu/zya, pu/zia	{@(púṣya),@} {@púṣia,@}¦ 
+;
+5723 old <L>5710<pc>0846<k1>pUrvapAyya<k2>pUrva-pA/yya	{@(pūrva-pā́yya),@} {@pūrva-pā́yia,@}¦ 
+5723 new <L>5710<pc>0846<k1>pUrvapAyya<k2>pUrva-pA/yya, pUrva-pA/yia	{@(pūrva-pā́yya),@} {@pūrva-pā́yia,@}¦ 
+;
+5732 old <L>5719<pc>0847<k1>pUrvAyus<k2>pUrvAyu/s	{@(pūrvāyús),@} {@pūru-āyús,@}¦ 
+5732 new <L>5719<pc>0847<k1>pUrvAyus<k2>pUrvAyu/s, pUru-Ayu/s	{@(pūrvāyús),@} {@pūru-āyús,@}¦ 
+;
+5734 old <L>5721<pc>0847<k1>pUrvya<k2>pUrvya/	{@(pūrvyá),@} {@pūrviá,@}¦ 
+5734 new <L>5721<pc>0847<k1>pUrvya<k2>pUrvya/, pUrvia/	{@(pūrvyá),@} {@pūrviá,@}¦ 
+;
+5742 old <L>5729<pc>0849<k1>pUzarya<k2>pUzarya^	{@(pūṣaryà),@} {@pūṣaría,@}¦ 
+5742 new <L>5729<pc>0849<k1>pUzarya<k2>pUzarya^, pUzari/a	{@(pūṣaryà),@} {@pūṣaría,@}¦ 
+;
+5743 old <L>5730<pc>0849<k1>pfkz<k2>pfkz, prakz	{@√pṛkṣ,@} {@√prakṣ,@}¦ 
+5743 new <L>5730<pc>0849<k1>pfkz<k2>pfkz, prakz	{@√pṛkṣ,@} {@√prakṣ,@}¦ 
+;
+5751 old <L>5738<pc>0852<k1>pfC<k2>pfC, praC	{@√pṛch,@} {@√prach@}¦ 
+5751 new <L>5738<pc>0852<k1>pfC<k2>pfC, praC	{@√pṛch,@} {@√prach@}¦ 
+;
+5757 old <L>5744<pc>0854<k1>pftanAjya<k2>pftanA/jya	{@(pṛtanā́jya),@} {@pṛtanā́jia,@}¦ 
+5757 new <L>5744<pc>0854<k1>pftanAjya<k2>pftanA/jya, pftanA/jia	{@(pṛtanā́jya),@} {@pṛtanā́jia,@}¦ 
+;
+5762 old <L>5749<pc>0855<k1>pftanAzAhya<k2>pftanA-zA/hya	{@(pṛtanā-ṣā́hya),@} {@pṛtanā-ṣā́hia,@}¦ 
+5762 new <L>5749<pc>0855<k1>pftanAzAhya<k2>pftanA-zA/hya, pftanA-zA/hia	{@(pṛtanā-ṣā́hya),@} {@pṛtanā-ṣā́hia,@}¦ 
+;
+5787 old <L>5774<pc>0858<k1>pfTubuDna<k2>pfTu/-buDna, pfTu-buDna/	{@pṛthú-budhna,@} {@pṛthu-budhná,@}¦ 
+5787 new <L>5774<pc>0858<k1>pfTubuDna<k2>pfTu/-buDna, pfTu-buDna/	{@pṛthú-budhna,@} {@pṛthu-budhná,@}¦ 
+;
+5806 old <L>5793<pc>0860<k1>pfzadAjya<k2>pfzad-Ajya/	{@(pṛṣad-ājyá),@} {@pṛṣad-ājiá,@}¦ 
+5806 new <L>5793<pc>0860<k1>pfzadAjya<k2>pfzad-Ajya/, pfzad-Ajia/	{@(pṛṣad-ājyá),@} {@pṛṣad-ājiá,@}¦ 
+;
+5815 old <L>5802<pc>0860<k1>pfzwyAmayin<k2>pfzwyAmayi/n	{@(pṛṣṭyāmayín),@} {@pṛṣṭiāmayín,@}¦ 
+5815 new <L>5802<pc>0860<k1>pfzwyAmayin<k2>pfzwyAmayi/n, pfzwiAmayi/n	{@(pṛṣṭyāmayín),@} {@pṛṣṭiāmayín,@}¦ 
+;
+5818 old <L>5805<pc>0861<k1>pfzWya<k2>pfzWya^	{@(pṛṣṭhyà),@} {@pṛṣṭhía,@}¦ 
+5818 new <L>5805<pc>0861<k1>pfzWya<k2>pfzWya^, pfzWi/a	{@(pṛṣṭhyà),@} {@pṛṣṭhía,@}¦ 
+;
+5819 old <L>5806<pc>0861<k1>petva<k2>pe/tva	{@(pétva),@} {@pétua,@}¦ 
+5819 new <L>5806<pc>0861<k1>petva<k2>pe/tva, pe/tua	{@(pétva),@} {@pétua,@}¦ 
+;
+5838 old <L>5825<pc>0862<k1>pozya<k2>pozya	{@(poṣya),@} {@póṣia,@}¦ 
+5838 new <L>5825<pc>0862<k1>pozya<k2>pozya, po/zia	{@(poṣya),@} {@póṣia,@}¦ 
+;
+5839 old <L>5826<pc>0862<k1>pozyAvat<k2>pozyAvat	{@(poṣyāvat),@} {@poṣiā́vat,@}¦ 
+5839 new <L>5826<pc>0862<k1>pozyAvat<k2>pozyAvat, poziA/vat	{@(poṣyāvat),@} {@poṣiā́vat,@}¦ 
+;
+5840 old <L>5827<pc>0862<k1>pOMsya<k2>pO/Msya, pO/Msia	{@paúṃsya,@} {@paúṃsia,@}¦ 
+5840 new <L>5827<pc>0862<k1>pOMsya<k2>pO/Msya, pO/Msia	{@paúṃsya,@} {@paúṃsia,@}¦ 
+;
+5844 old <L>5831<pc>0863<k1>pOrukutsya<k2>pOrukutsya/, pOrukutsia/	{@paurukutsyá,@} {@paurukutsiá,@}¦ 
+5844 new <L>5831<pc>0863<k1>pOrukutsya<k2>pOrukutsya/, pOrukutsia/	{@paurukutsyá,@} {@paurukutsiá,@}¦ 
+;
+5906 old <L>5892<pc>0870<k1>pratItya<k2>pratI/tya	{@(pratī́tya),@} {@pratī́tia,@}¦ 
+5906 new <L>5892<pc>0870<k1>pratItya<k2>pratI/tya, pratI/tia	{@(pratī́tya),@} {@pratī́tia,@}¦ 
+;
+5916 old <L>5902<pc>0871<k1>pratyarDi<k2>pra/ty-arDi, pra/ti-arDi	{@práty-ardhi,@} {@práti-ardhi,@}¦ 
+5916 new <L>5902<pc>0871<k1>pratyarDi<k2>pra/ty-arDi, pra/ti-arDi	{@práty-ardhi,@} {@práti-ardhi,@}¦ 
+;
+5918 old <L>5904<pc>0872<k1>praT<k2>praT	{@√prath,@} {@(√pṛth)@}¦ 
+5918 new <L>5904<pc>0872<k1>praT<k2>praT, pfT	{@√prath,@} {@(√pṛth)@}¦ 
+;
+5934 old <L>5920<pc>0876<k1>praDanya<k2>praDanya^	{@(pradhanyà),@} {@pradhanía,@}¦ 
+5934 new <L>5920<pc>0876<k1>praDanya<k2>praDanya^, praDani/a	{@(pradhanyà),@} {@pradhanía,@}¦ 
+;
+6028 old <L>6013<pc>0884<k1>prasah<k2>prasa/h	{@prasáh,@} stark {@prasā́h,@}¦ 
+6028 new <L>6013<pc>0884<k1>prasah<k2>prasa/h, prasA/h	{@prasáh,@} stark {@prasā́h,@}¦ 
+;
+6070 old <L>6055<pc>0888<k1>prAyu<k2>prAyu, prAyus	{@(prāyu,@} {@prāyus),@}¦ 
+6070 new <L>6055<pc>0888<k1>prAyu<k2>prAyu, prAyus	{@(prāyu,@} {@prāyus),@}¦ 
+;
+6083 old <L>6068<pc>0889<k1>prASavya<k2>prASavya^	{@(prāśavyà),@} {@prāśavía,@}¦ 
+6083 new <L>6068<pc>0889<k1>prASavya<k2>prASavya^, prASavi/a	{@(prāśavyà),@} {@prāśavía,@}¦ 
+;
+6143 old <L>6129<pc>0896<k1>Palgva<k2>Palgva^	{@(phalgvà),@} {@phalgúa,@}¦ 
+6143 new <L>6129<pc>0896<k1>Palgva<k2>Palgva^, Palgu/a	{@(phalgvà),@} {@phalgúa,@}¦ 
+;
+6147 old <L>6133<pc>0897<k1>baMh<k2>baMh, bAh	{@√baṃh,@} {@√bāh,@}¦ 
+6147 new <L>6133<pc>0897<k1>baMh<k2>baMh, bAh	{@√baṃh,@} {@√bāh,@}¦ 
+;
+6164 old <L>6150<pc>0899<k1>banDveza<k2>banDv-eza/	{@(bandhv-eṣá),@} {@bandhu-eṣá,@}¦ 
+6164 new <L>6150<pc>0899<k1>banDveza<k2>banDv-eza/, banDu-eza/	{@(bandhv-eṣá),@} {@bandhu-eṣá,@}¦ 
+;
+6170 old <L>6156<pc>0899<k1>barh<k2>barh, varh	{@√barh,@} {@√varh,@}¦ 
+6170 new <L>6156<pc>0899<k1>barh<k2>barh, varh	{@√barh,@} {@√varh,@}¦ 
+;
+6177 old <L>6163<pc>0900<k1>barhizya<k2>barhizya^	{@(barhiṣyà),@} {@barhiṣía,@}¦ 
+6177 new <L>6163<pc>0900<k1>barhizya<k2>barhizya^, barhizi/a	{@(barhiṣyà),@} {@barhiṣía,@}¦ 
+;
+6197 old <L>6183<pc>0903<k1>bahupAyya<k2>bahu-pA/yya	{@(bahu-pā́yya),@} {@bahu-pā́yia,@}¦ 
+6197 new <L>6183<pc>0903<k1>bahupAyya<k2>bahu-pA/yya, bahu-pA/yia	{@(bahu-pā́yya),@} {@bahu-pā́yia,@}¦ 
+;
+6222 old <L>6207<pc>0906<k1>bAhvojas<k2>bAhv-o^jas	{@(bāhv-òjas),@} {@bāhú-ojas,@}¦ 
+6222 new <L>6207<pc>0906<k1>bAhvojas<k2>bAhv-o^jas, bAhu/-ojas	{@(bāhv-òjas),@} {@bāhú-ojas,@}¦ 
+;
+6234 old <L>6219<pc>0909<k1>buDnya<k2>buDnya^	{@(budhnyà),@} {@budhnía,@}¦ 
+6234 new <L>6219<pc>0909<k1>buDnya<k2>buDnya^, buDni/a	{@(budhnyà),@} {@budhnía,@}¦ 
+;
+6280 old <L>6265<pc>0916<k1>brahmaRyA<k2>brahmaRyA/	{@(brahmaṇyā́),@} {@brahmaṇiā́,@}¦ 
+6280 new <L>6265<pc>0916<k1>brahmaRyA<k2>brahmaRyA/, brahmaRiA/	{@(brahmaṇyā́),@} {@brahmaṇiā́,@}¦ 
+;
+6314 old <L>6299<pc>0927<k1>Badravac<k2>Badra-va/c, Badra-vA/c	{@bhadra-vác,@} {@bhadra-vā́c,@}¦ 
+6314 new <L>6299<pc>0927<k1>Badravac<k2>Badra-va/c, Badra-vA/c	{@bhadra-vác,@} {@bhadra-vā́c,@}¦ 
+;
+6353 old <L>6338<pc>0930<k1>Bavya<k2>Ba/vya	{@(bhávya),@} {@bhávia,@}¦ 
+6353 new <L>6338<pc>0930<k1>Bavya<k2>Ba/vya, Ba/via	{@(bhávya),@} {@bhávia,@}¦ 
+;
+6358 old <L>6343<pc>0931<k1>BAfjIka<k2>BA/-fjIka	{@(bhā́-ṛjīka),@} {@bhā́s-ṛjīka,@}¦ 
+6358 new <L>6343<pc>0931<k1>BAfjIka<k2>BA/-fjIka, BA/s-fjIka	{@(bhā́-ṛjīka),@} {@bhā́s-ṛjīka,@}¦ 
+;
+6377 old <L>6362<pc>0934<k1>BAs<k2>BA/s, Ba/as	{@bhā́s,@} {@bháas,@}¦ 
+6377 new <L>6362<pc>0934<k1>BAs<k2>BA/s, Ba/as	{@bhā́s,@} {@bháas,@}¦ 
+;
+6382 old <L>6367<pc>0934<k1>BAsvat<k2>BA/svat	{@(bhā́svat),@} {@bháasvat,@}¦ 
+6382 new <L>6367<pc>0934<k1>BAsvat<k2>BA/svat, Ba/asvat	{@(bhā́svat),@} {@bháasvat,@}¦ 
+;
+6415 old <L>6399<pc>0941<k1>Burizah<k2>Buri-za/h	{@bhuri-ṣáh,@} stark {@bhuri-ṣā́h,@}¦ 
+6415 new <L>6399<pc>0941<k1>Burizah<k2>Buri-za/h, Buri-zA/h	{@bhuri-ṣáh,@} stark {@bhuri-ṣā́h,@}¦ 
+;
+6424 old <L>6408<pc>0951<k1>BUmi<k2>BU/mi, BU/mI	{@bhū́mi,@} {@bhū́mī,@}¦ 
+6424 new <L>6408<pc>0951<k1>BUmi<k2>BU/mi, BU/mI	{@bhū́mi,@} {@bhū́mī,@}¦ 
+;
+6425 old <L>6409<pc>0951<k1>BUmya<k2>BUmya/	{@(bhūmyá),@} {@bhūmiá,@}¦ 
+6425 new <L>6409<pc>0951<k1>BUmya<k2>BUmya/, BUmia/	{@(bhūmyá),@} {@bhūmiá,@}¦ 
+;
+6446 old <L>6430<pc>0954<k1>BUrizah<k2>BUri-za/h	{@bhūri-ṣáh,@} stark {@bhūri-ṣā́h,@}¦ 
+6446 new <L>6430<pc>0954<k1>BUrizah<k2>BUri-za/h, BUri-zA/h	{@bhūri-ṣáh,@} stark {@bhūri-ṣā́h,@}¦ 
+;
+6449 old <L>6433<pc>0954<k1>BUryakza<k2>BUry-akza/	{@(bhūry-akṣá),@} {@bhūri-akṣá,@}¦ 
+6449 new <L>6433<pc>0954<k1>BUryakza<k2>BUry-akza/, BUri-akza/	{@(bhūry-akṣá),@} {@bhūri-akṣá,@}¦ 
+;
+6450 old <L>6434<pc>0954<k1>BUryAsuti<k2>BU/ry-Asuti	{@(bhū́ry-āsuti),@} {@bhū́ri-āsuti,@}¦ 
+6450 new <L>6434<pc>0954<k1>BUryAsuti<k2>BU/ry-Asuti, BU/ri-Asuti	{@(bhū́ry-āsuti),@} {@bhū́ri-āsuti,@}¦ 
+;
+6451 old <L>6435<pc>0954<k1>BUryojas<k2>BU/ry-ojas	{@(bhū́ry-ojas),@} {@bhū́ri-ojas,@}¦ 
+6451 new <L>6435<pc>0954<k1>BUryojas<k2>BU/ry-ojas, BU/ri-ojas	{@(bhū́ry-ojas),@} {@bhū́ri-ojas,@}¦ 
+;
+6473 old <L>6457<pc>0965<k1>Bojya<k2>Bojya^	{@(bhojyà),@} {@bhojía,@}¦ 
+6473 new <L>6457<pc>0965<k1>Bojya<k2>Bojya^, Boji/a	{@(bhojyà),@} {@bhojía,@}¦ 
+;
+6475 old <L>6459<pc>0965<k1>BraMS<k2>BraMS, BraS	{@√bhraṃś,@} {@√bhraś,@}¦ 
+6475 new <L>6459<pc>0965<k1>BraMS<k2>BraMS, BraS	{@√bhraṃś,@} {@√bhraś,@}¦ 
+;
+6488 old <L>6472<pc>0967<k1>BrAtra<k2>BrAtra/	{@bhrātrá,@} {@bhrāt(a)rá,@}¦ 
+6488 new <L>6472<pc>0967<k1>BrAtra<k2>BrAtra/, BrAtara/	{@bhrātrá,@} {@bhrāt(a)rá,@}¦ 
+;
+6489 old <L>6473<pc>0967<k1>BrASya<k2>BrA/Sya	{@(bhrā́śya),@} {@bhrā́śia,@}¦ 
+6489 new <L>6473<pc>0967<k1>BrASya<k2>BrA/Sya, BrA/Sia	{@(bhrā́śya),@} {@bhrā́śia,@}¦ 
+;
+6506 old <L>6490<pc>0969<k1>makzu<k2>makzu/	{@(makṣú),@} {@makṣū́@}¦ 
+6506 new <L>6490<pc>0969<k1>makzu<k2>makzu/, makzU/	{@(makṣú),@} {@makṣū́@}¦ 
+;
+6543 old <L>6527<pc>0976<k1>maT<k2>maT, manT	{@√math,@} {@√manth@}¦ 
+6543 new <L>6527<pc>0976<k1>maT<k2>maT, manT	{@√math,@} {@√manth@}¦ 
+;
+6561 old <L>6545<pc>0983<k1>madya<k2>ma/dya, ma/dia	{@mádya,@} {@mádia,@}¦ 
+6561 new <L>6545<pc>0983<k1>madya<k2>ma/dya, ma/dia	{@mádya,@} {@mádia,@}¦ 
+;
+6563 old <L>6547<pc>0983<k1>madryac<k2>madrya^c	{@(madryàc),@} {@madrí-ac,@}¦ 
+6563 new <L>6547<pc>0983<k1>madryac<k2>madrya^c, madri/-ac	{@(madryàc),@} {@madrí-ac,@}¦ 
+;
+6564 old <L>6548<pc>0983<k1>madryadrik<k2>madryadri/k	{@(madryadrík),@} {@madriadrík,@}¦ 
+6564 new <L>6548<pc>0983<k1>madryadrik<k2>madryadri/k, madriadri/k	{@(madryadrík),@} {@madriadrík,@}¦ 
+;
+6570 old <L>6554<pc>0986<k1>maDuDa<k2>maDu-Da/	{@madhu-dhá@} oder {@madhu-dhā́,@}¦ 
+6570 new <L>6554<pc>0986<k1>maDuDa<k2>maDu-Da/, maDu-DA/	{@madhu-dhá@} oder {@madhu-dhā́,@}¦ 
+;
+6589 old <L>6573<pc>0988<k1>maDuhastya<k2>ma/Du-hastya	{@(mádhu-hastya),@} {@mádhu-hastia,@}¦ 
+6589 new <L>6573<pc>0988<k1>maDuhastya<k2>ma/Du-hastya, ma/Du-hastia	{@(mádhu-hastya),@} {@mádhu-hastia,@}¦ 
+;
+6599 old <L>6583<pc>0990<k1>maDvad<k2>maDv-a/d	{@(madhv-ád),@} {@madhu-ád,@}¦ 
+6599 new <L>6583<pc>0990<k1>maDvad<k2>maDv-a/d, maDu-a/d	{@(madhv-ád),@} {@madhu-ád,@}¦ 
+;
+6600 old <L>6584<pc>0990<k1>maDvarRas<k2>ma/Dv-arRas	{@(mádhv-arṇas),@} {@mádhu-arṇas,@}¦ 
+6600 new <L>6584<pc>0990<k1>maDvarRas<k2>ma/Dv-arRas, ma/Du-arRas	{@(mádhv-arṇas),@} {@mádhu-arṇas,@}¦ 
+;
+6603 old <L>6587<pc>0993<k1>manafNga<k2>ma/nafNga	{@(mánaṛṅga),@} {@mánas-ṛṅga,@}¦ 
+6603 new <L>6587<pc>0993<k1>manafNga<k2>ma/nafNga, ma/nas-fNga	{@(mánaṛṅga),@} {@mánas-ṛṅga,@}¦ 
+;
+6629 old <L>6613<pc>0998<k1>manuzya<k2>manuzya^, manuzi/a	{@manuṣyà,@} {@manuṣía@}¦ 
+6629 new <L>6613<pc>0998<k1>manuzya<k2>manuzya^, manuzi/a	{@manuṣyà,@} {@manuṣía@}¦ 
+;
+6688 old <L>6672<pc>1006<k1>mayUraSepya<k2>mayU/raSepya	{@(mayū́raśepya),@} {@mayū́raśepia,@}¦ 
+6688 new <L>6672<pc>1006<k1>mayUraSepya<k2>mayU/raSepya, mayU/raSepia	{@(mayū́raśepya),@} {@mayū́raśepia,@}¦ 
+;
+6708 old <L>6691<pc>1009<k1>martya<k2>ma/rtya	{@(mártya),@} {@mártia,@}¦ 
+6708 new <L>6691<pc>1009<k1>martya<k2>ma/rtya, ma/rtia	{@(mártya),@} {@mártia,@}¦ 
+;
+6709 old <L>6692<pc>1010<k1>martyakfta<k2>ma/rtya-kfta	{@(mártya-kṛta),@} {@mártia-kṛta,@}¦ 
+6709 new <L>6692<pc>1010<k1>martyakfta<k2>ma/rtya-kfta, ma/rtia-kfta	{@(mártya-kṛta),@} {@mártia-kṛta,@}¦ 
+;
+6710 old <L>6693<pc>1010<k1>martyatrA<k2>martyatrA/	{@(martyatrā́),@} {@martiatrā́,@}¦ 
+6710 new <L>6693<pc>1010<k1>martyatrA<k2>martyatrA/, martiatrA/	{@(martyatrā́),@} {@martiatrā́,@}¦ 
+;
+6711 old <L>6694<pc>1010<k1>martyatvana<k2>martyatvana/	{@(martyatvaná),@} {@martiatvaná,@}¦ 
+6711 new <L>6694<pc>1010<k1>martyatvana<k2>martyatvana/, martiatvana/	{@(martyatvaná),@} {@martiatvaná,@}¦ 
+;
+6712 old <L>6695<pc>1010<k1>martyezita<k2>ma/rtyezita	{@(mártyeṣita),@} {@mártieṣita,@}¦ 
+6712 new <L>6695<pc>1010<k1>martyezita<k2>ma/rtyezita, ma/rtiezita	{@(mártyeṣita),@} {@mártieṣita,@}¦ 
+;
+6714 old <L>6697<pc>1010<k1>marya<k2>ma/rya, ma/ria	{@márya,@} {@mária,@}¦ 
+6714 new <L>6697<pc>1010<k1>marya<k2>ma/rya, ma/ria	{@márya,@} {@mária,@}¦ 
+;
+6729 old <L>6712<pc>1017<k1>mahayAyya<k2>mahayA/yya	{@(mahayā́yya),@} {@mahayā́yia,@}¦ 
+6729 new <L>6712<pc>1017<k1>mahayAyya<k2>mahayA/yya, mahayA/yia	{@(mahayā́yya),@} {@mahayā́yia,@}¦ 
+;
+6742 old <L>6725<pc>1019<k1>mahAyya<k2>mahA/yya	{@(mahā́yya),@} {@mahā́yia,@}¦ 
+6742 new <L>6725<pc>1019<k1>mahAyya<k2>mahA/yya, mahA/yia	{@(mahā́yya),@} {@mahā́yia,@}¦ 
+;
+6772 old ++<L>6754.1<pc>1023<k1>mahenadi<k2>mahenadi	{@(mahenadi@} und {@mahemate)@}¦ 
+6772 new ++<L>6754.1<pc>1023<k1>mahenadi<k2>mahenadi, mahemate	{@(mahenadi@} und {@mahemate)@}¦ 
+;
+6774 old <L>6756<pc>1025<k1>mA<k2>mA, mI<h>2	<hom>2.</hom> {@√mā,@} {@√mī,@}¦ 
+6774 new <L>6756<pc>1025<k1>mA<k2>mA, mI<h>2	<hom>2.</hom> {@√mā,@} {@√mī,@}¦ 
+;
+6800 old <L>6782<pc>1032<k1>mADvI<k2>mADvI	{@mādhvī@} oder {@mādhvi,@}¦ 
+6800 new <L>6782<pc>1032<k1>mADvI<k2>mADvI, mADvi	{@mādhvī@} oder {@mādhvi,@}¦ 
+;
+6810 old <L>6792<pc>1034<k1>mAndArya<k2>mAndArya/	{@(māndāryá),@} {@māndāriá,@}¦ 
+6810 new <L>6792<pc>1034<k1>mAndArya<k2>mAndArya/, mAndAria/	{@(māndāryá),@} {@māndāriá,@}¦ 
+;
+6811 old <L>6793<pc>1034<k1>mAnya<k2>mAnya/	{@(mānyá),@} {@māniá@}¦ 
+6811 new <L>6793<pc>1034<k1>mAnya<k2>mAnya/, mAnia/	{@(mānyá),@} {@māniá@}¦ 
+;
+6824 old <L>6806<pc>1036<k1>mArjAlya<k2>mArjAlya^	{@(mārjālyà),@} {@mārjālía,@}¦ 
+6824 new <L>6806<pc>1036<k1>mArjAlya<k2>mArjAlya^, mArjAli/a	{@(mārjālyà),@} {@mārjālía,@}¦ 
+;
+6856 old <L>6838<pc>1041<k1>mitreru<k2>mitre/ru	{@(mitréru),@} {@mitraī́ru,@}¦ 
+6856 new <L>6838<pc>1041<k1>mitreru<k2>mitre/ru, mitraI/ru	{@(mitréru),@} {@mitraī́ru,@}¦ 
+;
+6857 old <L>6839<pc>1041<k1>mitrya<k2>mitrya^	{@(mitryà),@} {@mitría,@}¦ 
+6857 new <L>6839<pc>1041<k1>mitrya<k2>mitrya^, mitri/a	{@(mitryà),@} {@mitría,@}¦ 
+;
+6858 old <L>6840<pc>1041<k1>mitrya<k2>mi/trya	{@(mítrya),@} {@mítría,@}¦ 
+6858 new <L>6840<pc>1041<k1>mitrya<k2>mi/trya, mi/tri/a	{@(mítrya),@} {@mítría,@}¦ 
+;
+6868 old <L>6850<pc>1042<k1>miToavadyapa<k2>miTo/-avadyapa	{@(mithó-avadyapa),@} {@mithás-avadyapa,@}¦ 
+6868 new <L>6850<pc>1042<k1>miToavadyapa<k2>miTo/-avadyapa, miTa/s-avadyapa	{@(mithó-avadyapa),@} {@mithás-avadyapa,@}¦ 
+;
+6872 old <L>6854<pc>1043<k1>miyeDya<k2>miyeDya	{@(miyedhya),@} {@miyedhīa,@}¦ 
+6872 new <L>6854<pc>1043<k1>miyeDya<k2>miyeDya, miyeDIa	{@(miyedhya),@} {@miyedhīa,@}¦ 
+;
+6877 old <L>6859<pc>1043<k1>mih<k2>mih, miG	{@√mih,@} {@√migh@}¦ 
+6877 new <L>6859<pc>1043<k1>mih<k2>mih, miG	{@√mih,@} {@√migh@}¦ 
+;
+6882 old <L>6864<pc>1046<k1>mIQvas<k2>mIQva/s, mIQua/z	{@mīḍhvás,@} {@mīḍhuáṣ,@} schwach {@mīḍhús@}¦ 
+6882 new <L>6864<pc>1046<k1>mIQvas<k2>mIQva/s, mIQua/z, mIQu/s	{@mīḍhvás,@} {@mīḍhuáṣ,@} schwach {@mīḍhús@}¦ 
+;
+6899 old <L>6881<pc>1050<k1>mur<k2>mur, mar	{@√mur,@} {@√mar@}¦ 
+6899 new <L>6881<pc>1050<k1>mur<k2>mur, mar	{@√mur,@} {@√mar@}¦ 
+;
+6928 old <L>6909<pc>1054<k1>mfkz<k2>mfkz, mrakz	{@mṛkṣ,@} {@mrakṣ@}¦ 
+6928 new <L>6909<pc>1054<k1>mfkz<k2>mfkz, mrakz	{@mṛkṣ,@} {@mrakṣ@}¦ 
+;
+6975 old <L>6956<pc>1064<k1>meDya<k2>me/Dya	{@(médhya),@} {@médhia,@}¦ 
+6975 new <L>6956<pc>1064<k1>meDya<k2>me/Dya, me/Dia	{@(médhya),@} {@médhia,@}¦ 
+;
+6976 old <L>6957<pc>1064<k1>meDyAtiTi<k2>me/DyAtiTi	{@(médhyātithi),@} <hom>2.</hom> {@médhiātithi,@}¦ 
+6976 new <L>6957<pc>1064<k1>meDyAtiTi<k2>me/DyAtiTi, me/DiAtiTi	{@(médhyātithi),@} <hom>2.</hom> {@médhiātithi,@}¦ 
+;
+7012 old <L>6993<pc>1070<k1>yakzya<k2>ya/kzya	{@(yákṣya),@} {@yákṣia,@}¦ 
+7012 new <L>6993<pc>1070<k1>yakzya<k2>ya/kzya, ya/kzia	{@(yákṣya),@} {@yákṣia,@}¦ 
+;
+7041 old <L>7022<pc>1077<k1>yajYAsah<k2>yajYA-sa/h	{@yajñā-sáh,@} stark {@yajnā-sā́h,@}¦ 
+7041 new <L>7022<pc>1077<k1>yajYAsah<k2>yajYA-sa/h, yajnA-sA/h	{@yajñā-sáh,@} stark {@yajnā-sā́h,@}¦ 
+;
+7080 old <L>7061<pc>1098<k1>yamya<k2>yamya^	{@(yamyà),@} {@yamía,@}¦ 
+7080 new <L>7061<pc>1098<k1>yamya<k2>yamya^, yami/a	{@(yamyà),@} {@yamía,@}¦ 
+;
+7094 old <L>7075<pc>1099<k1>yavizWya<k2>ya/vizWya	{@(yáviṣṭhya),@} {@yáviṣṭhia,@}¦ 
+7094 new <L>7075<pc>1099<k1>yavizWya<k2>ya/vizWya, ya/vizWia	{@(yáviṣṭhya),@} {@yáviṣṭhia,@}¦ 
+;
+7097 old <L>7078<pc>1099<k1>yavya<k2>ya/vya	{@(yávya),@} {@yávia,@}¦ 
+7097 new <L>7078<pc>1099<k1>yavya<k2>ya/vya, ya/via	{@(yávya),@} {@yávia,@}¦ 
+;
+7098 old <L>7079<pc>1099<k1>yavyA<k2>yavyA/	{@(yavyā́),@} {@yavīā́,@}¦ 
+7098 new <L>7079<pc>1099<k1>yavyA<k2>yavyA/, yavIA/	{@(yavyā́),@} {@yavīā́,@}¦ 
+;
+7127 old <L>7108<pc>1109<k1>yAdrADya<k2>yAd-rADya^	{@(yād-rādhyà),@} {@yād-rādhía,@}¦ 
+7127 new <L>7108<pc>1109<k1>yAdrADya<k2>yAd-rADya^, yAd-rADi/a	{@(yād-rādhyà),@} {@yād-rādhía,@}¦ 
+;
+7128 old <L>7109<pc>1109<k1>yAdva<k2>yA/dva	{@(yā́dva),@} {@yā́dua,@}¦ 
+7128 new <L>7109<pc>1109<k1>yAdva<k2>yA/dva, yA/dua	{@(yā́dva),@} {@yā́dua,@}¦ 
+;
+7148 old <L>7129<pc>1114<k1>yuktASva<k2>yuktA/Sva	{@(yuktā́śva),@} {@yuktá-aśva,@}¦ 
+7148 new <L>7129<pc>1114<k1>yuktASva<k2>yuktA/Sva, yukta/-aSva	{@(yuktā́śva),@} {@yuktá-aśva,@}¦ 
+;
+7155 old <L>7136<pc>1119<k1>yujya<k2>yu/jya	{@(yújya),@} {@yújia,@}¦ 
+7155 new <L>7136<pc>1119<k1>yujya<k2>yu/jya, yu/jia	{@(yújya),@} {@yújia,@}¦ 
+;
+7160 old <L>7141<pc>1121<k1>yuDenya<k2>yuDe/nya	{@(yudhénya),@} {@yudhénia,@}¦ 
+7160 new <L>7141<pc>1121<k1>yuDenya<k2>yuDe/nya, yuDe/nia	{@(yudhénya),@} {@yudhénia,@}¦ 
+;
+7195 old <L>7176<pc>1125<k1>yUTya<k2>yUTya^	{@(yūthyà),@} {@yūthía,@}¦ 
+7195 new <L>7176<pc>1125<k1>yUTya<k2>yUTya^, yUTi/a	{@(yūthyà),@} {@yūthía,@}¦ 
+;
+7203 old <L>7184<pc>1125<k1>yezWa<k2>ye/zWa	{@(yéṣṭha),@} {@yaiṣṭha,@}¦ 
+7203 new <L>7184<pc>1125<k1>yezWa<k2>ye/zWa, yEzWa	{@(yéṣṭha),@} {@yaiṣṭha,@}¦ 
+;
+7207 old <L>7188<pc>1126<k1>yogyA<k2>yogyA/	{@(yogyā́),@} {@yogiā́,@}¦ 
+7207 new <L>7188<pc>1126<k1>yogyA<k2>yogyA/, yogiA/	{@(yogyā́),@} {@yogiā́,@}¦ 
+;
+7213 old <L>7194<pc>1127<k1>yonya<k2>yonya/	{@(yonyá),@} {@yoniá,@}¦ 
+7213 new <L>7194<pc>1127<k1>yonya<k2>yonya/, yonia/	{@(yonyá),@} {@yoniá,@}¦ 
+;
+7231 old <L>7212<pc>1132<k1>rakzastva<k2>rakzastva/	{@(rakṣastvá),@} {@rakṣastuá,@}¦ 
+7231 new <L>7212<pc>1132<k1>rakzastva<k2>rakzastva/, rakzastua/	{@(rakṣastvá),@} {@rakṣastuá,@}¦ 
+;
+7264 old <L>7245<pc>1136<k1>raRya<k2>ra/Rya, ra/Ria	{@ráṇya,@} {@ráṇia,@}¦ 
+7264 new <L>7245<pc>1136<k1>raRya<k2>ra/Rya, ra/Ria	{@ráṇya,@} {@ráṇia,@}¦ 
+;
+7272 old <L>7253<pc>1136<k1>ratnaDA<k2>ratna-DA/, ratna-Da/	{@ratna-dhā́,@} {@ratna-dhá,@}¦ 
+7272 new <L>7253<pc>1136<k1>ratnaDA<k2>ratna-DA/, ratna-Da/	{@ratna-dhā́,@} {@ratna-dhá,@}¦ 
+;
+7305 old <L>7286<pc>1141<k1>raToQa<k2>raToQa	{@(rathoḍha),@} {@ratha-ūḍha,@}¦ 
+7305 new <L>7286<pc>1141<k1>raToQa<k2>raToQa, raTa-UQa	{@(rathoḍha),@} {@ratha-ūḍha,@}¦ 
+;
+7306 old <L>7287<pc>1141<k1>raTya<k2>raTya^	{@(rathyà),@} {@rathía,@}¦ 
+7306 new <L>7287<pc>1141<k1>raTya<k2>raTya^, raTi/a	{@(rathyà),@} {@rathía,@}¦ 
+;
+7307 old <L>7288<pc>1141<k1>raTya<k2>ra/Tya, ra/Tia	{@ráthya,@} {@ráthia,@}¦ 
+7307 new <L>7288<pc>1141<k1>raTya<k2>ra/Tya, ra/Tia	{@ráthya,@} {@ráthia,@}¦ 
+;
+7310 old <L>7291<pc>1142<k1>raD<k2>raD, ranD	{@√radh,@} {@√randh,@}¦ 
+7310 new <L>7291<pc>1142<k1>raD<k2>raD, ranD	{@√radh,@} {@√randh,@}¦ 
+;
+7315 old <L>7296<pc>1144<k1>ran<k2>ran	{@√ran,@} {@(√raṇ)@}¦ 
+7315 new <L>7296<pc>1144<k1>ran<k2>ran, raR	{@√ran,@} {@(√raṇ)@}¦ 
+;
+7335 old <L>7316<pc>1148<k1>raBi<k2>raBi/, raBi/n, raBi/s	{@(rabhí,@} {@rabhín,@} {@rabhís)@}¦ 
+7335 new <L>7316<pc>1148<k1>raBi<k2>raBi/, raBi/n, raBi/s	{@(rabhí,@} {@rabhín,@} {@rabhís)@}¦ 
+;
+7345 old <L>7326<pc>1150<k1>rayida<k2>rayi-da/	{@rayi-dá@} oder {@rayi-dā́,@}¦ 
+7345 new <L>7326<pc>1150<k1>rayida<k2>rayi-da/, rayi-dA/	{@rayi-dá@} oder {@rayi-dā́,@}¦ 
+;
+7367 old <L>7348<pc>1153<k1>rasAyya<k2>rasA/yya	{@(rasā́yya),@} {@rasā́yia,@}¦ 
+7367 new <L>7348<pc>1153<k1>rasAyya<k2>rasA/yya, rasA/yia	{@(rasā́yya),@} {@rasā́yia,@}¦ 
+;
+7384 old <L>7365<pc>1158<k1>rAjanya<k2>rAjanya^	{@(rājanyà),@} {@rājanía,@}¦ 
+7384 new <L>7365<pc>1158<k1>rAjanya<k2>rAjanya^, rAjani/a	{@(rājanyà),@} {@rājanía,@}¦ 
+;
+7389 old <L>7370<pc>1158<k1>rAjya<k2>rAjya/	{@(rājyá),@} {@rājiá,@}¦ 
+7389 new <L>7370<pc>1158<k1>rAjya<k2>rAjya/, rAjia/	{@(rājyá),@} {@rājiá,@}¦ 
+;
+7398 old <L>7379<pc>1160<k1>rATya<k2>rA/Tya	{@(rā́thya),@} {@rā́thia,@}¦ 
+7398 new <L>7379<pc>1160<k1>rATya<k2>rA/Tya, rA/Tia	{@(rā́thya),@} {@rā́thia,@}¦ 
+;
+7408 old <L>7389<pc>1162<k1>rAmyA<k2>rA/myA	{@(rā́myā),@} {@rā́miā,@}¦ 
+7408 new <L>7389<pc>1162<k1>rAmyA<k2>rA/myA, rA/miA	{@(rā́myā),@} {@rā́miā,@}¦ 
+;
+7419 old <L>7400<pc>1163<k1>ri<k2>ri, rI	{@√ri,@} {@√rī,@}¦ 
+7419 new <L>7400<pc>1163<k1>ri<k2>ri, rI	{@√ri,@} {@√rī,@}¦ 
+;
+7443 old <L>7424<pc>1169<k1>rItyap<k2>rItya^p	{@(rītyàp),@} {@rītí-ap,@} stark {@rītí-āp,@}¦ 
+7443 new <L>7424<pc>1169<k1>rItyap<k2>rItya^p, rIti/-ap, rIti/-Ap	{@(rītyàp),@} {@rītí-ap,@} stark {@rītí-āp,@}¦ 
+;
+7458 old <L>7439<pc>1174<k1>rudra<k2>rudra/, rudara/	{@rudrá,@} {@rud(a)rá,@}¦ 
+7458 new <L>7439<pc>1174<k1>rudra<k2>rudra/, rudara/	{@rudrá,@} {@rud(a)rá,@}¦ 
+;
+7463 old <L>7444<pc>1176<k1>ruD<k2>*ruD, *ruh	{@*√rudh,@} {@*√ruh,@}¦ 
+7463 new <L>7444<pc>1176<k1>ruD<k2>*ruD, *ruh	{@*√rudh,@} {@*√ruh,@}¦ 
+;
+7503 old <L>7484<pc>1182<k1>rE<k2>rE/, rA/	{@raí,@} {@rā́,@}¦ 
+7503 new <L>7484<pc>1182<k1>rE<k2>rE/, rA/	{@raí,@} {@rā́,@}¦ 
+;
+7519 old <L>7500<pc>1185<k1>roDana<k2>ro/Dana, roDana/	{@ródhana,@} {@rodhaná,@}¦ 
+7519 new <L>7500<pc>1185<k1>roDana<k2>ro/Dana, roDana/	{@ródhana,@} {@rodhaná,@}¦ 
+;
+7533 old <L>7514<pc>1186<k1>rOdra<k2>rO/dra, rO/dara	{@raúdra,@} {@raúdara@}¦ 
+7533 new <L>7514<pc>1186<k1>rOdra<k2>rO/dra, rO/dara	{@raúdra,@} {@raúdara@}¦ 
+;
+7537 old <L>7518<pc>1187<k1>lakzmaRya<k2>lakzmaRya^	{@(lakṣmaṇyà),@} {@lakṣmaṇía,@}¦ 
+7537 new <L>7518<pc>1187<k1>lakzmaRya<k2>lakzmaRya^, lakzmaRi/a	{@(lakṣmaṇyà),@} {@lakṣmaṇía,@}¦ 
+;
+7550 old <L>7531<pc>1187<k1>loka<k2>loka/	{@loká,@} älter {@uloká,@}¦ 
+7550 new <L>7531<pc>1187<k1>loka<k2>loka/, uloka/	{@loká,@} älter {@uloká,@}¦ 
+;
+7551 old <L>7532<pc>1188<k1>lokakft<k2>loka-kf/t	{@loka-kṛ́t,@} oder vielmehr {@uloka-kṛ́t,@}¦ 
+7551 new <L>7532<pc>1188<k1>lokakft<k2>loka-kf/t, uloka-kf/t	{@loka-kṛ́t,@} oder vielmehr {@uloka-kṛ́t,@}¦ 
+;
+7552 old <L>7533<pc>1188<k1>lokakftnu<k2>loka-kftnu/	{@loka-kṛtnú,@} oder vielmehr {@ulokakṛtnú@}¦ 
+7552 new <L>7533<pc>1188<k1>lokakftnu<k2>loka-kftnu/, ulokakftnu/	{@loka-kṛtnú,@} oder vielmehr {@ulokakṛtnú@}¦ 
+;
+7562 old <L>7543<pc>1189<k1>vak<k2>vak, vaNk	{@√vak,@} {@√vaṅk,@}¦ 
+7562 new <L>7543<pc>1189<k1>vak<k2>vak, vaNk	{@√vak,@} {@√vaṅk,@}¦ 
+;
+7567 old <L>7548<pc>1189<k1>vakmya<k2>va/kmya	{@(vákmya),@} {@vákmia,@}¦ 
+7567 new <L>7548<pc>1189<k1>vakmya<k2>va/kmya, va/kmia	{@(vákmya),@} {@vákmia,@}¦ 
+;
+7597 old <L>7578<pc>1196<k1>vaj<k2>vaj, uj	{@√vaj,@} {@√uj,@}¦ 
+7597 new <L>7578<pc>1196<k1>vaj<k2>vaj, uj	{@√vaj,@} {@√uj,@}¦ 
+;
+7602 old <L>7583<pc>1197<k1>vajravah<k2>vajra-va/h	{@vajra-váh,@} stark {@vajra-vā́h,@}¦ 
+7602 new <L>7583<pc>1197<k1>vajravah<k2>vajra-va/h, vajra-vA/h	{@vajra-váh,@} stark {@vajra-vā́h,@}¦ 
+;
+7632 old <L>7613<pc>1203<k1>vaDryaSva<k2>vaDryaSva/	{@(vadhryaśvá),@} {@vadhri-aśvá,@}¦ 
+7632 new <L>7613<pc>1203<k1>vaDryaSva<k2>vaDryaSva/, vaDri-aSva/	{@(vadhryaśvá),@} {@vadhri-aśvá,@}¦ 
+;
+7685 old <L>7666<pc>1213<k1>vapuzya<k2>vapuzya^	{@(vapuṣyà),@} {@vapuṣía,@}¦ 
+7685 new <L>7666<pc>1213<k1>vapuzya<k2>vapuzya^, vapuzi/a	{@(vapuṣyà),@} {@vapuṣía,@}¦ 
+;
+7714 old <L>7695<pc>1217<k1>vayya<k2>vayya^	{@(vayyà),@} {@vayía,@}¦ 
+7714 new <L>7695<pc>1217<k1>vayya<k2>vayya^, vayi/a	{@(vayyà),@} {@vayía,@}¦ 
+;
+7745 old <L>7726<pc>1221<k1>varuRya<k2>varuRya^	{@(varuṇyà),@} {@varuṇía,@}¦ 
+7745 new <L>7726<pc>1221<k1>varuRya<k2>varuRya^, varuRi/a	{@(varuṇyà),@} {@varuṇía,@}¦ 
+;
+7749 old <L>7730<pc>1222<k1>varUTya<k2>varUTya^	{@(varūthyà),@} {@varūthía,@}¦ 
+7749 new <L>7730<pc>1222<k1>varUTya<k2>varUTya^, varUTi/a	{@(varūthyà),@} {@varūthía,@}¦ 
+;
+7750 old <L>7731<pc>1222<k1>vareRya<k2>va/reRya	{@(váreṇya),@} {@váreṇia,@}¦ 
+7750 new <L>7731<pc>1222<k1>vareRya<k2>va/reRya, va/reRia	{@(váreṇya),@} {@váreṇia,@}¦ 
+;
+7751 old <L>7732<pc>1222<k1>vareRyakratu<k2>va/reRya-kratu	{@(váreṇya-kratu),@} {@váreṇia-kratu,@}¦ 
+7751 new <L>7732<pc>1222<k1>vareRyakratu<k2>va/reRya-kratu, va/reRia-kratu	{@(váreṇya-kratu),@} {@váreṇia-kratu,@}¦ 
+;
+7782 old <L>7762<pc>1225<k1>varzya<k2>varzya^	{@(varṣyà),@} {@varṣía,@}¦ 
+7782 new <L>7762<pc>1225<k1>varzya<k2>varzya^, varzi/a	{@(varṣyà),@} {@varṣía,@}¦ 
+;
+7802 old <L>7782<pc>1229<k1>vas<k2>vas, uz<h>1	<hom>1.</hom> {@√vas,@} {@√uṣ@}¦ 
+7802 new <L>7782<pc>1229<k1>vas<k2>vas, uz<h>1	<hom>1.</hom> {@√vas,@} {@√uṣ@}¦ 
+;
+7813 old <L>7793<pc>1234<k1>vasavya<k2>vasavya^, vasavi/a	{@vasavyà,@} {@vasavía,@}¦ 
+7813 new <L>7793<pc>1234<k1>vasavya<k2>vasavya^, vasavi/a	{@vasavyà,@} {@vasavía,@}¦ 
+;
+7815 old <L>7795<pc>1234<k1>vasavi<k2>vasa/vi	{@vasávi@} oder {@vasā́vī,@}¦ 
+7815 new <L>7795<pc>1234<k1>vasavi<k2>vasa/vi, vasA/vI	{@vasávi@} oder {@vasā́vī,@}¦ 
+;
+7848 old <L>7828<pc>1238<k1>vasnya<k2>va/snya	{@(vásnya),@} {@vásnia,@}¦ 
+7848 new <L>7828<pc>1238<k1>vasnya<k2>va/snya, va/snia	{@(vásnya),@} {@vásnia,@}¦ 
+;
+7880 old <L>7860<pc>1252<k1>vAjapastya<k2>vA/ja-pastya	{@(vā́ja-pastya),@} {@vā́ja-pastia,@}¦ 
+7880 new <L>7860<pc>1252<k1>vAjapastya<k2>vA/ja-pastya, vA/ja-pastia	{@(vā́ja-pastya),@} {@vā́ja-pastia,@}¦ 
+;
+7921 old <L>7901<pc>1258<k1>vAtApya<k2>vAtA/pya, vAtA/pia	{@vātā́pya,@} {@vātā́pia,@}¦ 
+7921 new <L>7901<pc>1258<k1>vAtApya<k2>vAtA/pya, vAtA/pia	{@vātā́pya,@} {@vātā́pia,@}¦ 
+;
+7925 old <L>7905<pc>1258<k1>vADryaSva<k2>vA/DryaSva	{@(vā́dhryaśva),@} {@vā́dhriaśva,@}¦ 
+7925 new <L>7905<pc>1258<k1>vADryaSva<k2>vA/DryaSva, vA/DriaSva	{@(vā́dhryaśva),@} {@vā́dhriaśva,@}¦ 
+;
+7940 old <L>7920<pc>1260<k1>vAyya<k2>vAyya/	{@(vāyyá),@} {@vāyiá,@}¦ 
+7940 new <L>7920<pc>1260<k1>vAyya<k2>vAyya/, vAyia/	{@(vāyyá),@} {@vāyiá,@}¦ 
+;
+7941 old <L>7921<pc>1260<k1>vAr<k2>vA/r, va/ar<h>1	<hom>1.</hom> {@vā́r,@} {@váar,@}¦ 
+7941 new <L>7921<pc>1260<k1>vAr<k2>vA/r, va/ar<h>1	<hom>1.</hom> {@vā́r,@} {@váar,@}¦ 
+;
+7942 old <L>7922<pc>1260<k1>vAr<k2>vA/r, va/ar<h>2	<hom>2.</hom> {@vā́r,@} {@váar,@}¦ 
+7942 new <L>7922<pc>1260<k1>vAr<k2>vA/r, va/ar<h>2	<hom>2.</hom> {@vā́r,@} {@váar,@}¦ 
+;
+7950 old <L>7930<pc>1261<k1>vArya<k2>vA/rya, vA/ria	{@vā́rya,@} {@vā́ria,@}¦ 
+7950 new <L>7930<pc>1261<k1>vArya<k2>vA/rya, vA/ria	{@vā́rya,@} {@vā́ria,@}¦ 
+;
+7966 old <L>7946<pc>1264<k1>vAstva<k2>vAstva, vAstua	{@(vāstva,@} {@vāstua),@}¦ 
+7966 new <L>7946<pc>1264<k1>vAstva<k2>vAstva, vAstua	{@(vāstva,@} {@vāstua),@}¦ 
+;
+8003 old <L>7981<pc>1269<k1>vijenya<k2>vijenya^	{@(vijenyà),@} {@vijenía,@}¦ 
+8003 new <L>7981<pc>1269<k1>vijenya<k2>vijenya^, vijeni/a	{@(vijenyà),@} {@vijenía,@}¦ 
+;
+8009 old <L>7987<pc>1269<k1>vitantasAyya<k2>vitantasA/yya	{@(vitantasā́yya),@} {@vitantasā́yia,@}¦ 
+8009 new <L>7987<pc>1269<k1>vitantasAyya<k2>vitantasA/yya, vitantasA/yia	{@(vitantasā́yya),@} {@vitantasā́yia,@}¦ 
+;
+8027 old <L>8005<pc>1278<k1>vidaTya<k2>vidaTya^	{@(vidathyà),@} {@vidathía,@}¦ 
+8027 new <L>8005<pc>1278<k1>vidaTya<k2>vidaTya^, vidaTi/a	{@(vidathyà),@} {@vidathía,@}¦ 
+;
+8031 old <L>8009<pc>1279<k1>vidAna<k2>vi/dAna, vidAna/	{@(vídāna,@} {@vidāná),@}¦ 
+8031 new <L>8009<pc>1279<k1>vidAna<k2>vi/dAna, vidAna/	{@(vídāna,@} {@vidāná),@}¦ 
+;
+8032 old <L>8010<pc>1279<k1>vidAyya<k2>vidA/yya	{@(vidā́yya),@} {@vidā́yia,@}¦ 
+8032 new <L>8010<pc>1279<k1>vidAyya<k2>vidA/yya, vidA/yia	{@(vidā́yya),@} {@vidā́yia,@}¦ 
+;
+8083 old <L>8061<pc>1285<k1>viprarAjya<k2>vipra-rA/jya	{@(vipra-rā́jya),@} {@vipra-rā́jia,@}¦ 
+8083 new <L>8061<pc>1285<k1>viprarAjya<k2>vipra-rA/jya, vipra-rA/jia	{@(vipra-rā́jya),@} {@vipra-rā́jia,@}¦ 
+;
+8117 old <L>8095<pc>1288<k1>viBvan<k2>vi/Bvan, viBva/n	{@víbhvan,@} {@vibhván,@}¦ 
+8117 new <L>8095<pc>1288<k1>viBvan<k2>vi/Bvan, viBva/n	{@víbhvan,@} {@vibhván,@}¦ 
+;
+8138 old <L>8116<pc>1290<k1>virAzah<k2>virA-za/h	{@virā-ṣáh,@} stark {@virā-ṣā́h,@}¦ 
+8138 new <L>8116<pc>1290<k1>virAzah<k2>virA-za/h, virA-zA/h	{@virā-ṣáh,@} stark {@virā-ṣā́h,@}¦ 
+;
+8172 old <L>8150<pc>1297<k1>viSya<k2>viSya^	{@(viśyà),@} {@viśía,@}¦ 
+8172 new <L>8150<pc>1297<k1>viSya<k2>viSya^, viSi/a	{@(viśyà),@} {@viśía,@}¦ 
+;
+8188 old <L>8166<pc>1301<k1>viSvataspad<k2>viSva/tas-pad	{@viśvátas-pad,@} stark {@viśvátas-pād,@}¦ 
+8188 new <L>8166<pc>1301<k1>viSvataspad<k2>viSva/tas-pad, viSva/tas-pAd	{@viśvátas-pad,@} stark {@viśvátas-pād,@}¦ 
+;
+8200 old <L>8178<pc>1301<k1>viSvadevya<k2>viSva/devya, vi/Sva/devia	{@viśvádevya,@} {@víśvádevia,@}¦ 
+8200 new <L>8178<pc>1301<k1>viSvadevya<k2>viSva/devya, vi/Sva/devia	{@viśvádevya,@} {@víśvádevia,@}¦ 
+;
+8201 old <L>8179<pc>1301<k1>viSvadevyAvat<k2>viSva/devyAvat	{@(viśvádevyāvat),@} {@viśvádeviāvat,@}¦ 
+8201 new <L>8179<pc>1301<k1>viSvadevyAvat<k2>viSva/devyAvat, viSva/deviAvat	{@(viśvádevyāvat),@} {@viśvádeviāvat,@}¦ 
+;
+8211 old <L>8189<pc>1302<k1>viSvapsnya<k2>viSva/-psnya	{@(viśvá-psnya),@} {@viśvá-psnia,@}¦ 
+8211 new <L>8189<pc>1302<k1>viSvapsnya<k2>viSva/-psnya, viSva/-psnia	{@(viśvá-psnya),@} {@viśvá-psnia,@}¦ 
+;
+8226 old <L>8204<pc>1304<k1>viSvavArya<k2>viSva/-vArya	{@(viśvá-vārya),@} {@viśvá-vāria,@}¦ 
+8226 new <L>8204<pc>1304<k1>viSvavArya<k2>viSva/-vArya, viSva/-vAria	{@(viśvá-vārya),@} {@viśvá-vāria,@}¦ 
+;
+8239 old <L>8217<pc>1305<k1>viSvaha<k2>viSva/ha, viSva/hA	{@viśváha,@} {@viśváhā,@}¦ 
+8239 new <L>8217<pc>1305<k1>viSvaha<k2>viSva/ha, viSva/hA	{@viśváha,@} {@viśváhā,@}¦ 
+;
+8252 old <L>8230<pc>1306<k1>viSvAsah<k2>viSvA-sa/h	{@viśvā-sáh,@} stark {@viśvā-sā́h,@}¦ 
+8252 new <L>8230<pc>1306<k1>viSvAsah<k2>viSvA-sa/h, viSvA-sA/h	{@viśvā-sáh,@} stark {@viśvā-sā́h,@}¦ 
+;
+8255 old <L>8233<pc>1306<k1>viSvyA<k2>vi/SvyA	{@(víśvyā),@} {@víśviā@}¦ 
+8255 new <L>8233<pc>1306<k1>viSvyA<k2>vi/SvyA, vi/SviA	{@(víśvyā),@} {@víśviā@}¦ 
+;
+8276 old <L>8254<pc>1309<k1>vizwAnta<k2>vizwA/nta	{@(viṣṭā́nta),@} {@viṣṭá-anta,@}¦ 
+8276 new <L>8254<pc>1309<k1>vizwAnta<k2>vizwA/nta, vizwa/-anta	{@(viṣṭā́nta),@} {@viṣṭá-anta,@}¦ 
+;
+8291 old <L>8269<pc>1311<k1>vizvadryac<k2>vizvadry-a^c	{@(viṣvadry-àc),@} {@viṣvadrí-ac,@}¦ 
+8291 new <L>8269<pc>1311<k1>vizvadryac<k2>vizvadry-a^c, vizvadri/-ac	{@(viṣvadry-àc),@} {@viṣvadrí-ac,@}¦ 
+;
+8310 old <L>8288<pc>1314<k1>vI<k2>vI<h>2	<hom>2.</hom> {@√vī@} oder {@√vi,@}¦ 
+8310 new <L>8288<pc>1314<k1>vI<k2>vI, vi<h>2	<hom>2.</hom> {@√vī@} oder {@√vi,@}¦ 
+;
+8324 old <L>8302<pc>1315<k1>vIqvaNga<k2>vIqva^Nga	{@(vīḍvàṅga),@} {@vīḍú-aṅga,@}¦ 
+8324 new <L>8302<pc>1315<k1>vIqvaNga<k2>vIqva^Nga, vIqu/-aNga	{@(vīḍvàṅga),@} {@vīḍú-aṅga,@}¦ 
+;
+8340 old <L>8318<pc>1317<k1>vIrapastya<k2>vIra/-pastya	{@(vīrá-pastya),@} {@vīrá-pastia,@}¦ 
+8340 new <L>8318<pc>1317<k1>vIrapastya<k2>vIra/-pastya, vIra/-pastia	{@(vīrá-pastya),@} {@vīrá-pastia,@}¦ 
+;
+8347 old <L>8325<pc>1318<k1>vIravah<k2>vIra-va/h	{@vīra-váh,@} stark {@vīra-vā́h,@}¦ 
+8347 new <L>8325<pc>1318<k1>vIravah<k2>vIra-va/h, vIra-vA/h	{@vīra-váh,@} stark {@vīra-vā́h,@}¦ 
+;
+8354 old <L>8332<pc>1318<k1>vIreRya<k2>vIre/Rya	{@(vīréṇya),@} {@vīréṇia,@}¦ 
+8354 new <L>8332<pc>1318<k1>vIreRya<k2>vIre/Rya, vIre/Ria	{@(vīréṇya),@} {@vīréṇia,@}¦ 
+;
+8355 old <L>8333<pc>1318<k1>vIrya<k2>vIrya^	{@(vīryà),@} {@vīría,@}¦ 
+8355 new <L>8333<pc>1318<k1>vIrya<k2>vIrya^, vIri/a	{@(vīryà),@} {@vīría,@}¦ 
+;
+8356 old <L>8334<pc>1319<k1>vUrya<k2>vU/rya, vU/ria	{@(vū́rya,@} {@vū́ria),@}¦ 
+8356 new <L>8334<pc>1319<k1>vUrya<k2>vU/rya, vU/ria	{@(vū́rya,@} {@vū́ria),@}¦ 
+;
+8390 old <L>8368<pc>1335<k1>vftratUrya<k2>vftra-tU/rya, vftra-tU/ria	{@vṛtra-tū́rya,@} {@vṛtra-tū́ria,@}¦ 
+8390 new <L>8368<pc>1335<k1>vftratUrya<k2>vftra-tU/rya, vftra-tU/ria	{@vṛtra-tū́rya,@} {@vṛtra-tū́ria,@}¦ 
+;
+8398 old <L>8376<pc>1336<k1>vfTAzah<k2>vfTA-za/h	{@vṛthā-ṣáh,@} stark {@vṛthā-ṣā́h,@}¦ 
+8398 new <L>8376<pc>1336<k1>vfTAzah<k2>vfTA-za/h, vfTA-zA/h	{@vṛthā-ṣáh,@} stark {@vṛthā-ṣā́h,@}¦ 
+;
+8470 old <L>8448<pc>1352<k1>vfzRya<k2>vf/zRya	{@(vṛ́ṣṇya),@} {@vṛ́ṣṇia,@}¦ 
+8470 new <L>8448<pc>1352<k1>vfzRya<k2>vf/zRya, vf/zRia	{@(vṛ́ṣṇya),@} {@vṛ́ṣṇia,@}¦ 
+;
+8471 old <L>8449<pc>1352<k1>vfzRyAvat<k2>vf/zRyAvat	{@(vṛ́ṣṇyāvat),@} {@vṛ́ṣṇiāvat,@}¦ 
+8471 new <L>8449<pc>1352<k1>vfzRyAvat<k2>vf/zRyAvat, vf/zRiAvat	{@(vṛ́ṣṇyāvat),@} {@vṛ́ṣṇiāvat,@}¦ 
+;
+8488 old <L>8466<pc>1353<k1>vedya<k2>ve/dya	{@(védya),@} {@védia,@}¦ 
+8488 new <L>8466<pc>1353<k1>vedya<k2>ve/dya, ve/dia	{@(védya),@} {@védia,@}¦ 
+;
+8489 old <L>8467<pc>1353<k1>vedyA<k2>vedyA/	{@(vedyā́),@} {@vediā́,@}¦ 
+8489 new <L>8467<pc>1353<k1>vedyA<k2>vedyA/, vediA/	{@(vedyā́),@} {@vediā́,@}¦ 
+;
+8495 old <L>8473<pc>1355<k1>venya<k2>venya/	{@(venyá),@} {@veniá,@}¦ 
+8495 new <L>8473<pc>1355<k1>venya<k2>venya/, venia/	{@(venyá),@} {@veniá,@}¦ 
+;
+8513 old <L>8491<pc>1356<k1>vEnya<k2>vEnya/	{@(vainyá),@} {@vainiá,@}¦ 
+8513 new <L>8491<pc>1356<k1>vEnya<k2>vEnya/, vEnia/	{@(vainyá),@} {@vainiá,@}¦ 
+;
+8528 old <L>8506<pc>1357<k1>vyaMsa<k2>vya^Msa	{@(vyàṃsa),@} {@ví-aṃsa,@}¦ 
+8528 new <L>8506<pc>1357<k1>vyaMsa<k2>vya^Msa, vi/-aMsa	{@(vyàṃsa),@} {@ví-aṃsa,@}¦ 
+;
+8533 old <L>8511<pc>1358<k1>vyaYjana<k2>vya/Yjana	{@(vyáñjana),@} {@viáñjana,@}¦ 
+8533 new <L>8511<pc>1358<k1>vyaYjana<k2>vya/Yjana, via/Yjana	{@(vyáñjana),@} {@viáñjana,@}¦ 
+;
+8534 old <L>8512<pc>1358<k1>vyati<k2>vya/ti	{@(vyáti),@} {@viáti,@}¦ 
+8534 new <L>8512<pc>1358<k1>vyati<k2>vya/ti, via/ti	{@(vyáti),@} {@viáti,@}¦ 
+;
+8538 old <L>8516<pc>1358<k1>vyaD<k2>vyaD	{@(√vyadh),@} {@√vidh@}¦ 
+8538 new <L>8516<pc>1358<k1>vyaD<k2>vyaD, viD	{@(√vyadh),@} {@√vidh@}¦ 
+;
+8539 old <L>8517<pc>1359<k1>vyaDvan<k2>vya^Dvan	{@(vyàdhvan),@} {@ví-adhvan,@}¦ 
+8539 new <L>8517<pc>1359<k1>vyaDvan<k2>vya^Dvan, vi/-aDvan	{@(vyàdhvan),@} {@ví-adhvan,@}¦ 
+;
+8540 old <L>8518<pc>1359<k1>vyayana<k2>vya/yana	{@(vyáyana),@} {@viáyana,@}¦ 
+8540 new <L>8518<pc>1359<k1>vyayana<k2>vya/yana, via/yana	{@(vyáyana),@} {@viáyana,@}¦ 
+;
+8541 old <L>8519<pc>1359<k1>vyalkaSA<k2>vya^lkaSA	{@(vyàlkaśā),@} {@víalkaśā,@}¦ 
+8541 new <L>8519<pc>1359<k1>vyalkaSA<k2>vya^lkaSA, vi/alkaSA	{@(vyàlkaśā),@} {@víalkaśā,@}¦ 
+;
+8542 old <L>8520<pc>1359<k1>vyaSva<k2>vya^Sva	{@(vyàśva),@} {@ví-aśva,@}¦ 
+8542 new <L>8520<pc>1359<k1>vyaSva<k2>vya^Sva, vi/-aSva	{@(vyàśva),@} {@ví-aśva,@}¦ 
+;
+8543 old <L>8521<pc>1359<k1>vyaSvavat<k2>vyaSvava/t	{@(vyaśvavát),@} {@viaśvavát,@}¦ 
+8543 new <L>8521<pc>1359<k1>vyaSvavat<k2>vyaSvava/t, viaSvava/t	{@(vyaśvavát),@} {@viaśvavát,@}¦ 
+;
+8544 old <L>8522<pc>1359<k1>vyA<k2>vyA, vI	{@√vyā,@} {@√vī,@}¦ 
+8544 new <L>8522<pc>1359<k1>vyA<k2>vyA, vI	{@√vyā,@} {@√vī,@}¦ 
+;
+8545 old <L>8523<pc>1360<k1>vyAnaSi<k2>vyAnaSi/	{@(vyānaśí),@} {@viānaśí,@}¦ 
+8545 new <L>8523<pc>1360<k1>vyAnaSi<k2>vyAnaSi/, viAnaSi/	{@(vyānaśí),@} {@viānaśí,@}¦ 
+;
+8546 old <L>8524<pc>1360<k1>vyuz<k2>vyu/z	{@(vyúṣ),@} {@viúṣ,@}¦ 
+8546 new <L>8524<pc>1360<k1>vyuz<k2>vyu/z, viu/z	{@(vyúṣ),@} {@viúṣ,@}¦ 
+;
+8547 old <L>8525<pc>1360<k1>vyuzwi<k2>vyu^zwi	{@(vyùṣṭi),@} {@víuṣṭi,@}¦ 
+8547 new <L>8525<pc>1360<k1>vyuzwi<k2>vyu^zwi, vi/uzwi	{@(vyùṣṭi),@} {@víuṣṭi,@}¦ 
+;
+8548 old <L>8526<pc>1360<k1>vyeta<k2>vye^ta	{@(vyèta),@} {@ví-eta,@}¦ 
+8548 new <L>8526<pc>1360<k1>vyeta<k2>vye^ta, vi/-eta	{@(vyèta),@} {@ví-eta,@}¦ 
+;
+8549 old <L>8527<pc>1361<k1>vyenas<k2>vye^nas	{@(vyènas),@} {@ví-enas,@}¦ 
+8549 new <L>8527<pc>1361<k1>vyenas<k2>vye^nas, vi/-enas	{@(vyènas),@} {@ví-enas,@}¦ 
+;
+8550 old <L>8528<pc>1361<k1>vyodana<k2>vyo/dana	{@(vyódana),@} {@vi-ódana,@}¦ 
+8550 new <L>8528<pc>1361<k1>vyodana<k2>vyo/dana, vi-o/dana	{@(vyódana),@} {@vi-ódana,@}¦ 
+;
+8551 old <L>8529<pc>1361<k1>vyoman<k2>vyo^man	{@(vyòman),@} {@víoman,@}¦ 
+8551 new <L>8529<pc>1361<k1>vyoman<k2>vyo^man, vi/oman	{@(vyòman),@} {@víoman,@}¦ 
+;
+8552 old <L>8530<pc>1361<k1>vyomasad<k2>vyoma-sa/d	{@(vyoma-sád),@} {@vioma-sád,@}¦ 
+8552 new <L>8530<pc>1361<k1>vyomasad<k2>vyoma-sa/d, vioma-sa/d	{@(vyoma-sád),@} {@vioma-sád,@}¦ 
+;
+8562 old <L>8540<pc>1363<k1>vratya<k2>vratya^	{@(vratyà),@} {@vratía,@}¦ 
+8562 new <L>8540<pc>1363<k1>vratya<k2>vratya^, vrati/a	{@(vratyà),@} {@vratía,@}¦ 
+;
+8563 old <L>8541<pc>1363<k1>vrad<k2>vrad, vrand	{@√vrad,@} {@√vrand@}¦ 
+8563 new <L>8541<pc>1363<k1>vrad<k2>vrad, vrand	{@√vrad,@} {@√vrand@}¦ 
+;
+8579 old <L>8557<pc>1365a<k1>SaMs<k2>SaMs, Sas	{@√śaṃs,@} {@√śas@}¦ 
+8579 new <L>8557<pc>1365a<k1>SaMs<k2>SaMs, Sas	{@√śaṃs,@} {@√śas@}¦ 
+;
+8592 old <L>8570<pc>1370<k1>Sakft<k2>Sa/kft	{@śákṛt,@} {@(śakán),@}¦ 
+8592 new <L>8570<pc>1370<k1>Sakft<k2>Sa/kft, Saka/n	{@śákṛt,@} {@(śakán),@}¦ 
+;
+8624 old <L>8602<pc>1374<k1>SataDanya<k2>SataDanya^	{@(śatadhanyà),@} {@śatadhanía,@}¦ 
+8624 new <L>8602<pc>1374<k1>SataDanya<k2>SataDanya^, SataDani/a	{@(śatadhanyà),@} {@śatadhanía,@}¦ 
+;
+8657 old <L>8635<pc>1376<k1>SatASva<k2>SatA/Sva	{@(śatā́śva),@} {@śatá-aśva,@}¦ 
+8657 new <L>8635<pc>1376<k1>SatASva<k2>SatA/Sva, Sata/-aSva	{@(śatā́śva),@} {@śatá-aśva,@}¦ 
+;
+8666 old <L>8644<pc>1377<k1>SatrUzah<k2>SatrU-za/h	{@śatrū-ṣáh,@} stark {@śatrū-ṣā́h,@}¦ 
+8666 new <L>8644<pc>1377<k1>SatrUzah<k2>SatrU-za/h, SatrU-zA/h	{@śatrū-ṣáh,@} stark {@śatrū-ṣā́h,@}¦ 
+;
+8675 old <L>8653<pc>1378<k1>SapaTya<k2>SapaTya^	{@(śapathyà),@} {@śapathía,@}¦ 
+8675 new <L>8653<pc>1378<k1>SapaTya<k2>SapaTya^, SapaTi/a	{@(śapathyà),@} {@śapathía,@}¦ 
+;
+8694 old <L>8672<pc>1381<k1>SamyA<k2>SamyA/	{@(śamyā́),@} {@śamiā́,@}¦ 
+8694 new <L>8672<pc>1381<k1>SamyA<k2>SamyA/, SamiA/	{@(śamyā́),@} {@śamiā́,@}¦ 
+;
+8700 old <L>8678<pc>1381<k1>Sar<k2>Sar, Sir<h>1	<hom>1.</hom> {@√śar,@} {@√śir@}¦ 
+8700 new <L>8678<pc>1381<k1>Sar<k2>Sar, Sir<h>1	<hom>1.</hom> {@√śar,@} {@√śir@}¦ 
+;
+8708 old <L>8686<pc>1383<k1>SaravyA<k2>SaravyA^, Saravi/A	{@śaravyā̀,@} {@śaravíā,@}¦ 
+8708 new <L>8686<pc>1383<k1>SaravyA<k2>SaravyA^, Saravi/A	{@śaravyā̀,@} {@śaravíā,@}¦ 
+;
+8718 old <L>8696<pc>1384<k1>SarDya<k2>Sa/rDya	{@(śárdhya),@} {@śárdhia,@}¦ 
+8718 new <L>8696<pc>1384<k1>SarDya<k2>Sa/rDya, Sa/rDia	{@(śárdhya),@} {@śárdhia,@}¦ 
+;
+8752 old <L>8729<pc>1389<k1>SA<k2>SA, Si	{@√śā,@} {@√śi.@}¦ 
+8752 new <L>8729<pc>1389<k1>SA<k2>SA, Si	{@√śā,@} {@√śi.@}¦ 
+;
+8768 old <L>8745<pc>1391<k1>SAmulya<k2>SAmulya^	{@(śāmulyà),@} {@śāmulía,@}¦ 
+8768 new <L>8745<pc>1391<k1>SAmulya<k2>SAmulya^, SAmuli/a	{@(śāmulyà),@} {@śāmulía,@}¦ 
+;
+8773 old <L>8750<pc>1391<k1>SAs<k2>SAs, Sis	{@√śās,@} {@√śis@}¦ 
+8773 new <L>8750<pc>1391<k1>SAs<k2>SAs, Sis	{@√śās,@} {@√śis@}¦ 
+;
+8795 old <L>8772<pc>1393<k1>Sitipad<k2>Sitipa/d	{@śitipád,@} stark {@citipā́d,@}¦ 
+8795 new <L>8772<pc>1393<k1>Sitipad<k2>Sitipa/d, citipA/d	{@śitipád,@} stark {@citipā́d,@}¦ 
+;
+8874 old <L>8849<pc>1403<k1>SuD<k2>SuD, SunD	{@√śudh,@} {@√śundh,@}¦ 
+8874 new <L>8849<pc>1403<k1>SuD<k2>SuD, SunD	{@√śudh,@} {@√śundh,@}¦ 
+;
+8883 old <L>8857<pc>1405<k1>SuB<k2>SuB, SumB	{@√śubh,@} {@√śumbh,@}¦ 
+8883 new <L>8857<pc>1405<k1>SuB<k2>SuB, SumB	{@√śubh,@} {@√śumbh,@}¦ 
+;
+8926 old <L>8898<pc>1412<k1>SUzya<k2>SUzya^	{@(śūṣyà),@} {@śūṣía,@}¦ 
+8926 new <L>8898<pc>1412<k1>SUzya<k2>SUzya^, SUzi/a	{@(śūṣyà),@} {@śūṣía,@}¦ 
+;
+8940 old <L>8912<pc>1413<k1>Sevya<k2>Se/vya	{@(śévya),@} {@śévia,@}¦ 
+8940 new <L>8912<pc>1413<k1>Sevya<k2>Se/vya, Se/via	{@(śévya),@} {@śévia,@}¦ 
+;
+8953 old <L>8925<pc>1414<k1>SOradevya<k2>SOradevya/	{@(śauradevyá),@} {@śauradeviá,@}¦ 
+8953 new <L>8925<pc>1414<k1>SOradevya<k2>SOradevya/, SOradevia/	{@(śauradevyá),@} {@śauradeviá,@}¦ 
+;
+8970 old <L>8942<pc>1416<k1>SyAvASva<k2>SyAvA/Sva, SyAva/-aSva	{@śyāvā́śva,@} {@śyāvá-aśva,@}¦ 
+8970 new <L>8942<pc>1416<k1>SyAvASva<k2>SyAvA/Sva, SyAva/-aSva	{@śyāvā́śva,@} {@śyāvá-aśva,@}¦ 
+;
+8971 old <L>8943<pc>1416<k1>SyAvASvastuta<k2>SyAvA/Sva-stuta	{@(śyāvā́śva-stuta),@} {@śyāváaśva-stuta,@}¦ 
+8971 new <L>8943<pc>1416<k1>SyAvASvastuta<k2>SyAvA/Sva-stuta, SyAva/aSva-stuta	{@(śyāvā́śva-stuta),@} {@śyāváaśva-stuta,@}¦ 
+;
+8973 old <L>8945<pc>1416<k1>SyAvyA<k2>SyAvyA^	{@(śyāvyā̀),@} {@śyāvíā,@}¦ 
+8973 new <L>8945<pc>1416<k1>SyAvyA<k2>SyAvyA^, SyAvi/A	{@(śyāvyā̀),@} {@śyāvíā,@}¦ 
+;
+8998 old <L>8970<pc>1421<k1>Sravasya<k2>Sravasya^	{@(śravasyà),@} {@śravasía,@}¦ 
+8998 new <L>8970<pc>1421<k1>Sravasya<k2>Sravasya^, Sravasi/a	{@(śravasyà),@} {@śravasía,@}¦ 
+;
+9001 old <L>8973<pc>1421<k1>SravAyya<k2>SravA/yya	{@(śravā́yya),@} {@śravā́yia,@}¦ 
+9001 new <L>8973<pc>1421<k1>SravAyya<k2>SravA/yya, SravA/yia	{@(śravā́yya),@} {@śravā́yia,@}¦ 
+;
+9015 old <L>8989<pc>1429<k1>Srutafzi<k2>Sruta/-fzi	{@(śrutá-ṛṣi),@} {@śrutárṣi,@}¦ 
+9015 new <L>8989<pc>1429<k1>Srutafzi<k2>Sruta/-fzi, Sruta/rzi	{@(śrutá-ṛṣi),@} {@śrutárṣi,@}¦ 
+;
+9024 old <L>8998<pc>1430<k1>Srutya<k2>Sru/tya	{@(śrútya),@} {@śrútia,@}¦ 
+9024 new <L>8998<pc>1430<k1>Srutya<k2>Sru/tya, Sru/tia	{@(śrútya),@} {@śrútia,@}¦ 
+;
+9035 old <L>9009<pc>1431<k1>SrezWa<k2>Sre/zWa, Sra/yizWa	{@śréṣṭha,@} {@śráyiṣṭha,@}¦ 
+9035 new <L>9009<pc>1431<k1>SrezWa<k2>Sre/zWa, Sra/yizWa	{@śréṣṭha,@} {@śráyiṣṭha,@}¦ 
+;
+9036 old <L>9010<pc>1431<k1>SrezWavarcas<k2>Sre/zWa-varcas	{@(śréṣṭha-varcas),@} {@śráyiṣṭha-varcas,@}¦ 
+9036 new <L>9010<pc>1431<k1>SrezWavarcas<k2>Sre/zWa-varcas, Sra/yizWa-varcas	{@(śréṣṭha-varcas),@} {@śráyiṣṭha-varcas,@}¦ 
+;
+9037 old <L>9011<pc>1432<k1>SrezWaSocis<k2>Sre/zWa-Socis	{@(śréṣṭha-śocis),@} {@śráyiṣṭha-śocis,@}¦ 
+9037 new <L>9011<pc>1432<k1>SrezWaSocis<k2>Sre/zWa-Socis, Sra/yizWa-Socis	{@(śréṣṭha-śocis),@} {@śráyiṣṭha-śocis,@}¦ 
+;
+9050 old <L>9024<pc>1433<k1>SvaYc<k2>SvaYc, Svac	{@√śvañc,@} {@√śvac@}¦ 
+9050 new <L>9024<pc>1433<k1>SvaYc<k2>SvaYc, Svac	{@√śvañc,@} {@√śvac@}¦ 
+;
+9056 old <L>9030<pc>1433<k1>Svas<k2>Svas, Suz	{@√śvas,@} {@√śuṣ,@}¦ 
+9056 new <L>9030<pc>1433<k1>Svas<k2>Svas, Suz	{@√śvas,@} {@√śuṣ,@}¦ 
+;
+9064 old <L>9038<pc>1434<k1>SvAtrya<k2>SvA/trya	{@(śvā́trya),@} {@śvā́tria,@}¦ 
+9064 new <L>9038<pc>1434<k1>SvAtrya<k2>SvA/trya, SvA/tria	{@(śvā́trya),@} {@śvā́tria,@}¦ 
+;
+9070 old <L>9044<pc>1435<k1>Svitnya<k2>Svitnya/	{@(śvitnyá),@} {@śvitniá,@}¦ 
+9070 new <L>9044<pc>1435<k1>Svitnya<k2>Svitnya/, Svitnia/	{@(śvitnyá),@} {@śvitniá,@}¦ 
+;
+9073 old <L>9047<pc>1435<k1>Svitrya<k2>Svi/trya	{@(śvítrya),@} {@śvítria,@}¦ 
+9073 new <L>9047<pc>1435<k1>Svitrya<k2>Svi/trya, Svi/tria	{@(śvítrya),@} {@śvítria,@}¦ 
+;
+9077 old <L>9051<pc>1436<k1>Svetya<k2>Svetya/	{@(śvetyá),@} {@śvetiá@}¦ 
+9077 new <L>9051<pc>1436<k1>Svetya<k2>Svetya/, Svetia/	{@(śvetyá),@} {@śvetiá@}¦ 
+;
+9131 old <L>9105<pc>1440<k1>sakmya<k2>sa/kmya	{@(sákmya),@} {@sákmia,@}¦ 
+9131 new <L>9105<pc>1440<k1>sakmya<k2>sa/kmya, sa/kmia	{@(sákmya),@} {@sákmia,@}¦ 
+;
+9143 old <L>9117<pc>1442<k1>saKya<k2>saKya/, saKia/	{@sakhyá,@} {@sakhiá,@}¦ 
+9143 new <L>9117<pc>1442<k1>saKya<k2>saKya/, saKia/	{@sakhyá,@} {@sakhiá,@}¦ 
+;
+9162 old <L>9136<pc>1447<k1>sacaTya<k2>sacaTya^	{@(sacathyà),@} {@sacathía,@}¦ 
+9162 new <L>9136<pc>1447<k1>sacaTya<k2>sacaTya^, sacaTi/a	{@(sacathyà),@} {@sacathía,@}¦ 
+;
+9175 old <L>9149<pc>1449<k1>saj<k2>saj, saYj	{@√saj,@} {@√sañj@}¦ 
+9175 new <L>9149<pc>1449<k1>saj<k2>saj, saYj	{@√saj,@} {@√sañj@}¦ 
+;
+9178 old <L>9152<pc>1449<k1>sajAtya<k2>sajAtya^	{@sajātyà,@} {@sajātía,@}¦ 
+9178 new <L>9152<pc>1449<k1>sajAtya<k2>sajAtya^, sajAti/a	{@sajātyà,@} {@sajātía,@}¦ 
+;
+9213 old <L>9187<pc>1454<k1>satyavac<k2>satya-va/c	{@satya-vác,@} stark {@satya-vā́c,@}¦ 
+9213 new <L>9187<pc>1454<k1>satyavac<k2>satya-va/c, satya-vA/c	{@satya-vác,@} stark {@satya-vā́c,@}¦ 
+;
+9227 old <L>9201<pc>1455<k1>satrAsah<k2>satrA-sa/h, satrAsa/h	{@satrā-sáh,@} {@satrāsáh,@}¦ 
+9227 new <L>9201<pc>1455<k1>satrAsah<k2>satrA-sa/h, satrAsa/h	{@satrā-sáh,@} {@satrāsáh,@}¦ 
+;
+9244 old <L>9218<pc>1461<k1>sadAnvA<k2>sa-dA/nvA	{@(sa-dā́nvā),@} {@sa-dā́nuā,@}¦ 
+9244 new <L>9218<pc>1461<k1>sadAnvA<k2>sa-dA/nvA, sa-dA/nuA	{@(sa-dā́nvā),@} {@sa-dā́nuā,@}¦ 
+;
+9255 old <L>9229<pc>1462<k1>sadyaUti<k2>sadya/-Uti	{@sadyá-ūti,@} <ab>d. h.</ab> {@sadyás-ūti,@}¦ 
+9255 new <L>9229<pc>1462<k1>sadyaUti<k2>sadya/-Uti, sadya/s-Uti	{@sadyá-ūti,@} <ab>d. h.</ab> {@sadyás-ūti,@}¦ 
+;
+9264 old <L>9238<pc>1463<k1>saDanya<k2>saDanya^	{@(sadhanyà),@} {@sadhanía,@}¦ 
+9264 new <L>9238<pc>1463<k1>saDanya<k2>saDanya^, saDani/a	{@(sadhanyà),@} {@sadhanía,@}¦ 
+;
+9267 old <L>9241<pc>1463<k1>saDamAdya<k2>saDamA/dya	{@(sadhamā́dya),@} {@sadhamā́dia,@}¦ 
+9267 new <L>9241<pc>1463<k1>saDamAdya<k2>saDamA/dya, saDamA/dia	{@(sadhamā́dya),@} {@sadhamā́dia,@}¦ 
+;
+9273 old <L>9247<pc>1464<k1>saDri<k2>sa/-Dri, sa/-DrI	{@sá-dhri,@} {@sá-dhrī,@}¦ 
+9273 new <L>9247<pc>1464<k1>saDri<k2>sa/-Dri, sa/-DrI	{@sá-dhri,@} {@sá-dhrī,@}¦ 
+;
+9276 old <L>9250<pc>1465<k1>saDryac<k2>saDrya^c	{@(sadhryàc),@} {@sadhrí-ac,@} stark sadhríañc,¦ 
+9276 new <L>9250<pc>1465<k1>saDryac<k2>saDrya^c, saDri/-ac	{@(sadhryàc),@} {@sadhrí-ac,@} stark sadhríañc,¦ 
+;
+9277 old <L>9251<pc>1465<k1>san<k2>san, sA	{@√san,@} {@√sā@}¦ 
+9277 new <L>9251<pc>1465<k1>san<k2>san, sA	{@√san,@} {@√sā@}¦ 
+;
+9302 old <L>9276<pc>1469<k1>sani<k2>sa/ni, sani/t	{@(sáni,@} {@sanít),@}¦ 
+9302 new <L>9276<pc>1469<k1>sani<k2>sa/ni, sani/t	{@(sáni,@} {@sanít),@}¦ 
+;
+9333 old <L>9307<pc>1472<k1>sapatnahan<k2>sapatna-ha/n	{@sapatna-hán,@} schwach {@sapatnaghn,@}¦ 
+9333 new <L>9307<pc>1472<k1>sapatnahan<k2>sapatna-ha/n, sapatnaGn	{@sapatna-hán,@} schwach {@sapatnaghn,@}¦ 
+;
+9336 old <L>9310<pc>1473<k1>saparya<k2>saparya^	{@(saparyà),@} {@saparía,@}¦ 
+9336 new <L>9310<pc>1473<k1>saparya<k2>saparya^, sapari/a	{@(saparyà),@} {@saparía,@}¦ 
+;
+9365 old <L>9339<pc>1476<k1>saptASva<k2>saptA/Sva	{@(saptā́śva),@} {@saptá-aśva,@}¦ 
+9365 new <L>9339<pc>1476<k1>saptASva<k2>saptA/Sva, sapta/-aSva	{@(saptā́śva),@} {@saptá-aśva,@}¦ 
+;
+9366 old <L>9340<pc>1476<k1>saptAsya<k2>saptA/sya	{@(saptā́sya),@} {@saptá-āsia,@} {@saptá-āsya,@}¦ 
+9366 new <L>9340<pc>1476<k1>saptAsya<k2>saptA/sya, sapta/-Asia, sapta/-Asya	{@(saptā́sya),@} {@saptá-āsia,@} {@saptá-āsya,@}¦ 
+;
+9369 old <L>9343<pc>1476<k1>saptya<k2>sa/ptya	{@(sáptya),@} {@sáptia,@}¦ 
+9369 new <L>9343<pc>1476<k1>saptya<k2>sa/ptya, sa/ptia	{@(sáptya),@} {@sáptia,@}¦ 
+;
+9398 old <L>9372<pc>1480<k1>samanya<k2>samanya^	{@(samanyà),@} {@samanía,@}¦ 
+9398 new <L>9372<pc>1480<k1>samanya<k2>samanya^, samani/a	{@(samanyà),@} {@samanía,@}¦ 
+;
+9405 old <L>9379<pc>1480<k1>samarya<k2>samarya^	{@(samaryà),@} {@samaría,@}¦ 
+9405 new <L>9379<pc>1480<k1>samarya<k2>samarya^, samari/a	{@(samaryà),@} {@samaría,@}¦ 
+;
+9407 old <L>9381<pc>1481<k1>samaryarAjya<k2>samarya-rA/jya	{@(samarya-rā́jya),@} {@samarya-rā́jia,@}¦ 
+9407 new <L>9381<pc>1481<k1>samaryarAjya<k2>samarya-rA/jya, samarya-rA/jia	{@(samarya-rā́jya),@} {@samarya-rā́jia,@}¦ 
+;
+9447 old <L>9421<pc>1485<k1>samBftASva<k2>sa/mBftASva	{@(sámbhṛtāśva),@} {@sámbhṛtāśua,@}¦ 
+9447 new <L>9421<pc>1485<k1>samBftASva<k2>sa/mBftASva, sa/mBftASua	{@(sámbhṛtāśva),@} {@sámbhṛtāśua,@}¦ 
+;
+9450 old <L>9424<pc>1485<k1>samyac<k2>samya/c	{@samyác,@} schwach {@samīc,@}¦ 
+9450 new <L>9424<pc>1485<k1>samyac<k2>samya/c, samIc	{@samyác,@} schwach {@samīc,@}¦ 
+;
+9460 old <L>9434<pc>1486<k1>saraw<k2>sara/w	{@saráṭ@} oder {@saráh,@}¦ 
+9460 new <L>9434<pc>1486<k1>saraw<k2>sara/w, sara/h	{@saráṭ@} oder {@saráh,@}¦ 
+;
+9542 old <L>9516<pc>1498<k1>sahantya<k2>sahantya	{@(sahantya),@} {@sahantia,@}¦ 
+9542 new <L>9516<pc>1498<k1>sahantya<k2>sahantya, sahantia	{@(sahantya),@} {@sahantia,@}¦ 
+;
+9548 old <L>9522<pc>1499<k1>sahavah<k2>saha-va/h	{@saha-váh,@} stark {@saha-vā́h,@}¦ 
+9548 new <L>9522<pc>1499<k1>sahavah<k2>saha-va/h, saha-vA/h	{@saha-váh,@} stark {@saha-vā́h,@}¦ 
+;
+9550 old <L>9524<pc>1499<k1>sahaSeyya<k2>sahaSe/yya	{@(sahaśéyya),@} {@saha-śéyia,@}¦ 
+9550 new <L>9524<pc>1499<k1>sahaSeyya<k2>sahaSe/yya, saha-Se/yia	{@(sahaśéyya),@} {@saha-śéyia,@}¦ 
+;
+9558 old <L>9532<pc>1500<k1>sahasya<k2>sahasya^, sahasi/a	{@sahasyà,@} {@sahasía,@}¦ 
+9558 new <L>9532<pc>1500<k1>sahasya<k2>sahasya^, sahasi/a	{@sahasyà,@} {@sahasía,@}¦ 
+;
+9575 old <L>9549<pc>1502<k1>sahasrapad<k2>saha/sra-pad	{@sahásra-pad,@} stark {@sahásrapād,@}¦ 
+9575 new <L>9549<pc>1502<k1>sahasrapad<k2>saha/sra-pad, saha/srapAd	{@sahásra-pad,@} stark {@sahásrapād,@}¦ 
+;
+9580 old <L>9554<pc>1502<k1>sahasrapozya<k2>sahasra-pozya^	{@(sahasra-poṣyà),@} {@sahasra-poṣía,@}¦ 
+9580 new <L>9554<pc>1502<k1>sahasrapozya<k2>sahasra-pozya^, sahasra-pozi/a	{@(sahasra-poṣyà),@} {@sahasra-poṣía,@}¦ 
+;
+9610 old <L>9584<pc>1504<k1>sahasrArGa<k2>sahasrArGa/	{@(sahasrārghá),@} {@sahasra-arghá,@}¦ 
+9610 new <L>9584<pc>1504<k1>sahasrArGa<k2>sahasrArGa/, sahasra-arGa/	{@(sahasrārghá),@} {@sahasra-arghá,@}¦ 
+;
+9636 old <L>9610<pc>1507<k1>sAKya<k2>sAKya/	{@(sākhyá),@} {@sākhiá,@}¦ 
+9636 new <L>9610<pc>1507<k1>sAKya<k2>sAKya/, sAKia/	{@(sākhyá),@} {@sākhiá,@}¦ 
+;
+9638 old <L>9612<pc>1507<k1>sAcya<k2>sA/cya, sA/cia	{@(sā́cya),@} {@sā́cia,@}¦ 
+9638 new <L>9612<pc>1507<k1>sAcya<k2>sA/cya, sA/cia	{@(sā́cya),@} {@sā́cia,@}¦ 
+;
+9645 old <L>9619<pc>1508<k1>sAdanya<k2>sAdanya^	{@(sādanyà),@} {@sādanía,@}¦ 
+9645 new <L>9619<pc>1508<k1>sAdanya<k2>sAdanya^, sAdani/a	{@(sādanyà),@} {@sādanía,@}¦ 
+;
+9655 old <L>9629<pc>1510<k1>sADya<k2>sADya/	{@(sādhyá),@} {@sādhiá,@}¦ 
+9655 new <L>9629<pc>1510<k1>sADya<k2>sADya/, sADia/	{@(sādhyá),@} {@sādhiá,@}¦ 
+;
+9656 old <L>9630<pc>1510<k1>sADvarya<k2>sADv-arya/	{@(sādhv-aryá),@} {@sādhu-aryá,@}¦ 
+9656 new <L>9630<pc>1510<k1>sADvarya<k2>sADv-arya/, sADu-arya/	{@(sādhv-aryá),@} {@sādhu-aryá,@}¦ 
+;
+9662 old <L>9636<pc>1511<k1>sApya<k2>sApya/	{@(sāpyá),@} {@sāpiá@} oder {@sāyiá@}¦ 
+9662 new <L>9636<pc>1511<k1>sApya<k2>sApya/, sApia/, sAyia/	{@(sāpyá),@} {@sāpiá@} oder {@sāyiá@}¦ 
+;
+9663 old <L>9637<pc>1512<k1>sApta<k2>sA/pta, sApta/<h>1	<hom>1.</hom> {@sā́pta,@} {@sāptá,@}¦ 
+9663 new <L>9637<pc>1512<k1>sApta<k2>sA/pta, sApta/<h>1	<hom>1.</hom> {@sā́pta,@} {@sāptá,@}¦ 
+;
+9669 old <L>9643<pc>1512<k1>sAmanya<k2>sAmanya^	{@(sāmanyà),@} {@sāmanía,@}¦ 
+9669 new <L>9643<pc>1512<k1>sAmanya<k2>sAmanya^, sAmani/a	{@(sāmanyà),@} {@sāmanía,@}¦ 
+;
+9673 old <L>9647<pc>1512<k1>sAmrAjya<k2>sA/mrAjya	{@(sā́mrājya),@} {@sámrājia,@}¦ 
+9673 new <L>9647<pc>1512<k1>sAmrAjya<k2>sA/mrAjya, sa/mrAjia	{@(sā́mrājya),@} {@sámrājia,@}¦ 
+;
+9685 old <L>9659<pc>1513<k1>sAvarRya<k2>sAvarRya/	{@(sāvarṇyá),@} {@sāvarṇiá,@}¦ 
+9685 new <L>9659<pc>1513<k1>sAvarRya<k2>sAvarRya/, sAvarRia/	{@(sāvarṇyá),@} {@sāvarṇiá,@}¦ 
+;
+9690 old <L>9664<pc>1514<k1>sAhadevya<k2>sAhadevya/	{@(sāhadevyá),@} {@sāhadeviá,@}¦ 
+9690 new <L>9664<pc>1514<k1>sAhadevya<k2>sAhadevya/, sAhadevia/	{@(sāhadevyá),@} {@sāhadeviá,@}¦ 
+;
+9691 old <L>9665<pc>1514<k1>sAhya<k2>sA/hya, sA/hia	{@(sā́hya,@} {@sā́hia),@}¦ 
+9691 new <L>9665<pc>1514<k1>sAhya<k2>sA/hya, sA/hia	{@(sā́hya,@} {@sā́hia),@}¦ 
+;
+9710 old <L>9684<pc>1520<k1>sinva<k2>sinva/, sinvat	{@sinvá,@} {@sinvat@}¦ 
+9710 new <L>9684<pc>1520<k1>sinva<k2>sinva/, sinvat	{@sinvá,@} {@sinvat@}¦ 
+;
+9728 old <L>9702<pc>1526<k1>su<k2>su/, sU/	{@sú,@} {@sū́@}¦ 
+9728 new <L>9702<pc>1526<k1>su<k2>su/, sU/	{@sú,@} {@sū́@}¦ 
+;
+9753 old <L>9727<pc>1529<k1>suganDin<k2>su-ganDi/n	{@su-gandhín@} oder {@su-gandhí,@}¦ 
+9753 new <L>9727<pc>1529<k1>suganDin<k2>su-ganDi/n, su-ganDi/	{@su-gandhín@} oder {@su-gandhí,@}¦ 
+;
+9757 old <L>9731<pc>1530<k1>sugavya<k2>suga/vya, suga/via	{@sugávya,@} {@sugávia,@}¦ 
+9757 new <L>9731<pc>1530<k1>sugavya<k2>suga/vya, suga/via	{@sugávya,@} {@sugávia,@}¦ 
+;
+9765 old <L>9739<pc>1530<k1>sugmya<k2>su/gmya	{@(súgmya),@} {@súgmia,@}¦ 
+9765 new <L>9739<pc>1530<k1>sugmya<k2>su/gmya, su/gmia	{@(súgmya),@} {@súgmia,@}¦ 
+;
+9818 old <L>9792<pc>1535<k1>sudAs<k2>su-dA/s, su-da/as	{@su-dā́s,@} {@su-dáas,@}¦ 
+9818 new <L>9792<pc>1535<k1>sudAs<k2>su-dA/s, su-da/as	{@su-dā́s,@} {@su-dáas,@}¦ 
+;
+9830 old <L>9804<pc>1536<k1>sudevya<k2>sudevya^	{@(sudevyà),@} {@sudevía,@}¦ 
+9830 new <L>9804<pc>1536<k1>sudevya<k2>sudevya^, sudevi/a	{@(sudevyà),@} {@sudevía,@}¦ 
+;
+9865 old <L>9839<pc>1540<k1>supitrya<k2>su-pitrya	{@(su-pitrya),@} {@su-pitria,@}¦ 
+9865 new <L>9839<pc>1540<k1>supitrya<k2>su-pitrya, su-pitria	{@(su-pitrya),@} {@su-pitria,@}¦ 
+;
+9894 old <L>9868<pc>1542<k1>suprAvya<k2>su-prAvya^	{@(su-prāvyà),@} {@su-prāvía,@}¦ 
+9894 new <L>9868<pc>1542<k1>suprAvya<k2>su-prAvya^, su-prAvi/a	{@(su-prāvyà),@} {@su-prāvía,@}¦ 
+;
+9896 old <L>9870<pc>1542<k1>suprEtu<k2>su-prE/tu	{@(su-praítu),@} {@su-praétu,@}¦ 
+9896 new <L>9870<pc>1542<k1>suprEtu<k2>su-prE/tu, su-prae/tu	{@(su-praítu),@} {@su-praétu,@}¦ 
+;
+9937 old <L>9911<pc>1546<k1>sumitrya<k2>su-mitrya/	{@(su-mitryá),@} {@su-mitriá,@}¦ 
+9937 new <L>9911<pc>1546<k1>sumitrya<k2>su-mitrya/, su-mitria/	{@(su-mitryá),@} {@su-mitriá,@}¦ 
+;
+10002 old <L>9976<pc>1552<k1>suvIrya<k2>su-vI/rya, su-vI/ria	{@su-vī́rya,@} {@su-vī́ria,@}¦ 
+10002 new <L>9976<pc>1552<k1>suvIrya<k2>su-vI/rya, su-vI/ria	{@su-vī́rya,@} {@su-vī́ria,@}¦ 
+;
+10024 old <L>9998<pc>1555<k1>suSevya<k2>su-Se/vya, su-Se/via	{@(su-śévya),@} {@su-śévia,@}¦ 
+10024 new <L>9998<pc>1555<k1>suSevya<k2>su-Se/vya, su-Se/via	{@(su-śévya),@} {@su-śévia,@}¦ 
+;
+10067 old <L>10041<pc>1558<k1>suzWuvah<k2>suzWu-va/h	{@suṣṭhu-váh,@} stark {@suṣṭhu-vā́h,@}¦ 
+10067 new <L>10041<pc>1558<k1>suzWuvah<k2>suzWu-va/h, suzWu-vA/h	{@suṣṭhu-váh,@} stark {@suṣṭhu-vā́h,@}¦ 
+;
+10070 old <L>10044<pc>1558<k1>suzvi<k2>su/zvi<h>2	<hom>2.</hom> {@(súṣvi),@} {@súṣui,@}¦ 
+10070 new <L>10044<pc>1558<k1>suzvi<k2>su/zvi, su/zui<h>2	<hom>2.</hom> {@(súṣvi),@} {@súṣui,@}¦ 
+;
+10099 old <L>10073<pc>1560<k1>suhastya<k2>suha/stya	{@(suhástya),@} {@su-hástia,@}¦ 
+10099 new <L>10073<pc>1560<k1>suhastya<k2>suha/stya, su-ha/stia	{@(suhástya),@} {@su-hástia,@}¦ 
+;
+10109 old <L>10083<pc>1562<k1>sUkta<k2>sUkta/, su-ukta/	{@sūktá,@} {@su-uktá,@}¦ 
+10109 new <L>10083<pc>1562<k1>sUkta<k2>sUkta/, su-ukta/	{@sūktá,@} {@su-uktá,@}¦ 
+;
+10111 old <L>10085<pc>1563<k1>sUktavAc<k2>sUkta/-vAc	{@(sūktá-vāc),@} {@suuktá-vāc,@}¦ 
+10111 new <L>10085<pc>1563<k1>sUktavAc<k2>sUkta/-vAc, suukta/-vAc	{@(sūktá-vāc),@} {@suuktá-vāc,@}¦ 
+;
+10138 old <L>10112<pc>1566<k1>sUr<k2>sUr, suar	{@√sūr,@} {@(√suar),@}¦ 
+10138 new <L>10112<pc>1566<k1>sUr<k2>sUr, suar	{@√sūr,@} {@(√suar),@}¦ 
+;
+10145 old <L>10119<pc>1567<k1>sUrmi<k2>sUrmi/	{@(sūrmí),@} {@suurmí,@}¦ 
+10145 new <L>10119<pc>1567<k1>sUrmi<k2>sUrmi/, suurmi/	{@(sūrmí),@} {@suurmí,@}¦ 
+;
+10146 old <L>10120<pc>1567<k1>sUrya<k2>sU/rya, sU/ria	{@sū́rya,@} {@sū́ria,@}¦ 
+10146 new <L>10120<pc>1567<k1>sUrya<k2>sU/rya, sU/ria	{@sū́rya,@} {@sū́ria,@}¦ 
+;
+10147 old <L>10121<pc>1569<k1>sUryatvac<k2>sU/rya-tvac	{@(sū́rya-tvac),@} {@sū́ria-tvac,@}¦ 
+10147 new <L>10121<pc>1569<k1>sUryatvac<k2>sU/rya-tvac, sU/ria-tvac	{@(sū́rya-tvac),@} {@sū́ria-tvac,@}¦ 
+;
+10148 old <L>10122<pc>1569<k1>sUryaraSmi<k2>sU/rya-raSmi	{@(sū́rya-raśmi),@} {@sū́ria-raśmi,@}¦ 
+10148 new <L>10122<pc>1569<k1>sUryaraSmi<k2>sU/rya-raSmi, sU/ria-raSmi	{@(sū́rya-raśmi),@} {@sū́ria-raśmi,@}¦ 
+;
+10149 old <L>10123<pc>1569<k1>sUryaSvit<k2>sUrya-Svi/t	{@(sūrya-śvít),@} {@sūria-śvít,@}¦ 
+10149 new <L>10123<pc>1569<k1>sUryaSvit<k2>sUrya-Svi/t, sUria-Svi/t	{@(sūrya-śvít),@} {@sūria-śvít,@}¦ 
+;
+10150 old <L>10124<pc>1569<k1>sUryA<k2>sUryA/, sUriA/	{@sūryā́,@} {@sūriā́,@}¦ 
+10150 new <L>10124<pc>1569<k1>sUryA<k2>sUryA/, sUriA/	{@sūryā́,@} {@sūriā́,@}¦ 
+;
+10152 old <L>10126<pc>1569<k1>sUryAmAs<k2>sU/ryA-mA/s, sU/riA-mA/s	{@sū́ryā-mā́s,@} {@sū́riā-mā́s,@}¦ 
+10152 new <L>10126<pc>1569<k1>sUryAmAs<k2>sU/ryA-mA/s, sU/riA-mA/s	{@sū́ryā-mā́s,@} {@sū́riā-mā́s,@}¦ 
+;
+10153 old <L>10127<pc>1569<k1>sUryAvasu<k2>sUryA-vasu	{@(sūryā-vasu),@} {@sūriā-vasu,@}¦ 
+10153 new <L>10127<pc>1569<k1>sUryAvasu<k2>sUryA-vasu, sUriA-vasu	{@(sūryā-vasu),@} {@sūriā-vasu,@}¦ 
+;
+10160 old <L>10134<pc>1576<k1>sfRi<k2>sfRi/, sf/Ri	{@sṛṇí,@} {@sṛ́ṇi,@}¦ 
+10160 new <L>10134<pc>1576<k1>sfRi<k2>sfRi/, sf/Ri	{@sṛṇí,@} {@sṛ́ṇi,@}¦ 
+;
+10161 old <L>10135<pc>1577<k1>sfRya<k2>sf/Rya	{@(sṛ́ṇya),@} {@sṛ́ṇia,@}¦ 
+10161 new <L>10135<pc>1577<k1>sfRya<k2>sf/Rya, sf/Ria	{@(sṛ́ṇya),@} {@sṛ́ṇia,@}¦ 
+;
+10177 old <L>10151<pc>1578<k1>senya<k2>se/nya	{@(sénya),@} {@sénia,@}¦ 
+10177 new <L>10151<pc>1578<k1>senya<k2>se/nya, se/nia	{@(sénya),@} {@sénia,@}¦ 
+;
+10180 old <L>10154<pc>1578<k1>sErya<k2>sErya/	{@(sairyá),@} {@sairiá,@}¦ 
+10180 new <L>10154<pc>1578<k1>sErya<k2>sErya/, sEria/	{@(sairyá),@} {@sairiá,@}¦ 
+;
+10202 old <L>10176<pc>1581<k1>somamad<k2>soma-ma/d	{@soma-mád,@} stark {@soma-mā́d,@}¦ 
+10202 new <L>10176<pc>1581<k1>somamad<k2>soma-ma/d, soma-mA/d	{@soma-mád,@} stark {@soma-mā́d,@}¦ 
+;
+10217 old <L>10191<pc>1582<k1>somya<k2>somya/	{@(somyá),@} {@somiá,@}¦ 
+10217 new <L>10191<pc>1582<k1>somya<k2>somya/, somia/	{@(somyá),@} {@somiá,@}¦ 
+;
+10224 old <L>10198<pc>1583<k1>sOmya<k2>sO/mya	{@(saúmya),@} {@saúmia,@}¦ 
+10224 new <L>10198<pc>1583<k1>sOmya<k2>sO/mya, sO/mia	{@(saúmya),@} {@saúmia,@}¦ 
+;
+10225 old <L>10199<pc>1583<k1>sOvaSvya<k2>sO/vaSvya	{@(saúvaśvya),@} {@saúvaśvia,@}¦ 
+10225 new <L>10199<pc>1583<k1>sOvaSvya<k2>sO/vaSvya, sO/vaSvia	{@(saúvaśvya),@} {@saúvaśvia,@}¦ 
+;
+10227 old <L>10201<pc>1584<k1>skad<k2>skad, skand	{@√skad,@} {@√skand@}¦ 
+10227 new <L>10201<pc>1584<k1>skad<k2>skad, skand	{@√skad,@} {@√skand@}¦ 
+;
+10230 old <L>10204<pc>1584<k1>skaB<k2>skaB, skamB	{@√skabh,@} {@√skambh,@}¦ 
+10230 new <L>10204<pc>1584<k1>skaB<k2>skaB, skamB	{@√skabh,@} {@√skambh,@}¦ 
+;
+10246 old <L>10220<pc>1587<k1>staB<k2>staB, stamB	{@√stabh,@} {@√stambh@}¦ 
+10246 new <L>10220<pc>1587<k1>staB<k2>staB, stamB	{@√stabh,@} {@√stambh@}¦ 
+;
+10249 old <L>10223<pc>1588<k1>star<k2>star, stir	{@√star,@} {@√stir@}¦ 
+10249 new <L>10223<pc>1588<k1>star<k2>star, stir	{@√star,@} {@√stir@}¦ 
+;
+10273 old <L>10247<pc>1594<k1>stuzeyya<k2>stuze/yya	{@(stuṣéyya),@} {@stuṣéyia,@}¦ 
+10273 new <L>10247<pc>1594<k1>stuzeyya<k2>stuze/yya, stuze/yia	{@(stuṣéyya),@} {@stuṣéyia,@}¦ 
+;
+10286 old <L>10260<pc>1596<k1>stomya<k2>sto/mya	{@(stómya),@} {@stómia,@}¦ 
+10286 new <L>10260<pc>1596<k1>stomya<k2>sto/mya, sto/mia	{@(stómya),@} {@stómia,@}¦ 
+;
+10323 old <L>10296<pc>1606<k1>spaS<k2>spaS, paS	{@√spaś,@} {@√paś,@}¦ 
+10323 new <L>10296<pc>1606<k1>spaS<k2>spaS, paS	{@√spaś,@} {@√paś,@}¦ 
+;
+10331 old <L>10304<pc>1610<k1>spfD<k2>spfD, spUrD	{@√spṛdh,@} {@√spūrdh,@}¦ 
+10331 new <L>10304<pc>1610<k1>spfD<k2>spfD, spUrD	{@√spṛdh,@} {@√spūrdh,@}¦ 
+;
+10336 old <L>10309<pc>1611<k1>spfhayAyya<k2>spfhayA/yya	{@(spṛhayā́yya),@} {@spṛhayā́yia,@}¦ 
+10336 new <L>10309<pc>1611<k1>spfhayAyya<k2>spfhayA/yya, spfhayA/yia	{@(spṛhayā́yya),@} {@spṛhayā́yia,@}¦ 
+;
+10338 old <L>10311<pc>1611<k1>sPAy<k2>sPAy, sPA	{@(√sphāy,@} {@√sphā),@}¦ 
+10338 new <L>10311<pc>1611<k1>sPAy<k2>sPAy, sPA	{@(√sphāy,@} {@√sphā),@}¦ 
+;
+10343 old <L>10316<pc>1612<k1>sPur<k2>sPur, sPar	{@√sphur,@} {@√sphar@}¦ 
+10343 new <L>10316<pc>1612<k1>sPur<k2>sPur, sPar	{@√sphur,@} {@√sphar@}¦ 
+;
+10345 old <L>10318<pc>1612<k1>sma<k2>sma, smA	{@sma,@} {@smā@}¦ 
+10345 new <L>10318<pc>1612<k1>sma<k2>sma, smA	{@sma,@} {@smā@}¦ 
+;
+10356 old <L>10329<pc>1614<k1>smf<k2>smf/, smar	{@√smṛ́,@} {@√smar@}¦ 
+10356 new <L>10329<pc>1614<k1>smf<k2>smf/, smar	{@√smṛ́,@} {@√smar@}¦ 
+;
+10358 old <L>10331<pc>1614<k1>sya<k2>sya/, sia/	{@syá,@} {@siá,@}¦ 
+10358 new <L>10331<pc>1614<k1>sya<k2>sya/, sia/	{@syá,@} {@siá,@}¦ 
+;
+10359 old <L>10332<pc>1615<k1>syad<k2>syad, syand	{@√syad,@} {@√syand,@}¦ 
+10359 new <L>10332<pc>1615<k1>syad<k2>syad, syand	{@√syad,@} {@√syand,@}¦ 
+;
+10362 old <L>10335<pc>1616<k1>syAla<k2>syAla/	{@(syālá),@} {@siālá,@}¦ 
+10362 new <L>10335<pc>1616<k1>syAla<k2>syAla/, siAla/	{@(syālá),@} {@siālá,@}¦ 
+;
+10363 old <L>10336<pc>1616<k1>syU<k2>syU	{@√syū@} und {@syūtá@}¦ 
+10363 new <L>10336<pc>1616<k1>syU<k2>syU, syUta/	{@√syū@} und {@syūtá@}¦ 
+;
+10368 old <L>10341<pc>1616<k1>syona<k2>syona/, siona/	{@(syoná),@} {@sioná,@}¦ 
+10368 new <L>10341<pc>1616<k1>syona<k2>syona/, siona/	{@(syoná),@} {@sioná,@}¦ 
+;
+10369 old <L>10342<pc>1616<k1>syonakft<k2>syona-kf/t, siona-kf/t	{@(syona-kṛ́t),@} {@siona-kṛ́t,@}¦ 
+10369 new <L>10342<pc>1616<k1>syonakft<k2>syona-kf/t, siona-kf/t	{@(syona-kṛ́t),@} {@siona-kṛ́t,@}¦ 
+;
+10370 old <L>10343<pc>1616<k1>syonaSI<k2>syona-SI/	{@(syona-śī́),@} {@siona-śī́,@}¦ 
+10370 new <L>10343<pc>1616<k1>syonaSI<k2>syona-SI/, siona-SI/	{@(syona-śī́),@} {@siona-śī́,@}¦ 
+;
+10378 old <L>10351<pc>1617<k1>sras<k2>sras, sraMs	{@√sras,@} {@√sraṃs,@}¦🞄<div 
+10378 new <L>10351<pc>1617<k1>sras<k2>sras, sraMs	{@√sras,@} {@√sraṃs,@}¦🞄<div 
+;
+10393 old <L>10366<pc>1619<k1>srotya<k2>srotyA/, srotiA/	{@srotyā́,@} {@srotiā́,@}¦ 
+10393 new <L>10366<pc>1619<k1>srotya<k2>srotyA/, srotiA/	{@srotyā́,@} {@srotiā́,@}¦ 
+;
+10394 old <L>10367<pc>1619<k1>sva<k2>sva/, sua/	{@svá,@} {@suá,@}¦ 
+10394 new <L>10367<pc>1619<k1>sva<k2>sva/, sua/	{@svá,@} {@suá,@}¦ 
+;
+10398 old <L>10371<pc>1621<k1>svagni<k2>svagni/	{@(svagní),@} {@su-agní,@}¦ 
+10398 new <L>10371<pc>1621<k1>svagni<k2>svagni/, su-agni/	{@(svagní),@} {@su-agní,@}¦ 
+;
+10399 old <L>10372<pc>1621<k1>svaNga<k2>sva/Nga	{@(sváṅga),@} {@su-áṅga,@}¦ 
+10399 new <L>10372<pc>1621<k1>svaNga<k2>sva/Nga, su-a/Nga	{@(sváṅga),@} {@su-áṅga,@}¦ 
+;
+10400 old <L>10373<pc>1621<k1>svaNguri<k2>svaNguri/	{@(svaṅgurí),@} {@su-aṅgurí,@}¦ 
+10400 new <L>10373<pc>1621<k1>svaNguri<k2>svaNguri/, su-aNguri/	{@(svaṅgurí),@} {@su-aṅgurí,@}¦ 
+;
+10401 old <L>10374<pc>1621<k1>svac<k2>sva/c	{@(svác),@} {@su-ác,@} stark {@su-áñc,@}¦ 
+10401 new <L>10374<pc>1621<k1>svac<k2>sva/c, su-a/c, su-a/Yc	{@(svác),@} {@su-ác,@} stark {@su-áñc,@}¦ 
+;
+10405 old <L>10378<pc>1622<k1>svajenya<k2>sva/-jenya	{@(svá-jenya),@} {@svá-jenia,@}¦ 
+10405 new <L>10378<pc>1622<k1>svajenya<k2>sva/-jenya, sva/-jenia	{@(svá-jenya),@} {@svá-jenia,@}¦ 
+;
+10406 old <L>10379<pc>1622<k1>svaYcas<k2>sva/Ycas	{@(sváñcas),@} {@su-áñcas,@}¦ 
+10406 new <L>10379<pc>1622<k1>svaYcas<k2>sva/Ycas, su-a/Ycas	{@(sváñcas),@} {@su-áñcas,@}¦ 
+;
+10408 old <L>10381<pc>1622<k1>svad<k2>svad, suad	{@√svad,@} {@√suad@}¦ 
+10408 new <L>10381<pc>1622<k1>svad<k2>svad, suad	{@√svad,@} {@√suad@}¦ 
+;
+10419 old <L>10392<pc>1624<k1>svaDvara<k2>svaDvara/	{@(svadhvará),@} {@su-adhvará,@}¦ 
+10419 new <L>10392<pc>1624<k1>svaDvara<k2>svaDvara/, su-aDvara/	{@(svadhvará),@} {@su-adhvará,@}¦ 
+;
+10427 old <L>10400<pc>1625<k1>svanIka<k2>svanIka, su-anIka,	{@(svanīka),@} {@su-anīka,@}¦ 
+10427 new <L>10400<pc>1625<k1>svanIka<k2>svanIka, su-anIka	{@(svanīka),@} {@su-anīka,@}¦ 
+;
+10430 old <L>10403<pc>1626<k1>svapatya<k2>svapatya/, su-apatya/	{@(svapatyá),@} {@su-apatyá,@}¦ 
+10430 new <L>10403<pc>1626<k1>svapatya<k2>svapatya/, su-apatya/	{@(svapatyá),@} {@su-apatyá,@}¦ 
+;
+10431 old <L>10404<pc>1626<k1>svapas<k2>sva/pas	{@(svápas),@} {@su-ápas,@}¦ 
+10431 new <L>10404<pc>1626<k1>svapas<k2>sva/pas, su-a/pas	{@(svápas),@} {@su-ápas,@}¦ 
+;
+10432 old <L>10405<pc>1627<k1>svapasy<k2>svapasy	{@(√svapasy),@} {@√suapasy,@}¦ 
+10432 new <L>10405<pc>1627<k1>svapasy<k2>svapasy, suapasy	{@(√svapasy),@} {@√suapasy,@}¦ 
+;
+10433 old <L>10406<pc>1627<k1>svapasyA<k2>svapasyA/	{@(svapasyā́),@} {@suapasyā́,@}¦ 
+10433 new <L>10406<pc>1627<k1>svapasyA<k2>svapasyA/, suapasyA/	{@(svapasyā́),@} {@suapasyā́,@}¦ 
+;
+10434 old <L>10407<pc>1627<k1>svapAka<k2>svapAka	{@(svapāka),@} {@su-apāka,@}¦ 
+10434 new <L>10407<pc>1627<k1>svapAka<k2>svapAka, su-apAka	{@(svapāka),@} {@su-apāka,@}¦ 
+;
+10435 old <L>10408<pc>1627<k1>svapivAta<k2>svapivAta	{@(svapivāta),@} {@su-apivāta,@}¦ 
+10435 new <L>10408<pc>1627<k1>svapivAta<k2>svapivAta, su-apivAta	{@(svapivāta),@} {@su-apivāta,@}¦ 
+;
+10440 old <L>10413<pc>1627<k1>svapnas<k2>sva/pnas	{@(svápnas),@} {@su-ápnas,@}¦ 
+10440 new <L>10413<pc>1627<k1>svapnas<k2>sva/pnas, su-a/pnas	{@(svápnas),@} {@su-ápnas,@}¦ 
+;
+10441 old <L>10414<pc>1627<k1>svapnya<k2>sva/pnya	{@(svápnya),@} {@(svápnia),@}¦ 
+10441 new <L>10414<pc>1627<k1>svapnya<k2>sva/pnya, sva/pnia	{@(svápnya),@} {@(svápnia),@}¦ 
+;
+10444 old <L>10417<pc>1627<k1>svaBizwi<k2>svaBizwi/	{@(svabhiṣṭí),@} {@su-abhiṣṭí,@}¦ 
+10444 new <L>10417<pc>1627<k1>svaBizwi<k2>svaBizwi/, su-aBizwi/	{@(svabhiṣṭí),@} {@su-abhiṣṭí,@}¦ 
+;
+10445 old <L>10418<pc>1628<k1>svaBizwisumna<k2>svaBizwi/-sumna, suaBizwi/-sumna	{@(svabhiṣṭí-sumna),@} {@suabhiṣṭí-sumna,@}¦ 
+10445 new <L>10418<pc>1628<k1>svaBizwisumna<k2>svaBizwi/-sumna, suaBizwi/-sumna	{@(svabhiṣṭí-sumna),@} {@suabhiṣṭí-sumna,@}¦ 
+;
+;Warning please check
+10446 old <L>10419<pc>1628<k1>svaBISu<k2>svaBISu/,	{@(svabhīśú),@} {@su-abhīśú,@}¦ 
+10446 new <L>10419<pc>1628<k1>svaBISu<k2>svaBISu/, su-aBISu/	{@(svabhīśú),@} {@su-abhīśú,@}¦ 
+;
+10448 old <L>10421<pc>1628<k1>svaBUtyojas<k2>sva/BUty-ojas	{@(svábhūty-ojas),@} {@svábhūti-ojas,@}¦ 
+10448 new <L>10421<pc>1628<k1>svaBUtyojas<k2>sva/BUty-ojas, sva/BUti-ojas	{@(svábhūty-ojas),@} {@svábhūti-ojas,@}¦ 
+;
+10462 old <L>10435<pc>1630<k1>svar<k2>sva^r	{@(svàr),@} {@súar,@} {@sū́r,@}¦ 
+10462 new <L>10435<pc>1630<k1>svar<k2>sva^r, su/ar, sU/r	{@(svàr),@} {@súar,@} {@sū́r,@}¦ 
+;
+10464 old <L>10437<pc>1630<k1>svaraMkfta<k2>sva^raMkfta	{@(svàraṃkṛta),@} {@sú-araṃkṛta,@}¦ 
+10464 new <L>10437<pc>1630<k1>svaraMkfta<k2>sva^raMkfta, su/-araMkfta	{@(svàraṃkṛta),@} {@sú-araṃkṛta,@}¦ 
+;
+10465 old <L>10438<pc>1630<k1>svaraRa<k2>sva/raRa	{@(sváraṇa),@} {@suáraṇa,@}¦ 
+10465 new <L>10438<pc>1630<k1>svaraRa<k2>sva/raRa, sua/raRa	{@(sváraṇa),@} {@suáraṇa,@}¦ 
+;
+10468 old <L>10441<pc>1631<k1>svarAjya<k2>sva-rA/jya	{@(sva-rā́jya),@} {@sva-rā́jia,@}¦ 
+10468 new <L>10441<pc>1631<k1>svarAjya<k2>sva-rA/jya, sva-rA/jia	{@(sva-rā́jya),@} {@sva-rā́jia,@}¦ 
+;
+10471 old <L>10444<pc>1631<k1>svaritra<k2>svaritra/	{@(svaritrá),@} {@su-aritrá,@}¦ 
+10471 new <L>10444<pc>1631<k1>svaritra<k2>svaritra/, su-aritra/	{@(svaritrá),@} {@su-aritrá,@}¦ 
+;
+10475 old <L>10448<pc>1631<k1>svarka<k2>svarka/	{@(svarká),@} {@su-arká,@}¦ 
+10475 new <L>10448<pc>1631<k1>svarka<k2>svarka/, su-arka/	{@(svarká),@} {@su-arká,@}¦ 
+;
+10476 old <L>10449<pc>1631<k1>svarga<k2>svar-ga/	{@(svar-gá),@} {@suar-gá,@}¦ 
+10476 new <L>10449<pc>1631<k1>svarga<k2>svar-ga/, suar-ga/	{@(svar-gá),@} {@suar-gá,@}¦ 
+;
+10477 old <L>10450<pc>1631<k1>svarcakzas<k2>sva^r-cakzas	{@(svàr-cakṣas),@} {@súar-cakṣas,@}¦ 
+10477 new <L>10450<pc>1631<k1>svarcakzas<k2>sva^r-cakzas, su/ar-cakzas	{@(svàr-cakṣas),@} {@súar-cakṣas,@}¦ 
+;
+10478 old <L>10451<pc>1631<k1>svarcanas<k2>sva^rcanas	{@(svàrcanas),@} {@súar-canas,@}¦ 
+10478 new <L>10451<pc>1631<k1>svarcanas<k2>sva^rcanas, su/ar-canas	{@(svàrcanas),@} {@súar-canas,@}¦ 
+;
+10479 old <L>10452<pc>1631<k1>svarci<k2>svarci/	{@(svarcí),@} {@su-arcí,@}¦ 
+10479 new <L>10452<pc>1631<k1>svarci<k2>svarci/, su-arci/	{@(svarcí),@} {@su-arcí,@}¦ 
+;
+10480 old <L>10453<pc>1631<k1>svarjit<k2>svar-ji/t	{@(svar-jít),@} {@suar-jít,@}¦ 
+10480 new <L>10453<pc>1631<k1>svarjit<k2>svar-ji/t, suar-ji/t	{@(svar-jít),@} {@suar-jít,@}¦ 
+;
+10481 old <L>10454<pc>1632<k1>svarjeza<k2>svar-jeza/	{@(svar-jeṣá),@} {@suar-jeṣá,@}¦ 
+10481 new <L>10454<pc>1632<k1>svarjeza<k2>svar-jeza/, suar-jeza/	{@(svar-jeṣá),@} {@suar-jeṣá,@}¦ 
+;
+10482 old <L>10455<pc>1632<k1>svarRara<k2>sva^r-Rara	{@(svàr-ṇara),@} {@súar-ṇara,@}¦ 
+10482 new <L>10455<pc>1632<k1>svarRara<k2>sva^r-Rara, su/ar-Rara	{@(svàr-ṇara),@} {@súar-ṇara,@}¦ 
+;
+10483 old <L>10456<pc>1632<k1>svarRf<k2>sva^r-Rf	{@(svàr-ṇṛ),@} {@súar-ṇṛ,@}¦ 
+10483 new <L>10456<pc>1632<k1>svarRf<k2>sva^r-Rf, su/ar-Rf	{@(svàr-ṇṛ),@} {@súar-ṇṛ,@}¦ 
+;
+10484 old <L>10457<pc>1632<k1>svarTa<k2>sva/rTa	{@(svártha),@} {@su-ártha,@}¦ 
+10484 new <L>10457<pc>1632<k1>svarTa<k2>sva/rTa, su-a/rTa	{@(svártha),@} {@su-ártha,@}¦ 
+;
+10485 old <L>10458<pc>1632<k1>svardfS<k2>svar-df/S	{@(svar-dṛ́ś),@} {@suar-dṛ́ś,@}333¦ 
+10485 new <L>10458<pc>1632<k1>svardfS<k2>svar-df/S, suar-df/S	{@(svar-dṛ́ś),@} {@suar-dṛ́ś,@}333¦ 
+;
+10486 old <L>10459<pc>1632<k1>svarpati<k2>sva^r-pati	{@(svàr-pati),@} {@súar-pati,@}¦ 
+10486 new <L>10459<pc>1632<k1>svarpati<k2>sva^r-pati, su/ar-pati	{@(svàr-pati),@} {@súar-pati,@}¦ 
+;
+10487 old <L>10460<pc>1632<k1>svarBAnu<k2>sva^r-BAnu, su/ar-BAnu	{@(svàr-bhānu),@} {@súar-bhānu,@}¦ 
+10487 new <L>10460<pc>1632<k1>svarBAnu<k2>sva^r-BAnu, su/ar-BAnu	{@(svàr-bhānu),@} {@súar-bhānu,@}¦ 
+;
+10488 old <L>10461<pc>1632<k1>svarmIQa<k2>sva^r-mIQa	{@(svàr-mīḍha),@} {@súar-mīḍha,@}¦ 
+10488 new <L>10461<pc>1632<k1>svarmIQa<k2>sva^r-mIQa, su/ar-mIQa	{@(svàr-mīḍha),@} {@súar-mīḍha,@}¦ 
+;
+10489 old <L>10462<pc>1632<k1>svarya<k2>svarya^	{@(svaryà),@} {@svaría,@}¦ 
+10489 new <L>10462<pc>1632<k1>svarya<k2>svarya^, svari/a	{@(svaryà),@} {@svaría,@}¦ 
+;
+10490 old <L>10463<pc>1633<k1>svaryu<k2>svaryu/	{@(svaryú),@} {@suaryú,@}¦ 
+10490 new <L>10463<pc>1633<k1>svaryu<k2>svaryu/, suaryu/	{@(svaryú),@} {@suaryú,@}¦ 
+;
+10491 old <L>10464<pc>1633<k1>svarvat<k2>sva^rvat	{@(svàrvat),@} {@súarvat,@}¦ 
+10491 new <L>10464<pc>1633<k1>svarvat<k2>sva^rvat, su/arvat	{@(svàrvat),@} {@súarvat,@}¦ 
+;
+10492 old <L>10465<pc>1633<k1>svarvid<k2>svar-vi/d	{@(svar-víd),@} {@suar-víd,@}¦ 
+10492 new <L>10465<pc>1633<k1>svarvid<k2>svar-vi/d, suar-vi/d	{@(svar-víd),@} {@suar-víd,@}¦ 
+;
+10493 old <L>10466<pc>1633<k1>svarzA<k2>svar-zA/	{@(svar-ṣā́),@} {@suar-ṣā́,@}¦ 
+10493 new <L>10466<pc>1633<k1>svarzA<k2>svar-zA/, suar-zA/	{@(svar-ṣā́),@} {@suar-ṣā́,@}¦ 
+;
+10494 old <L>10467<pc>1633<k1>svarzAti<k2>sva^r-zAti	{@(svàr-ṣāti),@} {@súar-ṣāti,@}¦ 
+10494 new <L>10467<pc>1633<k1>svarzAti<k2>sva^r-zAti, su/ar-zAti	{@(svàr-ṣāti),@} {@súar-ṣāti,@}¦ 
+;
+10495 old <L>10468<pc>1633<k1>svavas<k2>sva/vas	{@(svávas),@} {@su-ávas,@}¦ 
+10495 new <L>10468<pc>1633<k1>svavas<k2>sva/vas, su-a/vas	{@(svávas),@} {@su-ávas,@}¦ 
+;
+10503 old <L>10476<pc>1634<k1>svaSva<k2>sva/Sva	{@(sváśva),@} {@su-áśva,@}¦ 
+10503 new <L>10476<pc>1634<k1>svaSva<k2>sva/Sva, su-a/Sva	{@(sváśva),@} {@su-áśva,@}¦ 
+;
+10504 old <L>10477<pc>1634<k1>svaSvayu<k2>svaSvayu/	{@(svaśvayú),@} {@suaśvayú,@}¦ 
+10504 new <L>10477<pc>1634<k1>svaSvayu<k2>svaSvayu/, suaSvayu/	{@(svaśvayú),@} {@suaśvayú,@}¦ 
+;
+10505 old <L>10478<pc>1634<k1>svaSvya<k2>sva/Svya	{@(sváśvya),@} {@su-áśvia,@}¦ 
+10505 new <L>10478<pc>1634<k1>svaSvya<k2>sva/Svya, su-a/Svia	{@(sváśvya),@} {@su-áśvia,@}¦ 
+;
+10506 old <L>10479<pc>1634<k1>svazwra<k2>sva/zwra	{@(sváṣṭra),@} {@su-áṣṭra,@}¦ 
+10506 new <L>10479<pc>1634<k1>svazwra<k2>sva/zwra, su-a/zwra	{@(sváṣṭra),@} {@su-áṣṭra,@}¦ 
+;
+10512 old <L>10485<pc>1635<k1>svasti<k2>svasti/, su-asti/	{@svastí,@} {@su-astí,@}¦ 
+10512 new <L>10485<pc>1635<k1>svasti<k2>svasti/, su-asti/	{@svastí,@} {@su-astí,@}¦ 
+;
+10513 old <L>10486<pc>1636<k1>svastigA<k2>svasti-gA/	{@(svasti-gā́),@} {@suasti-gā́,@}¦ 
+10513 new <L>10486<pc>1636<k1>svastigA<k2>svasti-gA/, suasti-gA/	{@(svasti-gā́),@} {@suasti-gā́,@}¦ 
+;
+;Warning please check
+10514 old <L>10487<pc>1636<k1>svastidA<k2>svasti-dA/,	{@(svasti-dā́),@} {@suasti-dā́,@}¦ 
+10514 new <L>10487<pc>1636<k1>svastidA<k2>svasti-dA/, suasti-dA/	{@(svasti-dā́),@} {@suasti-dā́,@}¦ 
+;
+10515 old <L>10488<pc>1636<k1>svastimat<k2>svastima/t	{@(svastimát),@} {@suastimát,@}¦ 
+10515 new <L>10488<pc>1636<k1>svastimat<k2>svastima/t, suastima/t	{@(svastimát),@} {@suastimát,@}¦ 
+;
+10516 old <L>10489<pc>1636<k1>svastivah<k2>svasti-va/h	{@(svasti-váh),@} {@suasti-váh,@} stark {@suasti-vā́h,@}¦ 
+10516 new <L>10489<pc>1636<k1>svastivah<k2>svasti-va/h, suasti-va/h, suasti-vA/h	{@(svasti-váh),@} {@suasti-váh,@} stark {@suasti-vā́h,@}¦ 
+;
+10517 old <L>10490<pc>1636<k1>svAtata<k2>svA^tata	{@(svā̀tata),@} {@sú-ātata,@}¦ 
+10517 new <L>10490<pc>1636<k1>svAtata<k2>svA^tata, su/-Atata	{@(svā̀tata),@} {@sú-ātata,@}¦ 
+;
+10529 old <L>10502<pc>1637<k1>svADI<k2>svADI/	{@(svādhī́),@} {@su-ādhī́,@}¦ 
+10529 new <L>10502<pc>1637<k1>svADI<k2>svADI/, su-ADI/	{@(svādhī́),@} {@su-ādhī́,@}¦ 
+;
+10533 old <L>10506<pc>1637<k1>svApi<k2>svApi/	{@(svāpí),@} {@su-āpí,@}¦ 
+10533 new <L>10506<pc>1637<k1>svApi<k2>svApi/, su-Api/	{@(svāpí),@} {@su-āpí,@}¦ 
+;
+;Warning please check
+10534 old <L>10507<pc>1637<k1>svABU<k2>svABU/,	{@(svābhū́),@} {@su-ābhū́,@}¦ 
+10534 new <L>10507<pc>1637<k1>svABU<k2>svABU/, su-ABU/	{@(svābhū́),@} {@su-ābhū́,@}¦ 
+;
+10535 old <L>10508<pc>1637<k1>svAyasa<k2>svAyasa/	{@(svāyasá),@} {@su-āyasá,@}¦ 
+10535 new <L>10508<pc>1637<k1>svAyasa<k2>svAyasa/, su-Ayasa/	{@(svāyasá),@} {@su-āyasá,@}¦ 
+;
+10536 old <L>10509<pc>1637<k1>svAyuj<k2>svAyu/j	{@(svāyúj),@} {@su-āyúj,@}¦ 
+10536 new <L>10509<pc>1637<k1>svAyuj<k2>svAyu/j, su-Ayu/j	{@(svāyúj),@} {@su-āyúj,@}¦ 
+;
+;Warning please check
+10537 old <L>10510<pc>1638<k1>svAyuDa<k2>svAyuDa/,	{@(svāyudhá),@} {@su-āyudhá,@}¦ 
+10537 new <L>10510<pc>1638<k1>svAyuDa<k2>svAyuDa/, su-AyuDa/	{@(svāyudhá),@} {@su-āyudhá,@}¦ 
+;
+10539 old <L>10512<pc>1638<k1>svAvasu<k2>svA/vasu	{@(svā́vasu),@} {@su-ā́vasu,@}¦ 
+10539 new <L>10512<pc>1638<k1>svAvasu<k2>svA/vasu, su-A/vasu	{@(svā́vasu),@} {@su-ā́vasu,@}¦ 
+;
+10541 old <L>10514<pc>1638<k1>svAveSa<k2>svAveSa/	{@(svāveśá),@} {@su-āveśá,@}¦ 
+10541 new <L>10514<pc>1638<k1>svAveSa<k2>svAveSa/, su-AveSa/	{@(svāveśá),@} {@su-āveśá,@}¦ 
+;
+10542 old <L>10515<pc>1638<k1>svASita<k2>svA^Sita	{@(svā̀śita),@} {@sú-āśita,@}¦ 
+10542 new <L>10515<pc>1638<k1>svASita<k2>svA^Sita, su/-ASita	{@(svā̀śita),@} {@sú-āśita,@}¦ 
+;
+10543 old <L>10516<pc>1638<k1>svASis<k2>svASi/s	{@(svāśís),@} {@su-āśís,@}¦ 
+10543 new <L>10516<pc>1638<k1>svASis<k2>svASi/s, su-ASi/s	{@(svāśís),@} {@su-āśís,@}¦ 
+;
+10544 old <L>10517<pc>1638<k1>svAs<k2>svA/s	{@(svā́s),@} {@su-ā́s,@}¦ 
+10544 new <L>10517<pc>1638<k1>svAs<k2>svA/s, su-A/s	{@(svā́s),@} {@su-ā́s,@}¦ 
+;
+10545 old <L>10518<pc>1638<k1>svAsasTa<k2>svAsasTa/	{@(svāsasthá),@} {@su-āsasthá,@}¦ 
+10545 new <L>10518<pc>1638<k1>svAsasTa<k2>svAsasTa/, su-AsasTa/	{@(svāsasthá),@} {@su-āsasthá,@}¦ 
+;
+10548 old <L>10521<pc>1638<k1>svAhAkfti<k2>svA/hA-kfti, svA/hA-kftI	{@svā́hā-kṛti,@} {@svā́hā-kṛtī,@}¦ 
+10548 new <L>10521<pc>1638<k1>svAhAkfti<k2>svA/hA-kfti, svA/hA-kftI	{@svā́hā-kṛti,@} {@svā́hā-kṛtī,@}¦ 
+;
+10549 old <L>10522<pc>1639<k1>svAhuta<k2>svA^huta	{@(svā̀huta),@} {@sú-āhuta,@}¦ 
+10549 new <L>10522<pc>1639<k1>svAhuta<k2>svA^huta, su/-Ahuta	{@(svā̀huta),@} {@sú-āhuta,@}¦ 
+;
+10552 old <L>10525<pc>1639<k1>sviDma<k2>sviDma/	{@(svidhmá),@} {@su-idhmá,@}¦ 
+10552 new <L>10525<pc>1639<k1>sviDma<k2>sviDma/, su-iDma/	{@(svidhmá),@} {@su-idhmá,@}¦ 
+;
+10553 old <L>10526<pc>1639<k1>svizu<k2>svizu/	{@(sviṣú),@} {@su-iṣú,@}¦ 
+10553 new <L>10526<pc>1639<k1>svizu<k2>svizu/, su-izu/	{@(sviṣú),@} {@su-iṣú,@}¦ 
+;
+10554 old <L>10527<pc>1639<k1>svizwa<k2>svi^zwa	{@(svìṣṭa),@} {@sú-iṣṭa,@}¦ 
+10554 new <L>10527<pc>1639<k1>svizwa<k2>svi^zwa, su/-izwa	{@(svìṣṭa),@} {@sú-iṣṭa,@}¦ 
+;
+10558 old <L>10531<pc>1639<k1>svEtu<k2>svE/tu, sva/-etu	{@(svaítu),@} {@svá-etu,@}¦ 
+10558 new <L>10531<pc>1639<k1>svEtu<k2>svE/tu, sva/-etu	{@(svaítu),@} {@svá-etu,@}¦ 
+;
+10559 old <L>10532<pc>1639<k1>svojas<k2>svo/jas, su-o/jas	{@(svójas),@} {@su-ójas,@}¦ 
+10559 new <L>10532<pc>1639<k1>svojas<k2>svo/jas, su-o/jas	{@(svójas),@} {@su-ójas,@}¦ 
+;
+10609 old <L>10582<pc>1651<k1>harmya<k2>harmya/	{@(harmyá),@} {@harmiá,@}¦ 
+10609 new <L>10582<pc>1651<k1>harmya<k2>harmya/, harmia/	{@(harmyá),@} {@harmiá,@}¦ 
+;
+10614 old <L>10587<pc>1653<k1>haryaSva<k2>ha/ryaSva	{@(háryaśva),@} {@hári-aśva,@}¦ 
+10614 new <L>10587<pc>1653<k1>haryaSva<k2>ha/ryaSva, ha/ri-aSva	{@(háryaśva),@} {@hári-aśva,@}¦ 
+;
+10615 old <L>10588<pc>1653<k1>haryaSvaprasUta<k2>ha/ryaSva-prasUta	{@(háryaśva-prasūta),@} {@háriaśva-prasūta,@}¦ 
+10615 new <L>10588<pc>1653<k1>haryaSvaprasUta<k2>ha/ryaSva-prasUta, ha/riaSva-prasUta	{@(háryaśva-prasūta),@} {@háriaśva-prasūta,@}¦ 
+;
+10629 old <L>10602<pc>1654<k1>havirvah<k2>havir-va/h	{@havir-váh,@} stark {@havir-vā́h,@}¦ 
+10629 new <L>10602<pc>1654<k1>havirvah<k2>havir-va/h, havir-vA/h	{@havir-váh,@} stark {@havir-vā́h,@}¦ 
+;
+10639 old <L>10612<pc>1656<k1>havya<k2>ha/vya, ha/via	{@hávya,@} {@hávia,@}¦ 
+10639 new <L>10612<pc>1656<k1>havya<k2>ha/vya, ha/via	{@hávya,@} {@hávia,@}¦ 
+;
+10642 old <L>10615<pc>1657<k1>havyavah<k2>havya-va/h	{@havya-váh,@} stark {@havya-vā́h,@}¦ 
+10642 new <L>10615<pc>1657<k1>havyavah<k2>havya-va/h, havya-vA/h	{@havya-váh,@} stark {@havya-vā́h,@}¦ 
+;
+10645 old <L>10618<pc>1657<k1>havyA<k2>ha/vyA	{@(hávyā),@} {@háviā,@}¦ 
+10645 new <L>10618<pc>1657<k1>havyA<k2>ha/vyA, ha/viA	{@(hávyā),@} {@háviā,@}¦ 
+;
+10688 old <L>10661<pc>1666<k1>himyA<k2>himyA/	{@(himyā́),@} {@himiá,@}¦ 
+10688 new <L>10661<pc>1666<k1>himyA<k2>himyA/, himia/	{@(himyā́),@} {@himiá,@}¦ 
+;
+10693 old <L>10666<pc>1666<k1>hiraRyakeSya<k2>hi/raRya-keSya	{@(híraṇya-keśya),@} {@híraṇya-keśia,@}¦ 
+10693 new <L>10666<pc>1666<k1>hiraRyakeSya<k2>hi/raRya-keSya, hi/raRya-keSia	{@(híraṇya-keśya),@} {@híraṇya-keśia,@}¦ 
+;
+10748 old <L>10721<pc>1678<k1>hfRAy<k2>hfRAy, hrnIy	{@√hṛṇāy,@} {@√hrnīy,@}¦ 
+10748 new <L>10721<pc>1678<k1>hfRAy<k2>hfRAy, hrnIy	{@√hṛṇāy,@} {@√hrnīy,@}¦ 
+;
+10758 old <L>10731<pc>1679<k1>hfdya<k2>hf/dya	{@(hṛ́dya),@} {@hṛ́dia,@}¦ 
+10758 new <L>10731<pc>1679<k1>hfdya<k2>hf/dya, hf/dia	{@(hṛ́dya),@} {@hṛ́dia,@}¦ 
+;
+10771 old <L>10744<pc>1680<k1>hemyAvat<k2>hemyA/vat	{@(hemyā́vat),@} {@hemiā́vat,@}¦ 
+10771 new <L>10744<pc>1680<k1>hemyAvat<k2>hemyA/vat, hemiA/vat	{@(hemyā́vat),@} {@hemiā́vat,@}¦ 
+;
+10778 old <L>10751<pc>1682<k1>hotfvUrya<k2>hotf-vU/rya, hotf-vU/ria	{@hotṛ-vū́rya,@} {@hotṛ-vū́ria,@}¦ 
+10778 new <L>10751<pc>1682<k1>hotfvUrya<k2>hotf-vU/rya, hotf-vU/ria	{@hotṛ-vū́rya,@} {@hotṛ-vū́ria,@}¦ 
+;
+10781 old <L>10754<pc>1682<k1>hotravah<k2>hotra-va/h	{@hotra-váh,@} stark {@hotra-vā́h,@}¦ 
+10781 new <L>10754<pc>1682<k1>hotravah<k2>hotra-va/h, hotra-vA/h	{@hotra-váh,@} stark {@hotra-vā́h,@}¦ 
+;
+10788 old <L>10761<pc>1683<k1>hoza<k2>hoza, hozin	{@(hoṣa,@} {@hoṣin)@}¦ 
+10788 new <L>10761<pc>1683<k1>hoza<k2>hoza, hozin	{@(hoṣa,@} {@hoṣin)@}¦ 
+;
+10790 old <L>10763<pc>1683<k1>hyas<k2>hya/s	{@(hyás),@} {@hiás@}¦ 
+10790 new <L>10763<pc>1683<k1>hyas<k2>hya/s, hia/s	{@(hyás),@} {@hiás@}¦ 
+;
+10803 old <L>10776<pc>1684<k1>hvArya<k2>hvArya/	{@(hvāryá),@} {@hvāriá,@}¦ 
+10803 new <L>10776<pc>1684<k1>hvArya<k2>hvArya/, hvAria/	{@(hvāryá),@} {@hvāriá,@}¦ 
+;
+10804 old <L>10777<pc>1684<k1>hvf<k2>hvf, hru	{@√hvṛ,@} {@√hru,@}¦ 
+10804 new <L>10777<pc>1684<k1>hvf<k2>hvf, hru	{@√hvṛ,@} {@√hru,@}¦ 
+;
