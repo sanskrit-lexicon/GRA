@@ -1,0 +1,8 @@
+<pe>1.</pe>	1ten/ersten Person
+<pe>2.</pe>	2ten/zweiten Person
+<pe>3.</pe>	3ten/dritten Person
+
+<pe n="3ten/dritten">3.</pe> Person
+<pe n="1ten/ersten">1.</pe> Person
+<pe n="2ten/zweiten">2.</pe> <pe n="3ten/dritten">3.</pe> <ab n="person">ps.</ab>
+<pe n="3ten/dritten">3.</pe> <ab n="Person">Pers.</ab>

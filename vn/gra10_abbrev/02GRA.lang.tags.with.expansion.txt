@@ -1,0 +1,57 @@
+<lang>Sanskrit</lang>	Sanskrit
+<lang>Zend.</lang>	Zend
+<lang>Zend</lang>	Zend
+<lang>ags.</lang>	Anglo-Saxon
+<lang>ahd.</lang>	Old High German
+<lang>altfries.</lang>	Old Frisian
+<lang>althd.</lang>	Old High German
+<lang>althochd.</lang>	Old High German
+<lang>altlat.</lang>	Old Latin
+<lang>altn.</lang>	Old Icelandic
+<lang>altnord.</lang>	Old Icelandic
+<lang>altpreuss.</lang>	Old Prussian
+<lang>alts.</lang>	Old Slavonic
+<lang>altsl.</lang>	Old Slavonic
+<lang>altslav.</lang>	Old Slavonic
+<lang>altslaw.</lang>	Old Slavonic
+<lang>altslov.</lang>	Old Slovene
+<lang>altsächs.</lang>	Old Saxon
+<lang>angels.</lang>	English
+<lang>armen.</lang>	Armenian
+<lang>böhm.</lang>	Bohemian
+<lang>celt.</lang>	Celtic
+<lang>engl.</lang>	English
+<lang>französ.</lang>	French
+<lang>go.</lang>	Gothic
+<lang>got.</lang>	Gothic
+<lang>goth.</lang>	Gothic
+<lang>gr.</lang>	Greek
+<lang>griech.</lang>	Greek
+<lang>hebr.</lang>	Hebrew
+<lang>hochd.</lang>	High German
+<lang>kambr.</lang>	Kambrian
+<lang>la.</lang>	Latin
+<lang>lat.</lang>	Latin
+<lang>latein.</lang>	Latin
+<lang>lett.</lang>	Lettish
+<lang>lit.</lang>	Lithuanian
+<lang>litth.</lang>	Lithuanian
+<lang>mittelh.</lang>	Middle High German
+<lang>mittelhochd.</lang>	Middle High German
+<lang>ndd.</lang>	???
+<lang>neuhd.</lang>	New High German
+<lang>neuhochd.</lang>	New High German
+<lang>osc.</lang>	Oscan
+<lang>osk.</lang>	Oscan
+<lang>poln.</lang>	Polish
+<lang>prät.</lang>	Should've been as <ab>prät.</ab> Präteritum (Simple Past tense)
+<lang>russ.</lang>	Russian
+<lang>sankr.</lang>	Sanskrit
+<lang>sanskr.</lang>	Sanskrit
+<lang>sanskrit</lang>	Sanskrit
+<lang>slav.</lang>	Slavonic
+<lang>umbr.</lang>	Umbrian
+<lang>ved.</lang>	Vedic
+<lang>zd.</lang>	Zend
+<lang>zend.</lang>	Zend
+<lang>äol.</lang>	Aeolic

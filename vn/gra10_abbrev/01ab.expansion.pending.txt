@@ -1,0 +1,42 @@
+<ab>Ds.</ab> ;;could it be Deutestamme?
+under L-1204 (entry: avyat)
+<div n="TS">-atyai [<ab>Ds.</ab> <ab n="femininum">f.</ab>] {921,5} me (urváśyai).
+------------------------------------------------------------------
+<ab>Gm.</ab> ;; appears to be some person's name (Scientific nomenclature)
+under L-3187 (entry: cakravAka)
+Anas Casarca <ab>Gm.</ab>
+------------------------------------------------------------------
+<ab>Pr.</ab>
+under L-6077 (entry: priyameDa)
+<div n="TS">-avát (wie <ab>Pr.</ab>) {45,3}.
+------------------------------------------------------------------
+<ab>antreff.</ab>
+under L-1210 (entry: 1. aS)
+<div n="TS">-ávāmahai 1〉 jīvám (lebend <ab>antreff.</ab>) {923,17}.
+------------------------------------------------------------------
+<ab>hzv.</ab>
+under L-10215 (entry: stana)
+fstāna ist aus pi-stāna (<ab>hzv.</ab> <ab n="und so weiter">u. s. w.</ab> piśtān)
+------------------------------------------------------------------
+<ab>ms.</ab>
+under L-4852 (entry: namI)
+(sāyiám, oder sāpiám nach <ab>ms.</ab> <ls>Chambers</ls> {60})
+------------------------------------------------------------------
+<ab>part.</ab> <ab>n.</ab>
+under L-392 (entry: an)
+<ab>part.</ab> <ab>n.</ab>, {%das Beseelte%}.
+------------------------------------------------------------------
+<ab>p.</ab> <ab>s.</ab>
+under L-9851 (entry: suprajA)
+<div n="TS">-ā́s [<ab n="Nominativ">N.</ab> <ab>p.</ab> <ab>s.</ab>] vayám {346,6} (siāma).
+------------------------------------------------------------------
+<ab>pp.</ab>
+under L-6408 (entry: BUmi)
+(dyaús <ab>pp.</ab>)
+
+under L-6861 (entry: mI)
+mitrám <ab>pp.</ab> {915,8. 9}.
+
+under L-9156 (entry: sajozas)
+agnís <ab>pp.</ab> {891,1}; aryamā́ <ab>pp.</ab> {952,1}.
+------------------------------------------------------------------
