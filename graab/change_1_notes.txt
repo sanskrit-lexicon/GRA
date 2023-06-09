@@ -1,0 +1,30 @@
+notes on changes from temp_graab_0 to temp_graab_1
+----------------------------------------
+init_entries Error 1. Not expecting <L>
+line #  30737
+b'<L>4202.1<pc>0597<k1>dAS<k2>dA/S'
+Solution: Add <LEND> for previous entry.
+   Do this without changing number of lines --
+     So there is no blank line between L=4202.1 and L=4203.
+----------------------------------------
+ make_xml.py: 15 records records not parsed by ET
+-- first in gra.xml is l=217
+<chg type="del" n="4" src="gra"><old></div><div n="H"><ab n="Participium">Part.</ab> <b>átat:</b></old></chg> <chg type="del" n="4" src="gra"><old></div><div n="TS">-an sū́rias {502,9}.</old></chg> </div>
+
+<chg type="del" n="4" src="gra"><old><div n="H">
+<div n="H"><chg type="del" n="4" src="gra"><old>
+
+<chg type="del" n="4" src="gra"><old><div n="TS">
+<div n="TS"><chg type="del" n="4" src="gra"><old>
+-----------------------------------------------------
+2 matches for "><L>" in buffer: temp_graab_1.txt
+   5057:<chg type="del" n="7" src="gra"><old><L>812<pc>0086<k1>aBiSvasa<k2>aBiSva/sa</old></chg>
+  67275:<chg type="del" n="85" src="gra"><old><L>8727<pc>1389<k1>Sastf<k2>Sa/stf</old></chg>
+
+These are (only?) cases where VN deletion of entire entry.
+The form is changed so <L> comes first.
+-----------------------------------------------------
+18 matches for "<old><div" in buffer: temp_graab_1.txt
+Revise so <chg> is within <div>
+  <chgX<old><divY> -> <divY><chgX<old>
+  
