@@ -1,0 +1,135 @@
+; <L>217<pc>0026<k1>at<k2>at
+1453 old <chg type="del" n="4" src="gra"><old><div n="H"><ab n="Participium">Part.</ab> {@átat:@}</old></chg>
+;
+1453 new <div n="H"><chg type="del" n="4" src="gra"><old><ab n="Participium">Part.</ab> {@átat:@}</old></chg>
+;---------------------------------------------------
+; <L>217<pc>0026<k1>at<k2>at
+1454 old <chg type="del" n="4" src="gra"><old><div n="TS">-an sū́rias {502,9}.</old></chg>
+;
+1454 new <div n="TS"><chg type="del" n="4" src="gra"><old>-an sū́rias {502,9}.</old></chg>
+;---------------------------------------------------
+; <L>811<pc>0086<k1>aBiSrI<k2>aBiSrI/
+5057 old <chg type="del" n="7" src="gra"><old><L>812<pc>0086<k1>aBiSvasa<k2>aBiSva/sa</old></chg>
+;
+5057 new <L>812<pc>0086<k1>aBiSvasa<k2>aBiSva/sa
+;---------------------------------------------------
+; <L>811<pc>0086<k1>aBiSrI<k2>aBiSrI/
+5059 old <chg type="del" n="7" src="gra"><old><div n="TS">-as 2〉 {918,8} (jaṭhárāt).</old></chg>
+;
+5059 new <div n="TS"><chg type="del" n="7" src="gra"><old>-as 2〉 {918,8} (jaṭhárāt).</old></chg>
+;---------------------------------------------------
+; <L>811<pc>0086<k1>aBiSrI<k2>aBiSrI/
+5060 old <chg type="del" n="7" src="gra"><old><LEND></old></chg>
+;
+5060 new <LEND>
+;---------------------------------------------------
+; <L>1396<pc>0160<k1>ah<k2>1. ah, aMh
+9180 old <chg type="del" n="19" src="gra"><old><div n="H">Stamm {@áha@} (betont nur {589,3}):</old></chg>
+;
+9180 new <div n="H"><chg type="del" n="19" src="gra"><old>Stamm {@áha@} (betont nur {589,3}):</old></chg>
+;---------------------------------------------------
+; <L>1396<pc>0160<k1>ah<k2>1. ah, aMh
+9181 old <chg type="del" n="19" src="gra"><old><div n="TS">-ema ucátham {210,7}; yajñám {589,3}. — sám {94,1}:</old></chg> [Page161]<chg type="del" n="19" src="gra"><old> imám stómam ‥‥ rátham iva sám ahemā manīṣáyā; wie nach der unzweifelhaft richtigen Vermuthung von <ls>BR.</ls> statt sám mahemā zu lesen ist.</old></chg>
+;
+9181 new <div n="TS"><chg type="del" n="19" src="gra"><old>-ema ucátham {210,7}; yajñám {589,3}. — sám {94,1}:</old></chg> [Page161]<chg type="del" n="19" src="gra"><old> imám stómam ‥‥ rátham iva sám ahemā manīṣáyā; wie nach der unzweifelhaft richtigen Vermuthung von <ls>BR.</ls> statt sám mahemā zu lesen ist.</old></chg>
+;---------------------------------------------------
+; <L>1675<pc>0192<k1>i<k2>i
+11032 old <chg type="del" n="26" src="gra"><old><div n="TS">[-átā {@sam@} 1〉 dyumnéna {457,21}(?) zu saṃyát].</old></chg>
+;
+11032 new <div n="TS"><chg type="del" n="26" src="gra"><old>[-átā {@sam@} 1〉 dyumnéna {457,21}(?) zu saṃyát].</old></chg>
+;---------------------------------------------------
+; <L>1675<pc>0192<k1>i<k2>i
+11033 old <chg type="del" n="26" src="gra"><old><div n="TS">-átā {@sam@} 8〉 mánmanā {151,8}(?).</old></chg>
+;
+11033 new <div n="TS"><chg type="del" n="26" src="gra"><old>-átā {@sam@} 8〉 mánmanā {151,8}(?).</old></chg>
+;---------------------------------------------------
+; <L>2144<pc>0278<k1>fGAy<k2>fGAy
+14614 old <chg type="del" n="33" src="gra"><old><div n="TS">-até vṛ́kāya {492,6}.</old></chg>
+;
+14614 new <div n="TS"><chg type="del" n="33" src="gra"><old>-até vṛ́kāya {492,6}.</old></chg>
+;---------------------------------------------------
+; <L>3685<pc>0525<k1>tar<k2>tar, tir, tur
+26874 old <chg type="del" n="53" src="gra"><old><div n="TS">-rīmahi [<ab n="Optativ ">Opt.</ab>] {@prá@} 6〉 {214,10}.</old></chg>
+;
+26874 new <div n="TS"><chg type="del" n="53" src="gra"><old>-rīmahi [<ab n="Optativ ">Opt.</ab>] {@prá@} 6〉 {214,10}.</old></chg>
+;---------------------------------------------------
+; <L>3996<pc>0566<k1>tvAdatta<k2>tvA/-datta, tuA/-datta
+29053 old <chg type="del" n="54" src="gra"><old><div n="TS">-am [<ab n="neutrum">n.</ab>] yáśas {10,7}.</old></chg>
+;
+29053 new <div n="TS"><chg type="del" n="54" src="gra"><old>-am [<ab n="neutrum">n.</ab>] yáśas {10,7}.</old></chg>
+;---------------------------------------------------
+; <L>4000<pc>0566<k1>tvAy<k2>tvAy, tuAy
+29076 old <chg type="del" n="55" src="gra"><old><div n="TS">-ántam {125,2}.</old></chg>
+;
+29076 new <div n="TS"><chg type="del" n="55" src="gra"><old>-ántam {125,2}.</old></chg>
+;---------------------------------------------------
+; <L>4202<pc>0596<k1>dAS<k2>dAS
+30736 old 
+;
+30736 new <LEND>
+;---------------------------------------------------
+; <L>4825<pc>0707<k1>nand<k2>nand
+35778 old <chg type="del" n="59" src="gra"><old><div n="H">Stamm {@nánda:@}</old></chg>
+;
+35778 new <div n="H"><chg type="del" n="59" src="gra"><old>Stamm {@nánda:@}</old></chg>
+;---------------------------------------------------
+; <L>5904<pc>0872<k1>praT<k2>praT, pfT
+43816 old <chg type="del" n="62" src="gra"><old><div n="TS">-ā́tha [<pe>3.</pe> <ab n="singular">s.</ab> oder <pe>2.</pe> <ab n="singular">s.</ab>] {@ví@} 1〉 kṣā́m urvī́m {458,7}.</old></chg>
+;
+43816 new <div n="TS"><chg type="del" n="62" src="gra"><old>-ā́tha [<pe>3.</pe> <ab n="singular">s.</ab> oder <pe>2.</pe> <ab n="singular">s.</ab>] {@ví@} 1〉 kṣā́m urvī́m {458,7}.</old></chg>
+;---------------------------------------------------
+; <L>6881<pc>1050<k1>mur<k2>mur, mar
+51666 old <chg type="del" n="70" src="gra"><old><div n="H">Stamm II. {@mamar:@}</old></chg>
+;
+51666 new <div n="H"><chg type="del" n="70" src="gra"><old>Stamm II. {@mamar:@}</old></chg>
+;---------------------------------------------------
+; <L>6881<pc>1050<k1>mur<k2>mur, mar
+51667 old <chg type="del" n="70" src="gra"><old><div n="TS">-rtu svā́ tám 〰 duchúnā {214,6}.</old></chg>
+;
+51667 new <div n="TS"><chg type="del" n="70" src="gra"><old>-rtu svā́ tám 〰 duchúnā {214,6}.</old></chg>
+;---------------------------------------------------
+; <L>6935<pc>1061<k1>mfS<k2>mfS
+52204 old <chg type="del" n="72" src="gra"><old><div n="H">{@marmṛś:@}</old></chg>
+;
+52204 new <div n="H"><chg type="del" n="72" src="gra"><old>{@marmṛś:@}</old></chg>
+;---------------------------------------------------
+; <L>6935<pc>1061<k1>mfS<k2>mfS
+52205 old <chg type="del" n="72" src="gra"><old><div n="TS">-śat {@abhí@} 3〉 priyā́ṇi párāṇi {272,1}.</old></chg>
+;
+52205 new <div n="TS"><chg type="del" n="72" src="gra"><old>-śat {@abhí@} 3〉 priyā́ṇi párāṇi {272,1}.</old></chg>
+;---------------------------------------------------
+; <L>7930<pc>1261<k1>vArya<k2>vA/rya, vA/ria
+60951 old <chg type="del" n="78" src="gra"><old><div n="TS">-yāt {644,27}(?).</old></chg> [Page1262]
+;
+60951 new <div n="TS"><chg type="del" n="78" src="gra"><old>-yāt {644,27}(?).</old></chg> [Page1262]
+;---------------------------------------------------
+; <L>8560<pc>1368<k1>Sak<k2>Sak
+66137 old <chg type="del" n="81" src="gra"><old><div n="TS">-as 4〉 yásmai {1021,8}.</old></chg>
+;
+66137 new <div n="TS"><chg type="del" n="81" src="gra"><old>-as 4〉 yásmai {1021,8}.</old></chg>
+;---------------------------------------------------
+; <L>8722<pc>1388<k1>Sas<k2>1. Sas
+67247 old <chg type="del" n="83" src="gra"><old><div n="Pf">Mit {@sám@} jemandem [<ab n="Ablativ">Ab.</ab> <ab n="mit">m.</ab> ā́] etwas [<ab n="Accusativ">A.</ab>] {%zutheilen%}.</old></chg> 
+;
+67247 new <div n="Pf"><chg type="del" n="83" src="gra"><old>Mit {@sám@} jemandem [<ab n="Ablativ">Ab.</ab> <ab n="mit">m.</ab> ā́] etwas [<ab n="Accusativ">A.</ab>] {%zutheilen%}.</old></chg> 
+;---------------------------------------------------
+; <L>8726<pc>1389<k1>Sasti<k2>Sasti/
+67274 old <chg type="del" n="85" src="gra"><old><L>8727<pc>1389<k1>Sastf<k2>Sa/stf</old></chg>
+;
+67274 new <L>8727<pc>1389<k1>Sastf<k2>Sa/stf
+;---------------------------------------------------
+; <L>8726<pc>1389<k1>Sasti<k2>Sasti/
+67276 old <chg type="del" n="85" src="gra"><old><div n="TS">-ā {162,5}.</old></chg>
+;
+67276 new <div n="TS"><chg type="del" n="85" src="gra"><old>-ā {162,5}.</old></chg>
+;---------------------------------------------------
+; <L>8726<pc>1389<k1>Sasti<k2>Sasti/
+67277 old <chg type="del" n="85" src="gra"><old><LEND></old></chg>
+;
+67277 new <LEND>
+;---------------------------------------------------
+; <L>9717<pc>1528<k1>sukzatra<k2>su-kzatra/
+74695 old <chg type="del" n="92" src="gra"><old><div n="TS">-ā́ya dhā́m(a)ne {402,1}.</old></chg>
+;
+74695 new <div n="TS"><chg type="del" n="92" src="gra"><old>-ā́ya dhā́m(a)ne {402,1}.</old></chg>
+;---------------------------------------------------
