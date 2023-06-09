@@ -29,3 +29,13 @@ April 2020.  Identify Grassman entries which are roots and correspond with MW sp
 correspond them to MW where possible.
 
 See https://github.com/sanskrit-lexicon/GRA/issues/11 for introduction.
+
+## vn
+Work to integrate Grassman's changes, deletions, and additions.
+vn/gra-dev contains versions of pywork, etc for displays based on
+ the 'gra9' version of gra.txt. That version is in vn/gra-dev/gra9.zip.
+
+## graab
+Work on adapting cdsl display to the version of gra.txt prepared by Andhrabharati.
+This version is file 'gra_(CSL)_[AB]-8b (chg corrections done).txt' provided for download at https://github.com/sanskrit-lexicon/GRA/issues/29.
+
