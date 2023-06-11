@@ -1,0 +1,19 @@
+cd
+; <L>4378.2<pc>0623<k1>dU<k2>2. dU
+; no abbreviation for 'du' - it is a verb
+32101 old [<hom>2.</hom> {@√dū@}],¦ {%in die Ferne gehen,%} <ab n="siehe">s.</ab> <hom>2.</hom> <ab n="dual">du.</ab>
+;
+32101 new [<hom>2.</hom> {@√dū@}],¦ {%in die Ferne gehen,%} <ab n="siehe">s.</ab> <hom>2.</hom> du.
+;---------------------------------------------------
+; <L>8856.1<pc>1404<k1>Supti<k2>Su/pti
+; correct <pc>
+68269 old <L>8856.1<pc>1404<k1>Supti<k2>Su/pti
+;
+68269 new <L>8856.1<pc>1405<k1>Supti<k2>Su/pti
+;---------------------------------------------------
+; <L>10366<pc>1619<k1>srotya<k2>srotyA/, srotiA/
+; correct k1
+79760 old <L>10366<pc>1619<k1>srotya<k2>srotyA/, srotiA/
+;
+79760 new <L>10366<pc>1619<k1>srotyA<k2>srotyA/, srotiA/
+;---------------------------------------------------
