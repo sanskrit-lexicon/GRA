@@ -53,4 +53,36 @@ PRINT CHANGES TO BE REGISTERD in csl-corrections/dictionaries/gra/gra_printchang
 ----------------------------------------------------------------------
 now redo.sh uses temp_graab_3.txt for dev3. (06-11-2023)
 ----------------------------------------------------------------------
+modify dtd for gra
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev3/pywork/gra.xml dev3/pywork/gra.dtd
+See readme_dtd.txt for revisions.
 
+----------------------------------------------------------------------
+temp_graaab_4.txt : tooltip markup changes
+see abbrevs/readme.txt
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+TODO: handle 
+
+46. AB hw correction (? Complicated.  Currently these two don't show)
+ 12319 guhya  (addition)
+  3002 guhia  (and guhya)
+11470c11489
+< <L>12319<k1>guhia
+---
+> <L>12319<k1>guhya
+--------------------------------
+47. AB hw correction (? Complicated.  Currently these two don't show)
+11733c11752
+< <L>12582<k1>vIrya
+---
+> <L>12582<k1>vIria
+--------------------------------------------------------------
+TODO: "1." has to be expanded as '1sten/ersten', not as '1ten/ersten'.
+Example: <pe n="1ten/ersten">1.</pe>
+--------------------------------------------------------------
+--------------------------------------------------------------
+TODO:  (last step) Have precisely one blank line between <LEND> and <L>
