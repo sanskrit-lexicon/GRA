@@ -1,0 +1,59 @@
+ags.:Anglo-Saxon:5
+ahd.:Old High German:4
+altfries.:Old Frisian:1
+althd.:Old High German:1
+althochd.:Old High German:14
+altlat.:Old Latin:2
+altn.:Old Icelandic:5
+altnord.:Old Icelandic:4
+altpreuss.:Old Prussian:2
+alts.:Old Slavonic:1
+altsl.:Old Slavonic:7
+altslav.:Old Slavonic:3
+altslaw.:Old Slavonic:1
+altslov.:Old Slovene:1
+altsächs.:Old Saxon:1
+angels.:Anglo-Saxon:2
+armen.:Armenian:1
+böhm.:Bohemian:1
+celt.:Celtic:1
+engl.:English:1
+französ.:French:1
+germ.:German:1
+go.:Gothic:7
+got.:Gothic:5
+goth.:Gothic:28
+gr.:Greek:120
+griech.:Greek:9
+hebr.:Hebrew:1
+hochd.:High German:1
+hzv.:Middle Persian/Pahlavi (‘Huzvaresh’ script):1
+kambr.:Kambrian:1
+la.:Latin:2
+lat.:Latin:97
+latein.:Latin:2
+lett.:Lettish:2
+lit.:Lithuanian:22
+litth.:Lithuanian:8
+mittelh.:Middle High German:1
+mittelhochd.:Middle High German:1
+ndd.:Low German:1
+neuhd.:New High German:2
+neuhochd.:New High German:1
+osc.:Oscan:1
+osk.:Oscan:1
+poln.:Polish:1
+russ.:Russian:3
+sankr.:Sanskrit:1
+sanskr.:Sanskrit:8
+Sanskrit:Sanskrit:31
+sanskrit:Sanskrit:2
+skt.:Sanskrit:1
+slav.:Slavonic:1
+umbr.:Umbrian:1
+ved.:Vedic:2
+zd.:Zend:2
+Zend:Zend:14
+Zend.:Zend:2
+zend.:Zend:37
+äol.:Aeolic:1

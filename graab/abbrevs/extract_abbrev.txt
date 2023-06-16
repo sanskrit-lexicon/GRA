@@ -226,7 +226,7 @@ Sing.:Singular:17
 sing.:singular:11
 spr.:sprechen:6
 sprech.:sprechen:3
-st.:statt:1
+st.:statt:273
 St.:Stamm:1
 Sth.:Sthūragūpa:1
 Strom.:Strome:1
@@ -252,6 +252,7 @@ Urspr.:Ursprünglich:1
 utt.:uttama:1
 V.:Vocativ:728
 v.:von:279
+v. u.:von unten:176
 Var.:Variante:3
 Verg. Aen.:Vergleiche Aenderung:1
 Vergl.:Vergleiche:21

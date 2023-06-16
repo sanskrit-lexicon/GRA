@@ -1,4 +1,3 @@
-cd
 ; <L>4378.2<pc>0623<k1>dU<k2>2. dU
 ; no abbreviation for 'du' - it is a verb
 32101 old [<hom>2.</hom> {@√dū@}],¦ {%in die Ferne gehen,%} <ab n="siehe">s.</ab> <hom>2.</hom> <ab n="dual">du.</ab>
@@ -17,3 +16,13 @@ cd
 ;
 79760 new <L>10366<pc>1619<k1>srotyA<k2>srotyA/, srotiA/
 ;---------------------------------------------------
+; <L>5417<pc>0804<k1>pAjas<k2>pA/jas
+; <lang n="German">germ.</lang> ->  <lang>germ.</lang>
+40397 old {@pā́jas,@}¦ <ab n="neutrum">n.</ab> Die Grundbedeutung ist die des funkelnden, strahlenden Lichtes, besonders wie es vordringt und sich ausbreitet über Himmel und Erde (<ab n="vergleiche">vgl.</ab> pā́jas aśret {248,1}; {295,5}; {519,4}; {526,1}); an diese letzte Anschauung knüpft sich der Begriff der glänzenden, schimmernden Fläche, worunter im Singular der Himmel, im Dual Himmel und Erde verstanden werden, und an den Begriff des Vordringens, der des kräftigen Andrangs (vom Winde <ab n="und so weiter">u. s. w.</ab>). Zu vergleichen ist <lang>althochd.</lang> funcho, <lang>neuhochd.</lang> funke, funkeln (<ls>Gr. gr.</ls> {II, 60, nr. 601}), was auf eine <lang n="German">germ.</lang> Wurzel *fank, <lang>sanskrit</lang> *pañj, *paj zurückführt, welche mit piñj (<lang>lat.</lang> ping.) in engem Zusammenhange steht [<ls>Fi.</ls> {424}]. 1〉 {%funkelnder Glanz, Licht, Lichtschein;%} 2〉 {%glänzende, schimmernde Fläche%} vom Himmel, <ab n="dual">du.</ab> von Himmel und Erde; 3〉 {%kräftiger Andrang%}. — Enthalten auch in pṛthu-pā́jas, sahásrapājas.
+;
+40397 new {@pā́jas,@}¦ <ab n="neutrum">n.</ab> Die Grundbedeutung ist die des funkelnden, strahlenden Lichtes, besonders wie es vordringt und sich ausbreitet über Himmel und Erde (<ab n="vergleiche">vgl.</ab> pā́jas aśret {248,1}; {295,5}; {519,4}; {526,1}); an diese letzte Anschauung knüpft sich der Begriff der glänzenden, schimmernden Fläche, worunter im Singular der Himmel, im Dual Himmel und Erde verstanden werden, und an den Begriff des Vordringens, der des kräftigen Andrangs (vom Winde <ab n="und so weiter">u. s. w.</ab>). Zu vergleichen ist <lang>althochd.</lang> funcho, <lang>neuhochd.</lang> funke, funkeln (<ls>Gr. gr.</ls> {II, 60, nr. 601}), was auf eine <lang>germ.</lang> Wurzel *fank, <lang>sanskrit</lang> *pañj, *paj zurückführt, welche mit piñj (<lang>lat.</lang> ping.) in engem Zusammenhange steht [<ls>Fi.</ls> {424}]. 1〉 {%funkelnder Glanz, Licht, Lichtschein;%} 2〉 {%glänzende, schimmernde Fläche%} vom Himmel, <ab n="dual">du.</ab> von Himmel und Erde; 3〉 {%kräftiger Andrang%}. — Enthalten auch in pṛthu-pā́jas, sahásrapājas.
+;
+; <L>2<pc>0001<k1>a<k2>2. a
+; iten -> 1sten
+8 old <hom>2.</hom> {@(a).@}¦ Deutestamm der <pe n="1ten/ersten">1.</pe> Person, siehe unter ahám.
+8 new <hom>2.</hom> {@(a).@}¦ Deutestamm der <pe n="1sten/ersten">1.</pe> Person, siehe unter ahám.

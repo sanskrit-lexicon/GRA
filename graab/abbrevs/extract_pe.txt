@@ -1,0 +1,3 @@
+1.:1sten/ersten:1
+2.:2ten/zweiten:1
+3.:3ten/dritten:3

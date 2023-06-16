@@ -33,8 +33,11 @@ diff /c/xampp/htdocs/sanskrit-lexicon/GRA/vn/gra-dev/pywork/make_xml.py dev1/pyw
 temp_vn_ab.txt: AB versions of VN material
 mkdir vn_ab
 See vn_ab/readme.txt for creation of temp_vn_ab.txt
-TODO: [Note: In my final version, couple of metaline data got chang# add the vn part to the body part.
-cat temp_graab_1.txt vn_ab/temp_vn_ab.txt > temp_graab_2.txt
+TODO: [Note: In my final version, couple of metaline data got change
+ # add the vn part to the body part.
+# cat temp_graab_1.txt vn_ab/temp_vn_ab.txt > temp_graab_2.txt
+# revision (for st. and v.u. abbreviations in the 'chg' section.
+cat temp_graab_1.txt vn_ab/temp_vn_ab_a.txt > temp_graab_2.txt
 
 ----------------------------------------------------------------------
 # change redo.sh to now use temp_graab_2.txt with results in dev2
@@ -44,9 +47,15 @@ Compare meta-lines of temp_gra9.txt to metalines of temp_graab_2.txt
 See meta_compare/readme.txt and readme_diff.txt
 
 ----------------------------------------------------------------------
-cp temp_graab_2.txt temp_graab_3.txt 
-CORRECTIONS to graab_3
-see graab/change_3.txt (3 changes)
+CORRECTIONS 
+see graab/change_3.txt (5 changes)
+python updateByLine.py temp_graab_2.txt change_3.txt temp_graab_3.txt
+89186 lines read from temp_graab_2.txt
+89186 records written to temp_graab_3.txt
+5 change transactions from change_3.txt
+One further change put into change_3.txt, namely
+  <lang n="German">germ.</lang> ->  <lang>germ.</lang>
+  
 ----------------------------------------------------------------------
 See readme_printchange_notes.txt for notes on
 PRINT CHANGES TO BE REGISTERD in csl-corrections/dictionaries/gra/gra_printchange.txt
@@ -58,10 +67,21 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev3/pywork/gra.xml dev3/pywork/gr
 See readme_dtd.txt for revisions.
 
 ----------------------------------------------------------------------
-temp_graaab_4.txt : tooltip markup changes
+temp_graab_4.txt : tooltip markup changes
+abbrevs/graab_input.txt  : revised abbreviation tooltip file for displays
 see abbrevs/readme.txt
 
+cp abbrevs/graab_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graab/graab_input.txt
+
+revise csl-websanlexicon/.../basicadjust.py to treat
+  <lang> and <pe> tags just like <ab> tags.
+change redo to use temp_graab_4
+
+sh redo.sh
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev4/pywork/gra.xml dev4/pywork/gra.dtd
+
 ----------------------------------------------------------------------
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -84,5 +104,14 @@ TODO: handle
 TODO: "1." has to be expanded as '1sten/ersten', not as '1ten/ersten'.
 Example: <pe n="1ten/ersten">1.</pe>
 --------------------------------------------------------------
+(f.:feminium) -- local should be changed to (f.:femininum) -- global; it is a manual typing error on my part.Just seen your separation files for global and local abbr.s
+31 matches for "feminium" in buffer: temp_graab_3.txt
+--------------------------------------------------------------
+TODO: 〉 to ).
+--------------------------------------------------------------
+TODO: 3 cases of !√  e.g. {@(!√jaṅgahe)@}
+
+--------------------------------------------------------------
+TODO: {x,y. z}  -> {x,y} {x,z}  in ADD section. ?
 --------------------------------------------------------------
 TODO:  (last step) Have precisely one blank line between <LEND> and <L>
