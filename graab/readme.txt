@@ -73,6 +73,10 @@ see abbrevs/readme.txt
 
 cp abbrevs/graab_input.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graab/graab_input.txt
 
+TODO?: abbrevs  Ref https://github.com/sanskrit-lexicon/GRA/issues/27#issuecomment-1594202101
+  s.u.d.W
+
+
 revise csl-websanlexicon/.../basicadjust.py to treat
   <lang> and <pe> tags just like <ab> tags.
 change redo to use temp_graab_4
@@ -81,6 +85,33 @@ sh redo.sh
 python /c/xampp/htdocs/cologne/xmlvalidate.py dev4/pywork/gra.xml dev4/pywork/gra.dtd
 
 ----------------------------------------------------------------------
+6-16-2023  
+<ls> markup
+see litsrc directory. see litsrc/readme.txt.
+------ 1.  Remove 'local' abbrevs.
+ temp_graab_5a.txt 
+ 
+python diff_to_changes_dict.py temp_graab_4.txt temp_graab_5a.txt change_5a.txt 
+35 changes written to change_5a.txt
+
+------ 2. AV links, part 1
+ temp_graab_5b.txt
+python diff_to_changes_dict.py temp_graab_5a.txt temp_graab_5b.txt change_5b.txt
+188 changes written to change_5b.txt
+
+------ 3. AV links, part 2
+ temp_graab_5c.txt
+python diff_to_changes_dict.py temp_graab_5b.txt temp_graab_5c.txt change_5c.txt
+ 5 changes written to change_5c.txt
+------
+cp temp_graab_5c.txt temp_graab_5.txt
+
+----------------------------------------------------------------------
+
+
+change redo.sh to use version 5. Update .gitignore
+sh redo.sh
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev5/pywork/gra.xml dev5/pywork/gra.dtd
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------

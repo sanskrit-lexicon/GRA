@@ -1,0 +1,175 @@
+; <L>26<pc>0004<k1>akuDryac<k2>a-kuDrya^c, akuDri/ac
+150 old {@(a-kudhryàc),@} {@akudhríac.@}¦ Die Silbe dhrí, welche hier zwischen ku und ac eingeschoben ist, erscheint ganz in gleicher Weise in sadhrí-ac und entspricht der Silbe drí, die in deva-drí-ac, viṣva-drí-ac <ab>u. s. w.</ab> erscheint. Ich vermuthe, dass dhrí dort von gleichem Ursprunge ist wie in ádhri, ádhrigu (unaufhaltsam), also aus der Wurzel dhṛ stammt; diese wird hier in dem Sinne zu nehmen sein „fest worauf hinrichten“, in welchem sie <ab>z. B.</ab> mit mánas verknüpft vorkommt, um die feste Hinrichtung des Geistes auf ein Ziel zu bezeichnen (<ab>z. B.</ab> mano dadhre rājasūyāya <ls n="Mahābhārata">Mah.</ls> {2,541}). Dann würde kudhrí-ac das bezeichnen, was sich in der Richtung nach einem bestimmten Ziele hin bewegt, akudhriac also {%ziellos%}. (Ueber die Silbe drí aus dṛ, ādṛ „worauf achten“ siehe unter asmadryàc.)
+;
+150 new {@(a-kudhryàc),@} {@akudhríac.@}¦ Die Silbe dhrí, welche hier zwischen ku und ac eingeschoben ist, erscheint ganz in gleicher Weise in sadhrí-ac und entspricht der Silbe drí, die in deva-drí-ac, viṣva-drí-ac <ab>u. s. w.</ab> erscheint. Ich vermuthe, dass dhrí dort von gleichem Ursprunge ist wie in ádhri, ádhrigu (unaufhaltsam), also aus der Wurzel dhṛ stammt; diese wird hier in dem Sinne zu nehmen sein „fest worauf hinrichten“, in welchem sie <ab>z. B.</ab> mit mánas verknüpft vorkommt, um die feste Hinrichtung des Geistes auf ein Ziel zu bezeichnen (<ab>z. B.</ab> mano dadhre rājasūyāya <ls>Mah.</ls> {2,541}). Dann würde kudhrí-ac das bezeichnen, was sich in der Richtung nach einem bestimmten Ziele hin bewegt, akudhriac also {%ziellos%}. (Ueber die Silbe drí aus dṛ, ādṛ „worauf achten“ siehe unter asmadryàc.)
+;---------------------------------------------------
+; <L>808<pc>0086<k1>aBiSnaT<k2>aBiSna/T
+5034 old {@abhiśnáth,@}¦ <ab>a.</ab>, {%durchbohrend, tödtend%} [von śnath mit abhí], <ab>f.</ab> <ls n="Pada">P.</ls>
+;
+5034 new {@abhiśnáth,@}¦ <ab>a.</ab>, {%durchbohrend, tödtend%} [von śnath mit abhí], <ab>f.</ab> <ls>P.</ls>
+;---------------------------------------------------
+; <L>3069<pc>0413<k1>gomat<k2>go/mat
+21545 old <div n="TS">-ān 1〉 yajñás {298,5} (neben ávimān, aśvī́); te sákhā {624,9}. In {819,9} ist gómān zu streichen (<ab n="siehe">s.</ab> <ls n="Bollensen">Boll.</ls>).
+;
+21545 new <div n="TS">-ān 1〉 yajñás {298,5} (neben ávimān, aśvī́); te sákhā {624,9}. In {819,9} ist gómān zu streichen (<ab n="siehe">s.</ab> <ls>Boll.</ls>).
+;---------------------------------------------------
+; <L>4377<pc>0619<k1>duh<k2>duh, duG
+32065 old <div n="H"><ab>Part.</ab> des <ab>Desid.</ab> {@dúdukṣat@} (<ls n="Pada">P.</ls> dúdhukṣat):
+;
+32065 new <div n="H"><ab>Part.</ab> des <ab>Desid.</ab> {@dúdukṣat@} (<ls>P.</ls> dúdhukṣat):
+;---------------------------------------------------
+; <L>4600<pc>0651<k1>dvAr<k2>dvA/r
+33697 old {@dvā́r,@}¦ <ab>f.</ab> [<ls n="Curtius">C.</ls> {319}], {%Thür,%} als die verschliessende [dvar]; das <lang>gr.</lang> <gk>ϑύρα</gk>, <lang>lat.</lang> for-es, <lang>goth.</lang> daur erweisen, dass im <lang>Sanskrit</lang> dv aus dhv hervorgegangen ist. Ueberall (ausser {625,21}; {627,1}) mit Verben verbunden, die ein „aufthun“, oder „sich aufthun“ bedeuten; im Dual: {%Thürflügel%}. Ins Besondere werden 2〉 im 5ten oder 6ten Verse der Apra- oder Apri-Lieder die {%Thüren%} (des Heiligthums) als {%Göttinnen%} (devī́s) verehrt und aufgefordert, sich weit aufzuthun (ví śrayantām, ví śrayadhvam).
+;
+33697 new {@dvā́r,@}¦ <ab>f.</ab> [<ls>C.</ls> {319}], {%Thür,%} als die verschliessende [dvar]; das <lang>gr.</lang> <gk>ϑύρα</gk>, <lang>lat.</lang> for-es, <lang>goth.</lang> daur erweisen, dass im <lang>Sanskrit</lang> dv aus dhv hervorgegangen ist. Ueberall (ausser {625,21}; {627,1}) mit Verben verbunden, die ein „aufthun“, oder „sich aufthun“ bedeuten; im Dual: {%Thürflügel%}. Ins Besondere werden 2〉 im 5ten oder 6ten Verse der Apra- oder Apri-Lieder die {%Thüren%} (des Heiligthums) als {%Göttinnen%} (devī́s) verehrt und aufgefordert, sich weit aufzuthun (ví śrayantām, ví śrayadhvam).
+;---------------------------------------------------
+; <L>4632<pc>0655<k1>Danarc<k2>Da/narc
+33920 old <div n="TS">-arcam {872,5} árvāṇam 〰 (<ls>SV.</ls> vármaṇā dhanarcí) (<ls n="Pada">P.</ls> falsch dhána-arcam).
+;
+33920 new <div n="TS">-arcam {872,5} árvāṇam 〰 (<ls>SV.</ls> vármaṇā dhanarcí) (<ls>P.</ls> falsch dhána-arcam).
+;---------------------------------------------------
+; <L>4647<pc>0657<k1>DanvarRas<k2>Da/nvarRas
+34043 old {@dhánvarṇas,@}¦ <ab>a.</ab>, {%das Gestade%} [dhánu] {%überfluthend%} [árṇas Fluth] (<ls n="Pada">P.</ls> dhánva-arṇas).
+;
+34043 new {@dhánvarṇas,@}¦ <ab>a.</ab>, {%das Gestade%} [dhánu] {%überfluthend%} [árṇas Fluth] (<ls>P.</ls> dhánva-arṇas).
+;---------------------------------------------------
+; <L>4675<pc>0677<k1>DAnyAkft<k2>DAnyAkf/t, DAniAkf/t
+34535 old <div n="TS">-ṛ́tas [<ab>N.</ab> <ab>p.</ab>] (<ls n="Pada">P.</ls> dhānya-kṛ́taḥ) ádrayas {920,13}.
+;
+34535 new <div n="TS">-ṛ́tas [<ab>N.</ab> <ab>p.</ab>] (<ls>P.</ls> dhānya-kṛ́taḥ) ádrayas {920,13}.
+;---------------------------------------------------
+; <L>4688<pc>0679<k1>DArA<k2>1. DA/rA
+34618 old <div n="TS">-ās [<ab>A.</ab>] ghṛtásya {354,5. 9. 10}; {235,9}; Wasserströme {386,1}; Regengüsse {437,6}; udaníās {198,3}. — 2〉 {719,2} (<ls n="Pada">P.</ls> -ā); {768,2}; {809,33}. — 3〉 ṛtásya {366,2}; {559,4}.
+;
+34618 new <div n="TS">-ās [<ab>A.</ab>] ghṛtásya {354,5. 9. 10}; {235,9}; Wasserströme {386,1}; Regengüsse {437,6}; udaníās {198,3}. — 2〉 {719,2} (<ls>P.</ls> -ā); {768,2}; {809,33}. — 3〉 ṛtásya {366,2}; {559,4}.
+;---------------------------------------------------
+; <L>4696<pc>0681<k1>DitAvan<k2>DitA/van
+34706 old {@dhitā́van,@}¦ <ab>a.</ab>, {%gabenreich%} (<ls>BR.</ls>) [von dhita <ab>Part.</ab> II. von <hom>1.</hom> dhā] (<ls n="Pada">P.</ls> dhitá-van, <ls>Prāt.</ls> {554}).
+;
+34706 new {@dhitā́van,@}¦ <ab>a.</ab>, {%gabenreich%} (<ls>BR.</ls>) [von dhita <ab>Part.</ab> II. von <hom>1.</hom> dhā] (<ls>P.</ls> dhitá-van, <ls>Prāt.</ls> {554}).
+;---------------------------------------------------
+; <L>4792<pc>0700<k1>na<k2>na/
+35541 old <div n="P">I. {%nicht%} 1〉 mit folgendem Indikativ vṛṇváte {5,4}; vinde {7,7}; riṣyati {18,4}; sídhyati {18,7}; āpús {24,6}; {33,10}; {100,15}; yuchatas {25,6}; dípsanti {25,14}; vivitse {32,4}; atārīt {32,6}; siṣedha {32,13}; titirus {33,8}; vividé {39,4}; asti {40,8}; {41,4}; {84,19}; {165,9}; ásti {170,1}; vicáranti {51,1}; ānaśús {52,14}; {151,9}; śasyate {53,1}; dabhnuvanti {55,7}; kṣī́yante {62,12}; úpa dasyanti {62,12}; {135,8}; ví cíkite {71,7}; śṛṇvé {74,7}; yaṃsate {80,3}; janiṣyate {81,5}; marāmahe {91,6}; aśnoti {94,2}; rurodhitha {102,10}; vindanti {105,1}; methete {113,3}; tasthatus {113,3}; jūryanti {117,4}; sunóti {122,9}; mināti {123,9}; {124,3}; vṛṇakti {124,6}; ayate {127,3}; jūryati {128,2}; oṣati {130,8}; tandate {138,1}; apahnuvé {138,4}; ví pṛchati {145,2}; debhus {147,3}; reṣáyanti {148,5}; nindima (<ab>Perf.</ab> ohne <ab>Redupl.</ab>) {161,1}; háryatha {161,8} (mit iva); mriyase {162,21}; riṣyasi {162,21}; glāpayanti {164,10}; śīryate {164,13}; véda {164,22. 39}; veda {164,32}; ví jānāmi {164,37}; ní cikyus {164,38}; iṅgayanti {164,45}; mardhanti {166,2}; ā́sate {168,3}; ditsasi {170,3}; … riṣyati, padyate, vyathate {495,3}; mṛṣyate {495,4}; jūjuvus {537,5}; bhrā́jante {573,3}; amaṃsata {912,1}; vindasi {912,2} (nach ná u). So auch in {164,44} dhrā́jis ékasya dadṛśe ná rūpám, wo man hinter rūpám wieder dadṛ́śe zu ergänzen hat. In Relativsätzen wird ná gewöhnlich vor das Relativ gesetzt, <ab>z. B.</ab> {25,14}; {52,14}; {100,15}; {148,5}; {168,3}; {675,2}. — 2〉 mit folgendem Optativ (im Sinne des griechischen Optativ mit <gk>οὐϰ ἄν</gk>) sṛphayet {41,9}; riṣyet {91,8}. — 3〉 mit folgendem Konjunktiv, welcher dann die zuversichtliche Erwartung ausdrückt (<ab>vgl.</ab> <ls n="Delbrück, Gebrauch des Conjunctivs und Optativs">Delbr., Gebr. des Co. und Opt.</ls> {121. 123. 124}), auch bisweilen in dem Sinne, dass das Gegentheil des Erwarteten geradezu als unmöglich erscheint, <ab>z. B.</ab> {164,16} ná ví cetat andhás nicht kann es der Blinde wahrnehmen, so mit den Konjunktiven: ví bībhayat {80,12}; naśanta {123,11}; śiśrathat {128,6}; dadabhanta {148,2}; dabhan {148,5}; dabhāti, ā́ dadharṣati {469,3}, garan {158,5}; úd naśat {164,22}; ápa nudanta {167,4}; marāti, marāma {191,10}; marai {702,5}; tamat, [Page701] śramat, tandrat, vocāma {221,7}; karas {275,6}; ví yoṣat, pári varat {298,9}; mṛdhāti {464,9}; rīramat {548,10}; dāt {652,15}; naśat {667,1}; so auch mit parallelem positiven Satze: ná naśat, bhadrám bhavāti {232,11}; gamat, ná yoṣat {621,27}; ná yoṣati, ā́ gamat {653,9}. Hingegen in Prohibitivsätzen steht mā́. — 4〉 Das Hülfsverb „sein“ (asti, santi <ab>u. s. w.</ab>) ist im Sinne des Indikativs zu ergänzen, so namentlich beim <ab>Dat.</ab> des Infinitivs oder eines infinitivischen Substantivs, <ab>z. B.</ab> {105,16}: ná sá (pánthās) atikráme dieser Pfad ist nicht zu durchschreiten, ist unüberschreitbar; so mit pratī́taye {36,20} (unnahbar); ādhṛ́ṣe {136,1} (unangreifbar); saṃcákṣe {534,20} (unzählbar); várāya {143,5} (unhemmbar); so ferner beim <ab>Part.</ab> II. {81,5}: ná tvā́vān indra kás caná ná jātás ná janiṣyate wie du o Indra ist keiner geboren und wird keiner geboren werden; ferner bei práti {55,1} índram ná mahnā́ pṛthivī́ caná práti (ist gleich), bei ayám {130,1}; endlich erscheint ná 5〉 vor Participien und Adjektiven; upanipádyamānam {152,4}; śaṅkávas {164,48}. In allen diesen Fällen wird bei zwei oder mehreren aneinandergereihten Sätzen oder Satzgliedern entweder (was das häufigste íst) die Negation einfach wiederholt ({24,6}; {25,14}; {32,13}; {39,4}; {62,12}; {80,12}; {100,15}; {113,3}; {124,6}; {138,4}), oder es erscheint einmal ná u oder nó ({162,21}; {170,1}; {191,10}; {495,3}), oder bei mehrfacher (vierfacher) Gliederung das eine Mal ná utá ({52,14}; {151,9}; {221,7}); selten wird in dem einen Gliede ná ausgelassen, <ab>z. B.</ab> in dem zu gedrungener Rede veranlassenden fünfsilbigen Versmasse (dvipadā virāj) {65,3} bhúvat páriṣṭis diaús ná bhū́ma „Weder Himmel noch Erde kann ein Hemmniss sein“; so auch {848,5} yáyos devás ná mártias yantā́ nákis vidā́yias; {144,4} divā́ ná náktam palitás. Die Verbindungen ná íd = néd und nahí siehe für sich.
+;
+35541 new <div n="P">I. {%nicht%} 1〉 mit folgendem Indikativ vṛṇváte {5,4}; vinde {7,7}; riṣyati {18,4}; sídhyati {18,7}; āpús {24,6}; {33,10}; {100,15}; yuchatas {25,6}; dípsanti {25,14}; vivitse {32,4}; atārīt {32,6}; siṣedha {32,13}; titirus {33,8}; vividé {39,4}; asti {40,8}; {41,4}; {84,19}; {165,9}; ásti {170,1}; vicáranti {51,1}; ānaśús {52,14}; {151,9}; śasyate {53,1}; dabhnuvanti {55,7}; kṣī́yante {62,12}; úpa dasyanti {62,12}; {135,8}; ví cíkite {71,7}; śṛṇvé {74,7}; yaṃsate {80,3}; janiṣyate {81,5}; marāmahe {91,6}; aśnoti {94,2}; rurodhitha {102,10}; vindanti {105,1}; methete {113,3}; tasthatus {113,3}; jūryanti {117,4}; sunóti {122,9}; mināti {123,9}; {124,3}; vṛṇakti {124,6}; ayate {127,3}; jūryati {128,2}; oṣati {130,8}; tandate {138,1}; apahnuvé {138,4}; ví pṛchati {145,2}; debhus {147,3}; reṣáyanti {148,5}; nindima (<ab>Perf.</ab> ohne <ab>Redupl.</ab>) {161,1}; háryatha {161,8} (mit iva); mriyase {162,21}; riṣyasi {162,21}; glāpayanti {164,10}; śīryate {164,13}; véda {164,22. 39}; veda {164,32}; ví jānāmi {164,37}; ní cikyus {164,38}; iṅgayanti {164,45}; mardhanti {166,2}; ā́sate {168,3}; ditsasi {170,3}; … riṣyati, padyate, vyathate {495,3}; mṛṣyate {495,4}; jūjuvus {537,5}; bhrā́jante {573,3}; amaṃsata {912,1}; vindasi {912,2} (nach ná u). So auch in {164,44} dhrā́jis ékasya dadṛśe ná rūpám, wo man hinter rūpám wieder dadṛ́śe zu ergänzen hat. In Relativsätzen wird ná gewöhnlich vor das Relativ gesetzt, <ab>z. B.</ab> {25,14}; {52,14}; {100,15}; {148,5}; {168,3}; {675,2}. — 2〉 mit folgendem Optativ (im Sinne des griechischen Optativ mit <gk>οὐϰ ἄν</gk>) sṛphayet {41,9}; riṣyet {91,8}. — 3〉 mit folgendem Konjunktiv, welcher dann die zuversichtliche Erwartung ausdrückt (<ab>vgl.</ab> <ls>Delbr., Gebr. des Co. und Opt.</ls> {121. 123. 124}), auch bisweilen in dem Sinne, dass das Gegentheil des Erwarteten geradezu als unmöglich erscheint, <ab>z. B.</ab> {164,16} ná ví cetat andhás nicht kann es der Blinde wahrnehmen, so mit den Konjunktiven: ví bībhayat {80,12}; naśanta {123,11}; śiśrathat {128,6}; dadabhanta {148,2}; dabhan {148,5}; dabhāti, ā́ dadharṣati {469,3}, garan {158,5}; úd naśat {164,22}; ápa nudanta {167,4}; marāti, marāma {191,10}; marai {702,5}; tamat, [Page701] śramat, tandrat, vocāma {221,7}; karas {275,6}; ví yoṣat, pári varat {298,9}; mṛdhāti {464,9}; rīramat {548,10}; dāt {652,15}; naśat {667,1}; so auch mit parallelem positiven Satze: ná naśat, bhadrám bhavāti {232,11}; gamat, ná yoṣat {621,27}; ná yoṣati, ā́ gamat {653,9}. Hingegen in Prohibitivsätzen steht mā́. — 4〉 Das Hülfsverb „sein“ (asti, santi <ab>u. s. w.</ab>) ist im Sinne des Indikativs zu ergänzen, so namentlich beim <ab>Dat.</ab> des Infinitivs oder eines infinitivischen Substantivs, <ab>z. B.</ab> {105,16}: ná sá (pánthās) atikráme dieser Pfad ist nicht zu durchschreiten, ist unüberschreitbar; so mit pratī́taye {36,20} (unnahbar); ādhṛ́ṣe {136,1} (unangreifbar); saṃcákṣe {534,20} (unzählbar); várāya {143,5} (unhemmbar); so ferner beim <ab>Part.</ab> II. {81,5}: ná tvā́vān indra kás caná ná jātás ná janiṣyate wie du o Indra ist keiner geboren und wird keiner geboren werden; ferner bei práti {55,1} índram ná mahnā́ pṛthivī́ caná práti (ist gleich), bei ayám {130,1}; endlich erscheint ná 5〉 vor Participien und Adjektiven; upanipádyamānam {152,4}; śaṅkávas {164,48}. In allen diesen Fällen wird bei zwei oder mehreren aneinandergereihten Sätzen oder Satzgliedern entweder (was das häufigste íst) die Negation einfach wiederholt ({24,6}; {25,14}; {32,13}; {39,4}; {62,12}; {80,12}; {100,15}; {113,3}; {124,6}; {138,4}), oder es erscheint einmal ná u oder nó ({162,21}; {170,1}; {191,10}; {495,3}), oder bei mehrfacher (vierfacher) Gliederung das eine Mal ná utá ({52,14}; {151,9}; {221,7}); selten wird in dem einen Gliede ná ausgelassen, <ab>z. B.</ab> in dem zu gedrungener Rede veranlassenden fünfsilbigen Versmasse (dvipadā virāj) {65,3} bhúvat páriṣṭis diaús ná bhū́ma „Weder Himmel noch Erde kann ein Hemmniss sein“; so auch {848,5} yáyos devás ná mártias yantā́ nákis vidā́yias; {144,4} divā́ ná náktam palitás. Die Verbindungen ná íd = néd und nahí siehe für sich.
+;---------------------------------------------------
+; <L>4802<pc>0703<k1>naktozas<k2>na/ktoza/s
+35590 old <div n="TS">-ā́sā (<ls n="Pada">P.</ls> -ásā) {13,7}; {96,5}; {113,3}; {142,7}; {717,6}.
+;
+35590 new <div n="TS">-ā́sā (<ls>P.</ls> -ásā) {13,7}; {96,5}; {113,3}; {142,7}; {717,6}.
+;---------------------------------------------------
+; <L>4884<pc>0716<k1>navya<k2>1. na/vya, na/via
+36255 old <div n="TS">-iā [<ab>n.</ab>] yā́ (bráhma) {383,15} (<ls n="Pada">P.</ls> -yās).
+;
+36255 new <div n="TS">-iā [<ab>n.</ab>] yā́ (bráhma) {383,15} (<ls>P.</ls> -yās).
+;---------------------------------------------------
+; <L>5067<pc>0742<k1>nITAvid<k2>nITA-vi/d
+37597 old {@nīthā-víd,@}¦ <ab>a.</ab>, {%der Weisen%} oder {%Lieder%} [nīthá] {%kundig%}. (<ls n="Pada">P.</ls> nītha-víd, <ls>Prāt.</ls> {554}).
+;
+37597 new {@nīthā-víd,@}¦ <ab>a.</ab>, {%der Weisen%} oder {%Lieder%} [nīthá] {%kundig%}. (<ls>P.</ls> nītha-víd, <ls>Prāt.</ls> {554}).
+;---------------------------------------------------
+; <L>5224<pc>0768<k1>paTyA<k2>paTyA^, paTi/A
+38840 old <div n="TS">-ās [<ab>A.</ab>] {269,8}; {523,2}; {507,7}; {591,1}; {595,1} (jánānām) (<ls n="Pada">P.</ls> -ā); {840,2}. — 2〉 {246,7}.
+;
+38840 new <div n="TS">-ās [<ab>A.</ab>] {269,8}; {523,2}; {507,7}; {591,1}; {595,1} (jánānām) (<ls>P.</ls> -ā); {840,2}. — 2〉 {246,7}.
+;---------------------------------------------------
+; <L>5628<pc>0833<k1>puruScandra<k2>puru-Scandra/
+41845 old {@puru-ścandrá,@}¦ <ab>a.</ab>, {%sehr glänzend%} (<ls n="Pada">P.</ls> paru-candrá metrisch besser).
+;
+41845 new {@puru-ścandrá,@}¦ <ab>a.</ab>, {%sehr glänzend%} (<ls>P.</ls> paru-candrá metrisch besser).
+;---------------------------------------------------
+; <L>5936<pc>0877<k1>praBUvasu<k2>praBU/-vasu
+44055 old {@prabhū́-vasu,@}¦ <ab>a.</ab>, {%reichliche%} [prabhú] {%Güter%} [vásu] {%habend%} [<ls n="Pada">P.</ls> prabhú-vasu].
+;
+44055 new {@prabhū́-vasu,@}¦ <ab>a.</ab>, {%reichliche%} [prabhú] {%Güter%} [vásu] {%habend%} [<ls>P.</ls> prabhú-vasu].
+;---------------------------------------------------
+; <L>5969<pc>0880<k1>prayoga<k2>prayo/ga
+44247 old <div n="TS">-am mitrám {833,5} [<ls n="Pada">P.</ls> pra-yógam].
+;
+44247 new <div n="TS">-am mitrám {833,5} [<ls>P.</ls> pra-yógam].
+;---------------------------------------------------
+; <L>5976<pc>0880<k1>pravat<k2>prava/t
+44292 old <div n="TS">-ádbhias [<ab>D.</ab>] 4〉 pravátvatī dyaús bhavati 〰 {408,9}, wo jedoch <ls n="Chambers">Ch.</ls> {60} prayádbhyas hat (wahrscheinlich richtig).
+;
+44292 new <div n="TS">-ádbhias [<ab>D.</ab>] 4〉 pravátvatī dyaús bhavati 〰 {408,9}, wo jedoch <ls>Ch.</ls> {60} prayádbhyas hat (wahrscheinlich richtig).
+;---------------------------------------------------
+; <L>6851<pc>1042<k1>mid<k2>mid
+51296 old {@√mid.@}¦ Der Grundbegriff scheint „anhangen, kleben“, daher einerseits „liebend anhangen“ (mitram mindes <ls n="Mahābhārata">MBh.</ls> {8,1992}), woraus medín (Genosse) stammt, andererseits „fett sein“. 1〉 {%fett werden;%} 2〉 bildlich {%fett werden%} durch [<ab>I.</ab>], <ab>d. h.</ab> {%reichlich belohnt werden%} durch [<ab>I.</ab>]; 3〉 <ab>Caus.</ab> {%fett machen%}.
+;
+51296 new {@√mid.@}¦ Der Grundbegriff scheint „anhangen, kleben“, daher einerseits „liebend anhangen“ (mitram mindes <ls>MBh.</ls> {8,1992}), woraus medín (Genosse) stammt, andererseits „fett sein“. 1〉 {%fett werden;%} 2〉 bildlich {%fett werden%} durch [<ab>I.</ab>], <ab>d. h.</ab> {%reichlich belohnt werden%} durch [<ab>I.</ab>]; 3〉 <ab>Caus.</ab> {%fett machen%}.
+;---------------------------------------------------
+; <L>6929<pc>1060<k1>mfD<k2>mfD
+52131 old {@√mṛdh@}¦ [<ls n="Fick">F.</ls> {150}], 1〉 jemand [<ab>A.</ab>] {%im Stiche lassen, vernachlässigen;%} 2〉 {%nachlassen, aufhören;%} 3〉 {%nachlassen, lässig werden;%} 4〉 etwas [<ab>A.</ab>] {%nicht beachten%}. — Die Bedeutung „verachten, schmähen, befeinden“ tritt in den folgenden Wörtern hervor.
+;
+52131 new {@√mṛdh@}¦ [<ls>F.</ls> {150}], 1〉 jemand [<ab>A.</ab>] {%im Stiche lassen, vernachlässigen;%} 2〉 {%nachlassen, aufhören;%} 3〉 {%nachlassen, lässig werden;%} 4〉 etwas [<ab>A.</ab>] {%nicht beachten%}. — Die Bedeutung „verachten, schmähen, befeinden“ tritt in den folgenden Wörtern hervor.
+;---------------------------------------------------
+; <L>7040<pc>1082<k1>yaTA<k2>ya/TA
+53112 old <div n="P">2〉 in gleichem Sinne, aber so dass das Verb in Participiālform erscheint prásūtā {113,1}; oder aus dem Hauptsatze zu ergänzen ist nūnám 〰 purā́ {39,7}; {489,19}; so bei táthā oder etā́vat im Hauptsatze: {571,6} (téṣām sám hanmas akṣā́ṇi 〰 ‿idám harmiám táthā); {573,3} (ná‿etā́vat anyé … 〰 ‿imé, bhrā́jante rukmaís); oder es steht das zum Verb gehörige Richtungswort im Nebensatze, das Verb im Hauptsatze {464,9} (tám … sám 〰 sutéṣu, sómebhis īm pṛṇatā bhojám índram); oder es ist eine Form von as oder bhū zu ergänzen: {486,5} (īdṛ́śe yáthā vayám); ähnlich auch in {338,1}; und in {666,14} vácas 〰 wie das Wort besagt (<ls n="Benfey">Be.</ls>), oder wie der Spruch ihn nennt (<ls>Sāy.</ls>).
+;
+53112 new <div n="P">2〉 in gleichem Sinne, aber so dass das Verb in Participiālform erscheint prásūtā {113,1}; oder aus dem Hauptsatze zu ergänzen ist nūnám 〰 purā́ {39,7}; {489,19}; so bei táthā oder etā́vat im Hauptsatze: {571,6} (téṣām sám hanmas akṣā́ṇi 〰 ‿idám harmiám táthā); {573,3} (ná‿etā́vat anyé … 〰 ‿imé, bhrā́jante rukmaís); oder es steht das zum Verb gehörige Richtungswort im Nebensatze, das Verb im Hauptsatze {464,9} (tám … sám 〰 sutéṣu, sómebhis īm pṛṇatā bhojám índram); oder es ist eine Form von as oder bhū zu ergänzen: {486,5} (īdṛ́śe yáthā vayám); ähnlich auch in {338,1}; und in {666,14} vácas 〰 wie das Wort besagt (<ls>Be.</ls>), oder wie der Spruch ihn nennt (<ls>Sāy.</ls>).
+;---------------------------------------------------
+; <L>7404<pc>1164<k1>ric<k2>ric
+56455 old <div n="H"><pe>2.</pe> <pe>3.</pe> <ab>s.</ab> <ab>Aor.</ab> {@ā́raik@} (mit verlängertem Augment, <ls n="Pada">P.</ls> áraik <ls>Prāt.</ls> {179}):
+;
+56455 new <div n="H"><pe>2.</pe> <pe>3.</pe> <ab>s.</ab> <ab>Aor.</ab> {@ā́raik@} (mit verlängertem Augment, <ls>P.</ls> áraik <ls>Prāt.</ls> {179}):
+;---------------------------------------------------
+; <L>7416<pc>1167<k1>riz<k2>riz
+56601 old <div n="H">{@rī́ṣat@} [<ls n="Pada">P.</ls> ríṣat, <ls>Prāt.</ls> {583. 584. 588}].
+;
+56601 new <div n="H">{@rī́ṣat@} [<ls>P.</ls> ríṣat, <ls>Prāt.</ls> {583. 584. 588}].
+;---------------------------------------------------
+; <L>7421<pc>1168<k1>rih<k2>rih
+56639 old {@√rih@}¦ [<ls n="Curtius">C.</ls> {174}], 1〉 {%lecken;%} 2〉 etwas [<ab>A.</ab>] {%lecken;%} 3〉 {%belecken%} [<ab>A.</ab>]; 4〉 {%belecken, liebkosen%}. <ab>Intens.</ab> hat dieselben Bedeutungen mit dem Nebenbegriffe der Wiederholung.
+;
+56639 new {@√rih@}¦ [<ls>C.</ls> {174}], 1〉 {%lecken;%} 2〉 etwas [<ab>A.</ab>] {%lecken;%} 3〉 {%belecken%} [<ab>A.</ab>]; 4〉 {%belecken, liebkosen%}. <ab>Intens.</ab> hat dieselben Bedeutungen mit dem Nebenbegriffe der Wiederholung.
+;---------------------------------------------------
+; <L>7833<pc>1239<k1>vah<k2>vah
+60149 old <div n="TS">-athā [<ls n="Pada">P.</ls> -atha] {@ní@} 1〉 mā́vate rátnam {506,4}.
+;
+60149 new <div n="TS">-athā [<ls>P.</ls> -atha] {@ní@} 1〉 mā́vate rátnam {506,4}.
+;---------------------------------------------------
+; <L>7842<pc>1246<k1>vA<k2>1. vA
+60316 old <div n="TS">-ā [<ls n="Pada">P.</ls> -a] {@nís@} {842,13} yám tvám agne samádahas, tám u 〰 púnar.
+;
+60316 new <div n="TS">-ā [<ls>P.</ls> -a] {@nís@} {842,13} yám tvám agne samádahas, tám u 〰 púnar.
+;---------------------------------------------------
+; <L>7878<pc>1256<k1>vAjina<k2>vA/jina
+60618 old <div n="TS">-enā [<ls n="Pada">P.</ls> -ena] 1〉 {882,3} [vājī́ asi 〰].
+;
+60618 new <div n="TS">-enā [<ls>P.</ls> -ena] 1〉 {882,3} [vājī́ asi 〰].
+;---------------------------------------------------
+; <L>7917<pc>1259<k1>vAyu<k2>vAyu/
+60866 old <div n="TS">-ávas 1〉 {202,14}. — 3〉 {608,4} (<ls n="Pada">P.</ls> -áve) neben indramā́danāsas in einem an Indra und Vayu gerichteten Liede (anders <ls>BR.</ls>).
+;
+60866 new <div n="TS">-ávas 1〉 {202,14}. — 3〉 {608,4} (<ls>P.</ls> -áve) neben indramā́danāsas in einem an Indra und Vayu gerichteten Liede (anders <ls>BR.</ls>).
+;---------------------------------------------------
+; <L>7933<pc>1262<k1>vAvAta<k2>vAvA/ta
+60970 old {@vāvā́ta,@}¦ <ab>a.</ab> (<ls n="Pada">P.</ls> vavā́ta, <ls>Prāt.</ls> {563}) [von vā = van], {%lieb, werth%}.
+;
+60970 new {@vāvā́ta,@}¦ <ab>a.</ab> (<ls>P.</ls> vavā́ta, <ls>Prāt.</ls> {563}) [von vā = van], {%lieb, werth%}.
+;---------------------------------------------------
+; <L>7934<pc>1262<k1>vAvAtf<k2>vAvA/tf
+60976 old {@vāvā́tṛ,@}¦ <ab>a.</ab> <ab>m.</ab> (<ls n="Pada">P.</ls> vavā́tṛ, <ls>Prāt.</ls> {563}) [von vā = van], der {%Anhängliche, Getreue, anhänglich%}.
+;
+60976 new {@vāvā́tṛ,@}¦ <ab>a.</ab> <ab>m.</ab> (<ls>P.</ls> vavā́tṛ, <ls>Prāt.</ls> {563}) [von vā = van], der {%Anhängliche, Getreue, anhänglich%}.
+;---------------------------------------------------
+; <L>8678<pc>1381<k1>Sar<k2>1. Sar, 1. Sir
+66937 old <div n="H">Verbale {@śír@} (<ls n="Kirātārjunīya">Kir.</ls> {16,5}. <ls>BR</ls>).
+;
+66937 new <div n="H">Verbale {@śír@} (<ls>Kir.</ls> {16,5}. <ls>BR</ls>).
+;---------------------------------------------------
+; <L>9202<pc>1455<k1>satrAsAha<k2>satrA-sAha/
+70906 old {@satrā-sāhá,@}¦ <ab>a.</ab>, <ab>dass.</ab> (<ls n="Pada">P.</ls> satrā-sahá, <ls>Prāt.</ls> {566}).
+;
+70906 new {@satrā-sāhá,@}¦ <ab>a.</ab>, <ab>dass.</ab> (<ls>P.</ls> satrā-sahá, <ls>Prāt.</ls> {566}).
+;---------------------------------------------------
+; <L>9505<pc>1495<k1>sah<k2>sah
+73052 old <div n="H"><ab>Perf.</ab> stark {@sāsā́h,@} schwach {@sāsah@} (<ls n="Pada">P.</ls> sa-, <ls>Prāt.</ls> {569. 587}):
+;
+73052 new <div n="H"><ab>Perf.</ab> stark {@sāsā́h,@} schwach {@sāsah@} (<ls>P.</ls> sa-, <ls>Prāt.</ls> {569. 587}):
+;---------------------------------------------------
+; <L>9505<pc>1495<k1>sah<k2>sah
+73084 old <div n="H">{@sāhis@} (<ls n="Pada">P.</ls> sahis, <ls>Prāt.</ls> {588}):
+;
+73084 new <div n="H">{@sāhis@} (<ls>P.</ls> sahis, <ls>Prāt.</ls> {588}):
+;---------------------------------------------------

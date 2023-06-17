@@ -37,8 +37,8 @@ def count_ls(lines):
    d[abbrev] = d[abbrev] + 1
    n = n + 1
  abbrevs = list(d.keys())
- print(len(abbrevs),"global lang tags")
- print(n,'lang tag instances found')
+ print(len(abbrevs),"global ls tags")
+ print(n,'ls tag instances found')
  return d
 
 
@@ -61,8 +61,8 @@ def count_ls1(lines):
     d[abbrev] = rec
    n = n + 1
  abbrevs = list(d.keys())
- print(len(abbrevs),"local lang tags")
- print(n,'local lang tag instances found')
+ print(len(abbrevs),"local ls tags")
+ print(n,'local ls tag instances found')
  return d
 
 class LS(object):

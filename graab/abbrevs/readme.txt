@@ -82,7 +82,7 @@ Note: changed apostrophes to left/right single quote
 ---------------------------------------------------------------
 
 python prepare_ls.py ../temp_graab_4.txt extract_ls0.txt extract_ls0_local.txt
-
+NOTE: moved to litsrc directory
 ---------------------------------------------------------------
 rename the old abbreviation file:
 mv graab_input.txt graab_input_old.txt
