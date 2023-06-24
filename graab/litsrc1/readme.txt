@@ -147,16 +147,16 @@ FINALLY!
 
 ------------------------------------------------------------
 # install revised graauth/tooltip.txt in csl-pywork
-cat extract_ls1a_AB.txt extract_ls2_local.txt > extract_ls_all.txt
+cat extract_ls1b_AB.txt extract_ls2_local.txt > extract_ls_all.txt
 
 # change format to that of tooltip.txt in csl-pywork
 python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
 
-135 abbreviations read from extract_ls_all.txt
-135 lines written to temp_tooltip.txt
+143 abbreviations read from extract_ls_all.txt
+143 lines written to temp_tooltip.txt
 
 $ wc -l extract_ls_all.txt
-139 extract_ls_all.txt
+147 extract_ls_all.txt
 
 $ grep -E '^;' extract_ls_all.txt
 ; Goldschmidt in Beitr. :?? Goldschmidtʼs Article in Beiträge   :1
