@@ -17,3 +17,4 @@ These changes made to csl-pywork/v02/makotemplates/pywork/one.dtd
 	When used with no attribute, display code should get tooltip
 	from csl-pywork/v02/makotemplates/pywork/.../graab_input.txt
 <info>  New attribute 'vn'
+<ls>    New attribute 'ab'

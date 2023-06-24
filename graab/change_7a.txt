@@ -1,0 +1,32 @@
+; Changes to AV markup. Based on temp_graab_6.txt
+; ***********************************************
+; -----------------------------------------------
+; <L>2617<pc>0330<k1>kulAya
+17652 old <div n="TS">-am <ls>AV. 9,3,20</ls>; {14,1,57}.
+;
+17652 new <div n="TS">-am <ls>AV. 9,3,20</ls>; <ls n="AV.">14,1,57</ls>.
+; -----------------------------------------------
+; <L>7676<pc>1214<k1>vayas
+58890 old <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; {11,1,2}.
+;
+58890 new <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,1,2</ls>.
+; -----------------------------------------------
+; <L>10230<pc>1589<k1>stA
+78400 old {@(√stā),@}¦ {%heimlich, verborgen sein,%} davon <ab>Part.</ab> stāyát <ls>AV. 4,16,1</ls>; {7,108,1} (Entstehung aus sti sehr zweifelhaft, wonach unter tāyú zu ändern).
+;
+78400 new {@(√stā),@}¦ {%heimlich, verborgen sein,%} davon <ab>Part.</ab> stāyát <ls>AV. 4,16,1</ls>; <ls n="AV.">7,108,1</ls> (Entstehung aus sti sehr zweifelhaft, wonach unter tāyú zu ändern).
+; ***********************************************
+; Remove apostrophe in local ls abbreviation tooltip
+; ***********************************************
+; <L>7394<pc>1162<k1>rAzwra
+; Benfey's  -->>  Benfeyʼs
+56333 old <div n="TS">-ā́nām rā́jā {550,11}. [Die Bewahrung des n wie in úṣṭrānām (so unter úṣṭra zu lesen), indem im <ls>RV.</ls> auch ṭr die Nati aufhebt; <ab>vgl.</ab> <ls ab="Berichtigung.— Benfey's correction in Göttingische Gelehrte Anzeigen">Benfey in Gött. gel. Anz.</ls> 〔1873, S. 17,440〕].
+;
+56333 new <div n="TS">-ā́nām rā́jā {550,11}. [Die Bewahrung des n wie in úṣṭrānām (so unter úṣṭra zu lesen), indem im <ls>RV.</ls> auch ṭr die Nati aufhebt; <ab>vgl.</ab> <ls ab="Berichtigung.— Benfeyʼs correction in Göttingische Gelehrte Anzeigen">Benfey in Gött. gel. Anz.</ls> 〔1873, S. 17,440〕].
+; -----------------------------------------------------------------
+; <L>10384<pc>1623<k1>svaDA
+; Müller's  -->> Müllerʼs
+79936 old <hom>1.</hom> {@sva-dhā́,@}¦ <ab>f.</ab> [<ab>fem.</ab> von *sva-dhá (<ab>vgl.</ab> anuṣvadham), und dies aus svá und dhá von <hom>1.</hom> dhā; <ab>vgl.</ab> <ls>Cu.</ls> 〔305〕 und <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müller's Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 24〕], {%eigene Selbstbestimmung, eigene Neigung, Natur, Gewohnheit, Heimatsstätte%}. Die eigenthümliche Beziehung des svá ist überall gewahrt. 1〉 {%sein%} (dein <ab>u. s. w.</ab>) {%eigener Antrieb,%} eigene {%Selbstbestimmung, Triebkraft;%} 2〉 {%sein eigener Brauch, seine gewohnte Weise, Sitte;%} 3〉 {%seine Eigenthümlichkeit, Natur, Neigung;%} 4〉 {%eigenes Gelüsten, Belustigung, eigener Plan;%} 5〉 {%eigene Machtvollkommenheit, eigene Kraft;%} 6〉 {%eigene Heimatsstätte;%} 7〉 <ab>du.</ab>, {%die beiden Heimatsstätten%} (Himmel und Erde); insbesondere 8〉 im <ab>Instr.</ab> oder im <ab>Acc.</ab> mit ánu {%nach seiner Weise, Sitte%} oder {%Gewohnheit,%} oder 9〉 {%nach%} jemandes [<ab>G.</ab>] {%Wunsch%} oder {%Brauch;%} 10〉 im <ab>Instr.</ab> {%aus eigenem Antriebe, aus eigener Lust, nach eigenem Gefallen, gern;%} besonders 11〉 mit dem Verb mad {%aus eigenem Antriebe, eigener Lust%} sich berauschen oder ergötzen, oder 12〉 {%durch sich selbst%} munter, fröhlich sein.
+;
+79936 new <hom>1.</hom> {@sva-dhā́,@}¦ <ab>f.</ab> [<ab>fem.</ab> von *sva-dhá (<ab>vgl.</ab> anuṣvadham), und dies aus svá und dhá von <hom>1.</hom> dhā; <ab>vgl.</ab> <ls>Cu.</ls> 〔305〕 und <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 24〕], {%eigene Selbstbestimmung, eigene Neigung, Natur, Gewohnheit, Heimatsstätte%}. Die eigenthümliche Beziehung des svá ist überall gewahrt. 1〉 {%sein%} (dein <ab>u. s. w.</ab>) {%eigener Antrieb,%} eigene {%Selbstbestimmung, Triebkraft;%} 2〉 {%sein eigener Brauch, seine gewohnte Weise, Sitte;%} 3〉 {%seine Eigenthümlichkeit, Natur, Neigung;%} 4〉 {%eigenes Gelüsten, Belustigung, eigener Plan;%} 5〉 {%eigene Machtvollkommenheit, eigene Kraft;%} 6〉 {%eigene Heimatsstätte;%} 7〉 <ab>du.</ab>, {%die beiden Heimatsstätten%} (Himmel und Erde); insbesondere 8〉 im <ab>Instr.</ab> oder im <ab>Acc.</ab> mit ánu {%nach seiner Weise, Sitte%} oder {%Gewohnheit,%} oder 9〉 {%nach%} jemandes [<ab>G.</ab>] {%Wunsch%} oder {%Brauch;%} 10〉 im <ab>Instr.</ab> {%aus eigenem Antriebe, aus eigener Lust, nach eigenem Gefallen, gern;%} besonders 11〉 mit dem Verb mad {%aus eigenem Antriebe, eigener Lust%} sich berauschen oder ergötzen, oder 12〉 {%durch sich selbst%} munter, fröhlich sein.
+;

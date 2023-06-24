@@ -146,3 +146,64 @@ TODO: 3 cases of !√  e.g. {@(!√jaṅgahe)@}
 TODO: {x,y. z}  -> {x,y} {x,z}  in ADD section. ?
 --------------------------------------------------------------
 TODO:  (last step) Have precisely one blank line between <LEND> and <L>
+--------------------------------------------------------------
+See readme_todo_graab_5.txt for collection of items which I should
+review.  These are drawn from issue29, starting from the
+comments following the upload of temp_graab_5.
+
+--------------------------------------------------------------
+**************************************************************
+BEGIN WORK with Andhrabharati's revision of temp_graab_5,
+REF: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1601350550
+download temp_graab_6.txt  and temp_graab_6.AB.txt
+  (only difference is use in 6.AB. of special characters for
+   'details' of ls refs for ls other than AV and RV.  888 of these.
+For convenience, rename
+unzip ~/Downloads/gra/temp_graab_6.AB.zip
+  inflating: temp_graab_6(AB).txt
+mv temp_graab_6(AB).txt temp_graab_6_bracket.txt
+uses square brackets 〔I,283〕
+
+unzip ~/Downloads/gra/temp_graab_6.zip
+  inflating: temp_graab_6.txt
+mv temp_graab_6.txt temp_graab_6_curly.txt
+uses only curly brackets
+
+I will do work starting with the 'bracket'.
+
+**************************************************************
+change_6.txt:
+Ref: 
+Last minute changes to temp_graab_6_bracket.txt
+
+-------
+temp_graab_6.txt
+python updateByLine.py temp_graab_6_bracket.txt change_6.txt temp_graab_6.txt
+8 change transactions from change_6.txt
+--------------------------------------
+TODO: What about '%%X%%' markup?
+56 matches in 28 lines for "%%" in buffer: temp_graab_6.txt
+Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1601996268
+--------------------------------------
+change to dtd. Allow 'ab' as attribute of 'ls' element'
+see readme_dtd.txt
+-------------
+change redo.sh to use version 6. Update .gitignore
+sh redo.sh
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev6/pywork/gra.xml dev6/pywork/gra.dtd
+-------------
+**************************************************************
+in litsrc1 directory,
+- construct temp_graab_7a,b,c,d  (using change_7a,b,c,d)
+  
+- revise /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+
+cp temp_graab_7d.txt temp_graab_7.txt
+
+Revise redo.sh to use version 7
+Add dev7 to .gitignore
+Generate dev7: sh redo.sh
+
+Check xml validity of dev7
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev7/pywork/gra.xml dev7/pywork/gra.dtd
+-- ok!

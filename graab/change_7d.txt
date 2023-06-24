@@ -1,0 +1,7 @@
+; change_7d
+; <L>993<pc>0105<k1>ari
+; >Bollensen</ls>  -> >Bollensen&#xA0;<
+6255 old <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+;
+6255 new <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen&#xA0;</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+;------------------------------------------------------------

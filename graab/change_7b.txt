@@ -1,0 +1,59 @@
+; ****************************************************
+; abbrev=Aufr. in Ku. Zeitschr. has 3 tooltips
+; ****************************************************
+; ----------------------------------------------------
+; 1 instances of abbrev=Aufr. in Ku. Zeitschr., tooltip=Lateinische etymologieen.— Aufrechtʼs Article in Kuhnʼs Zeitschrift
+; <L>5514<pc>0819<k1>pI
+; NO CHANGE at line 41134
+; ----------------------------------------------------
+; 1 instances of abbrev=Aufr. in Ku. Zeitschr., tooltip=Deutsche wortdeutungen. 5) sigis.— Aufrechtʼs Article in Kuhnʼs Zeitschrift
+; <L>9669<pc>1515<k1>siMha
+; old abbrev: Aufr. in Ku. Zeitschr.
+; new abbrev: Aufr. in Ku. Zeitschr.&#xA0;
+74179 old {@siṃhá,@}¦ <ab>m.</ab>, der {%Löwe,%} als der gewaltige, oder bewältigende [<ab>v.</ab> sah, <ab>vgl.</ab> <ls ab="Deutsche wortdeutungen. 5) sigis.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufr. in Ku. Zeitschr.</ls> 〔1,356〕]; <ab>vgl.</ab> die Beiwörter kruddhá, nā́nadat, bhīmá, heṣákratu.
+;
+74179 new {@siṃhá,@}¦ <ab>m.</ab>, der {%Löwe,%} als der gewaltige, oder bewältigende [<ab>v.</ab> sah, <ab>vgl.</ab> <ls ab="Deutsche wortdeutungen. 5) sigis.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufr. in Ku. Zeitschr.&#xA0;</ls> 〔1,356〕]; <ab>vgl.</ab> die Beiwörter kruddhá, nā́nadat, bhīmá, heṣákratu.
+; ----------------------------------------------------
+; 1 instances of abbrev=Aufr. in Ku. Zeitschr., tooltip=Etymologien.— Aufrechtʼs Article in Kuhnʼs Zeitschrift
+; <L>10713<pc>1669<k1>hu
+; old abbrev: Aufr. in Ku. Zeitschr.
+; new abbrev: Aufr. in Ku. Zeitschr.&#xA0;&#xA0;
+82408 old {@√hu@}¦ [<ls>Cu.</ls> 〔203〕; <ls ab="Etymologien.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufr. in Ku. Zeitschr.</ls> 〔14,268〕], 1〉 {%giessen%} [<ab>A.</ab>]; insbesondere 2〉 Opfertrank [<ab>A.</ab>] {%giessen;%} 3〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] {%zugiessen,%} in ihn [<ab>L.</ab>] {%hineingiessen;%} 4〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] in den Mund [<ab>L.</ab>] {%giessen;%} 5〉 bildlich: jemandem [<ab>D.</ab>] Lieder [<ab>A.</ab>] {%ergiessen,%} meist mit durchgeführtem [Page1670] Bilde; 6〉 jemandem [<ab>D.</ab>] mit geschmolzener Butter [<ab>I.</ab>] {%opfern;%} 7〉 auch ohne <ab>Instr.</ab> in gleichem Sinne; 8〉 {%Opfertrank ergiessen, opfern%} (ohne Casus).
+;
+82408 new {@√hu@}¦ [<ls>Cu.</ls> 〔203〕; <ls ab="Etymologien.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufr. in Ku. Zeitschr.&#xA0;&#xA0;</ls> 〔14,268〕], 1〉 {%giessen%} [<ab>A.</ab>]; insbesondere 2〉 Opfertrank [<ab>A.</ab>] {%giessen;%} 3〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] {%zugiessen,%} in ihn [<ab>L.</ab>] {%hineingiessen;%} 4〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] in den Mund [<ab>L.</ab>] {%giessen;%} 5〉 bildlich: jemandem [<ab>D.</ab>] Lieder [<ab>A.</ab>] {%ergiessen,%} meist mit durchgeführtem [Page1670] Bilde; 6〉 jemandem [<ab>D.</ab>] mit geschmolzener Butter [<ab>I.</ab>] {%opfern;%} 7〉 auch ohne <ab>Instr.</ab> in gleichem Sinne; 8〉 {%Opfertrank ergiessen, opfern%} (ohne Casus).
+; ****************************************************
+; abbrev=Aufrecht in Kuhn's Zeitschr. has 2 tooltips
+; ****************************************************
+; ----------------------------------------------------
+; 1 instances of abbrev=Aufrecht in Kuhn's Zeitschr., tooltip=Panzerbeiter, quaestiones umbricae.— Aufrechtʼs Article in Kuhnʼs Zeitschrift
+; <L>7<pc>0002<k1>aMsa
+; NO CHANGE at line 42
+; ----------------------------------------------------
+; 1 instances of abbrev=Aufrecht in Kuhn's Zeitschr., tooltip=Auhns.— Aufrechtʼs Article in Kuhnʼs Zeitschrift
+; <L>1237<pc>0139<k1>aSman
+; old abbrev: Aufrecht in Kuhn's Zeitschr.
+; new abbrev: Aufrecht in Kuhn's Zeitschr.&#xA0;
+8052 old {@áśman,@}¦ <ab>m.</ab>, der harte Fels oder Stein [von <hom>3.</hom> aś], also als der mit scharfen Kanten oder Spitzen versehene, wie denn ja Schneideund Stech-werkzeuge ursprünglich aus Stein verfertigt wurden. Falsch ist die Herleitung aus dem für aś nirgends nachweisbaren Begriffe „schleudern“, dem überdies die ganze Begriffsentwickelung im Indogermanischen widerspricht [<ls ab="Auhns.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufrecht in Kuhn's Zeitschr.</ls> 〔5,135〕; <ls>Cu.</ls> 〔3〕]. 1〉 {%Fels,%} besonders häufig von den Felsen, in welchen nach dem Indramythus die Kühe eingeschlossen waren; 2〉 der {%Stein als Werkzeug%} zum Schlagen, Hammer, Hammer und Ambos und andere, ursprünglich aus Stein gemachte Werkzeuge des Schmiedes; 3〉 der {%Donnerkeil;%} 4〉 der bunte (pṛ́śni) {%Edelstein,%} mit dem {401,3} die Sonne verglichen scheint (<ab>vgl.</ab> <ls>Śat. Br.</ls> 〔6,1,2,3〕 bei <ls>BR.</ls>); 5〉 der {%Himmel,%} der als steinernes Gewölbe gedacht ist (mit súar oder svaría verbunden).
+;
+8052 new {@áśman,@}¦ <ab>m.</ab>, der harte Fels oder Stein [von <hom>3.</hom> aś], also als der mit scharfen Kanten oder Spitzen versehene, wie denn ja Schneideund Stech-werkzeuge ursprünglich aus Stein verfertigt wurden. Falsch ist die Herleitung aus dem für aś nirgends nachweisbaren Begriffe „schleudern“, dem überdies die ganze Begriffsentwickelung im Indogermanischen widerspricht [<ls ab="Auhns.— Aufrechtʼs Article in Kuhnʼs Zeitschrift">Aufrecht in Kuhn's Zeitschr.&#xA0;</ls> 〔5,135〕; <ls>Cu.</ls> 〔3〕]. 1〉 {%Fels,%} besonders häufig von den Felsen, in welchen nach dem Indramythus die Kühe eingeschlossen waren; 2〉 der {%Stein als Werkzeug%} zum Schlagen, Hammer, Hammer und Ambos und andere, ursprünglich aus Stein gemachte Werkzeuge des Schmiedes; 3〉 der {%Donnerkeil;%} 4〉 der bunte (pṛ́śni) {%Edelstein,%} mit dem {401,3} die Sonne verglichen scheint (<ab>vgl.</ab> <ls>Śat. Br.</ls> 〔6,1,2,3〕 bei <ls>BR.</ls>); 5〉 der {%Himmel,%} der als steinernes Gewölbe gedacht ist (mit súar oder svaría verbunden).
+; ****************************************************
+; abbrev=Roth in Ku. has 2 tooltips
+; ****************************************************
+; ----------------------------------------------------
+; 4 instances of abbrev=Roth in Ku., tooltip=Etymologien.— Rothʼs Article in Kuhnʼs Zeitschrift
+; <L>7847<pc>1248<k1>vAGat
+; NO CHANGE at line 60371
+; <L>7882<pc>1256<k1>vAYC
+; NO CHANGE at line 60646
+; <L>8033<pc>1281<k1>viDava
+; NO CHANGE at line 61800
+; <L>9620<pc>1508<k1>sAD
+; NO CHANGE at line 73810
+; ----------------------------------------------------
+; 1 instances of abbrev=Roth in Ku., tooltip=Zu Benfey: Ueber die entstehong und verwendnng der im sanskrit mit r anlantenden personalendungeo.— Rothʼs Article in Kuhnʼs Zeitschrift
+; <L>12095<pc>1751<k1>ar
+; old abbrev: Roth in Ku.
+; new abbrev: Roth in Ku.&#xA0;
+85115 old <div n="H">— Stamm IV. ranta 6a〉 síndhavas {61,11} (anders <ls ab="Zu Benfey: Ueber die entstehong und verwendnng der im sanskrit mit r anlantenden personalendungeo.— Rothʼs Article in Kuhnʼs Zeitschrift">Roth in Ku.</ls> 〔20%%,70%%〕).
+;
+85115 new <div n="H">— Stamm IV. ranta 6a〉 síndhavas {61,11} (anders <ls ab="Zu Benfey: Ueber die entstehong und verwendnng der im sanskrit mit r anlantenden personalendungeo.— Rothʼs Article in Kuhnʼs Zeitschrift">Roth in Ku.&#xA0;</ls> 〔20%%,70%%〕).
