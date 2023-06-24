@@ -4,4 +4,10 @@
 6255 old <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
 ;
 6255 new <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen&#xA0;</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
-;------------------------------------------------------------
+; ------------------------------------------------------------
+; <L>12535<pc>1768<k1>van
+; Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1605266000
+88018 old <div n="TS">-ánas [<ls>Co. Text</ls> vāvánas] 2〉 mánma {307,2}.
+;
+88018 new <div n="TS">-ánas [<ab>Co.</ab> <ls>Text</ls> vāvánas] 2〉 mánma {307,2}.
+; ------------------------------------------------------------

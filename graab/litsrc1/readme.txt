@@ -36,7 +36,8 @@ Kir.	:Kirātārjunīya, Calcutta ed., 1814	:1
 extract_ls_local.txt
 
 python extract_ls_local.py ../temp_graab_7b.txt extract_ls_local.txt
- 
+Bollensen	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:7
+ l
 ------------------------------------------------------------
 ../change_7c.txt   2 changes
 extract_ls1a_AB.txt  4 lines commented out.
@@ -152,18 +153,108 @@ cat extract_ls1b_AB.txt extract_ls2_local.txt > extract_ls_all.txt
 # change format to that of tooltip.txt in csl-pywork
 python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
 
-143 abbreviations read from extract_ls_all.txt
-143 lines written to temp_tooltip.txt
+142 abbreviations read from extract_ls_all.txt
+142 lines written to temp_tooltip.txt
 
 $ wc -l extract_ls_all.txt
 147 extract_ls_all.txt
 
 $ grep -E '^;' extract_ls_all.txt
-; Goldschmidt in Beitr. :?? Goldschmidtʼs Article in Beiträge   :1
-; Goldschmidt in Beiträge       :?? Goldschmidtʼs Article in Beiträge   :1
 ; Lottner       :Lottner        :1
 ;Max Müller     :Max Müllerʼs edition of Rig-Veda       :2
--------------------------------------------------------
 
 cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+-------------------------------------------------------
+06-24-2023
+revise extract_ls1b_AB.txt per
+ https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1605253081
+ https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1605266000
+sh redo_tooltip.sh
+
+142 abbreviations read from extract_ls_all.txt
+142 lines written to temp_tooltip.txt
+145 extract_ls_all.txt
+; Co. Text      :Codice Text [Rigveda Saṃhitā Text, Chambersʼ Manuscript No. ?? :1
+; Lottner       :Lottner        :1
+;Max Müller     :Max Müllerʼs edition of Rig-Veda       :2
+
+-------------------------------------------------------
+ temp_graab_7.AB.txt
+   (Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1605276250)
+diff ../temp_graab_7d.txt ../temp_graab_7.AB.txt > tempdiff7d_AB.txt
+wc -l  tempdiff7d_AB.txt
+-------------------------------------------------------
+../change_7e.txt
+Miscellaneous changes based on temp_graab_7.AB.txt
+
+python extract_ls_local.py ../temp_graab_7.AB.txt temp_ls_local_AB7.txt
+Bollensen	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:7
+
+python make_change_bollensen.py ../temp_graab_7d.txt temp_change_bollensen.txt
+# insert temp_change_bollensen.txt changes into changes_7e.
+14 changes written to temp_change_bollensen.txt
+
+python ../updateByLine.py ../temp_graab_7d.txt ../change_7e.txt ../temp_graab_7e.txt
+17 change transactions from ../change_7e.txt
+
+diff ../temp_graab_7e.txt ../temp_graab_7.AB.txt > diff7e_AB.txt
+wc -l  diff7e_AB.txt
+8 diff7e_AB.txt
+
+Two remaining differences
+line 71433
+  7 (cdsl) Ku. in Zeitschr.&#xA0;
+  7.AB. Ku. in Zeitschr.
+line 58890.
+  7 (cdsl) <ls n="AV.">11,2,24</ls>  per AB's suggestion!
+  8.AB. <ls n="AV.">11,1,2</ls>.
+--------------------------------------------------------
+Reexamine the local and global abbreviations
+
 ------------------------------------------------------------
+; extract_ls3_local.txt
+python extract_ls_local.py ../temp_graab_7e.txt extract_ls3_local.txt
+42 lines written to extract_ls3_local.txt
+
+------------------------------------------------------------
+; extract_ls1c_AB.txt
+cp extract_ls1b_AB.txt extract_ls1c_AB.txt
+
+Revise extract_ls1c_AB.txt
+ -- removals
+   Bollens.	:?	:2
+   Boll.	:?	:1
+   Ku. in Zeitschr.	:?	:2
+   ; Co. Text	:Codice Text [Rigveda Saṃhitā Text, Chambersʼ Manuscript No. ??	:1
+   ; Lottner	:Lottner	:1
+   ;Max Müller	:Max Müllerʼs edition of Rig-Veda	:2
+
+ -- changes
+ 1) old: Iliad, Homer	:?	:1
+    new: Iliad— Homer	:Iliad of Homer	:1
+ 2) old: Text	:Rigveda Saṃhitā Text	:48
+    new: Text	:Rigveda Saṃhitā Text	:49
+ 
+python check_ls_global_local.py ../temp_graab_7e.txt extract_ls3_local.txt extract_ls1c_AB.txt
+42 TipRead records from extract_ls3_local.txt
+99 TipRead records from extract_ls1c_AB.txt
+
+------------------------------------------------------------
+------------------------------------------------------------
+# install revised graauth/tooltip.txt in csl-pywork
+cat extract_ls1c_AB.txt extract_ls3_local.txt > extract_ls_all.txt
+
+# change format to that of tooltip.txt in csl-pywork
+python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
+
+142 abbreviations read from extract_ls_all.txt
+142 lines written to temp_tooltip.txt
+
+$ wc -l extract_ls_all.txt
+147 extract_ls_all.txt
+
+$ grep -E '^;' extract_ls_all.txt
+; Lottner       :Lottner        :1
+;Max Müller     :Max Müllerʼs edition of Rig-Veda       :2
+
+cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt

@@ -1,0 +1,8 @@
+58890c58890
+< <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,2,24</ls>.
+---
+> <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,1,2</ls>.
+71433c71433
+< <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls ab="Kuhnʼs two Articles in Kuhnʼs Zeitschrift">Ku. in Zeitschr.&#xA0;</ls> 〔II,129〕 und 〔463〕], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.
+---
+> <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls ab="Kuhnʼs two Articles in Kuhnʼs Zeitschrift">Ku. in Zeitschr.</ls> 〔II,129〕 und 〔463〕], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.

@@ -9,7 +9,10 @@
 ; <L>7676<pc>1214<k1>vayas
 58890 old <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; {11,1,2}.
 ;
-58890 new <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,1,2</ls>.
+; Ref: https://github.com/sanskrit-lexicon/GRA/issues/29#issuecomment-1596485977
+; print change
+; 58890 new <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,1,2</ls>.
+58890 new <div n="TS">(-āṃsi) 2〉 neben haṃsā́s <ls>AV. 8,7,24</ls>; <ls n="AV.">11,2,24</ls>.
 ; -----------------------------------------------
 ; <L>10230<pc>1589<k1>stA
 78400 old {@(√stā),@}¦ {%heimlich, verborgen sein,%} davon <ab>Part.</ab> stāyát <ls>AV. 4,16,1</ls>; {7,108,1} (Entstehung aus sti sehr zweifelhaft, wonach unter tāyú zu ändern).

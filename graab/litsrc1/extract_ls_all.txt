@@ -1,11 +1,6 @@
-Bollensen	:?	:6
-F.	:?	:1
-Bollens.	:?	:2
-Ku. in Zeitschr.	:?	:2
-C.	:?	:2
-Boll.	:?	:1
-BR.'s Vermuthung	:?	:2
-Iliad, Homer	:?	:1
+F.	:Vergleichendes Wörterbuch der indogermanischen Sprachen— Fick, 1870	:1
+C.	:Grundzüge der griechischen Etymologie— Georg Curtius, 1858	:2
+Iliad— Homer	:Iliad of Homer	:1
 Ait. Br.	:Aitareya Brāhmaṇa, Aufrecht, 1879	:4
 AK.	:Amarakośa	:1
 Anukramaṇikā	:Rig-Veda Anukramaṇikā	:1
@@ -19,12 +14,11 @@ Be. vollst. Gramm.	:Vollständige Grammatik der Sanskrit Sprache— Benfey, 1852
 Benfey	:Glossar zum Sāma-Veda, App. to Die Hymnen des Sâma-Veda mit Glossar— Benfey, 1848	:1
 Benfey (S. V. glo.)	:Glossar zum Sāma-Veda, App. to Die Hymnen des Sâma-Veda mit Glossar— Benfey, 1848	:1
 BR	:(Petersburger) Sanskrit-Wörterbuch— Böhtlingk und Roth	:4
-BR.	:(Petersburger) Sanskrit-Wörterbuch— Böhtlingk und Roth	:302
+BR.	:(Petersburger) Sanskrit-Wörterbuch— Böhtlingk und Roth	:304
 Ch. 60	:Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:1
 Chamb. 60	:Chambers 60 RigvedaṚgveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:2
 Chambers 60	:Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:4
 ms. Chambers 60	:Chambers manuscript 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:1
-Co. Text	:Codice Text [Rigveda Saṃhitā Text, Chambersʼ Manuscript No. ??	:1
 Cod. Chambers 60	:(Codice) Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:2
 Cod. Chambers 61	:(Codice) Chambers 61 [Rigveda Padapāṭha Aṣṭakas 5-8, Chambersʼ Manuscripts collection No. 61]	:1
 Cu.	:Grundzüge der griechischen Etymologie— Georg Curtius, 1858	:355
@@ -42,8 +36,6 @@ Fi.	:Vergleichendes Wörterbuch der indogermanischen Sprachen— Fick, 1870	:70
 Fi. in Ku. Z.	:Etymologische beiträge.— Fickʼs Article in Kuhnʼs Zeitschrift	:1
 Fick	:Vergleichendes Wörterbuch der indogermanischen Sprachen— Fick, 1870	:15
 Glosse des Hesychius	:Hesychii Alexandrini lexicon— Mauricious Schmidt, 1861	:1
-; Goldschmidt in Beitr.	:?? Goldschmidtʼs Article in Beiträge	:1
-; Goldschmidt in Beiträge	:?? Goldschmidtʼs Article in Beiträge	:1
 Gr. gr.	:Grundzüge der griechischen Etymologie— Georg Curtius, 1858	:1
 Hesychius	:Hesychii Alexandrini lexicon— Mauricious Schmidt, 1861	:1
 Hom.	:Odyssey— Homer	:1
@@ -61,10 +53,8 @@ Ku. Zeitschr.	:Kuhnʼs Zeitschrift	:38
 Kuhn Z.	:Kuhnʼs Zeitschrift	:1
 Kuhn Ztschr.	:Kuhnʼs Zeitschrift	:1
 Kuhn's Zeitschr.	:Kuhnʼs Zeitschrift	:5
-; Lottner	:Lottner	:1
 M. Müller	:Max Müllerʼs edition of Rig-Veda	:4
 Mah.	:Mahābhārata, Calcutta ed., 1834—9	:1
-;Max Müller	:Max Müllerʼs edition of Rig-Veda	:2
 MBh.	:Mahābhārata, Calcutta ed., 1834—9	:1
 Mitrahymnus	:[Hymns to Mitra (and others)]	:1
 Müller	:Max Müllerʼs edition of Rig-Veda	:1
@@ -99,7 +89,7 @@ Benfey SV.	:Die Hymnen des Sâma-Veda— Benfey, 1848	:1
 SV. gl.	:Glossar zum Sāma-Veda, App. to Die Hymnen des Sâma-Veda mit Glossar— Benfey, 1848	:1
 Sāy.	:Sāyaṇaʼs Commentary to Rig-Veda	:75
 TBr.	:Taittirīya Brāhmaṇa— Rajendralala Mitra, 1859—90	:4
-Text	:Rigveda Saṃhitā Text	:48
+Text	:Rigveda Saṃhitā Text	:49
 TS.	:Taittirīya Saṃhitā— Weber, 1871	:17
 Verf. Deutsche Pflanzennamen	:Deutsche Pflanzennamen— Hermann Grassmann, 1870	:1
 Vop.	:Vopadevaʼs Mugdhabodha— Böhtlingk, 1847	:2
@@ -122,22 +112,26 @@ Benf. in Or. und Occ.	:Sanskritisch Sarvátâti, zendisch haurvatât, lateinisch
 Benfey in Gött. gel. Anz.	:Berichtigung.— Benfeyʼs correction in Göttingische Gelehrte Anzeigen	:1
 Benfey in Ku.	:Πεϱνα in πέϱνημι und sanskritisch paṇ, paṇi und verwandts.— Benfeyʼs Article in Kuhnʼs Zeitschrift	:1
 Benfey Or. und Occ.	:Uebersetzung d. Rig-Veda (Hymn. 1-35)— Benfeyʼs Article in Orient und Occident	:1
+Boll.	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:1
 Boll. Or. u. Occ.	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:1
+Bollens.	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:2
+Bollensen	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:7
 Bollensen in Orient und Occ.	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:2
 Bollensen O. und O.	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:1
-Bollensen&#xA0;	:Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident	:1
 Bugge in Ku.	:Zur etymologischen wortforschung.— Baggeʼs Article in Kuhnʼs Zeitschrift	:4
 Bugge in Ku. Zeitschr.	:Zur etymologischen wortforschung.— Baggeʼs Article in Kuhnʼs Zeitschrift	:6
 Goldschmidt in Beitr.	:Etymologien. 1. chromŭ - srāma; 2. juvā́ku— Goldschmidtʼs Article in Beiträge zur vergleichenden Sprachforschung	:1
 Goldschmidt in Beiträge	:Etymologien. 1. chromŭ - srāma; 2. juvā́ku— Goldschmidtʼs Article in Beiträge zur vergleichenden Sprachforschung	:1
 J. Grimm	:SCADO— Jacob Grimmʼs Article in Kuhnʼs Zeitschrift	:1
 Ku. Beitr.	:Wechsel von am und u im sanskrit— Kuhnʼs Article in Beiträge zur vergleichenden Sprachforschung	:1
+Ku. in Zeitschr.	:Ueber des alte S und einige damit verbundene lautentwicklungen (5ter artikel)— Kuhnʼs Article in Kuhnʼs Zeitschrift	:1
+Ku. in Zeitschr.&#xA0;	:Kuhnʼs two Articles in Kuhnʼs Zeitschrift	:1
 Kuhn in Haupt Zeitschr.	:Zur mythologie— Kuhnʼs Article in Hauptʼs Zeitschrift (Zeitschrift für Deutsches Altertum)	:1
 Kuhn in Zeitschr.	:Die neutra auf as— Kuhnʼs Article in Kuhnʼs Zeitschrift	:1
 Lottner	:Ueber die stellung der Italer innerhalb des indoeuropäischen stammes (schlufs)— Lottnerʼs Article in Kuhnʼs Zeitschrift	:1
 Lottner in Ku. Z.	:Griechische ableitungen vom stamme des relativums— Lottnerʼs Article in Kuhnʼs Zeitschrift	:1
 Max Müller	:Oxford Essays— Max Müller, 1856	:1
-Max Müller the sixth hymn	:The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)	:3
+Max Müller the sixth hymn	:The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)	:3
 Pauli in Ku. Zeitschr.	:Ueber skr. hāridravá— Carl Pauliʼs Article in Kuhnʼs Zeitschrift	:1
 Pictet in Ku. Zeitschr.	:Etymologische forschungen über die älteste arzneikunst bei den Indogermanen.— Adolphe Pictetʼs Article in Kuhnʼs Zeitschrift	:1
 Roth in Ku.	:Etymologien.— Rothʼs Article in Kuhnʼs Zeitschrift	:4

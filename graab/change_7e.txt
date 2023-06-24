@@ -1,0 +1,139 @@
+; change_7e
+; based on temp_graab_7.AB.txt 
+; ***************************************************************
+; MINOR CHANGES
+; ***************************************************************
+; <L>7098<pc>1108<k1>yAtuDAna
+53794 old <div n="TS">-asya tvácam {913,5}. mū́lam {10}. bálam {25}
+;
+53794 new <div n="TS">-asya tvácam {913,5}. mū́lam {10}. bálam {25}.
+; ----------------------------------------------------------------
+; <L>7127<pc>1114<k1>yu
+;
+54085 old <div n="TS">-ús in {638,13} ist nach <ls>BR.'s Vermuthung</ls> dvayús statt yús zu lesen.
+;
+54085 new <div n="TS">-ús in {638,13} ist nach <ls>BR.</ls>'s Vermuthung dvayús statt yús zu lesen.
+; ----------------------------------------------------------------
+; <L>7161<pc>1124<k1>yuvAku
+54496 old <div n="TS">-ús 1〉 árāvā yás 〰 {584,7}; sómas {292,9}. — 2〉 (ahám) {583,4} (huve); dáyamānas {120,3}; yás (sū́rias) {576,3} (oder nach <ls>BR.'s Vermuthung</ls> -ú zu lesen und dann auf dhā́māni zu beziehen).
+;
+54496 new <div n="TS">-ús 1〉 árāvā yás 〰 {584,7}; sómas {292,9}. — 2〉 (ahám) {583,4} (huve); dáyamānas {120,3}; yás (sū́rias) {576,3} (oder nach <ls>BR.</ls>'s Vermuthung -ú zu lesen und dann auf dhā́māni zu beziehen).
+; ----------------------------------------------------------------
+; ************************************************
+; mostly ls changes
+; ************************************************
+; ----------------------------------------------------
+; <L>993<pc>0105<k1>ari
+; Replacement 1 of 1
+;   old: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen&#xA0;</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+6255 old <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen&#xA0;</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+;
+6255 new <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> (<ls>O. u. O.</ls> 〔2,462〕) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+; ----------------------------------------------------
+; <L>1775<pc>0220<k1>iva
+; Replacement 1 of 2
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+; Replacement 2 of 2
+;   old: <ls>Bollens.</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollens.</ls>
+11892 old <div n="P">nach síndhum {97,8}; raśmī́n {141,11}; aidhé, yudhé {166,1} (nach <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen in Orient und Occ.</ls> 〔2,473〕); {175,6} máyas (<ab>s. o.</ab> 5 und 7); iṣukṛ́te {184,3} (<ls>Bollens.</ls>), víjas {203,5} (falls nicht iva ganz zu tilgen ist); rayím {204,4}; yugé, nábhye, nā́se {230,4. 6} (<ls>Bollens.</ls>); brahmaputrás {234,2}; avadyám {314,5}; nímite {264,4}; súdughe {186,4}; {518,6}; kanīnaké {328,23} (<ls>Bollensen</ls>); kaníās {354,9}; svádhitis {361,8}; cákṣus {408,6}; áhis {516,14}; rátham {557,6}; múnis {572,8}; urvārukám {575,12}; udnás {639,14}; śánais {700,3}; urú oder urús {808,15}; śū́ras {895,5}; agnís {910,2}; stenás oder stenā́s {923,10}; āghātíbhis {972,2}; áśvam {975,1}; pátis {975,4}; divás {888,9}; índras {992,2}; {999,2}; párvatas {999,2}.
+;
+11892 new <div n="P">nach síndhum {97,8}; raśmī́n {141,11}; aidhé, yudhé {166,1} (nach <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen in Orient und Occ.</ls> 〔2,473〕); {175,6} máyas (<ab>s. o.</ab> 5 und 7); iṣukṛ́te {184,3} (<ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollens.</ls>), víjas {203,5} (falls nicht iva ganz zu tilgen ist); rayím {204,4}; yugé, nábhye, nā́se {230,4. 6} (<ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollens.</ls>); brahmaputrás {234,2}; avadyám {314,5}; nímite {264,4}; súdughe {186,4}; {518,6}; kanīnaké {328,23} (<ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>); kaníās {354,9}; svádhitis {361,8}; cákṣus {408,6}; áhis {516,14}; rátham {557,6}; múnis {572,8}; urvārukám {575,12}; udnás {639,14}; śánais {700,3}; urú oder urús {808,15}; śū́ras {895,5}; agnís {910,2}; stenás oder stenā́s {923,10}; āghātíbhis {972,2}; áśvam {975,1}; pátis {975,4}; divás {888,9}; índras {992,2}; {999,2}; párvatas {999,2}.
+; ----------------------------------------------------
+; <L>3069<pc>0413<k1>gomat
+; Replacement 1 of 1
+;   old: <ls>Boll.</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Boll.</ls>
+21545 old <div n="TS">-ān 1〉 yajñás {298,5} (neben ávimān, aśvī́); te sákhā {624,9}. In {819,9} ist gómān zu streichen (<ab n="siehe">s.</ab> <ls>Boll.</ls>).
+;
+21545 new <div n="TS">-ān 1〉 yajñás {298,5} (neben ávimān, aśvī́); te sákhā {624,9}. In {819,9} ist gómān zu streichen (<ab n="siehe">s.</ab> <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Boll.</ls>).
+; ----------------------------------------------------
+; <L>4935<pc>0726<k1>nAsatya
+; Replacement 1 of 1
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+36666 old <div n="TS">-āya 1〉 {299,6}, wo das folgende kṣé weder dem Sinne, noch dem Versmasse entspricht, weshalb <ls>Bollensen</ls> ukṣṇé liest.
+;
+36666 new <div n="TS">-āya 1〉 {299,6}, wo das folgende kṣé weder dem Sinne, noch dem Versmasse entspricht, weshalb <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> ukṣṇé liest.
+; ----------------------------------------------------
+; <L>4936<pc>0726<k1>nAsA
+; Replacement 1 of 1
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+36680 old <div n="TS">-e <ls>AV. 5,23,3</ls>; <ls>RV</ls> {230,6}, wo nā́se va statt des nā́sā‿iva des <ls>Pada</ls> zu lesen ist (<ls>Bollensen</ls>).
+;
+36680 new <div n="TS">-e <ls>AV. 5,23,3</ls>; <ls>RV</ls> {230,6}, wo nā́se va statt des nā́sā‿iva des <ls>Pada</ls> zu lesen ist (<ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>).
+; ----------------------------------------------------
+; <L>5853<pc>0865<k1>prajA
+; Replacement 1 of 1
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+43485 old <div n="TS">-ā́su 1〉 {1022,6} sátpatim ‥ kṛdhí 〰 ā́bhagam, auch in {67,9} ist (nach <ls>Bollensen</ls>) statt prajā́ utá zu lesen prajā́su.
+;
+43485 new <div n="TS">-ā́su 1〉 {1022,6} sátpatim ‥ kṛdhí 〰 ā́bhagam, auch in {67,9} ist (nach <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>) statt prajā́ utá zu lesen prajā́su.
+; ----------------------------------------------------
+; <L>7571<pc>1195<k1>vacas
+; Replacement 1 of 1
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+57950 old <div n="TS">-as als <ab>Instr.</ab> (wofür <ls>Bollensen</ls> vácā vorschlägt), nur am Ende der Verszeilen 2〉 divítmatā 〰 {26,2}; návyasā 〰 {222,5}; {489,11}; {659,2}.
+;
+57950 new <div n="TS">-as als <ab>Instr.</ab> (wofür <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> vácā vorschlägt), nur am Ende der Verszeilen 2〉 divítmatā 〰 {26,2}; návyasā 〰 {222,5}; {489,11}; {659,2}.
+; ----------------------------------------------------
+; <L>7833<pc>1239<k1>vah
+; Replacement 1 of 1
+;   old: <ls>Bollensen</ls>
+;   new: <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls>
+60176 old <div n="TS">-hús {@ví@} átas śyenám {323,3} (oder mit <ls>Bollensen</ls> vā́tās für vā‿ átas zu lesen).
+;
+60176 new <div n="TS">-hús {@ví@} átas śyenám {323,3} (oder mit <ls ab="Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident">Bollensen</ls> vā́tās für vā‿ átas zu lesen).
+; ----------------------------------------------------
+; <L>5452<pc>0808<k1>pArzRi
+; Replacement 1 of 1
+;   old: <ls>Ku. in Zeitschr.</ls>
+;   new: <ls ab="Ueber des alte S und einige damit verbundene lautentwicklungen (5ter artikel)— Kuhnʼs Article in Kuhnʼs Zeitschrift">Ku. in Zeitschr.</ls>
+40620 old {@pā́rṣṇi,@}¦ (<ab>m.</ab> oder) <ab>f.</ab>, {%Ferse%} [<ls>Fi.</ls> 〔121〕], wird [nach <ls>Ku. in Zeitschr.</ls> 〔3,324〕] zur Wurzel sphar, sphur (mit den Füssen stossen) gehören, und, also (schon in indogermanischer Urzeit) ein s verloren haben.
+;
+40620 new {@pā́rṣṇi,@}¦ (<ab>m.</ab> oder) <ab>f.</ab>, {%Ferse%} [<ls>Fi.</ls> 〔121〕], wird [nach <ls ab="Ueber des alte S und einige damit verbundene lautentwicklungen (5ter artikel)— Kuhnʼs Article in Kuhnʼs Zeitschrift">Ku. in Zeitschr.</ls> 〔3,324〕] zur Wurzel sphar, sphur (mit den Füssen stossen) gehören, und, also (schon in indogermanischer Urzeit) ein s verloren haben.
+; ----------------------------------------------------
+; <L>9252<pc>1467<k1>sana
+; Replacement 1 of 1
+;   old: <ls>Ku. in Zeitschr.</ls>
+;   new: <ls ab="Ueber des alte S und einige damit verbundene lautentwicklungen (5ter artikel)— Kuhnʼs Article in Kuhnʼs Zeitschrift">Ku. in Zeitschr.&#xA0;</ls>
+71433 old <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls>Ku. in Zeitschr.</ls> 〔II,129〕 und 〔463〕], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.
+;
+71433 new <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls ab="Kuhnʼs two Articles in Kuhnʼs Zeitschrift">Ku. in Zeitschr.&#xA0;</ls> 〔II,129〕 und 〔463〕], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.
+; ----------------------------------------------------
+; <L>1023<pc>0108<k1>aruza
+; Replacement 1 of 1
+;   old: in  JRAS
+;   new: in JRAS
+6449 old {@aruṣá,@}¦ <ab>a.</ab> [<ab>vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 4〕], {%roth, feuerfarben%} [<ab>vgl.</ab> aruṇá], besonders vom Feuer (Agni), der Sonne, dem Blitze, der Morgenröthe, Soma <ab>u. s. w.</ab> — Das substantivische <ab>Fem.</ab> áruṣī erscheint zweimal wie ein Adjectiv mit gó verbunden ({92,1. 2}), mit svásṛ {831,5}. Als <ab>Subst.</ab> bedeutet áruṣī 2〉 rothe Stute, 3〉 Morgenröthe.
+;
+6449 new {@aruṣá,@}¦ <ab>a.</ab> [<ab>vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 4〕], {%roth, feuerfarben%} [<ab>vgl.</ab> aruṇá], besonders vom Feuer (Agni), der Sonne, dem Blitze, der Morgenröthe, Soma <ab>u. s. w.</ab> — Das substantivische <ab>Fem.</ab> áruṣī erscheint zweimal wie ein Adjectiv mit gó verbunden ({92,1. 2}), mit svásṛ {831,5}. Als <ab>Subst.</ab> bedeutet áruṣī 2〉 rothe Stute, 3〉 Morgenröthe.
+; ----------------------------------------------------
+; <L>8408<pc>1345<k1>vfzan
+; Replacement 1 of 1
+;   old: in  JRAS
+;   new: in JRAS
+64961 old {@vṛ́ṣan,@}¦ <ab>a.</ab>, <ab>m.</ab>, von vṛṣ in der Bedeutung „befruchten, ergiessen“; dagegen darf nicht angeführt werden, dass vṛṣ (regnen) nicht in dieser speciellen Bedeutung vorkommt, denn dasselbe Verhältniss findet <ab>z. B.</ab> zwischen ṛsabhá und arṣ, zwischen rétas und ri statt. Daher wird es von Männern und männlichen Thieren gebraucht in dem Sinne „brünstig, zeugungskräftig“ und allgemeiner „stark durch männliche Kraft, kräftig“, und in diesem Sinne wird es auch zu Substantiven, welche (unpersönliche) Dinge bezeichnen, ja zu abstrakten Substantiven gefügt. Daher bezeichnet es als Substantiv den brünstigen, zeugungskräftigen Mann, auch wol allgemeiner den kräftigen Mann, ebenso das besamende, zeugungskräftige Thier, als dessen Repräsentant „der Stier“, aber auch der Hengst erscheint (daher mit dem Beiworte ṛjumuṣká). Häufig wird es von Göttern gebraucht, wo dann die vorher entwickelten Bedeutungen oft absichtlich in einander hinüberspielen. Besonders wird mit diesem beliebten Worte gespielt in {177,207}, {390,394}, {631,31—33}; {653,10—12}, und in vielen Liedern des 9. Buches. 1〉 <ab>a.</ab>, {%befruchtenden Regen ergiessend%} von der Wolke; 2〉 {%brünstig, zeugungskräftig, kräftig%} von männlichen Thieren; 3〉 {%männlich, stark, kräftig%} von Personen; 4〉 {%stark, kräftig%} von Dingen; 5〉 von abstrakten Begriffen; 6〉 <ab>m.</ab>, {%zeugungskräftiger Mann,%} im Gegensatze gegen den Verschnittenen (vádhri), oder gegen das Weib ({853,10}); 7〉 {%der nach der Begattung verlangende Mann;%} 8〉 {%Stier%} (als besamend, <ab>vgl.</ab> {299,10}); 9〉 von Rossen; 10〉 bildlich von Gegenständen, selbst wo sie durch weibliche (káśā {653,11}; vā́c {941,8}) oder sächliche (vánam {776,2}) Substantiven bezeichnet werden; auch 11〉 vom Opferer oder Beter; 12〉 vom Indra; 13〉 vom (persönlich gedachten) Soma; 14〉 von andern Göttern; 15〉 {%Stier = Gebieter%} [Page1346] mit <ab>Gen.</ab>; 16〉 Eigenname. — <ab>Vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 10 fg.〕
+;
+64961 new {@vṛ́ṣan,@}¦ <ab>a.</ab>, <ab>m.</ab>, von vṛṣ in der Bedeutung „befruchten, ergiessen“; dagegen darf nicht angeführt werden, dass vṛṣ (regnen) nicht in dieser speciellen Bedeutung vorkommt, denn dasselbe Verhältniss findet <ab>z. B.</ab> zwischen ṛsabhá und arṣ, zwischen rétas und ri statt. Daher wird es von Männern und männlichen Thieren gebraucht in dem Sinne „brünstig, zeugungskräftig“ und allgemeiner „stark durch männliche Kraft, kräftig“, und in diesem Sinne wird es auch zu Substantiven, welche (unpersönliche) Dinge bezeichnen, ja zu abstrakten Substantiven gefügt. Daher bezeichnet es als Substantiv den brünstigen, zeugungskräftigen Mann, auch wol allgemeiner den kräftigen Mann, ebenso das besamende, zeugungskräftige Thier, als dessen Repräsentant „der Stier“, aber auch der Hengst erscheint (daher mit dem Beiworte ṛjumuṣká). Häufig wird es von Göttern gebraucht, wo dann die vorher entwickelten Bedeutungen oft absichtlich in einander hinüberspielen. Besonders wird mit diesem beliebten Worte gespielt in {177,207}, {390,394}, {631,31—33}; {653,10—12}, und in vielen Liedern des 9. Buches. 1〉 <ab>a.</ab>, {%befruchtenden Regen ergiessend%} von der Wolke; 2〉 {%brünstig, zeugungskräftig, kräftig%} von männlichen Thieren; 3〉 {%männlich, stark, kräftig%} von Personen; 4〉 {%stark, kräftig%} von Dingen; 5〉 von abstrakten Begriffen; 6〉 <ab>m.</ab>, {%zeugungskräftiger Mann,%} im Gegensatze gegen den Verschnittenen (vádhri), oder gegen das Weib ({853,10}); 7〉 {%der nach der Begattung verlangende Mann;%} 8〉 {%Stier%} (als besamend, <ab>vgl.</ab> {299,10}); 9〉 von Rossen; 10〉 bildlich von Gegenständen, selbst wo sie durch weibliche (káśā {653,11}; vā́c {941,8}) oder sächliche (vánam {776,2}) Substantiven bezeichnet werden; auch 11〉 vom Opferer oder Beter; 12〉 vom Indra; 13〉 vom (persönlich gedachten) Soma; 14〉 von andern Göttern; 15〉 {%Stier = Gebieter%} [Page1346] mit <ab>Gen.</ab>; 16〉 Eigenname. — <ab>Vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 10 fg.〕
+; ----------------------------------------------------
+; <L>10384<pc>1623<k1>svaDA
+; Replacement 1 of 1
+;   old: in  JRAS
+;   new: in JRAS
+79936 old <hom>1.</hom> {@sva-dhā́,@}¦ <ab>f.</ab> [<ab>fem.</ab> von *sva-dhá (<ab>vgl.</ab> anuṣvadham), und dies aus svá und dhá von <hom>1.</hom> dhā; <ab>vgl.</ab> <ls>Cu.</ls> 〔305〕 und <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in  JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 24〕], {%eigene Selbstbestimmung, eigene Neigung, Natur, Gewohnheit, Heimatsstätte%}. Die eigenthümliche Beziehung des svá ist überall gewahrt. 1〉 {%sein%} (dein <ab>u. s. w.</ab>) {%eigener Antrieb,%} eigene {%Selbstbestimmung, Triebkraft;%} 2〉 {%sein eigener Brauch, seine gewohnte Weise, Sitte;%} 3〉 {%seine Eigenthümlichkeit, Natur, Neigung;%} 4〉 {%eigenes Gelüsten, Belustigung, eigener Plan;%} 5〉 {%eigene Machtvollkommenheit, eigene Kraft;%} 6〉 {%eigene Heimatsstätte;%} 7〉 <ab>du.</ab>, {%die beiden Heimatsstätten%} (Himmel und Erde); insbesondere 8〉 im <ab>Instr.</ab> oder im <ab>Acc.</ab> mit ánu {%nach seiner Weise, Sitte%} oder {%Gewohnheit,%} oder 9〉 {%nach%} jemandes [<ab>G.</ab>] {%Wunsch%} oder {%Brauch;%} 10〉 im <ab>Instr.</ab> {%aus eigenem Antriebe, aus eigener Lust, nach eigenem Gefallen, gern;%} besonders 11〉 mit dem Verb mad {%aus eigenem Antriebe, eigener Lust%} sich berauschen oder ergötzen, oder 12〉 {%durch sich selbst%} munter, fröhlich sein.
+;
+79936 new <hom>1.</hom> {@sva-dhā́,@}¦ <ab>f.</ab> [<ab>fem.</ab> von *sva-dhá (<ab>vgl.</ab> anuṣvadham), und dies aus svá und dhá von <hom>1.</hom> dhā; <ab>vgl.</ab> <ls>Cu.</ls> 〔305〕 und <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 24〕], {%eigene Selbstbestimmung, eigene Neigung, Natur, Gewohnheit, Heimatsstätte%}. Die eigenthümliche Beziehung des svá ist überall gewahrt. 1〉 {%sein%} (dein <ab>u. s. w.</ab>) {%eigener Antrieb,%} eigene {%Selbstbestimmung, Triebkraft;%} 2〉 {%sein eigener Brauch, seine gewohnte Weise, Sitte;%} 3〉 {%seine Eigenthümlichkeit, Natur, Neigung;%} 4〉 {%eigenes Gelüsten, Belustigung, eigener Plan;%} 5〉 {%eigene Machtvollkommenheit, eigene Kraft;%} 6〉 {%eigene Heimatsstätte;%} 7〉 <ab>du.</ab>, {%die beiden Heimatsstätten%} (Himmel und Erde); insbesondere 8〉 im <ab>Instr.</ab> oder im <ab>Acc.</ab> mit ánu {%nach seiner Weise, Sitte%} oder {%Gewohnheit,%} oder 9〉 {%nach%} jemandes [<ab>G.</ab>] {%Wunsch%} oder {%Brauch;%} 10〉 im <ab>Instr.</ab> {%aus eigenem Antriebe, aus eigener Lust, nach eigenem Gefallen, gern;%} besonders 11〉 mit dem Verb mad {%aus eigenem Antriebe, eigener Lust%} sich berauschen oder ergötzen, oder 12〉 {%durch sich selbst%} munter, fröhlich sein.
+; ----------------------------------------------------
+; <L>2118<pc>0274<k1>UrDva
+; Replacement 1 of 1
+;   old: <ls>Iliad, Homer</ls>
+;   new: <ls>Iliad— Homer</ls>
+14415 old {@ūrdhvá,@}¦ <ab>a.</ab> [<ls>Fi.</ls> 〔184〕], „aufrecht, aufgerichtet, in die Höhe gerichtet“, ursprünglich emporgewachsen [von vṛdh, wachsen]; namentlich 1〉 {%aufrechtstehend,%} insbesondere 2〉 mit sthā (<ab>vgl.</ab> <gk>στῆ δ ̓ ὀρϑός</gk> <ab>u. s. w.</ab> bei <ls>Hom.</ls>); 3〉 {%aufrecht,%} vom Gange; 4〉 ūrdhvám kṛ, {%aufrichten;%} 5〉 {%hoch emporgehoben,%} von dem obern Presssteine, von den zum Himmel erhobenen Indusäften; 6〉 mit sthā und úd, {%aufstehen, sich erheben%} (<gk>ὀρϑὸς ἀναστάς</gk> <ls>Iliad, Homer</ls> 〔24,11〕), auch blos mit sthā; 7〉 {%mit dem Boden emporgerichtet,%} vom Gefäss, was ausgegossen wird, mit nud (nunudre); 8〉 {%aufgerichtet,%} um ein Werk [<ab>Dat.</ab>] auszuführen oder zu unterstützen, in diesem Sinne 9〉 besonders häufig mit sthā; 10〉 {%hoch emporsteigend,%} vom Glanze oder Lichte (der Morgenröthe oder Sonne), in diesem Sinne 11〉 besonders mit śri; 12〉 bildlich vom heiligen Werke (dem Gebete, Opfer), wenn es im vollen Gange ist; 13〉 bildlich: {%aufgerichtet%} = frisch, kräftig; 14〉 bildlich: {%aufgerichtet%} = sichtbar oder bereitstehend.
+;
+14415 new {@ūrdhvá,@}¦ <ab>a.</ab> [<ls>Fi.</ls> 〔184〕], „aufrecht, aufgerichtet, in die Höhe gerichtet“, ursprünglich emporgewachsen [von vṛdh, wachsen]; namentlich 1〉 {%aufrechtstehend,%} insbesondere 2〉 mit sthā (<ab>vgl.</ab> <gk>στῆ δ ̓ ὀρϑός</gk> <ab>u. s. w.</ab> bei <ls>Hom.</ls>); 3〉 {%aufrecht,%} vom Gange; 4〉 ūrdhvám kṛ, {%aufrichten;%} 5〉 {%hoch emporgehoben,%} von dem obern Presssteine, von den zum Himmel erhobenen Indusäften; 6〉 mit sthā und úd, {%aufstehen, sich erheben%} (<gk>ὀρϑὸς ἀναστάς</gk> <ls>Iliad— Homer</ls> 〔24,11〕), auch blos mit sthā; 7〉 {%mit dem Boden emporgerichtet,%} vom Gefäss, was ausgegossen wird, mit nud (nunudre); 8〉 {%aufgerichtet,%} um ein Werk [<ab>Dat.</ab>] auszuführen oder zu unterstützen, in diesem Sinne 9〉 besonders häufig mit sthā; 10〉 {%hoch emporsteigend,%} vom Glanze oder Lichte (der Morgenröthe oder Sonne), in diesem Sinne 11〉 besonders mit śri; 12〉 bildlich vom heiligen Werke (dem Gebete, Opfer), wenn es im vollen Gange ist; 13〉 bildlich: {%aufgerichtet%} = frisch, kräftig; 14〉 bildlich: {%aufgerichtet%} = sichtbar oder bereitstehend.

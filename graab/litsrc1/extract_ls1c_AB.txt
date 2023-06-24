@@ -1,9 +1,6 @@
 F.	:Vergleichendes Wörterbuch der indogermanischen Sprachen— Fick, 1870	:1
-Bollens.	:?	:2
-Ku. in Zeitschr.	:?	:2
 C.	:Grundzüge der griechischen Etymologie— Georg Curtius, 1858	:2
-Boll.	:?	:1
-Iliad, Homer	:?	:1
+Iliad— Homer	:Iliad of Homer	:1
 Ait. Br.	:Aitareya Brāhmaṇa, Aufrecht, 1879	:4
 AK.	:Amarakośa	:1
 Anukramaṇikā	:Rig-Veda Anukramaṇikā	:1
@@ -22,7 +19,6 @@ Ch. 60	:Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscript
 Chamb. 60	:Chambers 60 RigvedaṚgveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:2
 Chambers 60	:Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:4
 ms. Chambers 60	:Chambers manuscript 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:1
-; Co. Text	:Codice Text [Rigveda Saṃhitā Text, Chambersʼ Manuscript No. ??	:1
 Cod. Chambers 60	:(Codice) Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60]	:2
 Cod. Chambers 61	:(Codice) Chambers 61 [Rigveda Padapāṭha Aṣṭakas 5-8, Chambersʼ Manuscripts collection No. 61]	:1
 Cu.	:Grundzüge der griechischen Etymologie— Georg Curtius, 1858	:355
@@ -57,10 +53,8 @@ Ku. Zeitschr.	:Kuhnʼs Zeitschrift	:38
 Kuhn Z.	:Kuhnʼs Zeitschrift	:1
 Kuhn Ztschr.	:Kuhnʼs Zeitschrift	:1
 Kuhn's Zeitschr.	:Kuhnʼs Zeitschrift	:5
-; Lottner	:Lottner	:1
 M. Müller	:Max Müllerʼs edition of Rig-Veda	:4
 Mah.	:Mahābhārata, Calcutta ed., 1834—9	:1
-;Max Müller	:Max Müllerʼs edition of Rig-Veda	:2
 MBh.	:Mahābhārata, Calcutta ed., 1834—9	:1
 Mitrahymnus	:[Hymns to Mitra (and others)]	:1
 Müller	:Max Müllerʼs edition of Rig-Veda	:1
@@ -95,7 +89,7 @@ Benfey SV.	:Die Hymnen des Sâma-Veda— Benfey, 1848	:1
 SV. gl.	:Glossar zum Sāma-Veda, App. to Die Hymnen des Sâma-Veda mit Glossar— Benfey, 1848	:1
 Sāy.	:Sāyaṇaʼs Commentary to Rig-Veda	:75
 TBr.	:Taittirīya Brāhmaṇa— Rajendralala Mitra, 1859—90	:4
-Text	:Rigveda Saṃhitā Text	:48
+Text	:Rigveda Saṃhitā Text	:49
 TS.	:Taittirīya Saṃhitā— Weber, 1871	:17
 Verf. Deutsche Pflanzennamen	:Deutsche Pflanzennamen— Hermann Grassmann, 1870	:1
 Vop.	:Vopadevaʼs Mugdhabodha— Böhtlingk, 1847	:2

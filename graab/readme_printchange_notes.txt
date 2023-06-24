@@ -26,3 +26,6 @@ NEW:
 <LEND>
 -------- PRC#5
 8803 : Siz : Siz : 1. Siz :  add homonym number
+-------- PRC#6
+Andhrabharati, Ref: https://github.com/sanskrit-lexicon/GRA/issues/29#issuecomment-1596485977
+7676 : vayas : {11,1,2} : {11,2,24}
