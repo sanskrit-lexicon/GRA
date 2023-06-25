@@ -240,7 +240,6 @@ python check_ls_global_local.py ../temp_graab_7e.txt extract_ls3_local.txt extra
 99 TipRead records from extract_ls1c_AB.txt
 
 ------------------------------------------------------------
-------------------------------------------------------------
 # install revised graauth/tooltip.txt in csl-pywork
 cat extract_ls1c_AB.txt extract_ls3_local.txt > extract_ls_all.txt
 
@@ -258,3 +257,44 @@ $ grep -E '^;' extract_ls_all.txt
 ;Max Müller     :Max Müllerʼs edition of Rig-Veda       :2
 
 cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+------------------------------------------------------------
+06-25-2023  
+; extract_ls1d_AB.txt
+cp extract_ls1c_AB.txt extract_ls1d_AB.txt
+
+Revise extract_ls1d_AB.txt
+ Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1605879922
+ 
+Chamb. 60 :Chambers 60 [Rigveda Padapāṭha Aṣṭakas 1-4, Chambersʼ Manuscripts collection No. 60] :2
+Naigh. :Naighaṇṭukakāṇḍa [Jâskaʼs Nirukta, sammt den Nighaṇṭavas Bd. 1— Rudolf Roth, 1852] :21
+Nir. :Nirukta [Jâskaʼs Nirukta, sammt den Nighaṇṭavas Bd. 2— Rudolf Roth, 1852] :12
+P. :Rig-Veda Padapāṭha :25
+Pad. :Rig-Veda Padapāṭha :167
+Pada :Rig-Veda Padapāṭha :73
+Pada bei Aufr. :Rig-Veda Padapāṭha, Aufrechtʼs edition :1
+Padap. :Rig-Veda Padapāṭha :7
+Padapāṭha :Rig-Veda Padapāṭha :2
+ 
+python check_ls_global_local.py ../temp_graab_7e.txt extract_ls3_local.txt extract_ls1d_AB.txt
+42 TipRead records from extract_ls3_local.txt
+99 TipRead records from extract_ls1d_AB.txt
+
+------------------------------------------------------------
+# install revised graauth/tooltip.txt in csl-pywork
+cat extract_ls1d_AB.txt extract_ls3_local.txt > extract_ls_all.txt
+
+# change format to that of tooltip.txt in csl-pywork
+python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
+
+141 abbreviations read from extract_ls_all.txt
+141 lines written to temp_tooltip.txt
+
+$ wc -l extract_ls_all.txt
+141 extract_ls_all.txt
+
+$ grep -E '^;' extract_ls_all.txt
+ (NONE): No comment lines present.
+
+cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+
+------------------------------------------------------------

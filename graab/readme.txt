@@ -198,7 +198,7 @@ in litsrc1 directory,
   
 - revise /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
 
-cp temp_graab_7d.txt temp_graab_7.txt
+cp temp_graab_7e.txt temp_graab_7.txt
 
 Revise redo.sh to use version 7
 Add dev7 to .gitignore
@@ -207,3 +207,7 @@ Generate dev7: sh redo.sh
 Check xml validity of dev7
 python /c/xampp/htdocs/cologne/xmlvalidate.py dev7/pywork/gra.xml dev7/pywork/gra.dtd
 -- ok!
+**************************************************************
+begin 06-25-2023
+abbrevs1 directory
+Begin with graab/temp_graab_7e.txt (= temp_graab_7.txt)
