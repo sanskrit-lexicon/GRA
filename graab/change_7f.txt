@@ -1,0 +1,14 @@
+; ***********************************************************
+; ⁓ → <ab>⁓</ab>
+; Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1606250167
+; ***********************************************************
+; <L>1360<pc>0157<k1>asta<k2>a/sta
+8977 old <div n="TS">-ā <ls>SV.</ls> 〔1,5,2,3,3〕 (⁓ <ls>RV</ls> {130,1}).
+;
+8977 new <div n="TS">-ā <ls>SV.</ls> 〔1,5,2,3,3〕 (<ab>⁓</ab> <ls>RV</ls> {130,1}).
+;---------------------------------------------------
+; <L>6370<pc>0934<k1>Bid<k2>Bid
+47081 old {@√bhid@}¦ [= <lang>lat.</lang> find-o ⁓ <lang>go.</lang> beit-a], 1〉 {%spalten%} [<ab>A.</ab>]; 2〉 Wehren [<ab>A.</ab>] {%durchbrechen;%} 3〉 Bahnen [<ab>A.</ab>] {%brechen;%} 4〉 Gefässe, Behälter, <ab>u. s. w.</ab> [<ab>A.</ab>] {%zerschlagen, zerbrechen;%} 4〉 Burgen [<ab>A.</ab>] {%spalten, zertrümmern;%} 6〉 Thiere, Dämonen <ab>u. s. w.</ab> [<ab>A.</ab>] {%erschlagen;%} 7〉 {%verschmähen, abweisen%} [<ab>A.</ab>]; 8〉 <ab>Desid.</ab> {%zu erschlagen trachten%} [<ab>A.</ab>]. [Page935]
+;
+47081 new {@√bhid@}¦ [= <lang>lat.</lang> find-o <ab>⁓</ab> <lang>go.</lang> beit-a], 1〉 {%spalten%} [<ab>A.</ab>]; 2〉 Wehren [<ab>A.</ab>] {%durchbrechen;%} 3〉 Bahnen [<ab>A.</ab>] {%brechen;%} 4〉 Gefässe, Behälter, <ab>u. s. w.</ab> [<ab>A.</ab>] {%zerschlagen, zerbrechen;%} 4〉 Burgen [<ab>A.</ab>] {%spalten, zertrümmern;%} 6〉 Thiere, Dämonen <ab>u. s. w.</ab> [<ab>A.</ab>] {%erschlagen;%} 7〉 {%verschmähen, abweisen%} [<ab>A.</ab>]; 8〉 <ab>Desid.</ab> {%zu erschlagen trachten%} [<ab>A.</ab>]. [Page935]
+;---------------------------------------------------

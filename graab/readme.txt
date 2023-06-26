@@ -210,4 +210,8 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev7/pywork/gra.xml dev7/pywork/gr
 **************************************************************
 begin 06-25-2023
 abbrevs1 directory
-Begin with graab/temp_graab_7e.txt (= temp_graab_7.txt)
+Begin with graab/temp_graab_7e.txt
+make change_7f.txt and graab/temp_graab_7f.txt
+cp temp_graab_7f.txt  temp_graab_7.txt
+install new global abbreviation file for GRA in csl-pywork
+sh redo.sh

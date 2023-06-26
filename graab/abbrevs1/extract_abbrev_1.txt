@@ -1,0 +1,366 @@
+pe	local	1.	1	1sten/ersten
+pe	global	1.	220	1sten/ersten
+pe	local	2.	1	2ten/zweiten
+pe	global	2.	503	2ten/zweiten
+pe	local	3.	3	3ten/dritten
+pe	global	3.	1086	3ten/dritten
+ab	local	A.	1	Aryama
+ab	global	a.	6029	adjektiv
+ab	global	A.	4481	Accusativ
+ab	global	Ab.	545	Ablativ
+ab	global	Abl.	86	Ablativ
+ab	global	abl.	1	ablativ
+ab	global	Abs.	1	Absolutiv
+ab	global	Absol.	30	Absolutiv
+ab	global	Absolut.	1	Absolutiv
+ab	global	Abstr.	1	Abstractiv
+ab	global	Acc.	231	Accusativ
+ab	global	Accus.	1	Accusativ
+ab	global	Act.	13	Activ
+ab	global	act.	24	activ
+ab	global	Adj.	154	Adjektiv
+ab	global	adj.	4	adjektiv
+ab	global	adject.	2	adjectiv
+ab	global	Adject.	3	Adjectiv
+ab	global	Adjekt.	1	Adjektiv
+ab	global	Adv.	95	Adverb
+ab	global	adv.	38	adverb
+ab	global	adverb.	3	adverb
+lang	global	ags.	5	Anglo-Saxon
+lang	global	ahd.	4	Old High German
+ab	local	Ait.	1	Aiton
+lang	global	altfries.	1	Old Frisian
+lang	global	althd.	1	Old High German
+lang	global	althochd.	14	Old High German
+lang	global	altlat.	2	Old Latin
+lang	global	altn.	5	Old Icelandic
+lang	global	altnord.	4	Old Icelandic
+lang	global	altpreuss.	2	Old Prussian
+lang	global	alts.	1	Old Slavonic
+lang	global	altsl.	7	Old Slavonic
+lang	global	altslav.	3	Old Slavonic
+lang	global	altslaw.	1	Old Slavonic
+lang	global	altslov.	1	Old Slovene
+lang	global	altsächs.	1	Old Saxon
+ab	global	and.	1	anders
+lang	global	angels.	2	Anglo-Saxon
+ab	global	Anm.	7	Anmerkung
+ab	local	antreff.	1	antreffen
+ab	global	Aor.	387	Aorist
+lang	global	armen.	1	Armenian
+ab	global	Augm.	6	Augment
+ab	global	Bd.	1	Bedeutung
+ab	local	Bed.	10	Bedeutungen
+ab	global	Bed.	59	Bedeutung
+ab	global	bes.	4	besonders
+ab	local	Bharadv.	1	Bharadvāja
+ab	global	bildl.	16	bildlich
+ab	local	Brahmanasp.	2	Brahmanaspati
+lang	global	böhm.	1	Bohemian
+ab	local	bṛ́hasp.	1	bṛ́haspátim
+ab	global	c.	4	causativ
+ab	global	C.	110	Causativ
+ab	global	Caus.	621	Causativ
+ab	global	caus.	37	causativ
+ab	global	causal.	2	causale
+ab	global	Causal.	1	Causale
+ab	global	causat.	1	causativ
+ab	global	Causat.	2	Causativ
+lang	global	celt.	1	Celtic
+ab	local	Citr.	1	Citráratha
+ab	global	Cl.	3	Class
+ab	global	Co.	297	Conjunctiv
+ab	global	Comp.	16	Comparativ
+ab	global	Compar.	25	Comparativ
+ab	global	Comparat.	2	Comparativ
+ab	global	concret.	3	concretum
+ab	global	Conj.	99	Conjunctiv
+ab	global	conjunct.	1	conjunctiv
+ab	global	Cons.	7	Consonanten
+ab	local	d.	13	das
+ab	local	d.	31	des
+ab	local	d.	5	der
+ab	global	d.	562	dual
+ab	global	D.	780	Dativ
+ab	global	d. h.	325	das heisst
+ab	global	d. i.	1	das ist
+ab	global	dass.	439	dasselbe
+ab	global	Dat.	157	Dativ
+ab	global	Demin.	1	Deminutiv
+ab	global	Denom.	5	Denominativ
+ab	global	Denomin.	2	Denominativ
+ab	global	Des.	2	Desiderativ
+ab	global	Desid.	117	Desiderativ
+ab	global	desid.	12	desiderativ
+ab	global	Desider.	5	Desiderativ
+ab	global	dopp.	2	doppeltem 
+ab	global	dreisilb.	2	dreisilbig
+ab	local	Dsch.	2	Dschamadagni
+ab	global	du	3	dual
+ab	global	du.	1063	dual
+ab	global	Du.	1	Dual
+ab	global	dual.	2	dual
+ab	global	e.	14	ebenso
+ab	global	eigentl.	3	eigentlich
+ab	global	End.	1	Endung
+lang	global	engl.	1	English
+ab	global	erg.	120	ergänze
+ab	global	etc.	1	et cetera
+ab	global	etw.	5	etwas
+ab	local	f.	3	folgende
+ab	global	f.	2842	femininum
+ab	global	fem.	89	femininum
+ab	global	Fem.	11	Femininum
+ab	global	Folg.	2	Folgenden
+ab	global	folg.	32	folgende
+lang	global	französ.	1	French
+ab	global	fut.	1	futurum
+ab	global	Fut.	20	Futurum
+ab	global	Futur.	3	Futurum
+ab	global	G.	873	Genetiv
+ab	global	Gegens.	19	Gegensatz 
+ab	global	Gen.	400	Genetiv
+lang	local	germ.	1	German
+ab	global	Ggs.	1	Gegensatz
+ab	local	Gm.	1	Gmelin
+lang	global	go.	7	Gothic
+lang	global	got.	5	Gothic
+lang	global	goth.	28	Gothic
+lang	global	gr.	120	Greek
+ab	global	Gramm.	2	Grammatikern
+lang	global	griech.	9	Greek
+ab	local	Gärtn.	1	Gärtner
+ab	local	H.	1	Himmel
+ab	global	Handschr.	1	Handschrift
+lang	global	hebr.	1	Hebrew
+lang	global	hochd.	1	High German
+ab	local	Hymn.	1	Hymne
+lang	global	hzv.	1	Middle Persian/Pahlavi (‘Huzvaresh’ script)
+ab	global	I.	803	Instrumental
+ab	global	Imp.	2	Imperativ
+ab	global	imper.	1	imperativ
+ab	global	imperat.	1	imperativ
+ab	global	Imperf.	152	Imperfektum
+ab	global	imperf.	1	imperfektum
+ab	global	imperfect.	1	imperfektum
+ab	global	Impf.	234	Imperfektum
+ab	global	Impv.	68	Imperativ
+ab	global	Ind.	27	Indicativ
+ab	global	indecl.	1	indeclinable
+ab	global	indekl.	1	indeklinable
+ab	global	Indic.	5	Indicativ
+ab	global	Inf.	221	Infinitiv
+ab	global	Infin.	37	Infinitiv
+ab	global	insbes.	1	insbesondere
+ab	global	Instr.	157	Instrumental
+ab	global	Int.	95	Intensiv
+ab	global	int.	10	intensiv
+ab	global	Intens.	210	Intensiv
+ab	global	intens.	13	intensiv
+ab	global	intr.	9	intransitiv
+ab	global	intrans.	10	intransitiv
+ab	global	intransit.	1	intransitiv
+ab	global	Iv.	131	Imperativ
+ab	global	jem.	4	jemandem
+ab	local	K.	1	Karañja
+ab	local	K.	1	Kutsa
+lang	global	kambr.	1	Kambrian
+ab	global	Kons.	2	Konsonanten
+ab	global	L.	834	Locativ
+ab	global	l.	1	lesen
+lang	global	la.	2	Latin
+ab	local	Lam.	1	Lamarck
+lang	global	lat.	97	Latin
+lang	global	latein.	2	Latin
+ab	global	les.	3	lesen
+lang	global	lett.	2	Lettish
+ab	local	Lin.	1	Linnaeus
+lang	global	lit.	22	Lithuanian
+lang	global	litth.	8	Lithuanian
+ab	global	Lo.	17	Locativ
+ab	global	Loc.	117	Locativ
+ab	global	Locat.	1	Locativ
+ab	global	Lokaladv.	1	Lokaladverb
+ab	local	m.	259	mit
+ab	local	M.	1	Mitra
+ab	local	M.	2	Mātaríśva
+ab	global	m.	3473	masculinum
+ab	global	masc.	11	masculinum
+ab	global	me.	526	medium
+ab	global	Me.	11	Medium
+ab	global	med.	182	medium
+ab	global	Med.	40	Medium
+ab	global	Metr.	1	Metrum
+ab	local	Mitr.	1	Mitra
+lang	global	mittelh.	1	Middle High German
+lang	global	mittelhochd.	1	Middle High German
+ab	local	n.	10	nach
+ab	global	n.	2373	neutrum
+ab	global	N.	1779	Nominativ
+ab	global	NB.	1	Nota Bene
+lang	global	ndd.	1	Low German
+ab	global	neb.	48	neben
+lang	global	neuhd.	2	New High German
+lang	global	neuhochd.	1	New High German
+ab	global	neutr.	41	neutrum
+ab	global	Neutr.	2	Neutrum
+ab	global	Nom.	52	Nominativ
+ab	global	Nominat.	2	Nominativ
+ab	global	näml.	4	nämlich
+ab	global	o.	19	oder
+ab	global	Obj.	40	Objekt
+ab	global	obj.	1	objekt
+ab	global	od.	35	oder
+ab	global	Opf.	1	Opferern
+ab	global	Opt.	158	Optativ 
+ab	global	Optat.	1	Optativ 
+ab	global	Ortsadv.	1	Ortsadverb
+lang	global	osc.	1	Oscan
+lang	global	osk.	1	Oscan
+ab	local	P.	1	Palasti
+ab	global	p.	1716	plural
+ab	global	P.	40	Participium
+ab	global	par.	16	parallel
+ab	global	paral.	1	parallel
+ab	global	parall.	3	parallel
+ab	global	Part.	1501	Participium
+ab	global	part.	3	participium
+ab	global	Partic.	10	Participium
+ab	global	partit.	1	partitiver
+ab	global	pass.	83	passivisch
+ab	global	Pass.	102	Passivisch
+ab	global	passiv.	4	passivisch
+ab	global	Patron.	1	Patronym
+ab	global	Perf.	443	Perfektum
+ab	global	perf.	4	perfektum
+ab	global	Pers.	1	Person
+ab	global	pl.	635	plural
+ab	global	Pl.	2	Plural
+ab	global	plur.	16	plural
+ab	global	Plur.	9	Plural
+ab	global	Plusq.	1	Plusquamperfekt
+ab	global	Plusqu.	1	Plusquamperfekt
+ab	global	Plusquamp.	5	Plusquamperfekt
+ab	global	Plusquamperf.	12	Plusquamperfekt
+ab	global	Plusquampf.	1	Plusquamperfekt
+lang	global	poln.	1	Polish
+ab	local	pp.	2	perge, perge‎
+ab	local	pp.	2	perge, perge
+ab	local	Pr.	1	Priyamedha
+ab	global	pr.	28	pronomen
+ab	global	Praep.	18	Praeposition
+ab	global	praep.	1	praeposition
+ab	global	Praes.	7	Praesens
+ab	global	praes.	20	praesens
+ab	global	Prec.	14	Precativ
+ab	global	Precat.	1	Precativ
+ab	global	pron.	24	pronomen
+ab	global	Pron.	3	Pronomen
+ab	global	prs.	14	praesens
+ab	global	Präd.	1	Prädicativ
+ab	global	präd.	3	prädikativ
+ab	global	Präp.	14	Präposition
+ab	global	präp.	1	präposition
+ab	global	Präpos.	4	Präposition
+ab	global	Präs.	6	Präsentisch
+ab	global	präs.	1	präsentisch
+ab	global	Präsent.	2	Präsentisch
+ab	global	präsent.	1	präsentisch
+ab	global	prät.	2	präteritum
+ab	global	ps.	1	person
+ab	local	R. Br.	2	Robert Brown
+ab	global	Red.	1	Reduplicativ
+ab	global	Redupl.	11	Reduplicativ
+ab	global	regelm.	1	regelmässige
+ab	global	Rel.	2	Relativ
+ab	local	Rich.	2	Richard
+ab	local	Roxb.	4	Roxburghii
+lang	global	russ.	3	Russian
+ab	local	s.	677	siehe
+ab	local	s.	1	??
+ab	global	s.	1644	singular
+ab	global	S.	4	Siehe
+ab	global	s. d.	66	siehe dort
+ab	global	s. o.	126	siehe oben
+ab	global	s. u.	29	siehe unter
+ab	local	s. u. d.	1	siehe unter diesen
+lang	global	sankr.	1	Sanskrit
+lang	global	sanskr.	8	Sanskrit
+lang	global	Sanskrit	31	Sanskrit
+lang	global	sanskrit	2	Sanskrit
+ab	global	sc.	2	scilicet
+ab	global	schol.	2	scholiast
+ab	global	schw.	1	schwach
+ab	global	scil.	1	scilicet
+ab	global	Sing.	17	Singular
+ab	global	sing.	11	singular
+lang	global	skt.	1	Sanskrit
+lang	global	slav.	1	Slavonic
+ab	global	spr.	6	sprechen
+ab	global	sprech.	3	sprechen
+ab	local	St.	1	Stamm
+ab	global	st.	273	statt
+ab	local	Sth.	1	Sthūragūpa
+ab	global	Strom.	1	Strome
+ab	global	Subj.	11	Subjekt
+ab	global	Subst.	67	Substantiv
+ab	global	subst.	18	substantiv
+ab	global	substant.	1	substantiv
+ab	global	Suff.	1	Suffix
+ab	global	Sup.	7	Superlativ
+ab	global	sup.	1	superlativ
+ab	global	Superl.	73	Superlativ
+ab	global	superl.	2	superlativ
+ab	global	Superlat.	3	Superlativ
+ab	global	Säng.	1	Sängern
+ab	global	trans.	3	transitiv
+ab	local	u.	3	unter
+ab	global	u.	51	und
+ab	global	u. a.	3	und andere
+ab	global	u. s. w.	744	und so weiter
+lang	global	umbr.	1	Umbrian
+ab	global	unpers.	1	unpersönlich
+ab	global	unregelm.	1	unregelmässige
+ab	global	urspr.	22	ursprünglich
+ab	global	Urspr.	1	Ursprünglich
+ab	local	utt.	1	uttamá
+ab	local	V.	59	Vorige
+ab	local	v.	5	vorige
+ab	local	v.	3	vom
+ab	local	V.	1	Varuna
+ab	local	V.	1	Viśvāmitra
+ab	global	V.	728	Vocativ
+ab	global	v.	279	von
+ab	global	v. u.	177	von unten
+ab	local	Var.	1	Varuna
+ab	global	Var.	3	Variante
+lang	global	ved.	2	Vedic
+ab	global	Verg. Aen.	1	Vergleiche Aenderung
+ab	global	Vergl.	21	Vergleiche
+ab	global	vergl.	55	vergleiche
+ab	global	Versschl.	1	Versschlusse
+ab	global	Vgl.	240	Vergleiche
+ab	global	vgl.	1438	vergleiche
+ab	global	viell.	5	vielleicht
+ab	global	Vo.	53	Vocativ
+ab	global	Voc.	43	Vocativ
+ab	global	Vok.	7	Vokativ
+ab	global	vollst.	1	vollständig
+ab	global	vor.	27	vorigen
+ab	local	W.	1	Wetterwolke
+ab	local	Willd.	2	Willdenow
+ab	local	Y.	1	Yayāti
+ab	global	z.	4	zu
+ab	global	z. B.	168	zum Beispiel
+lang	global	zd.	2	Zend (Avestan)
+ab	global	zeitl.	1	zeitlich
+lang	global	Zend	14	Zend (Avestan)
+lang	global	zend.	37	Zend (Avestan)
+lang	global	Zend.	2	Zend (Avestan)
+ab	global	zu.	1	zum
+ab	global	Zus.	1	Zusammenhang
+ab	global	zuspr.	1	zusprechen
+ab	global	ähnl.	7	ähnliche
+lang	global	äol.	1	Aeolic
+ab	global	üb.	3	über
+ab	global	⁓	2	at similar; at identical, parallel passages
