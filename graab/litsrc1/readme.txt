@@ -298,3 +298,21 @@ $ grep -E '^;' extract_ls_all.txt
 cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
 
 ------------------------------------------------------------
+# 06-27-2023
+extract_ls1e_AB.txt
+cp extract_ls1d_AB.txt extract_ls1e_AB.txt
+Three tooltip revisions in ls1e.
+ Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1607908498
+
+# install revised graauth/tooltip.txt in csl-pywork
+cat extract_ls1e_AB.txt extract_ls3_local.txt > extract_ls_all.txt
+
+# change format to that of tooltip.txt in csl-pywork
+python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
+
+141 abbreviations read from extract_ls_all.txt
+141 lines written to temp_tooltip.txt
+
+cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+
+------------------------------------------------------------
