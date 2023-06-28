@@ -1,5 +1,5 @@
 ; *********************************************************
-; Part 1 of 3
+; Part 1 of 4
 ; OLD: "in <ab n="Vorige">V.</ab> _"
 ; NEW: "in <ab n="Vers">V.</ab> _"
 ; 20 changes (in 19 lines)
@@ -100,7 +100,7 @@
 82460 new <div n="TS">-ā́sas vásavas {491,15}, wo aber wie in <ab n="Vers">V.</ab> _{491,4} hūtā́sas (von hū) zu vermuthen ist.
 ;---------------------------------------------------
 ; *********************************************************
-; Part 2 of 3
+; Part 2 of 4
 ; regex replace (Emacs syntax): "—\([^ ]+\)〉" → "— \1〉"
 ; 17 changes (in 16 lines)
 ; *********************************************************
@@ -185,7 +185,7 @@
 81943 new <div n="TS">-vire 7〉 vásu {710,6}. — 9〉 agním admasádyāya {663,19}. — 11〉 té 〰 té [Page1663] invire {360,6}; ké vā́jāya {876,3}. — 15〉 tvā́m (índram) {635,8}. — ā́ kakṣī́vate {786,8} (gónām?).
 ;---------------------------------------------------
 ; *********************************************************
-; Part 3 of 3
+; Part 3 of 4
 ; line 47519: —{@pári@} -> — {@pári@}
 ; line 78829 : bhú{@vanā‿ánu@} -> bhúvanā‿ánu
 ; line 81056: —{@sám@} -> — {@sám@}
@@ -204,4 +204,26 @@
 81056 old <div n="TS">-ate 1〉 nadías praváṇeṣu {54,10}. — 2〉 vṛtrā́ṇi {497,2}; {498,3}; {637,8}; {649,4}; {713,10}. — {@áva@} 1〉 (vṛtrám) {80,5}. — {@úpa@} jaghánān {516,13} (aśvā́janī). — {@ní@} 4〉 ádhi sā́nau vájreṇa {80,6}. —{@sám@} 4〉 yujā́ {726,4}.
 ;
 81056 new <div n="TS">-ate 1〉 nadías praváṇeṣu {54,10}. — 2〉 vṛtrā́ṇi {497,2}; {498,3}; {637,8}; {649,4}; {713,10}. — {@áva@} 1〉 (vṛtrám) {80,5}. — {@úpa@} jaghánān {516,13} (aśvā́janī). — {@ní@} 4〉 ádhi sā́nau vájreṇa {80,6}. — {@sám@} 4〉 yujā́ {726,4}.
+;---------------------------------------------------
+; *********************************************************
+; Part 4 of 4
+; line 9238: Liede _{124,9} den Vers 9:
+; line 30931: (<ab>vgl.</ab> Vers 9 und {739,5})
+; line 31062: [divákṣasas dhenávas vṛ́ṣṇas (agnés) áśvās in Vers 2]
+; These should also be marked with the "implied notation".
+; *********************************************************
+; <L>1402<pc>0163<k1>ahana<k2>ahana/
+9238 old {@ahaná,@}¦ <ab>a.</ab>, {%tagend, aufleuchtend%} (von gleichem Ursprunge mit áhan, oder aus ihm stammend). Beiwort der Morgenröthe ({123,4}). Man <ab>vgl.</ab> in dem nahe verwandten Liede _{124,9} den Vers 9: āsā́m pū́rvāsām áhasu svásṝṇām áparā pū́rvām abhí eti paścā́t. Beím Aufleuchten dieser älteren Schwestern (der Morgenröthen) geht die spätere hinter der früheren her.
+;
+9238 new {@ahaná,@}¦ <ab>a.</ab>, {%tagend, aufleuchtend%} (von gleichem Ursprunge mit áhan, oder aus ihm stammend). Beiwort der Morgenröthe ({123,4}). Man <ab>vgl.</ab> in dem nahe verwandten Liede 124 den Vers _{124,9}: āsā́m pū́rvāsām áhasu svásṝṇām áparā pū́rvām abhí eti paścā́t. Beím Aufleuchten dieser älteren Schwestern (der Morgenröthen) geht die spätere hinter der früheren her.
+;---------------------------------------------------
+; <L>4231<pc>0601<k1>div<k2>di/v, dyu/, dyo/
+30931 old <div n="TS">-ívam 1〉 {52,12}; {62,8}; {68,1}; {164,47}. _{164,51}; {293,7}; {338,4}; {462,2}; {626,48}; {709,8}; {729,5}; {766,2}; {882,3}; {884,2}; {947,9}; {1015,2}; {1016,3}; {1020,8}; {1024,2}; in {715,7}. _{715,8} ist die Seihe (pavítram) mit dem Himmel verglichen (<ab>vgl.</ab> Vers 9 und {739,5}).
+;
+30931 new <div n="TS">-ívam 1〉 {52,12}; {62,8}; {68,1}; {164,47}. _{164,51}; {293,7}; {338,4}; {462,2}; {626,48}; {709,8}; {729,5}; {766,2}; {882,3}; {884,2}; {947,9}; {1015,2}; {1016,3}; {1020,8}; {1024,2}; in {715,7}. _{715,8} ist die Seihe (pavítram) mit dem Himmel verglichen (<ab>vgl.</ab> Vers _{715,9} und {739,5}).
+;---------------------------------------------------
+; <L>4248<pc>0606<k1>divoruc<k2>divo-ru/c
+31064 old <div n="TS">-úcas [<ab>N.</ab> <ab>p.</ab>] {241,5} [divákṣasas dhenávas vṛ́ṣṇas (agnés) áśvās in Vers 2].
+;
+31064 new <div n="TS">-úcas [<ab>N.</ab> <ab>p.</ab>] {241,5} [divákṣasas dhenávas vṛ́ṣṇas (agnés) áśvās in Vers _{241,2}].
 ;---------------------------------------------------
