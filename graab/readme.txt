@@ -215,3 +215,9 @@ make change_7f.txt and graab/temp_graab_7f.txt
 cp temp_graab_7f.txt  temp_graab_7.txt
 install new global abbreviation file for GRA in csl-pywork
 sh redo.sh
+**************************************************************
+06-26-2023
+litsrc2 directory
+Markup for links to RV.
+Change markup for 'non-standard' RV links to standard form {a,b}.
+temp_

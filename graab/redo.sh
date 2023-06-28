@@ -1,4 +1,4 @@
-sfx="7"
+sfx="8"
 file=temp_graab_$sfx.txt
 origgra=/c/xampp/htdocs/cologne/csl-orig/v02/gra/gra.txt
 echo "Copy $file to $origgra"
