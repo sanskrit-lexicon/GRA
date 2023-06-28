@@ -1,0 +1,207 @@
+; *********************************************************
+; Part 1 of 3
+; OLD: "in <ab n="Vorige">V.</ab> _"
+; NEW: "in <ab n="Vers">V.</ab> _"
+; 20 changes (in 19 lines)
+; *********************************************************
+; <L>9<pc>0002<k1>aMsatrakoSa<k2>a/Msatra-koSa
+56 old {@áṃsatra-kośa,@}¦ <ab>a.</ab>, {%dessen Behältniss ein Panzer ist,%} als Beiwort des aus den Presssteinen durch die Seihe in die Kufen fliessenden [Page3] Somatrankes, der hier mit einem Brunnen verglichen ist; {927,7}: dróṇāhāvam avatám áśmacakram, áṃsatrakośam siñcatā nṛpā́ṇam. Den Brunnen, dessen Eimer die Kufe, dessen Rad der Pressstein, dessen Behälter der Panzer ist, giesst aus, den männergetrunkenen. Unter dem Panzer, der in <ab n="Vorige">V.</ab> _{927,8} mit várma bezeichnet ist, und der dicht und breit geflochten werden soll (<ab n="Vorige">V.</ab> _{927,8}), scheint die Somaseihe (pavítra) verstanden.
+;
+56 new {@áṃsatra-kośa,@}¦ <ab>a.</ab>, {%dessen Behältniss ein Panzer ist,%} als Beiwort des aus den Presssteinen durch die Seihe in die Kufen fliessenden [Page3] Somatrankes, der hier mit einem Brunnen verglichen ist; {927,7}: dróṇāhāvam avatám áśmacakram, áṃsatrakośam siñcatā nṛpā́ṇam. Den Brunnen, dessen Eimer die Kufe, dessen Rad der Pressstein, dessen Behälter der Panzer ist, giesst aus, den männergetrunkenen. Unter dem Panzer, der in <ab n="Vers">V.</ab> _{927,8} mit várma bezeichnet ist, und der dicht und breit geflochten werden soll (<ab n="Vorige">V.</ab> _{927,8}), scheint die Somaseihe (pavítra) verstanden.
+;---------------------------------------------------
+; <L>390<pc>0050<k1>aDvasman<k2>a-Dvasma/n
+2570 old <div n="TS">-ábhis {226,14} (<ab>vgl.</ab> ánabhimlātavarṇas in <ab n="Vorige">V.</ab> _{226,13}); pathíbhis: {225,5}; {803,3}.
+;
+2570 new <div n="TS">-ábhis {226,14} (<ab>vgl.</ab> ánabhimlātavarṇas in <ab n="Vers">V.</ab> _{226,13}); pathíbhis: {225,5}; {803,3}.
+;---------------------------------------------------
+; <L>2315<pc>0301<k1>eva<k2>eva/
+15799 old {@evá@} (oder metrisch gedehnt evā́),¦ {%so, auf diese Weise%} [aus dem Deutestamme e], hieraus entwickelte sich dann die versichernde, verstärkende Bedeutung. 1〉 {%so, auf diese Weise%} {161,2}; {210,7}; {356,7}; {381,3}; {495,1}; {542,4}; {644,23}; {941,7}; 2〉 insbesondere einem Relativ yáthā entsprechend: {%wie …, so ‥%}. Gewöhnlich geht der Satz mit yáthā voran: {76,5}; {113,1}; {221,4}; {251,2}; {270,3}; {432,7}; {445,1}; {667,17}; {669,7}; {794,5}; {808,12}; {833,6}; {844,5}; {886,8}; {975,5}; {1023,2}; so auch mit Verdoppelung: yáthā-yathā ‥‥, evá‿evá {350,5}; oder der Satz mit yáthā folgt nach: {224,15}; {326,1}; {658,9}; 3〉 ferner häufig in diesem Sinne im Anfange des letzten Verses eines Liedes, auf das ganze vorhergehende Lied zurückweisend, <ab>z. B.</ab> {77,5}: evá agnís gótamebhis … astoṣṭa, {%so%} wurde Agni von den Gotamern gepriesen; so: {61,16}; {360,10}; {379,9}; {491,15}; {542,5}; {558,6}; {660,12}; {662,6}; {791,5}; {846,10}; {875,11}; {889,17}; {925,12}; {946,9}; so auch im Anfang des vorletzten Verses, wenn noch ein mehrern Liedern gemeinschaftlicher (erst bei der Sammlung hinzugefügter) Vers folgt: {210,8}; {890,16}; {915,17}; 4〉 {%so ‥‥ denn%} mit dem Imperativ oder einem Conjunctiv oder Optativ in imperativischem Sinne; so <ab>z. B.</ab> heisst es {662,2}, nachdem in <ab n="Vorige">V.</ab> _{662,1} des Varuna Grossthaten genannt sind, evā́ vandasva várunam bṛhántam, so preise denn den grossen Varuna (wie er oder da er das alles gethan hat); ähnlich {346,6}; {387,7}; {458,3}. _{458,13}; {809,15}. _{809,21}. _{809,27}. _{809,36}; besonders häufig in diesem Sinne in dem letzten Liedverse: {95,11}; {108,13}; {313,20}; {317,10}; {466,9}; {479,5}; {540,6}; {559,5}; {718,9}; {780,10}; {802,6}; {803,6}; {970,6}; 5〉 bekräftigend: {%wahrlich, wirklich, in der That;%} so namentlich am Anfange der Verse oder Versglieder: {178,4}; {190,8}; {193,9}; {315,1}; {324,5}; {701,28}. _{701,29}; {870,4}; auch wiederholt: evá‿evá {870,7}; so ferner nach Bindewörtern: utá {204,8}; átha {243,3}; 6〉 das vorhergehende Wort hervorhebend, sodass von dem dadurch ausgedrückten oder angedeuteten Begriffe in vollem oder vorzüglichem Masse die Aussage gilt; so a〉 nach Verben: {%recht, in Wahrheit:%} kṣéṣi {534,2}; b〉 nach Participien: {%eben erst, sobald nur, kaum:%} jātás {203,1}; jajñānás {939,4}; nī́tas {987,2}; c〉 nach Adjectiven: {%recht, ganz:%} ánuttamanyum {547,12}; dhruvā́s {920,12}; ékas {908,3}; {1027,2}; d〉 nach Substantiven und substantivisch aufgefassten Pronomen: {%besonders, vor allen, gerade:%} póṣam {1,3}: índram {460,2}; {946,9}; manyús {909,2}; púruṣas {916,2}; ahám {951,5}. _{951,8}; tám {215,4}; {933,5}. _{933,6}; [Page302] imé {495,2}; e〉 nach Adverbien, deren Begriff eine Steigerung zulässt: {%recht:%} jyók {950,1}; īrmā́ {870,6}; f〉 nach Adverbien der Allheit oder Verneinung: {%im vollen Sinne,%} jedoch nur durch Betonung auszudrücken: sanā́t {51,6}; {62,12}; {164,13}; {316,6}; ná {836,13}; so auch nach svayám {346,8}; g〉 nach Ortsadverbien: {%gerade:%} ihá {842,9}; {845,3}; átra {844,9}; {992,3}; so auch im zeitlichen Sinne nach tā́t {921,16}; 7〉 in diesem Sinne steht es namentlich bei zwei gleichen oder ähnlichen Worten desselben Satzes hinter dem erstern, <ab>z. B.</ab> {971,4}: párām evá parāvátam sapátnīm gamayāmasi, als eine Fremde eben lassen in die Fremde wir gehen die Nebenbuhlerin; so jānán 〰 jānatī́s {140,7}; bhágas 〰 bhágavān {557,5}; tanū́s 〰 tanúas {926,10}; in entsprechender Weise steht evá hinter dem Relativ, wenn der Demonstrativsatz folgt: yādṛ́k 〰 ‥, tādṛ́k {398,6}; yā́t 〰 ‥, tā́t {462,6}; 8〉 in Verbindungen mit andern Partikeln: a〉 {%so auch:%} evā́ ca {934,9}; evá‿u {308,6} und {952,8} (wo yáthā ha den vorhergehenden Relativsatz eröffnet); b〉 evā́ caná mit vorhergehendem mā́ {489,17}, oder folgendem ná {444,2}, {%nimmer mehr;%} c〉 cid evá mit Hervorhebung des vorhergehenden Wortes, etwa {%eben recht:%} ākhúm {779,30}; tā́n {980,1}; d〉 íd evá, wo íd nur das evá verstärkt, so nach tuā́m {1022,8}; ná {877,4}; in gleichem Sinne íd nú evá nach tám {301,7}; tā́s {347,9}; e〉 evá‿íd, stets zu Anfang eines Verses oder Versgliedes, und zwar: {%wahrlich, so recht:%} {124,6}; {165,12}; {312,20}; {470,6}; {622,31}; {629,3}; {653,18}; {853,5}; {%so nun, auf diese Weise%} (in dem Sinne von 〔N. 3〕) {464,10}; {539,6}; {%dann recht%} (bei vorhergehendem yád, wenn): evá‿ íd kāṇvásya bodhatam {629,9}. _{629,10}; {630,2}; mit folgendem yád {856,6}. Die Verbindung evá‿ íd nú kam kehrt in {549,3} dreimal wieder: {%fürwahr;%} f〉 evā́ hí, {%denn wahrlich%} oder {%wahrlich ja%} {8,8}—_{8,10}; {173,8}; {386,12}; {%denn so%} {329,6}; {644,16}; {%so ja%} {854,6}. _{854,7}; evā́ hí jātás {470,6} {%denn kaum geboren%} (<ab>vgl.</ab> oben 6b).
+;
+15799 new {@evá@} (oder metrisch gedehnt evā́),¦ {%so, auf diese Weise%} [aus dem Deutestamme e], hieraus entwickelte sich dann die versichernde, verstärkende Bedeutung. 1〉 {%so, auf diese Weise%} {161,2}; {210,7}; {356,7}; {381,3}; {495,1}; {542,4}; {644,23}; {941,7}; 2〉 insbesondere einem Relativ yáthā entsprechend: {%wie …, so ‥%}. Gewöhnlich geht der Satz mit yáthā voran: {76,5}; {113,1}; {221,4}; {251,2}; {270,3}; {432,7}; {445,1}; {667,17}; {669,7}; {794,5}; {808,12}; {833,6}; {844,5}; {886,8}; {975,5}; {1023,2}; so auch mit Verdoppelung: yáthā-yathā ‥‥, evá‿evá {350,5}; oder der Satz mit yáthā folgt nach: {224,15}; {326,1}; {658,9}; 3〉 ferner häufig in diesem Sinne im Anfange des letzten Verses eines Liedes, auf das ganze vorhergehende Lied zurückweisend, <ab>z. B.</ab> {77,5}: evá agnís gótamebhis … astoṣṭa, {%so%} wurde Agni von den Gotamern gepriesen; so: {61,16}; {360,10}; {379,9}; {491,15}; {542,5}; {558,6}; {660,12}; {662,6}; {791,5}; {846,10}; {875,11}; {889,17}; {925,12}; {946,9}; so auch im Anfang des vorletzten Verses, wenn noch ein mehrern Liedern gemeinschaftlicher (erst bei der Sammlung hinzugefügter) Vers folgt: {210,8}; {890,16}; {915,17}; 4〉 {%so ‥‥ denn%} mit dem Imperativ oder einem Conjunctiv oder Optativ in imperativischem Sinne; so <ab>z. B.</ab> heisst es {662,2}, nachdem in <ab n="Vers">V.</ab> _{662,1} des Varuna Grossthaten genannt sind, evā́ vandasva várunam bṛhántam, so preise denn den grossen Varuna (wie er oder da er das alles gethan hat); ähnlich {346,6}; {387,7}; {458,3}. _{458,13}; {809,15}. _{809,21}. _{809,27}. _{809,36}; besonders häufig in diesem Sinne in dem letzten Liedverse: {95,11}; {108,13}; {313,20}; {317,10}; {466,9}; {479,5}; {540,6}; {559,5}; {718,9}; {780,10}; {802,6}; {803,6}; {970,6}; 5〉 bekräftigend: {%wahrlich, wirklich, in der That;%} so namentlich am Anfange der Verse oder Versglieder: {178,4}; {190,8}; {193,9}; {315,1}; {324,5}; {701,28}. _{701,29}; {870,4}; auch wiederholt: evá‿evá {870,7}; so ferner nach Bindewörtern: utá {204,8}; átha {243,3}; 6〉 das vorhergehende Wort hervorhebend, sodass von dem dadurch ausgedrückten oder angedeuteten Begriffe in vollem oder vorzüglichem Masse die Aussage gilt; so a〉 nach Verben: {%recht, in Wahrheit:%} kṣéṣi {534,2}; b〉 nach Participien: {%eben erst, sobald nur, kaum:%} jātás {203,1}; jajñānás {939,4}; nī́tas {987,2}; c〉 nach Adjectiven: {%recht, ganz:%} ánuttamanyum {547,12}; dhruvā́s {920,12}; ékas {908,3}; {1027,2}; d〉 nach Substantiven und substantivisch aufgefassten Pronomen: {%besonders, vor allen, gerade:%} póṣam {1,3}: índram {460,2}; {946,9}; manyús {909,2}; púruṣas {916,2}; ahám {951,5}. _{951,8}; tám {215,4}; {933,5}. _{933,6}; [Page302] imé {495,2}; e〉 nach Adverbien, deren Begriff eine Steigerung zulässt: {%recht:%} jyók {950,1}; īrmā́ {870,6}; f〉 nach Adverbien der Allheit oder Verneinung: {%im vollen Sinne,%} jedoch nur durch Betonung auszudrücken: sanā́t {51,6}; {62,12}; {164,13}; {316,6}; ná {836,13}; so auch nach svayám {346,8}; g〉 nach Ortsadverbien: {%gerade:%} ihá {842,9}; {845,3}; átra {844,9}; {992,3}; so auch im zeitlichen Sinne nach tā́t {921,16}; 7〉 in diesem Sinne steht es namentlich bei zwei gleichen oder ähnlichen Worten desselben Satzes hinter dem erstern, <ab>z. B.</ab> {971,4}: párām evá parāvátam sapátnīm gamayāmasi, als eine Fremde eben lassen in die Fremde wir gehen die Nebenbuhlerin; so jānán 〰 jānatī́s {140,7}; bhágas 〰 bhágavān {557,5}; tanū́s 〰 tanúas {926,10}; in entsprechender Weise steht evá hinter dem Relativ, wenn der Demonstrativsatz folgt: yādṛ́k 〰 ‥, tādṛ́k {398,6}; yā́t 〰 ‥, tā́t {462,6}; 8〉 in Verbindungen mit andern Partikeln: a〉 {%so auch:%} evā́ ca {934,9}; evá‿u {308,6} und {952,8} (wo yáthā ha den vorhergehenden Relativsatz eröffnet); b〉 evā́ caná mit vorhergehendem mā́ {489,17}, oder folgendem ná {444,2}, {%nimmer mehr;%} c〉 cid evá mit Hervorhebung des vorhergehenden Wortes, etwa {%eben recht:%} ākhúm {779,30}; tā́n {980,1}; d〉 íd evá, wo íd nur das evá verstärkt, so nach tuā́m {1022,8}; ná {877,4}; in gleichem Sinne íd nú evá nach tám {301,7}; tā́s {347,9}; e〉 evá‿íd, stets zu Anfang eines Verses oder Versgliedes, und zwar: {%wahrlich, so recht:%} {124,6}; {165,12}; {312,20}; {470,6}; {622,31}; {629,3}; {653,18}; {853,5}; {%so nun, auf diese Weise%} (in dem Sinne von 〔N. 3〕) {464,10}; {539,6}; {%dann recht%} (bei vorhergehendem yád, wenn): evá‿ íd kāṇvásya bodhatam {629,9}. _{629,10}; {630,2}; mit folgendem yád {856,6}. Die Verbindung evá‿ íd nú kam kehrt in {549,3} dreimal wieder: {%fürwahr;%} f〉 evā́ hí, {%denn wahrlich%} oder {%wahrlich ja%} {8,8}—_{8,10}; {173,8}; {386,12}; {%denn so%} {329,6}; {644,16}; {%so ja%} {854,6}. _{854,7}; evā́ hí jātás {470,6} {%denn kaum geboren%} (<ab>vgl.</ab> oben 6b).
+;---------------------------------------------------
+; <L>3135<pc>0421<k1>Garmasveda<k2>Garma/-sveda
+22032 old <div n="TS">-ebhis {893,7} varā́hais, parallel dem svédāñjibhis in <ab n="Vorige">V.</ab> _{893,6}.
+;
+22032 new <div n="TS">-ebhis {893,7} varā́hais, parallel dem svédāñjibhis in <ab n="Vers">V.</ab> _{893,6}.
+;---------------------------------------------------
+; <L>3184<pc>0427<k1>ca<k2>ca
+22393 old <div n="P">IV. {%wenn,%} stets mit betontem Verb (<ab>vgl.</ab> ca‿íd = céd): {74,6} (der Nachsatz in <ab n="Vorige">V.</ab> _{74,7}); {91,6} (tuám ca soma nas váśas, jīvā́tum ná [Page429] marāmahe); {232,11} (índras ca mṛḍáyāti nas, ná nas paścā́t aghám naśat); {277,4} (ā́ ca tvā́m etā́ vṛ́ṣaṇā váhātas, ‥ índras ‥ śṛṇavat ‥); {40,6} (imā́m ca vā́cam pratiháryathā naras, víśvā‿íd vāmā́ vas aśnavat); {934,3} (ā́ ca gáchān, mitrám enā dadhāma); vielleicht auch {26,8}.
+;
+22393 new <div n="P">IV. {%wenn,%} stets mit betontem Verb (<ab>vgl.</ab> ca‿íd = céd): {74,6} (der Nachsatz in <ab n="Vers">V.</ab> _{74,7}); {91,6} (tuám ca soma nas váśas, jīvā́tum ná [Page429] marāmahe); {232,11} (índras ca mṛḍáyāti nas, ná nas paścā́t aghám naśat); {277,4} (ā́ ca tvā́m etā́ vṛ́ṣaṇā váhātas, ‥ índras ‥ śṛṇavat ‥); {40,6} (imā́m ca vā́cam pratiháryathā naras, víśvā‿íd vāmā́ vas aśnavat); {934,3} (ā́ ca gáchān, mitrám enā dadhāma); vielleicht auch {26,8}.
+;---------------------------------------------------
+; <L>3265<pc>0442<k1>carzaRIDft<k2>carzaRI-Df/t
+23054 old <div n="TS"><chg type="chg" n="106" src="gra"><old>-ṛ́thā</old><new>-ṛ́tā</new></chg> [ergänze vájrena und <ab>vgl.</ab> in <ab n="Vorige">V.</ab> _{297,4} vajrahasta] {699,5}.
+;
+23054 new <div n="TS"><chg type="chg" n="106" src="gra"><old>-ṛ́thā</old><new>-ṛ́tā</new></chg> [ergänze vájrena und <ab>vgl.</ab> in <ab n="Vers">V.</ab> _{297,4} vajrahasta] {699,5}.
+;---------------------------------------------------
+; <L>3359<pc>0462<k1>Candu<k2>Ca/ndu
+23914 old <div n="TS">-us vṛṣā́ (índras) {55,4} (<ab>vgl.</ab> in <ab n="Vorige">V.</ab> _{55,5} tvíṣīmate índrāya).
+;
+23914 new <div n="TS">-us vṛṣā́ (índras) {55,4} (<ab>vgl.</ab> in <ab n="Vers">V.</ab> _{55,5} tvíṣīmate índrāya).
+;---------------------------------------------------
+; <L>5369<pc>0794<k1>pavitra<k2>pavi/tra
+39972 old {@pavítra,@}¦ <ab>n.</ab>, {%Läuterungsmittel%} [von pū], insbesondere 1〉 die aus Schafwolle gewobene {%Seihe,%} durch welche der Soma geklärt wurde, auch in bildlichem Sinne mit mehr oder minder durchgeführtem Bilde ({785,7}—_{785,9}); 2〉 {%Entflammungsmittel,%} <ab>d. h.</ab> Mittel, durch welche das heilige Feuer entflammt oder flammender gemacht wird, so besonders {260,8}, wo ihre Zahl auf 3 angegeben wird unter Zurückweisung auf den dreifachen Glanz (arkás trídhā́tus) in <ab n="Vorige">V.</ab> _{260,7}; aus diesem Verse erhellt, dass die Erzeugung des Agni aus den Reibhölzern (<ab>vgl.</ab> <ab n="Vorige">V.</ab> _{260,3}), das Hineingiessen der Schmelzbutter (ghṛtá) und des Unsterblichkeitstrankes (amṛ́ta, havís) die drei Entflammungsmittel sind, aber auch hier (in <ab n="Vorige">V.</ab> _{260,8}), wie in den übrigen hierhergehörigen Stellen tritt die Uebertragung auf das geistige Gebiet hinzu.
+;
+39972 new {@pavítra,@}¦ <ab>n.</ab>, {%Läuterungsmittel%} [von pū], insbesondere 1〉 die aus Schafwolle gewobene {%Seihe,%} durch welche der Soma geklärt wurde, auch in bildlichem Sinne mit mehr oder minder durchgeführtem Bilde ({785,7}—_{785,9}); 2〉 {%Entflammungsmittel,%} <ab>d. h.</ab> Mittel, durch welche das heilige Feuer entflammt oder flammender gemacht wird, so besonders {260,8}, wo ihre Zahl auf 3 angegeben wird unter Zurückweisung auf den dreifachen Glanz (arkás trídhā́tus) in <ab n="Vers">V.</ab> _{260,7}; aus diesem Verse erhellt, dass die Erzeugung des Agni aus den Reibhölzern (<ab>vgl.</ab> <ab n="Vorige">V.</ab> _{260,3}), das Hineingiessen der Schmelzbutter (ghṛtá) und des Unsterblichkeitstrankes (amṛ́ta, havís) die drei Entflammungsmittel sind, aber auch hier (in <ab n="Vers">V.</ab> _{260,8}), wie in den übrigen hierhergehörigen Stellen tritt die Uebertragung auf das geistige Gebiet hinzu.
+;---------------------------------------------------
+; <L>6087<pc>0892<k1>pru<k2>pru
+44993 old <div n="TS">-anta {@abhí@} {354,8} abhí 〰 (ghṛtásya dhā́rās) samanā́‿iva yósās; <ab>vgl.</ab> síndhos iva prādhvané patayanti in <ab n="Vorige">V.</ab> _{354,7}.
+;
+44993 new <div n="TS">-anta {@abhí@} {354,8} abhí 〰 (ghṛtásya dhā́rās) samanā́‿iva yósās; <ab>vgl.</ab> síndhos iva prādhvané patayanti in <ab n="Vers">V.</ab> _{354,7}.
+;---------------------------------------------------
+; <L>6649<pc>1003<k1>mandrajihva<k2>mandra/-jihva
+49794 old <div n="TS">-as 1〉 savitā́ {512,4} (in <ab n="Vorige">V.</ab> _{512,3}. híraṇyajihvas).
+;
+49794 new <div n="TS">-as 1〉 savitā́ {512,4} (in <ab n="Vers">V.</ab> _{512,3}. híraṇyajihvas).
+;---------------------------------------------------
+; <L>6983<pc>1065a<k1>ya<k2>ya/
+52523 old <div n="TS">-ásmai (vor Vocalen -ásmā) {166,12}; {576,4}; {623,23}; {667,4}; {912,3}; {1021,3}. — 5〉 {94,2}. _{94,15} (té siāma); {264,7}; {358,11}; {667,7}; {857,4}; {923,22}; {1011,3} (téṣām in <ab n="Vorige">V.</ab> _{1011,2}); {1020,4}. _{1020,6}; {1021,6}. — 7〉 {166,3}. — 8〉 {355,9}; {361,8}; {575,4}; {923,20}; {1021,8}.
+;
+52523 new <div n="TS">-ásmai (vor Vocalen -ásmā) {166,12}; {576,4}; {623,23}; {667,4}; {912,3}; {1021,3}. — 5〉 {94,2}. _{94,15} (té siāma); {264,7}; {358,11}; {667,7}; {857,4}; {923,22}; {1011,3} (téṣām in <ab n="Vers">V.</ab> _{1011,2}); {1020,4}. _{1020,6}; {1021,6}. — 7〉 {166,3}. — 8〉 {355,9}; {361,8}; {575,4}; {923,20}; {1021,8}.
+;---------------------------------------------------
+; <L>7354<pc>1153<k1>rahUgaRa<k2>ra/hU-gaRa
+55971 old <div n="TS">-ās {78,5} (in <ab n="Vorige">V.</ab> _{78,1} gótamās).
+;
+55971 new <div n="TS">-ās {78,5} (in <ab n="Vers">V.</ab> _{78,1} gótamās).
+;---------------------------------------------------
+; <L>7999<pc>1274<k1>vid<k2>2. vid
+61567 old <div n="TS">-idmá (-idmā́) 6〉 mit perfektischer Bedeutung párīṇasas {641,7} (purā́); te ávasas {684,16} (purā́); sakhitvám {641,8} (purā́ in <ab n="Vorige">V.</ab> _{641,7}); te prámatim {849,7} (jāmivát). — 7〉 śúṣmam marútām {640,3}; asya sumatím {622,21}; {1020,5}; asya bhójanam {849,6}; útsam <ab>u. s. w.</ab> {871,2}; {910,5}; mahimánas maghavattvásya {468,3}. — 8〉 yád {439,8}; {965,5}. — 10〉 te yáthā mánas {170,3}; yás tvā́dattas {701,18}. —13〉 tvā vṛ́ṣantamam {10,10}; tvā purūvásum {81,8}; tvā vásupatim {270,9}; tvā dhanamjayám {276,6}; {665,13}; tuā mahā́ntam {462,6}; tvā sāsahím {670,3}; tvā tuvikūrmím {690,2}. — {@prá@} 1〉 yā́n {841,13}.
+;
+61567 new <div n="TS">-idmá (-idmā́) 6〉 mit perfektischer Bedeutung párīṇasas {641,7} (purā́); te ávasas {684,16} (purā́); sakhitvám {641,8} (purā́ in <ab n="Vers">V.</ab> _{641,7}); te prámatim {849,7} (jāmivát). — 7〉 śúṣmam marútām {640,3}; asya sumatím {622,21}; {1020,5}; asya bhójanam {849,6}; útsam <ab>u. s. w.</ab> {871,2}; {910,5}; mahimánas maghavattvásya {468,3}. — 8〉 yád {439,8}; {965,5}. — 10〉 te yáthā mánas {170,3}; yás tvā́dattas {701,18}. —13〉 tvā vṛ́ṣantamam {10,10}; tvā purūvásum {81,8}; tvā vásupatim {270,9}; tvā dhanamjayám {276,6}; {665,13}; tuā mahā́ntam {462,6}; tvā sāsahím {670,3}; tvā tuvikūrmím {690,2}. — {@prá@} 1〉 yā́n {841,13}.
+;---------------------------------------------------
+; <L>8119<pc>1290<k1>virUpa<k2>vi/-rUpa
+62349 old <div n="TS">-a 4〉 {684,6} (in <ab n="Vorige">V.</ab> _{684,5}. aṅgiras).
+;
+62349 new <div n="TS">-a 4〉 {684,6} (in <ab n="Vers">V.</ab> _{684,5}. aṅgiras).
+;---------------------------------------------------
+; <L>8434<pc>1351<k1>vfzAkapi<k2>vfzA/-kapi
+65130 old {@vṛṣā́-kapi,@}¦ <ab>m.</ab>, „Mannaffe“, nur im Liede _{912,1}, wo es Eigenname, wie es scheint eines Sohnes des Indra und der Indrani, ist; in <ab n="Vorige">V.</ab> _{912,5} wird er ohne weiteres „Affe“ (kapi) genannt.
+;
+65130 new {@vṛṣā́-kapi,@}¦ <ab>m.</ab>, „Mannaffe“, nur im Liede _{912,1}, wo es Eigenname, wie es scheint eines Sohnes des Indra und der Indrani, ist; in <ab n="Vers">V.</ab> _{912,5} wird er ohne weiteres „Affe“ (kapi) genannt.
+;---------------------------------------------------
+; <L>8743<pc>1391<k1>SAda<k2>SA/da
+67398 old <div n="TS">-eṣu áva 〰 gachati (sómas) {727,6} [in <ab n="Vorige">V.</ab> _{727,7} dróṇeṣu].
+;
+67398 new <div n="TS">-eṣu áva 〰 gachati (sómas) {727,6} [in <ab n="Vers">V.</ab> _{727,7} dróṇeṣu].
+;---------------------------------------------------
+; <L>9833<pc>1539<k1>suparRa<k2>su-parRa/
+75427 old <div n="TS">-ā́s 1〉 váyas {899,11} (bildlich). — 3〉 te (agnés) {79,2}; hárayas {164,47}; (grā́vāṇas) {920,5}. — 4〉 índavas {798,1}. — 5〉 eté {105,11} (páñca ukṣáṇas in <ab n="Vorige">V.</ab> _{105,10}); {164,21}. _{164,22}.
+;
+75427 new <div n="TS">-ā́s 1〉 váyas {899,11} (bildlich). — 3〉 te (agnés) {79,2}; hárayas {164,47}; (grā́vāṇas) {920,5}. — 4〉 índavas {798,1}. — 5〉 eté {105,11} (páñca ukṣáṇas in <ab n="Vers">V.</ab> _{105,10}); {164,21}. _{164,22}.
+;---------------------------------------------------
+; <L>9914<pc>1546<k1>sumeka<k2>su-me/ka
+75953 old <div n="TS">-e [<ab>du.</ab> <ab>f.</ab>] náktoṣā́sā {113,3}; dhenū́ {146,3}; ródasī {240,10}; {249,5} (parallel sudóghe in <ab n="Vorige">V.</ab> _{249,6}); {291,4}; {507,6}; {572,17}; {603,3}.
+;
+75953 new <div n="TS">-e [<ab>du.</ab> <ab>f.</ab>] náktoṣā́sā {113,3}; dhenū́ {146,3}; ródasī {240,10}; {249,5} (parallel sudóghe in <ab n="Vers">V.</ab> _{249,6}); {291,4}; {507,6}; {572,17}; {603,3}.
+;---------------------------------------------------
+; <L>10713<pc>1669<k1>hu<k2>hu
+82460 old <div n="TS">-ā́sas vásavas {491,15}, wo aber wie in <ab n="Vorige">V.</ab> _{491,4} hūtā́sas (von hū) zu vermuthen ist.
+;
+82460 new <div n="TS">-ā́sas vásavas {491,15}, wo aber wie in <ab n="Vers">V.</ab> _{491,4} hūtā́sas (von hū) zu vermuthen ist.
+;---------------------------------------------------
+; *********************************************************
+; Part 2 of 3
+; regex replace (Emacs syntax): "—\([^ ]+\)〉" → "— \1〉"
+; 17 changes (in 16 lines)
+; *********************************************************
+; <L>1305<pc>0145<k1>as<k2>1. as
+8522 old <div n="TS">-thas 4〉 kúha {682,4}. —5〉 {108,3}; {157,6}; {221,6}; {426,2}; {510,6}.<chg type="del" n="15" src="gra"><old> — {@pári@} 2〉 mahimā́nam {61,8}.</old></chg> —1〉 rátham {866,6}.
+;
+8522 new <div n="TS">-thas 4〉 kúha {682,4}. — 5〉 {108,3}; {157,6}; {221,6}; {426,2}; {510,6}.<chg type="del" n="15" src="gra"><old> — {@pári@} 2〉 mahimā́nam {61,8}.</old></chg> — 1〉 rátham {866,6}.
+;---------------------------------------------------
+; <L>4084<pc>0575<k1>daB<k2>daB, damB
+29648 old <div n="TS">-an 1〉 nas {223,2} (rípas). — 2〉 andhā́s {148,5}. —4〉 asmā́n {84,20} (te rā́dāṃsi). — {@ā́:@} tvā {485,12}.
+;
+29648 new <div n="TS">-an 1〉 nas {223,2} (rípas). — 2〉 andhā́s {148,5}. — 4〉 asmā́n {84,20} (te rā́dāṃsi). — {@ā́:@} tvā {485,12}.
+;---------------------------------------------------
+; <L>4968<pc>0730<k1>nid<k2>ni/d
+36915 old <div n="TS">-idás [<ab>Ab.</ab>] 1〉 {24,4}; {225,15}; {441,6}; {455,5}; {502,11}; {687,6}; {741,5}; {773,30}; {782,10}. —4〉 neben druhás {300,15}; {532,8}.
+;
+36915 new <div n="TS">-idás [<ab>Ab.</ab>] 1〉 {24,4}; {225,15}; {441,6}; {455,5}; {502,11}; {687,6}; {741,5}; {773,30}; {782,10}. — 4〉 neben druhás {300,15}; {532,8}.
+;---------------------------------------------------
+; <L>5085<pc>0748<k1>nf<k2>nf/
+37803 old <div n="TS">-ṛnā́m, an sich zweifelhaft, ob -ṛṇā́m oder -ṝṇā́m zu sprechen sei 2〉 nṛpate {192,1}. —3〉 deváhūtis {506,5}; úpastutis {599,7}. — 5〉 śatásya {43,7}. — 7〉 nṛ́tamam {285,4}.
+;
+37803 new <div n="TS">-ṛnā́m, an sich zweifelhaft, ob -ṛṇā́m oder -ṝṇā́m zu sprechen sei 2〉 nṛpate {192,1}. — 3〉 deváhūtis {506,5}; úpastutis {599,7}. — 5〉 śatásya {43,7}. — 7〉 nṛ́tamam {285,4}.
+;---------------------------------------------------
+; <L>5404<pc>0798<k1>pA<k2>1. pA
+40201 old <div n="TS">-āhi 1〉 asmā́n {95,9}; {358,6}; nas {129,9}; {130,10}; {143,8}; {254,2}; {358,8}; nṝ́n {171,6}; sūrī́n {449,7}; dāśúṣas nṝ́n {693,3}; tám {456,11}; {838,6}; nas druhás, áṃhasas {851,8}. — 2〉 átas stuvántam {147,5}; nṝ́n sáhīyasas {171,6}; tásmāt asmā́n {219,10}; sūrī́n druhás riṣás {226,6}; nas riṣás {265,20}; asmā́n rakṣásas {300,15}; nas áṃhasas {457,30}. _{457,31}; {531,15}; tám riṣás {465,10}; sameddhā́ram áṃhasas {489,8}; nṝ́n stotṝ́n áṃhasas {768,4}; nas dviṣás, áṃhasas {850,3}. — 3〉 paśū́n ca sthātṝ́n carátham ca 〰 {72,6}; nas yajñám {481,5}. — 4〉 śáṃsam {919,11}. —6〉 {669,8} (śivébhis pāyúbhis). — {@ní@} 1〉 nas áṃhasas {36,14}; {91,15}; sapátnī {235,10}; nas {519,7}; {664,11}; {670,16}; nas vanuṣyatás {456,12}; sūrī́n j aritṝ́n {519,8}. — 2〉 bhū́mā {70,6}. — 3〉 padā́ni paśvás {67,6}. — {@pári@} 1〉 nas {913,21}; {954,6}; jā́s {143,8}; nas gáyam {512,3}.
+;
+40201 new <div n="TS">-āhi 1〉 asmā́n {95,9}; {358,6}; nas {129,9}; {130,10}; {143,8}; {254,2}; {358,8}; nṝ́n {171,6}; sūrī́n {449,7}; dāśúṣas nṝ́n {693,3}; tám {456,11}; {838,6}; nas druhás, áṃhasas {851,8}. — 2〉 átas stuvántam {147,5}; nṝ́n sáhīyasas {171,6}; tásmāt asmā́n {219,10}; sūrī́n druhás riṣás {226,6}; nas riṣás {265,20}; asmā́n rakṣásas {300,15}; nas áṃhasas {457,30}. _{457,31}; {531,15}; tám riṣás {465,10}; sameddhā́ram áṃhasas {489,8}; nṝ́n stotṝ́n áṃhasas {768,4}; nas dviṣás, áṃhasas {850,3}. — 3〉 paśū́n ca sthātṝ́n carátham ca 〰 {72,6}; nas yajñám {481,5}. — 4〉 śáṃsam {919,11}. — 6〉 {669,8} (śivébhis pāyúbhis). — {@ní@} 1〉 nas áṃhasas {36,14}; {91,15}; sapátnī {235,10}; nas {519,7}; {664,11}; {670,16}; nas vanuṣyatás {456,12}; sūrī́n j aritṝ́n {519,8}. — 2〉 bhū́mā {70,6}. — 3〉 padā́ni paśvás {67,6}. — {@pári@} 1〉 nas {913,21}; {954,6}; jā́s {143,8}; nas gáyam {512,3}.
+;---------------------------------------------------
+; <L>5529<pc>0821<k1>puMs<k2>pu/Ms, pu/mAMs
+41229 old <div n="TS">-úmān {415,8}; {516,14}; {956,2}. —2〉 agnís {299,10}.
+;
+41229 new <div n="TS">-úmān {415,8}; {516,14}; {956,2}. — 2〉 agnís {299,10}.
+;---------------------------------------------------
+; <L>6929<pc>1060<k1>mfD<k2>mfD
+52145 old <div n="TS">-iṣat nas {690,4} (rā́dhasā). —4〉 nas gíras {548,5}. — {@pari@} dā́nam {670,6} (tu é).
+;
+52145 new <div n="TS">-iṣat nas {690,4} (rā́dhasā). — 4〉 nas gíras {548,5}. — {@pari@} dā́nam {670,6} (tu é).
+;---------------------------------------------------
+; <L>7046<pc>1085<k1>yad<k2>ya/d
+53146 old {@yád@}¦ [<ab>n.</ab> von yá], Conjunction, oft hinter eins oder mehrere Worte des Nebensatzes gestellt. — Die Stellen sind unvollständig. 1〉 zeitlich: {%als, nachdem, wenn, wann,%} und zwar: a〉 {%als%} mit erzählender Zeit (<ab>Imperf.</ab>, Aorist, Perfekt) im Nebensatze und Hauptsatze (das Verb des Hauptsatzes ist hier in Klammern beigefügt): yuyudhā́te (jigye) {32,13}; (apaśyas) ágachat {32,14}; (vavrjus) adhamas {33,5}; ábubhojīs (adhamas) {33,9}; (vāvṛdhe) ávadhīt {52,2}; (aśayat) nijaghántha {52,6}; (ádhārayas) ákṛṇvata, ámadan {52,9}; (áyoyavīt) ábhinat {52,10}; (amadan) jaghántha {52,15}; átiṣṭhipas, áhan (aubjas) {56,5}; ábhavat (mame) {58,1}; ábhrāṭ {66,6}; (āyan) ádīdes {521,3}; (āvas) árandhayas {535,2}; so auch mit entsprechendem ā́t (da) im Hauptsatze: áhan (vivitse) {32,4}; ávadhīs (arohayas) {51,4}; ā́śata (dadhire) {87,5}; dadhiré (vavakṣatus) {632,25}; oder mit ádha (da): (bibhyus) ásthiran {94,11}; ā‿ávasat (adhayat) {144,2}; (akṛnos) aírayas {208,3}; auch kann das Imperfekt oder der Aorist im Hauptsatze oder Nebensatze oder in beiden sein Augment verlieren, so dass scheinbar eine Conjunctivform hervorgeht: (sasrus) bhinát {52,5}; (ranta) áyachat {61,11}; (dhās) aíjan {63,1}; (codīs) ubhnā́s, ákṛtas {63,4}; vés (dhāt) {63,2}; várg (kar) {63,7}; so auch mit ā́t im Hauptsatze: (juṣanta) jániṣṭhās {68,3}; maṃháyam (karam) {874,9}; oder mit ádha: (bhūt) ávasthās {266,11}; (adadhus) kár {383,5}. — b〉 {%wenn%} (zeitlich) mit dem <ab>Ind.</ab> <ab>praes.</ab> im Neben- und Hauptsatze yā́nti, bruvaté (śṛṇoti) {37,13}; (kṛṇvanti) viundánti {38,9}; ásyatha (yātha) {39,1}; hathá, vartáyatha (yāthana) {39,3}; (eti) yāthána {23,11}; yā́si (bhrājante) {44,12}; (bhavati) ínvati {55,4}; (tiṣṭhate) vṛṣāyáse {58,4}; nīyáte (rohati) {141,4}; yáchase (bhrājante) {571,2}; (eti) váhati {582,14}; so auch wo im Hauptsatze asti oder ähnliches zu ergänzen ist dhūnuthá {37,6}; uchási {48,10}; rócase {519,6}; so auch mit Imperativ oder Conjunctiv im Hauptsatze: (bodhaya) yā́si {12,4}; yájāmahe (bhava) {15,10}; (tiṣṭha) vihváyāmahe {36,13}; (bhinat) pṛtanyási {54,4}; ferner mit entsprechendem bhárate (tapati) {215,9}; bhárante, śáṃsanti [Page1086] (bravāma) {508,10}; (īrate) éti {140,5}; (bhuvat) jā́yate {759,3}. — c〉 {%wann%} mit dem Conjunctiv, in dem Hauptsatze Conjunctiv, Imperativ oder Optativ, und zwar beide Handlungen als zukünftige gedacht, <ab>z. B.</ab> {556,1} yád adyá devás savitā́ suvā́ti siā́ma asya ratnínas vibhāgé; samáranta (patāti) {541,1}; ṛṇávas (yachatāt) {48,15}. — d〉 mit <ab>Ind.</ab> <ab>prs.</ab> im Nebensatze und erzählender Zeit im Hauptsatze: {%so oft%} múcyase (anayan) {31,4}; sám, ergänze yánti (dadhe) {30,3}. In {31,11} ist etwa jā́yata statt jā́yate zu lesen. —e〉 {%nachdem,%} mit dem Imperfekt oder Aorist im Nebensatze, und dem Indicativ, Conjunctiv oder Imperativ des Präsens im Hauptsatze, wobei das Imperfect oder der Aorist durch das deutsche Perfekt wieder zu geben ist: (siṣakti) ásarji {38,8}; (khādata) áyugdhvam {64,7}; ásthāt (dāti) {65,8}; ávarṣīt (eti) {619,3}; ámandiṣātām (gṛbhnāti) {619,4}; samáśīta (hāsat) {57,2}; und im Hauptsatze mit ā́t: áyukthās (invasi) {94,10}; ájīgar (yujyate) {355,3}; oder mit ā́t íd: ā́naṭ (kṛṇute) {264,12}; ávavṛtranta (indrayante) {320,4}; oder mit ádha: ákṛṇvan (kṣaranti) {72,10}; saṃdā́yi (yantu) {139,1}; auch erscheint das Imperfect oder der Aorist ohne Augment: tákṣat (bādhate) {51,10}; mándiṣṭha (tiṣṭhati) {51,11}.
+;
+53146 new {@yád@}¦ [<ab>n.</ab> von yá], Conjunction, oft hinter eins oder mehrere Worte des Nebensatzes gestellt. — Die Stellen sind unvollständig. 1〉 zeitlich: {%als, nachdem, wenn, wann,%} und zwar: a〉 {%als%} mit erzählender Zeit (<ab>Imperf.</ab>, Aorist, Perfekt) im Nebensatze und Hauptsatze (das Verb des Hauptsatzes ist hier in Klammern beigefügt): yuyudhā́te (jigye) {32,13}; (apaśyas) ágachat {32,14}; (vavrjus) adhamas {33,5}; ábubhojīs (adhamas) {33,9}; (vāvṛdhe) ávadhīt {52,2}; (aśayat) nijaghántha {52,6}; (ádhārayas) ákṛṇvata, ámadan {52,9}; (áyoyavīt) ábhinat {52,10}; (amadan) jaghántha {52,15}; átiṣṭhipas, áhan (aubjas) {56,5}; ábhavat (mame) {58,1}; ábhrāṭ {66,6}; (āyan) ádīdes {521,3}; (āvas) árandhayas {535,2}; so auch mit entsprechendem ā́t (da) im Hauptsatze: áhan (vivitse) {32,4}; ávadhīs (arohayas) {51,4}; ā́śata (dadhire) {87,5}; dadhiré (vavakṣatus) {632,25}; oder mit ádha (da): (bibhyus) ásthiran {94,11}; ā‿ávasat (adhayat) {144,2}; (akṛnos) aírayas {208,3}; auch kann das Imperfekt oder der Aorist im Hauptsatze oder Nebensatze oder in beiden sein Augment verlieren, so dass scheinbar eine Conjunctivform hervorgeht: (sasrus) bhinát {52,5}; (ranta) áyachat {61,11}; (dhās) aíjan {63,1}; (codīs) ubhnā́s, ákṛtas {63,4}; vés (dhāt) {63,2}; várg (kar) {63,7}; so auch mit ā́t im Hauptsatze: (juṣanta) jániṣṭhās {68,3}; maṃháyam (karam) {874,9}; oder mit ádha: (bhūt) ávasthās {266,11}; (adadhus) kár {383,5}. — b〉 {%wenn%} (zeitlich) mit dem <ab>Ind.</ab> <ab>praes.</ab> im Neben- und Hauptsatze yā́nti, bruvaté (śṛṇoti) {37,13}; (kṛṇvanti) viundánti {38,9}; ásyatha (yātha) {39,1}; hathá, vartáyatha (yāthana) {39,3}; (eti) yāthána {23,11}; yā́si (bhrājante) {44,12}; (bhavati) ínvati {55,4}; (tiṣṭhate) vṛṣāyáse {58,4}; nīyáte (rohati) {141,4}; yáchase (bhrājante) {571,2}; (eti) váhati {582,14}; so auch wo im Hauptsatze asti oder ähnliches zu ergänzen ist dhūnuthá {37,6}; uchási {48,10}; rócase {519,6}; so auch mit Imperativ oder Conjunctiv im Hauptsatze: (bodhaya) yā́si {12,4}; yájāmahe (bhava) {15,10}; (tiṣṭha) vihváyāmahe {36,13}; (bhinat) pṛtanyási {54,4}; ferner mit entsprechendem bhárate (tapati) {215,9}; bhárante, śáṃsanti [Page1086] (bravāma) {508,10}; (īrate) éti {140,5}; (bhuvat) jā́yate {759,3}. — c〉 {%wann%} mit dem Conjunctiv, in dem Hauptsatze Conjunctiv, Imperativ oder Optativ, und zwar beide Handlungen als zukünftige gedacht, <ab>z. B.</ab> {556,1} yád adyá devás savitā́ suvā́ti siā́ma asya ratnínas vibhāgé; samáranta (patāti) {541,1}; ṛṇávas (yachatāt) {48,15}. — d〉 mit <ab>Ind.</ab> <ab>prs.</ab> im Nebensatze und erzählender Zeit im Hauptsatze: {%so oft%} múcyase (anayan) {31,4}; sám, ergänze yánti (dadhe) {30,3}. In {31,11} ist etwa jā́yata statt jā́yate zu lesen. — e〉 {%nachdem,%} mit dem Imperfekt oder Aorist im Nebensatze, und dem Indicativ, Conjunctiv oder Imperativ des Präsens im Hauptsatze, wobei das Imperfect oder der Aorist durch das deutsche Perfekt wieder zu geben ist: (siṣakti) ásarji {38,8}; (khādata) áyugdhvam {64,7}; ásthāt (dāti) {65,8}; ávarṣīt (eti) {619,3}; ámandiṣātām (gṛbhnāti) {619,4}; samáśīta (hāsat) {57,2}; und im Hauptsatze mit ā́t: áyukthās (invasi) {94,10}; ájīgar (yujyate) {355,3}; oder mit ā́t íd: ā́naṭ (kṛṇute) {264,12}; ávavṛtranta (indrayante) {320,4}; oder mit ádha: ákṛṇvan (kṣaranti) {72,10}; saṃdā́yi (yantu) {139,1}; auch erscheint das Imperfect oder der Aorist ohne Augment: tákṣat (bādhate) {51,10}; mándiṣṭha (tiṣṭhati) {51,11}.
+;---------------------------------------------------
+; <L>7833<pc>1239<k1>vah<k2>vah
+60124 old <div n="TS">-ati 1〉 yád vápus (sū́ryam) étaśas {582,14}. —2〉 yás (ráthas) sūriā́m {340,1}. — 5〉 róhitas {627,28} (práṣṭis).
+;
+60124 new <div n="TS">-ati 1〉 yád vápus (sū́ryam) étaśas {582,14}. — 2〉 yás (ráthas) sūriā́m {340,1}. — 5〉 róhitas {627,28} (práṣṭis).
+;---------------------------------------------------
+; <L>7851<pc>1250<k1>vAja<k2>vA/ja
+60414 old <div n="TS">-e 3〉 {30,6}; {85,5}; {333,5}; {358,6}; {641,1}; {907,7}. —4〉 {832,6}; {775,19}. — 8〉 {583,5}; {975,5}; {1021,4} (neben stómeṣu). — 9〉 {43,8}; {641,8}; {1023,6}.
+;
+60414 new <div n="TS">-e 3〉 {30,6}; {85,5}; {333,5}; {358,6}; {641,1}; {907,7}. — 4〉 {832,6}; {775,19}. — 8〉 {583,5}; {975,5}; {1021,4} (neben stómeṣu). — 9〉 {43,8}; {641,8}; {1023,6}.
+;---------------------------------------------------
+; <L>7999<pc>1274<k1>vid<k2>2. vid
+61561 old <div n="TS">-eda [<ab>dass.</ab>] 7〉 tám {853,3}; {934,4}. —17〉 bhrātṛtvám {934,10}. — Zu ergänzen in {366,3} (ná‿ahám pátim).
+;
+61561 new <div n="TS">-eda [<ab>dass.</ab>] 7〉 tám {853,3}; {934,4}. — 17〉 bhrātṛtvám {934,10}. — Zu ergänzen in {366,3} (ná‿ahám pátim).
+;---------------------------------------------------
+; <L>7999<pc>1274<k1>vid<k2>2. vid
+61567 old <div n="TS">-idmá (-idmā́) 6〉 mit perfektischer Bedeutung párīṇasas {641,7} (purā́); te ávasas {684,16} (purā́); sakhitvám {641,8} (purā́ in <ab n="Vers">V.</ab> _{641,7}); te prámatim {849,7} (jāmivát). — 7〉 śúṣmam marútām {640,3}; asya sumatím {622,21}; {1020,5}; asya bhójanam {849,6}; útsam <ab>u. s. w.</ab> {871,2}; {910,5}; mahimánas maghavattvásya {468,3}. — 8〉 yád {439,8}; {965,5}. — 10〉 te yáthā mánas {170,3}; yás tvā́dattas {701,18}. —13〉 tvā vṛ́ṣantamam {10,10}; tvā purūvásum {81,8}; tvā vásupatim {270,9}; tvā dhanamjayám {276,6}; {665,13}; tuā mahā́ntam {462,6}; tvā sāsahím {670,3}; tvā tuvikūrmím {690,2}. — {@prá@} 1〉 yā́n {841,13}.
+;
+61567 new <div n="TS">-idmá (-idmā́) 6〉 mit perfektischer Bedeutung párīṇasas {641,7} (purā́); te ávasas {684,16} (purā́); sakhitvám {641,8} (purā́ in <ab n="Vers">V.</ab> _{641,7}); te prámatim {849,7} (jāmivát). — 7〉 śúṣmam marútām {640,3}; asya sumatím {622,21}; {1020,5}; asya bhójanam {849,6}; útsam <ab>u. s. w.</ab> {871,2}; {910,5}; mahimánas maghavattvásya {468,3}. — 8〉 yád {439,8}; {965,5}. — 10〉 te yáthā mánas {170,3}; yás tvā́dattas {701,18}. — 13〉 tvā vṛ́ṣantamam {10,10}; tvā purūvásum {81,8}; tvā vásupatim {270,9}; tvā dhanamjayám {276,6}; {665,13}; tuā mahā́ntam {462,6}; tvā sāsahím {670,3}; tvā tuvikūrmím {690,2}. — {@prá@} 1〉 yā́n {841,13}.
+;---------------------------------------------------
+; <L>9262<pc>1468<k1>sanaya<k2>sana/ya
+71488 old <div n="TS">-as 1〉 yā́mas {347,4} (Gegensatz návas). —2〉 viśvávedās (agnís) {254,4}.
+;
+71488 new <div n="TS">-as 1〉 yā́mas {347,4} (Gegensatz návas). — 2〉 viśvávedās (agnís) {254,4}.
+;---------------------------------------------------
+; <L>10555<pc>1648<k1>hari<k2>ha/ri
+81237 old <div n="TS">-īṇaam 3〉 áśviānaam 〰 nitóśanā {645,23}. —4〉 yóktram {387,2}; pátim {644,14}; rathíam {849,1}. — 5〉 vāyós {344,5} (śatám).
+;
+81237 new <div n="TS">-īṇaam 3〉 áśviānaam 〰 nitóśanā {645,23}. — 4〉 yóktram {387,2}; pátim {644,14}; rathíam {849,1}. — 5〉 vāyós {344,5} (śatám).
+;---------------------------------------------------
+; <L>10612<pc>1656<k1>havya<k2>ha/vya, ha/via
+81639 old <div n="TS">-iam 1〉 (índram) {462,1}; {546,2}; {705,20}. —2〉 áśvam bhágam ná {865,10}.
+;
+81639 new <div n="TS">-iam 1〉 (índram) {462,1}; {546,2}; {705,20}. — 2〉 áśvam bhágam ná {865,10}.
+;---------------------------------------------------
+; <L>10644<pc>1661<k1>hi<k2>hi
+81943 old <div n="TS">-vire 7〉 vásu {710,6}. — 9〉 agním admasádyāya {663,19}. —11〉 té 〰 té [Page1663] invire {360,6}; ké vā́jāya {876,3}. — 15〉 tvā́m (índram) {635,8}. — ā́ kakṣī́vate {786,8} (gónām?).
+;
+81943 new <div n="TS">-vire 7〉 vásu {710,6}. — 9〉 agním admasádyāya {663,19}. — 11〉 té 〰 té [Page1663] invire {360,6}; ké vā́jāya {876,3}. — 15〉 tvā́m (índram) {635,8}. — ā́ kakṣī́vate {786,8} (gónām?).
+;---------------------------------------------------
+; *********************************************************
+; Part 3 of 3
+; line 47519: —{@pári@} -> — {@pári@}
+; line 78829 : bhú{@vanā‿ánu@} -> bhúvanā‿ánu
+; line 81056: —{@sám@} -> — {@sám@}
+; *********************************************************
+; <L>6403<pc>0942<k1>BU<k2>BU
+47519 old <div n="TS">-as 3〉 áśvias vā́ras {32,12}; ménā {51,13}. — 4〉 ghanás vṛtrā́ṇām {4,8}; devā́nām sákhā {31,1}; suprāvías {204,9}; rathī́s {446,3}; dūtás {72,7}; {240,5}; dyumnī́ {91,2}; kārúdhāyās {266,10}; vásupatis {313,6}; vibhaktā́ {477,1}; rā́jā {471,5}; śátrus {705,16}; mahā́n {771,4}; nṛcákṣās {798,23}; {@vípras@} {819,6}; kavís {819,7}; vibhā́vā {834,4}; rodasiprā́s {914,5}; bāhúojās {937,6}. — {@ā́@} 1〉 ketús {235,17}. — 4〉 víśvās bhúvas {979,5}. —{@pári@} 2〉 páñca samdṛ́śas {204,10}.
+;
+47519 new <div n="TS">-as 3〉 áśvias vā́ras {32,12}; ménā {51,13}. — 4〉 ghanás vṛtrā́ṇām {4,8}; devā́nām sákhā {31,1}; suprāvías {204,9}; rathī́s {446,3}; dūtás {72,7}; {240,5}; dyumnī́ {91,2}; kārúdhāyās {266,10}; vásupatis {313,6}; vibhaktā́ {477,1}; rā́jā {471,5}; śátrus {705,16}; mahā́n {771,4}; nṛcákṣās {798,23}; {@vípras@} {819,6}; kavís {819,7}; vibhā́vā {834,4}; rodasiprā́s {914,5}; bāhúojās {937,6}. — {@ā́@} 1〉 ketús {235,17}. — 4〉 víśvās bhúvas {979,5}. — {@pári@} 2〉 páñca samdṛ́śas {204,10}.
+;---------------------------------------------------
+; <L>10268<pc>1596<k1>sTA<k2>sTA
+78829 old <div n="TS">-e [<pe>1.</pe> <ab>s.</ab> me] {@ví@} 3〉 bhú{@vanā‿ánu@} víśvā {951,7}.
+;
+78829 new <div n="TS">-e [<pe>1.</pe> <ab>s.</ab> me] {@ví@} 3〉 bhúvanā‿ánu víśvā {951,7}.
+;---------------------------------------------------
+; <L>10541<pc>1641<k1>han<k2>han
+81056 old <div n="TS">-ate 1〉 nadías praváṇeṣu {54,10}. — 2〉 vṛtrā́ṇi {497,2}; {498,3}; {637,8}; {649,4}; {713,10}. — {@áva@} 1〉 (vṛtrám) {80,5}. — {@úpa@} jaghánān {516,13} (aśvā́janī). — {@ní@} 4〉 ádhi sā́nau vájreṇa {80,6}. —{@sám@} 4〉 yujā́ {726,4}.
+;
+81056 new <div n="TS">-ate 1〉 nadías praváṇeṣu {54,10}. — 2〉 vṛtrā́ṇi {497,2}; {498,3}; {637,8}; {649,4}; {713,10}. — {@áva@} 1〉 (vṛtrám) {80,5}. — {@úpa@} jaghánān {516,13} (aśvā́janī). — {@ní@} 4〉 ádhi sā́nau vájreṇa {80,6}. — {@sám@} 4〉 yujā́ {726,4}.
+;---------------------------------------------------
