@@ -215,7 +215,6 @@
 3400	3401	0475	jani	ja/ni, ja/nI
 3417	3418	0477	janya	ja/nya, ja/nia
 3419	3420	0477	jaB	jaB, jamB
-3458	3459	0481	javIyas	ja/vIyas, a
 3482	3483	0483	jAmarya	jA/marya, jA/maria
 3494	3495	0485	jArya	jArya^, jAri/a
 3524	3525	0491	jIrASva	jIrA/Sva, jIra/aSva
@@ -522,7 +521,6 @@
 7129	7130	1114	yuktASva	yuktA/Sva, yukta/-aSva
 7136	7137	1119	yujya	yu/jya, yu/jia
 7141	7142	1121	yuDenya	yuDe/nya, yuDe/nia
-7174	7175	1124	yuzmota	yuzmo/ta, a
 7176	7177	1125	yUTya	yUTya^, yUTi/a
 7184	7185	1125	yezWa	ye/zWa, yaizWa
 7188	7189	1126	yogyA	yogyA/, yogiA/

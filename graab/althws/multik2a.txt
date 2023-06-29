@@ -436,8 +436,6 @@
 <L>3417.1<pc>0477<k1>jania<k2>ja/nya, ja/nia<type>alt<LP>3417<k1P>janya
 ; 3419	3420	0477	jaB	jaB, jamB
 <L>3419.1<pc>0477<k1>jamB<k2>jaB, jamB<type>alt<LP>3419<k1P>jaB
-; 3458	3459	0481	javIyas	ja/vIyas, a
-<L>3458.1<pc>0481<k1>a<k2>ja/vIyas, a<type>alt<LP>3458<k1P>javIyas
 ; 3482	3483	0483	jAmarya	jA/marya, jA/maria
 <L>3482.1<pc>0483<k1>jAmaria<k2>jA/marya, jA/maria<type>alt<LP>3482<k1P>jAmarya
 ; 3494	3495	0485	jArya	jArya^, jAri/a
@@ -1057,8 +1055,6 @@
 <L>7136.1<pc>1119<k1>yujia<k2>yu/jya, yu/jia<type>alt<LP>7136<k1P>yujya
 ; 7141	7142	1121	yuDenya	yuDe/nya, yuDe/nia
 <L>7141.1<pc>1121<k1>yuDenia<k2>yuDe/nya, yuDe/nia<type>alt<LP>7141<k1P>yuDenya
-; 7174	7175	1124	yuzmota	yuzmo/ta, a
-<L>7174.1<pc>1124<k1>a<k2>yuzmo/ta, a<type>alt<LP>7174<k1P>yuzmota
 ; 7176	7177	1125	yUTya	yUTya^, yUTi/a
 <L>7176.1<pc>1125<k1>yUTia<k2>yUTya^, yUTi/a<type>alt<LP>7176<k1P>yUTya
 ; 7184	7185	1125	yezWa	ye/zWa, yaizWa

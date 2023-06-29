@@ -46,5 +46,21 @@ python make_hwextra.py multik2a.txt ../gra_hwextra.txt
 
 
 ------------------------------------------------------------
+; 06-29-2023
+Ref: https://github.com/sanskrit-lexicon/GRA/issues/32#issuecomment-1612416266
+additional corrections in ../change_9b.txt
+  at L=3458 and 7174
+python ../updateByLine.py ../temp_graab_9a.txt ../change_9b.txt ../temp_graab_9b.txt
+8 change transactions from change_9b.txt
+
+cp ../temp_graab_9b.txt ../temp_graab_9.txt
+
+python multik2.py ../temp_graab_9b.txt multik2.txt
+894 records written to multik2.txt
+
+python multik2a.py multik2.txt multik2a.txt
+
+python make_hwextra.py multik2a.txt ../gra_hwextra.txt
+
 ------------------------------------------------------------
 ------------------------------------------------------------

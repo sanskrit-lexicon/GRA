@@ -219,7 +219,6 @@
 <L>3400.1<pc>0475<k1>janI<k2>ja/ni, ja/nI<type>alt<LP>3400<k1P>jani
 <L>3417.1<pc>0477<k1>jania<k2>ja/nya, ja/nia<type>alt<LP>3417<k1P>janya
 <L>3419.1<pc>0477<k1>jamB<k2>jaB, jamB<type>alt<LP>3419<k1P>jaB
-<L>3458.1<pc>0481<k1>a<k2>ja/vIyas, a<type>alt<LP>3458<k1P>javIyas
 <L>3482.1<pc>0483<k1>jAmaria<k2>jA/marya, jA/maria<type>alt<LP>3482<k1P>jAmarya
 <L>3494.1<pc>0485<k1>jAria<k2>jArya^, jAri/a<type>alt<LP>3494<k1P>jArya
 <L>3524.1<pc>0491<k1>jIraaSva<k2>jIrA/Sva, jIra/aSva<type>alt<LP>3524<k1P>jIrASva
@@ -533,7 +532,6 @@
 <L>7129.1<pc>1114<k1>yuktaaSva<k2>yuktA/Sva, yukta/-aSva<type>alt<LP>7129<k1P>yuktASva
 <L>7136.1<pc>1119<k1>yujia<k2>yu/jya, yu/jia<type>alt<LP>7136<k1P>yujya
 <L>7141.1<pc>1121<k1>yuDenia<k2>yuDe/nya, yuDe/nia<type>alt<LP>7141<k1P>yuDenya
-<L>7174.1<pc>1124<k1>a<k2>yuzmo/ta, a<type>alt<LP>7174<k1P>yuzmota
 <L>7176.1<pc>1125<k1>yUTia<k2>yUTya^, yUTi/a<type>alt<LP>7176<k1P>yUTya
 <L>7184.1<pc>1125<k1>yaizWa<k2>ye/zWa, yaizWa<type>alt<LP>7184<k1P>yezWa
 <L>7188.1<pc>1126<k1>yogiA<k2>yogyA/, yogiA/<type>alt<LP>7188<k1P>yogyA
