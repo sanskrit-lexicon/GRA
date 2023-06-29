@@ -229,4 +229,13 @@ python updateByLine.py temp_graab_8.txt change_9a.txt temp_graab_9a.txt
 
 temp_graab_9.txt
 
-
+sh redo.sh #version 9
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev9/pywork/gra.xml dev9/pywork/gra.dtd
+-------------------------------------------------------------
+althws directory 
+a few changes
+change_9b.txt and temp_graab_9b.txt
+cp temp_graab_9b.txt temp_graab_9.txt
+generate gra_hwextra.txt  (916 alternate headwords).
+sh redo.sh
+-------------------------------------------------------------
