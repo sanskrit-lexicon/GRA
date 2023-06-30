@@ -239,3 +239,10 @@ cp temp_graab_9b.txt temp_graab_9.txt
 generate gra_hwextra.txt  (916 alternate headwords).
 sh redo.sh
 -------------------------------------------------------------
+meta2 directory
+Revision to csl-orig/v02/gra/gra-meta2.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra-meta2.txt gra-meta2_0.txt
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------

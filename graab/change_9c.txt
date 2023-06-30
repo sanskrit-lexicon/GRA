@@ -1,0 +1,15 @@
+; *****************************************************************
+; Remove \u200e (LEFT-TO-RIGHT MARK)
+; *****************************************************************
+;  perge‎"  ->  perge"    (lrm occurs between e and "
+; ----------------------------------------------------
+; <L>6408<pc>0951<k1>BUmi
+47680 old {@bhū́mi,@} {@bhū́mī,@}¦ <ab>f.</ab>, {%Erde, Erdboden%} [von bhū], sehr häufig neben dív (dyaús <ab n="perge, perge‎">pp.</ab>); 2〉 {%Land, Landstrich;%} 3〉 tisrás bhū́mīs, die drei {%Erden%} den drei Himmeln entsprechend. — <ab>Adj.</ab> apārá, iṣirá, uttāná, cáturbhṛṣṭi, máh.
+;
+47680 new {@bhū́mi,@} {@bhū́mī,@}¦ <ab>f.</ab>, {%Erde, Erdboden%} [von bhū], sehr häufig neben dív (dyaús <ab n="perge, perge">pp.</ab>); 2〉 {%Land, Landstrich;%} 3〉 tisrás bhū́mīs, die drei {%Erden%} den drei Himmeln entsprechend. — <ab>Adj.</ab> apārá, iṣirá, uttāná, cáturbhṛṣṭi, máh.
+; ----------------------------------------------------
+;
+51405 old <div n="TS">-ánti 5〉 ādíśam, svarā́jiam {702,11}; svarā́jiam {436,2}. — 6〉 vratám {229,9}. — {@prá@} 3〉 mitrám <ab n="perge, perge‎">pp.</ab> {915,8}. _{915,9}. — 5〉 dhā́ma {301,4}; {508,9}; {915,8}. — {@prá@} 4〉 vā́tasya ábhvam {24,6}.
+;
+51405 new <div n="TS">-ánti 5〉 ādíśam, svarā́jiam {702,11}; svarā́jiam {436,2}. — 6〉 vratám {229,9}. — {@prá@} 3〉 mitrám <ab n="perge, perge">pp.</ab> {915,8}. _{915,9}. — 5〉 dhā́ma {301,4}; {508,9}; {915,8}. — {@prá@} 4〉 vā́tasya ábhvam {24,6}.
+; ----------------------------------------------------
