@@ -131,3 +131,15 @@ python extract_abbrev1.py ../temp_graab_7f.txt graab_input_2.txt temp_extract_ab
 ---------------------------------------------------------
 install graab_input_2.txt (GRA abbreviation tooltip file)
 cp graab_input_2.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graab/graab_input.txt 
+---------------------------------------------------------
+07-02-2023
+edit graab_input_2.txt
+Remove <ab>Verg. Aen.</ab> from abbreviations
+removed: Verg. Aen.	<id>Verg. Aen.</id> <disp>Vergleiche Aenderung</disp>
+removed: ⁓	<id>⁓</id> <disp>at similar; at identical, parallel passages</disp>
+    Swung dash -  meaning given in gra-meta2
+----
+re-install graab_input_2.txt (GRA abbreviation tooltip file)
+cp graab_input_2.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graab/graab_input.txt 
+
+---------------------------------------------------------

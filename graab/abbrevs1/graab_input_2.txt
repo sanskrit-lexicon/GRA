@@ -285,7 +285,6 @@ v.	<id>v.</id> <disp>von</disp>
 v. u.	<id>v. u.</id> <disp>von unten</disp>
 Var.	<id>Var.</id> <disp>Variante</disp>
 ved.	<id>ved.</id> <disp>Vedic</disp>
-Verg. Aen.	<id>Verg. Aen.</id> <disp>Vergleiche Aenderung</disp>
 Vergl.	<id>Vergl.</id> <disp>Vergleiche</disp>
 vergl.	<id>vergl.</id> <disp>vergleiche</disp>
 Versschl.	<id>Versschl.</id> <disp>Versschlusse</disp>
@@ -310,4 +309,3 @@ zuspr.	<id>zuspr.</id> <disp>zusprechen</disp>
 ähnl.	<id>ähnl.</id> <disp>ähnliche</disp>
 äol.	<id>äol.</id> <disp>Aeolic</disp>
 üb.	<id>üb.</id> <disp>über</disp>
-⁓	<id>⁓</id> <disp>at similar; at identical, parallel passages</disp>

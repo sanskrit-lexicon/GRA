@@ -314,5 +314,25 @@ python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
 141 lines written to temp_tooltip.txt
 
 cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+------------------------------------------------------------
+# 07-02-2023
+extract_ls1f_AB.txt
+cp extract_ls1e_AB.txt extract_ls1f_AB.txt
+Two tooltip additions in ls1f.
+ <ls>Verg. Aen.</ls>  Aeneid— Vergil
+ <ls>dhātupāṭha</ls>  Pāṇiniʼs Dhātupāṭha, App. to Radices linguae Sanscritae— Westergaard, 1841
+
+ Ref: https://github.com/sanskrit-lexicon/GRA/issues/32
+
+# install revised graauth/tooltip.txt in csl-pywork
+cat extract_ls1f_AB.txt extract_ls3_local.txt > extract_ls_all.txt
+
+# change format to that of tooltip.txt in csl-pywork
+python make_graauth_tooltip_2.py extract_ls_all.txt temp_tooltip.txt
+
+143 abbreviations read from extract_ls_all.txt
+143 lines written to temp_tooltip.txt
+
+cp temp_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
 
 ------------------------------------------------------------

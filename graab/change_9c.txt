@@ -1,7 +1,7 @@
 ; *****************************************************************
 ; Remove \u200e (LEFT-TO-RIGHT MARK)
 ; *****************************************************************
-;  perge‎"  ->  perge"    (lrm occurs between e and "
+;  perge‎"  ->  perge"    (lrm occurs between e and ")
 ; ----------------------------------------------------
 ; <L>6408<pc>0951<k1>BUmi
 47680 old {@bhū́mi,@} {@bhū́mī,@}¦ <ab>f.</ab>, {%Erde, Erdboden%} [von bhū], sehr häufig neben dív (dyaús <ab n="perge, perge‎">pp.</ab>); 2〉 {%Land, Landstrich;%} 3〉 tisrás bhū́mīs, die drei {%Erden%} den drei Himmeln entsprechend. — <ab>Adj.</ab> apārá, iṣirá, uttāná, cáturbhṛṣṭi, máh.
@@ -12,4 +12,78 @@
 51405 old <div n="TS">-ánti 5〉 ādíśam, svarā́jiam {702,11}; svarā́jiam {436,2}. — 6〉 vratám {229,9}. — {@prá@} 3〉 mitrám <ab n="perge, perge‎">pp.</ab> {915,8}. _{915,9}. — 5〉 dhā́ma {301,4}; {508,9}; {915,8}. — {@prá@} 4〉 vā́tasya ábhvam {24,6}.
 ;
 51405 new <div n="TS">-ánti 5〉 ādíśam, svarā́jiam {702,11}; svarā́jiam {436,2}. — 6〉 vratám {229,9}. — {@prá@} 3〉 mitrám <ab n="perge, perge">pp.</ab> {915,8}. _{915,9}. — 5〉 dhā́ma {301,4}; {508,9}; {915,8}. — {@prá@} 4〉 vā́tasya ábhvam {24,6}.
+; ----------------------------------------------------
+; *****************************************************************
+; RV citation changes.
+; Ref: https://github.com/sanskrit-lexicon/GRA/issues/32#issuecomment-1615568613
+; *****************************************************************
+; <L>12476<pc>1766<k1>myakz
+87621 old <div n="H"><ab>Perf.</ab> {@mimikṣus:@} in _{1066,6}.a ist {@sám@} vor káyā hinzuzufügen.
+;
+87621 new <div n="H"><ab>Perf.</ab> {@mimikṣus:@} in 1066,6.a ist {@sám@} vor káyā hinzuzufügen.
+; ----------------------------------------------------
+; <L>6527<pc>0976<k1>maT
+48696 old <div n="H"><ab>Impf.</ab> {@ámantha@} (betont nur _{850,4}.d):
+;
+48696 new <div n="H"><ab>Impf.</ab> {@ámantha@} (betont nur _{850,4.d}):
+; ----------------------------------------------------
+; <L>6527<pc>0976<k1>maT
+48698 old <div n="TS">-atam {@nís@} 2〉 samīcī́ (ródasī) _{850,4}.b (aśvinau); nis 2〉 _{850,4}.d.
+;
+48698 new <div n="TS">-atam {@nís@} 2〉 samīcī́ (ródasī) _{850,4.b} (aśvinau); nis 2〉 _{850,4.d}.
+; ----------------------------------------------------
+; *****************************************************************
+; RV citation markup changes
+; Ref: https://github.com/sanskrit-lexicon/GRA/issues/32#issuecomment-1615568613
+; *****************************************************************
+; <L>48<pc>0006<k1>akzara
+; {164,839} -> _{164,1},_{839,1}
+292 old {@a-kṣára,@}¦ <ab>a.</ab>, {%nicht zerrinnend, unversiegbar%}. Als das nicht Zerrinnende wird insbesondere aufgefasst: 1〉 der Himmel oder Aetherraum, 2〉 das Wasser, 3〉 das gottverliehene Gut, 4〉 das {%Wort%} oder die {%Silbe%}. In den ersten drei Anwendungen blickt die Grundbedeutung überall deutlich hindurch, während sie in der letztern, namentlich in den spätern Liedern ({164,839}), ganz zurücktritt (<ab>vgl.</ab> das <ab>Folg.</ab>).
+;
+292 new {@a-kṣára,@}¦ <ab>a.</ab>, {%nicht zerrinnend, unversiegbar%}. Als das nicht Zerrinnende wird insbesondere aufgefasst: 1〉 der Himmel oder Aetherraum, 2〉 das Wasser, 3〉 das gottverliehene Gut, 4〉 das {%Wort%} oder die {%Silbe%}. In den ersten drei Anwendungen blickt die Grundbedeutung überall deutlich hindurch, während sie in der letztern, namentlich in den spätern Liedern (_{164,1},_{839,1}), ganz zurücktritt (<ab>vgl.</ab> das <ab>Folg.</ab>).
+; ----------------------------------------------------
+; <L>2274<pc>0295<k1>eka
+; {164,955}  and {21,101}
+15517 old {@éka,@}¦ <ab>pr.</ab>, <ab>a.</ab>, {%einer,%} aus dem in e-ta, e-na enthaltenen Deutestamme durch den Anhang -ka entwickelt [<ab n="siehe">s.</ab> <ls ab="Griechische ableitungen vom stamme des relativums— Lottnerʼs Article in Kuhnʼs Zeitschrift">Lottner in Ku. Z.</ls> 〔5,395〕]; 1〉 als eigentliches Zahlwort, namentlich 2〉 durch ca an andere Zahlwörter [viṃśatí {534,11}; śatá {117,8}] geknüpft zur Bildung zusammengesetzter Zahlen ({21,101}); 3〉 {%einer%} unter zweien oder mehrern (mit oder ohne <ab>Gen.</ab>); 4〉 éka, éka, der {%eine,%} der {%andere%} von zweien, oder {%einer,%} ein {%anderer%} <ab>u. s. w.</ab>, bei mehrern, bisweilen mit dem <ab>Gen.</ab> der ganzen Menge; 5〉 statt des zweiten éka tritt anyá ein ({161,9}) oder es werden die übrigen durch ein Zahlwort oder einen Mehrheitsbegriff zusammengefasst; 6〉 mit ná, {%keiner%} [<ab>vgl.</ab> <lang>litth.</lang> njekas], namentlich ná ékas cana, {%auch nicht einer, nicht ein einziger;%} 7〉 víśvam ékam, tád ékam, idám ékam, ékam sát, das {%eine%} All <ab>u. s. w.</ab>, alles Seiende als Eins gedacht, auch zum Theil in fast pantheistischer Anschauung die Götter mit eingeschlossen (<ab>vgl.</ab> {164,955}). Ausser diesen attributiven Gebrauchsweisen treten noch häufiger die prädicativen hervor (wozu wir hier auch die rechnen, wo éka mit einem prädicativen <ab>Subst.</ab> verbunden ist), nämlich 8〉 {%als einer,%} er, der {%eine%} im Gegensatze gegen eine in demselben Satze ausgedrückte oder angedeutete grössere Zahl, {%ein und derselbe;%} bisweilen erscheint dann samāná daneben ({542,3}; {853,16}; {583,8}); 9〉 ékas ékam, als {%einzelner%} den {%einzelnen%} ({964,6}); 10〉 {%einzig, alleinig, er allein, nur er,%} <ab>d. h.</ab> kein anderer ausser ihm, auch mit dem <ab>Gen.</ab>: er {%allein%} unter; 11〉 {%allein, einsam,%} <ab>d. h.</ab> kein anderer mit ihm oder neben ihm, ohne eines andern Begleitung oder Hülfe; 12〉 {%einzig%} in seiner Art, {%vorzüglich, unvergleichlich;%} 13〉 ékas-ekas, {%einer um den andern, je einer, jeder einzelne, einer nach dem andern,%} einmal ({809,55}) in diesem Sinne auch ánu ékam. — Mit íd ist éka verbunden [ékas íd]: {84,7}; {313,5}; {326,5}; {386,3}; {435,1}; {486,16}; {633,9}; {634,1}; {644,19}; {656,7}; {657,4}. _{657,7}; {699,5}; {705,19}; {917,3}; {947,3}; {679,14}; {733,3}; {840,16}; {831,6}.
+;
+15517 new {@éka,@}¦ <ab>pr.</ab>, <ab>a.</ab>, {%einer,%} aus dem in e-ta, e-na enthaltenen Deutestamme durch den Anhang -ka entwickelt [<ab n="siehe">s.</ab> <ls ab="Griechische ableitungen vom stamme des relativums— Lottnerʼs Article in Kuhnʼs Zeitschrift">Lottner in Ku. Z.</ls> 〔5,395〕]; 1〉 als eigentliches Zahlwort, namentlich 2〉 durch ca an andere Zahlwörter [viṃśatí {534,11}; śatá {117,8}] geknüpft zur Bildung zusammengesetzter Zahlen (21,101); 3〉 {%einer%} unter zweien oder mehrern (mit oder ohne <ab>Gen.</ab>); 4〉 éka, éka, der {%eine,%} der {%andere%} von zweien, oder {%einer,%} ein {%anderer%} <ab>u. s. w.</ab>, bei mehrern, bisweilen mit dem <ab>Gen.</ab> der ganzen Menge; 5〉 statt des zweiten éka tritt anyá ein ({161,9}) oder es werden die übrigen durch ein Zahlwort oder einen Mehrheitsbegriff zusammengefasst; 6〉 mit ná, {%keiner%} [<ab>vgl.</ab> <lang>litth.</lang> njekas], namentlich ná ékas cana, {%auch nicht einer, nicht ein einziger;%} 7〉 víśvam ékam, tád ékam, idám ékam, ékam sát, das {%eine%} All <ab>u. s. w.</ab>, alles Seiende als Eins gedacht, auch zum Theil in fast pantheistischer Anschauung die Götter mit eingeschlossen (<ab>vgl.</ab> _{164,1},_{955,1}). Ausser diesen attributiven Gebrauchsweisen treten noch häufiger die prädicativen hervor (wozu wir hier auch die rechnen, wo éka mit einem prädicativen <ab>Subst.</ab> verbunden ist), nämlich 8〉 {%als einer,%} er, der {%eine%} im Gegensatze gegen eine in demselben Satze ausgedrückte oder angedeutete grössere Zahl, {%ein und derselbe;%} bisweilen erscheint dann samāná daneben ({542,3}; {853,16}; {583,8}); 9〉 ékas ékam, als {%einzelner%} den {%einzelnen%} ({964,6}); 10〉 {%einzig, alleinig, er allein, nur er,%} <ab>d. h.</ab> kein anderer ausser ihm, auch mit dem <ab>Gen.</ab>: er {%allein%} unter; 11〉 {%allein, einsam,%} <ab>d. h.</ab> kein anderer mit ihm oder neben ihm, ohne eines andern Begleitung oder Hülfe; 12〉 {%einzig%} in seiner Art, {%vorzüglich, unvergleichlich;%} 13〉 ékas-ekas, {%einer um den andern, je einer, jeder einzelne, einer nach dem andern,%} einmal ({809,55}) in diesem Sinne auch ánu ékam. — Mit íd ist éka verbunden [ékas íd]: {84,7}; {313,5}; {326,5}; {386,3}; {435,1}; {486,16}; {633,9}; {634,1}; {644,19}; {656,7}; {657,4}. _{657,7}; {699,5}; {705,19}; {917,3}; {947,3}; {679,14}; {733,3}; {840,16}; {831,6}.
+; ----------------------------------------------------
+; <L>8408<pc>1345<k1>vfzan
+; {177,207} and {390,394}
+64961 old {@vṛ́ṣan,@}¦ <ab>a.</ab>, <ab>m.</ab>, von vṛṣ in der Bedeutung „befruchten, ergiessen“; dagegen darf nicht angeführt werden, dass vṛṣ (regnen) nicht in dieser speciellen Bedeutung vorkommt, denn dasselbe Verhältniss findet <ab>z. B.</ab> zwischen ṛsabhá und arṣ, zwischen rétas und ri statt. Daher wird es von Männern und männlichen Thieren gebraucht in dem Sinne „brünstig, zeugungskräftig“ und allgemeiner „stark durch männliche Kraft, kräftig“, und in diesem Sinne wird es auch zu Substantiven, welche (unpersönliche) Dinge bezeichnen, ja zu abstrakten Substantiven gefügt. Daher bezeichnet es als Substantiv den brünstigen, zeugungskräftigen Mann, auch wol allgemeiner den kräftigen Mann, ebenso das besamende, zeugungskräftige Thier, als dessen Repräsentant „der Stier“, aber auch der Hengst erscheint (daher mit dem Beiworte ṛjumuṣká). Häufig wird es von Göttern gebraucht, wo dann die vorher entwickelten Bedeutungen oft absichtlich in einander hinüberspielen. Besonders wird mit diesem beliebten Worte gespielt in {177,207}, {390,394}, {631,31}—_{631,33}; {653,10}—_{653,12}, und in vielen Liedern des 9. Buches. 1〉 <ab>a.</ab>, {%befruchtenden Regen ergiessend%} von der Wolke; 2〉 {%brünstig, zeugungskräftig, kräftig%} von männlichen Thieren; 3〉 {%männlich, stark, kräftig%} von Personen; 4〉 {%stark, kräftig%} von Dingen; 5〉 von abstrakten Begriffen; 6〉 <ab>m.</ab>, {%zeugungskräftiger Mann,%} im Gegensatze gegen den Verschnittenen (vádhri), oder gegen das Weib ({853,10}); 7〉 {%der nach der Begattung verlangende Mann;%} 8〉 {%Stier%} (als besamend, <ab>vgl.</ab> {299,10}); 9〉 von Rossen; 10〉 bildlich von Gegenständen, selbst wo sie durch weibliche (káśā {653,11}; vā́c {941,8}) oder sächliche (vánam {776,2}) Substantiven bezeichnet werden; auch 11〉 vom Opferer oder Beter; 12〉 vom Indra; 13〉 vom (persönlich gedachten) Soma; 14〉 von andern Göttern; 15〉 {%Stier = Gebieter%} [Page1346] mit <ab>Gen.</ab>; 16〉 Eigenname. — <ab>Vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 10 fg.〕
+;
+64961 new {@vṛ́ṣan,@}¦ <ab>a.</ab>, <ab>m.</ab>, von vṛṣ in der Bedeutung „befruchten, ergiessen“; dagegen darf nicht angeführt werden, dass vṛṣ (regnen) nicht in dieser speciellen Bedeutung vorkommt, denn dasselbe Verhältniss findet <ab>z. B.</ab> zwischen ṛsabhá und arṣ, zwischen rétas und ri statt. Daher wird es von Männern und männlichen Thieren gebraucht in dem Sinne „brünstig, zeugungskräftig“ und allgemeiner „stark durch männliche Kraft, kräftig“, und in diesem Sinne wird es auch zu Substantiven, welche (unpersönliche) Dinge bezeichnen, ja zu abstrakten Substantiven gefügt. Daher bezeichnet es als Substantiv den brünstigen, zeugungskräftigen Mann, auch wol allgemeiner den kräftigen Mann, ebenso das besamende, zeugungskräftige Thier, als dessen Repräsentant „der Stier“, aber auch der Hengst erscheint (daher mit dem Beiworte ṛjumuṣká). Häufig wird es von Göttern gebraucht, wo dann die vorher entwickelten Bedeutungen oft absichtlich in einander hinüberspielen. Besonders wird mit diesem beliebten Worte gespielt in _{177,1},_{207,1}, _{390,1},_{394,1}, {631,31}—_{631,33}; {653,10}—_{653,12}, und in vielen Liedern des 9. Buches. 1〉 <ab>a.</ab>, {%befruchtenden Regen ergiessend%} von der Wolke; 2〉 {%brünstig, zeugungskräftig, kräftig%} von männlichen Thieren; 3〉 {%männlich, stark, kräftig%} von Personen; 4〉 {%stark, kräftig%} von Dingen; 5〉 von abstrakten Begriffen; 6〉 <ab>m.</ab>, {%zeugungskräftiger Mann,%} im Gegensatze gegen den Verschnittenen (vádhri), oder gegen das Weib ({853,10}); 7〉 {%der nach der Begattung verlangende Mann;%} 8〉 {%Stier%} (als besamend, <ab>vgl.</ab> {299,10}); 9〉 von Rossen; 10〉 bildlich von Gegenständen, selbst wo sie durch weibliche (káśā {653,11}; vā́c {941,8}) oder sächliche (vánam {776,2}) Substantiven bezeichnet werden; auch 11〉 vom Opferer oder Beter; 12〉 vom Indra; 13〉 vom (persönlich gedachten) Soma; 14〉 von andern Göttern; 15〉 {%Stier = Gebieter%} [Page1346] mit <ab>Gen.</ab>; 16〉 Eigenname. — <ab>Vgl.</ab> <ls ab="The Sixth Hymn of the First Book of the Rig Veda— Max Müllerʼs Article in JRAS of Great Britain and Ireland, New Series, Vol. 3, No. 1 (1867)">Max Müller the sixth hymn</ls> 〔p. 10 fg.〕
+; ----------------------------------------------------
+; <L>2995<pc>0402<k1>gur
+; old: dhātupāṭha ({28,103})
+; new: <ls>dhātupāṭha</ls> (〔28,103〕)
+20988 old {@√gur,@}¦ andere Form von <hom>1.</hom> gir. Der Grundbegriff „erheben, in die Höhe heben“ tritt in Verbindung mit úd [<ab n="siehe">s.</ab> bei <ls>BR.</ls>], und nach dem dhātupāṭha ({28,103}) auch in dem einfachen Verb hervor. Im <ls>RV</ls> heisst es 1〉 {%beifällig annehmen,%} daher 2〉 im Particip gūrtá, {%angenehm, willkommen;%} 3〉 {%preisen,%} in arigūrtá, purugūrtá <ab>u. s. w.</ab>, jugurváṇi.
+;
+20988 new {@√gur,@}¦ andere Form von <hom>1.</hom> gir. Der Grundbegriff „erheben, in die Höhe heben“ tritt in Verbindung mit úd [<ab n="siehe">s.</ab> bei <ls>BR.</ls>], und nach dem <ls>dhātupāṭha</ls> (〔28,103〕) auch in dem einfachen Verb hervor. Im <ls>RV</ls> heisst es 1〉 {%beifällig annehmen,%} daher 2〉 im Particip gūrtá, {%angenehm, willkommen;%} 3〉 {%preisen,%} in arigūrtá, purugūrtá <ab>u. s. w.</ab>, jugurváṇi.
+; ----------------------------------------------------
+; <L>4871<pc>0715<k1>navati
+; {60,099}  -> 60,099
+; {90,000} -> 90,000
+36164 old <div n="TS">-ím nāvíās {80,8}; nāvíānām {121,13}; púras {130,7}; {246,6}. — 2〉 srávantīs {32,14}; púras {54,6}; {210,6}; {535,5}; {615,5}; {702,2}; bāhū́n {205,4}; bhogā́n {383,6}; dehías {488,2}; vrā́dhatas {875,8}; srotyā́s {930,8}. — 3〉 ṣaṣṭím sahásrā 〰 náva ({60,099}) {53,9}; 〰 sahásrā ({90,000}) {924,11}.
+;
+36164 new <div n="TS">-ím nāvíās {80,8}; nāvíānām {121,13}; púras {130,7}; {246,6}. — 2〉 srávantīs {32,14}; púras {54,6}; {210,6}; {535,5}; {615,5}; {702,2}; bāhū́n {205,4}; bhogā́n {383,6}; dehías {488,2}; vrā́dhatas {875,8}; srotyā́s {930,8}. — 3〉 ṣaṣṭím sahásrā 〰 náva (60,099) {53,9}; 〰 sahásrā (90,000) {924,11}.
+; ----------------------------------------------------
+; <L>9689<pc>1521<k1>siv
+; old: <ab>Verg. Aen.</ab> {10,315}
+; new: <ls>Verg. Aen.</ls> 〔10,315〕
+74407 old {@√siv@}¦ [aus si erweitert, <ls>Cu.</ls> 〔578〕], Gegenstände durch Fäden, Schnüren <ab>u. s. w.</ab> aneinander heften; daher 1〉 {%fest zusammen fügen%} einen Panzer [<ab>A.</ab>], <ab>vgl.</ab> aerea suta bei <ab>Verg. Aen.</ab> {10,315}; daher 2〉 bildlich die Finsterniss [<ab>A.</ab>] wie eine Decke {%zusammen binden, zusammen wickeln;%} 3〉 mit der Nadel [<ab>I.</ab>] {%nähen%} [<ab>A.</ab>].
+;
+74407 new {@√siv@}¦ [aus si erweitert, <ls>Cu.</ls> 〔578〕], Gegenstände durch Fäden, Schnüren <ab>u. s. w.</ab> aneinander heften; daher 1〉 {%fest zusammen fügen%} einen Panzer [<ab>A.</ab>], <ab>vgl.</ab> aerea suta bei <ls>Verg. Aen.</ls> 〔10,315〕; daher 2〉 bildlich die Finsterniss [<ab>A.</ab>] wie eine Decke {%zusammen binden, zusammen wickeln;%} 3〉 mit der Nadel [<ab>I.</ab>] {%nähen%} [<ab>A.</ab>].
+; ----------------------------------------------------
+; *****************************************************************
+; Remove ⁾ (\u207e) 2 := SUPERSCRIPT RIGHT PARENTHESIS
+; *****************************************************************
+; <L>3685<pc>0525<k1>tar
+26851 old <div n="H">VI. Doppelstamm*⁾ {@táruṣa@} (betont nur {413,1}):
+;
+26851 new <div n="H">VI. Doppelstamm*) {@táruṣa@} (betont nur {413,1}):
+; ----------------------------------------------------
+26852 old <F>*⁾ <ab>Anm.</ab> Doppelstamm nenne ich den aus einem medialen Präsensstamme und dem Stamme s, sa (von as) zusammengesetzten, nur im <ab>Präs.</ab> vorkommenden Stamm. Aus Obigem gehören hierher arca-se, arśa-sāná, ṛñja-se, -sāná, gṛṇī-ṣe, -ṣáṇi, jraya-sāná, wonach oben zu ändern.</F>
+;
+26852 new <F>*) <ab>Anm.</ab> Doppelstamm nenne ich den aus einem medialen Präsensstamme und dem Stamme s, sa (von as) zusammengesetzten, nur im <ab>Präs.</ab> vorkommenden Stamm. Aus Obigem gehören hierher arca-se, arśa-sāná, ṛñja-se, -sāná, gṛṇī-ṣe, -ṣáṇi, jraya-sāná, wonach oben zu ändern.</F>
 ; ----------------------------------------------------
