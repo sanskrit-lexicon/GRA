@@ -245,4 +245,7 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra-meta2.txt gra-meta2_0.txt
 
 
 -------------------------------------------------------------
+final directory
+temp_graab_10.txt
+
 -------------------------------------------------------------

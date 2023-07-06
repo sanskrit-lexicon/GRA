@@ -1,0 +1,461 @@
+; <L>954<pc>0098<k1>ar<k2>ar, f
+; <ls>Cu. 〔500. 492〕</ls> -> <ls>Cu. 〔500〕. 〔492〕</ls>
+5926 old {@√ar,@} {@√ṛ,@}¦ „in Bewegung setzen“ (<lang>gr.</lang> <gk>ὀρ, ἐρ</gk>, <ls>Cu. 〔500. 492〕</ls>), und zwar sowol in fortschreitende, wie der Ruderer das Schiff ({233,1}; {807,2}) oder der Wind die Wolken ({116,1}), als auch in innere, wirbelnde, wie die Kämpfenden den Staub ({338,5}; {56,4}; {313,13}) oder das Feuer den Rauch ({871,7}; {518,1}) oder der Wind das Meer ({796,4}), so auch intransitiv „sich in Bewegung setzen“. Ferner „durch Bewegung an ein festes Ziel bringen“, namentlich „hineinfügen“, wie die Achse in die Räder ({30,14}. _{30,15} mit ā́) [<lang>gr.</lang> <gk>ἀρ</gk>, <ls>Cu. 〔488〕</ls>], daher auch „treffen, andringen, verwunden“. Ueber die Entwickelung einer dritten Bedeutung „leuchten“ (aruṇá, aruṣá) siehe bei arc. Also 1〉 {%in Bewegung setzen%} (Schiff, Wolke, Welle, Wasser, Lied, Stimme, <ab>A.</ab>); [Page99] 2〉 für jemand [<ab>D.</ab>] in Bewegung setzen, ihm {%bringen, senden%} (Lied, Gaben, <ab>A.</ab>); 3〉 {%aufwirbeln%} (Staub, Rauch, <ab>A.</ab>); 4〉 {%erregen%} (Luftkreis, Kraft, <ab>A.</ab>); 5〉 {%anregen%} (Menschen, Welten, <ab>A.</ab>); 6〉 {%sich in Bewegung setzen, sich bewegen%} (Schall); 7〉 {%eilend kommen%} (Götter, Wind); 8〉 {%sich wirbelnd erheben%} (Rauch); 9〉 {%sich erregen, sich regen%} (Kämpfer, Zorn, Kraft <ab>u. s. w.</ab>); 10〉 <chg type="chg" n="35" src="gra"><old>etwa</old><new>etwas</new></chg> [<ab>A.</ab>] worin [<ab>L.</ab>] {%hineinstecken, hineinsetzen, einfügen;%} 11〉 gegen jemand [<ab>A.</ab>] {%andringen,%} ihn {%treffen, verletzen, verwunden%}.
+;
+5926 new {@√ar,@} {@√ṛ,@}¦ „in Bewegung setzen“ (<lang>gr.</lang> <gk>ὀρ, ἐρ</gk>, <ls>Cu. 〔500〕. 〔492〕</ls>), und zwar sowol in fortschreitende, wie der Ruderer das Schiff ({233,1}; {807,2}) oder der Wind die Wolken ({116,1}), als auch in innere, wirbelnde, wie die Kämpfenden den Staub ({338,5}; {56,4}; {313,13}) oder das Feuer den Rauch ({871,7}; {518,1}) oder der Wind das Meer ({796,4}), so auch intransitiv „sich in Bewegung setzen“. Ferner „durch Bewegung an ein festes Ziel bringen“, namentlich „hineinfügen“, wie die Achse in die Räder ({30,14}. _{30,15} mit ā́) [<lang>gr.</lang> <gk>ἀρ</gk>, <ls>Cu. 〔488〕</ls>], daher auch „treffen, andringen, verwunden“. Ueber die Entwickelung einer dritten Bedeutung „leuchten“ (aruṇá, aruṣá) siehe bei arc. Also 1〉 {%in Bewegung setzen%} (Schiff, Wolke, Welle, Wasser, Lied, Stimme, <ab>A.</ab>); [Page99] 2〉 für jemand [<ab>D.</ab>] in Bewegung setzen, ihm {%bringen, senden%} (Lied, Gaben, <ab>A.</ab>); 3〉 {%aufwirbeln%} (Staub, Rauch, <ab>A.</ab>); 4〉 {%erregen%} (Luftkreis, Kraft, <ab>A.</ab>); 5〉 {%anregen%} (Menschen, Welten, <ab>A.</ab>); 6〉 {%sich in Bewegung setzen, sich bewegen%} (Schall); 7〉 {%eilend kommen%} (Götter, Wind); 8〉 {%sich wirbelnd erheben%} (Rauch); 9〉 {%sich erregen, sich regen%} (Kämpfer, Zorn, Kraft <ab>u. s. w.</ab>); 10〉 <chg type="chg" n="35" src="gra"><old>etwa</old><new>etwas</new></chg> [<ab>A.</ab>] worin [<ab>L.</ab>] {%hineinstecken, hineinsetzen, einfügen;%} 11〉 gegen jemand [<ab>A.</ab>] {%andringen,%} ihn {%treffen, verletzen, verwunden%}.
+;---------------------------------------------------
+; <L>993<pc>0105<k1>ari<k2>ari/
+; old: <ls>Bollensen</ls> (<ls>O. u. O. 〔2,462〕</ls>)
+; new: <ls>Bollensen (O. u. O. 〔2,462〕)</ls>
+6255 old <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls>Bollensen</ls> (<ls>O. u. O. 〔2,462〕</ls>) wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+;
+6255 new <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls>Bollensen (O. u. O. 〔2,462〕)</ls> wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+; unused
+;6255 new <div n="TS">-ís 2〉 {9,10}; {150,1} (ahán); {580,3}; {622,14}; {681,16}; {854,1}; {865,5} (<ls>Aufrecht</ls> áris); — in {4,6} arís vocéyus kṛṣṭáyas ist mit <ls>Bollensen O. u. O. 〔2,462〕</ls> wol arī́s (für aryás) zu lesen. — 4〉 śevadhipā́s {1020,9}. — 5〉 {791,3}.
+;---------------------------------------------------
+; <L>1090<pc>0119<k1>arz<k2>1. arz, fz
+; old: <ls>VS. 〔23,55. 56〕</ls>
+; new: <ls>VS. 〔23,55〕</ls>. <ls n="VS. 〔23,">56〕</ls>
+6959 old <hom>1.</hom> {@√arṣ,@} {@√ṛṣ,@}¦ 1〉 Grundbedeutung: „sich schnell bewegen, {%dahin schiessen%}“ [aus ar 6. 7 erweitert], vom Hasen (<ls>VS. 〔23,55. 56〕</ls>), vom Wagen (<ls>AV. 10,4,1</ls>), von der Schlange (in ahy-árṣu), vom Falken śyená: <ls>RV.</ls> {779,15}, wo es vom Soma heisst: śyenás ná taktás arṣati, er schiesst dahin wie ein schneller Falke; ähnlich {744,4} mṛgás ná taktás arsasi; so {703,7} (sūráyas) tirás ā́pas iva srídhas, árṣanti pūtádakṣasas [die glänzenden (Aditisöhne)], die reingesinnten schiessen dahin über die Feinde wie Gewässer; daher 2〉 {%schnell fliessen, strömen%} (von Flüssigkeiten), wobei das Ziel theils im <ab>Acc.</ab> steht ({819,22}; {798,11}; {819,5}), theils im <ab>Loc.</ab> ({715,9}; {728,7}; {729,3}; {749,1}. _{749,2}; {768,1}), theils im <ab>Loc.</ab> mit folgendem ā́ ({775,12}; {776,12}), und der Gegenstand, durch welchen die Flüssigkeit strömt, im <ab>Instr.</ab> ({750,1}), oder im <ab>Acc.</ab> mit vorhergehendem tirás ({779,4}; {703,7}; {774,8}), oder áti ({778,22}; {819,17}; {798,44}). Der Begriff der Schnelligkeit tritt theils in Bestimmungen hervor wie prasavás sárgataktas ({267,11}), oder in Vergleichen mit dem Rosse, oder mit den zu dem Kalbe hineilenden Mutterkühen; 3〉 {%etwas%} [<ab>A.</ab>] {%herbeiströmen%}.
+;
+6959 new <hom>1.</hom> {@√arṣ,@} {@√ṛṣ,@}¦ 1〉 Grundbedeutung: „sich schnell bewegen, {%dahin schiessen%}“ [aus ar 6. 7 erweitert], vom Hasen (<ls>VS. 〔23,55〕</ls>. <ls n="VS. 〔23,">56〕</ls>), vom Wagen (<ls>AV. 10,4,1</ls>), von der Schlange (in ahy-árṣu), vom Falken śyená: <ls>RV.</ls> {779,15}, wo es vom Soma heisst: śyenás ná taktás arṣati, er schiesst dahin wie ein schneller Falke; ähnlich {744,4} mṛgás ná taktás arsasi; so {703,7} (sūráyas) tirás ā́pas iva srídhas, árṣanti pūtádakṣasas [die glänzenden (Aditisöhne)], die reingesinnten schiessen dahin über die Feinde wie Gewässer; daher 2〉 {%schnell fliessen, strömen%} (von Flüssigkeiten), wobei das Ziel theils im <ab>Acc.</ab> steht ({819,22}; {798,11}; {819,5}), theils im <ab>Loc.</ab> ({715,9}; {728,7}; {729,3}; {749,1}. _{749,2}; {768,1}), theils im <ab>Loc.</ab> mit folgendem ā́ ({775,12}; {776,12}), und der Gegenstand, durch welchen die Flüssigkeit strömt, im <ab>Instr.</ab> ({750,1}), oder im <ab>Acc.</ab> mit vorhergehendem tirás ({779,4}; {703,7}; {774,8}), oder áti ({778,22}; {819,17}; {798,44}). Der Begriff der Schnelligkeit tritt theils in Bestimmungen hervor wie prasavás sárgataktas ({267,11}), oder in Vergleichen mit dem Rosse, oder mit den zu dem Kalbe hineilenden Mutterkühen; 3〉 {%etwas%} [<ab>A.</ab>] {%herbeiströmen%}.
+;---------------------------------------------------
+; <L>1237<pc>0139<k1>aSman<k2>a/Sman
+; old: <ls>Aufrecht in Kuhnʼs Zeitschr.&#xA0; 〔5,135〕</ls>
+; new: <ls>Aufrecht in Kuhnʼs Zeitschr. 〔5,135〕</ls>
+8052 old {@áśman,@}¦ <ab>m.</ab>, der harte Fels oder Stein [von <hom>3.</hom> aś], also als der mit scharfen Kanten oder Spitzen versehene, wie denn ja Schneideund Stech-werkzeuge ursprünglich aus Stein verfertigt wurden. Falsch ist die Herleitung aus dem für aś nirgends nachweisbaren Begriffe „schleudern“, dem überdies die ganze Begriffsentwickelung im Indogermanischen widerspricht [<ls>Aufrecht in Kuhnʼs Zeitschr.&#xA0; 〔5,135〕</ls>; <ls>Cu. 〔3〕</ls>]. 1〉 {%Fels,%} besonders häufig von den Felsen, in welchen nach dem Indramythus die Kühe eingeschlossen waren; 2〉 der {%Stein als Werkzeug%} zum Schlagen, Hammer, Hammer und Ambos und andere, ursprünglich aus Stein gemachte Werkzeuge des Schmiedes; 3〉 der {%Donnerkeil;%} 4〉 der bunte (pṛ́śni) {%Edelstein,%} mit dem {401,3} die Sonne verglichen scheint (<ab>vgl.</ab> <ls>Śat. Br. 〔6,1,2,3〕</ls> bei <ls>BR.</ls>); 5〉 der {%Himmel,%} der als steinernes Gewölbe gedacht ist (mit súar oder svaría verbunden).
+;
+8052 new {@áśman,@}¦ <ab>m.</ab>, der harte Fels oder Stein [von <hom>3.</hom> aś], also als der mit scharfen Kanten oder Spitzen versehene, wie denn ja Schneideund Stech-werkzeuge ursprünglich aus Stein verfertigt wurden. Falsch ist die Herleitung aus dem für aś nirgends nachweisbaren Begriffe „schleudern“, dem überdies die ganze Begriffsentwickelung im Indogermanischen widerspricht [<ls>Aufrecht in Kuhnʼs Zeitschr. 〔5,135〕</ls>; <ls>Cu. 〔3〕</ls>]. 1〉 {%Fels,%} besonders häufig von den Felsen, in welchen nach dem Indramythus die Kühe eingeschlossen waren; 2〉 der {%Stein als Werkzeug%} zum Schlagen, Hammer, Hammer und Ambos und andere, ursprünglich aus Stein gemachte Werkzeuge des Schmiedes; 3〉 der {%Donnerkeil;%} 4〉 der bunte (pṛ́śni) {%Edelstein,%} mit dem {401,3} die Sonne verglichen scheint (<ab>vgl.</ab> <ls>Śat. Br. 〔6,1,2,3〕</ls> bei <ls>BR.</ls>); 5〉 der {%Himmel,%} der als steinernes Gewölbe gedacht ist (mit súar oder svaría verbunden).
+;---------------------------------------------------
+; <L>1335<pc>0154<k1>asita<k2>a/sita
+; old: <ls>Web. in Ku. 〔9,234〕; 〔10,400〕</ls>
+; new: <ls>Web. in Ku. 〔9,234〕</ls>; <ls n="Web. in Ku. ">〔10,400〕</ls>
+8803 old {@ásita,@}¦ <ab>fem.</ab> ásiknī, <ab>a.</ab>, {%dunkelfarbig, schwarz%} (ursprünglich wol „beworfen, beschmutzt“ [von <hom>2.</hom> as], <ls>Web. in Ku. 〔9,234〕; 〔10,400〕</ls>); 2〉 <ab>f.</ab>, {%Nacht, Dunkel;%} 3〉 <ab>f.</ab>, ein Fluss (Akesines) im Fünfstromland, auch asiknī́ betont ({901,5}).
+;
+8803 new {@ásita,@}¦ <ab>fem.</ab> ásiknī, <ab>a.</ab>, {%dunkelfarbig, schwarz%} (ursprünglich wol „beworfen, beschmutzt“ [von <hom>2.</hom> as], <ls>Web. in Ku. 〔9,234〕</ls>; <ls n="Web. in Ku. ">〔10,400〕</ls>); 2〉 <ab>f.</ab>, {%Nacht, Dunkel;%} 3〉 <ab>f.</ab>, ein Fluss (Akesines) im Fünfstromland, auch asiknī́ betont ({901,5}).
+;---------------------------------------------------
+; <L>1840<pc>0238<k1>Ih<k2>Ih
+; old: <ls>VS. 〔36,21. 22〕</ls>
+; new: <ls>VS. 〔36,21〕</ls>. <ls n="VS. 〔36,">22〕</ls>
+12552 old {@(√īh),@}¦ {%erstreben; begehren;%} sam ī́hase (súar) <ls>VS. 〔36,21. 22〕</ls>; enthalten in an-ehás.
+;
+12552 new {@(√īh),@}¦ {%erstreben; begehren;%} sam ī́hase (súar) <ls>VS. 〔36,21〕</ls>. <ls n="VS. 〔36,">22〕</ls>; enthalten in an-ehás.
+;---------------------------------------------------
+; <L>2176<pc>0281<k1>fRa<k2>fRa/
+; old: <ls>J. Grimm</ls> [<ls>Ku. 〔1,82〕</ls>]
+; new: <ls>J. Grimm [Ku. 〔1,82〕]</ls> 
+14851 old {@ṛṇá,@}¦ <ab>a.</ab>, <ab>n.</ab>, <ab>Part.</ab> [auf na] von ar 11, also Grundbegriff „verletzt, beschädigt“; wie sich aus diesem Begriffe vielfach der Begriff der Schuld entwickelt hat, ist von <ls>J. Grimm</ls> [<ls>Ku. 〔1,82〕</ls>] nachgewiesen. 1〉 <ab>a.</ab>, {%schuldig, sündig;%} 2〉 <ab>n.</ab>, {%Schuld, Verschuldung, Sünde;%} 3〉 <ab>n.</ab>, {%Verstoss, Versehen;%} 4〉 <ab>n.</ab>, {%Geldschuld%}.
+;
+14851 new {@ṛṇá,@}¦ <ab>a.</ab>, <ab>n.</ab>, <ab>Part.</ab> [auf na] von ar 11, also Grundbegriff „verletzt, beschädigt“; wie sich aus diesem Begriffe vielfach der Begriff der Schuld entwickelt hat, ist von <ls>J. Grimm [Ku. 〔1,82〕]</ls> nachgewiesen. 1〉 <ab>a.</ab>, {%schuldig, sündig;%} 2〉 <ab>n.</ab>, {%Schuld, Verschuldung, Sünde;%} 3〉 <ab>n.</ab>, {%Verstoss, Versehen;%} 4〉 <ab>n.</ab>, {%Geldschuld%}.
+;---------------------------------------------------
+; <L>2471<pc>0316<k1>karz<k2>karz
+; old: <ls>Ku. Z. 〔3,247〕; 〔10,103〕; 〔11,175〕</ls>
+; new: <ls>Ku. Z. 〔3,247〕</ls>; <ls n="Ku. Z. ">〔10,103〕</ls>; <ls n="Ku. Z. ">〔11,175〕</ls>
+16720 old {@√karṣ.@}¦ Die Grundbedeutung scheint „Furchen ziehen, pflügen“ zu sein, die sich auch in einzelnen griechischen und lateinischen Formen [<ab n="siehe">s.</ab> <ls>Ku. Z. 〔3,247〕; 〔10,103〕; 〔11,175〕</ls>], sowie in dem altnordischen hersi-r, <ab>pl.</ab> hersar (ursprünglich „Ansiedler, Ackerbauer“) und in dem Pflanzennamen <lang>altn.</lang> hirsi, Hirse (ursprünglich Ackerpflanze) erhalten hat. Aus diesem Begriffe scheint sich der allgemeine „schleppen, ziehen“ erst entwickelt zu haben; karṣ selbst scheint aus kar = <lang>gr.</lang> <gk>ϰείρω</gk> [<ab>vgl.</ab> kṛt] weitergebildet. 1〉 {%Furchen ziehen, pflügen,%} sowol vom Pfluge, als dem Stiere, als dem Ackerbauer; 2〉 {%ziehen, schleppen, mit sich ziehen%}. Mit vi, {%durchfurchen, durchpflügen%}. [Page317]
+;
+16720 new {@√karṣ.@}¦ Die Grundbedeutung scheint „Furchen ziehen, pflügen“ zu sein, die sich auch in einzelnen griechischen und lateinischen Formen [<ab n="siehe">s.</ab> <ls>Ku. Z. 〔3,247〕</ls>; <ls n="Ku. Z. ">〔10,103〕</ls>; <ls n="Ku. Z. ">〔11,175〕</ls>], sowie in dem altnordischen hersi-r, <ab>pl.</ab> hersar (ursprünglich „Ansiedler, Ackerbauer“) und in dem Pflanzennamen <lang>altn.</lang> hirsi, Hirse (ursprünglich Ackerpflanze) erhalten hat. Aus diesem Begriffe scheint sich der allgemeine „schleppen, ziehen“ erst entwickelt zu haben; karṣ selbst scheint aus kar = <lang>gr.</lang> <gk>ϰείρω</gk> [<ab>vgl.</ab> kṛt] weitergebildet. 1〉 {%Furchen ziehen, pflügen,%} sowol vom Pfluge, als dem Stiere, als dem Ackerbauer; 2〉 {%ziehen, schleppen, mit sich ziehen%}. Mit vi, {%durchfurchen, durchpflügen%}. [Page317]
+;---------------------------------------------------
+; <L>2748<pc>0359<k1>kravis<k2>kravi/s
+18884 old {@kravís,@}¦ <ab>n.</ab>, {%rohes Fleisch,%} ursprünglich wahrscheinlich „geronnenes Blut“, <ab n="siehe">s.</ab> <ls>Cu. 〔74. 77〕</ls>.
+;
+18884 new {@kravís,@}¦ <ab>n.</ab>, {%rohes Fleisch,%} ursprünglich wahrscheinlich „geronnenes Blut“, <ab n="siehe">s.</ab> <ls>Cu. 〔74〕. 〔77〕</ls>.
+;---------------------------------------------------
+; <L>2763<pc>0360<k1>kruD<k2>kruD
+; old: „<ls>Deutsche Pflanzennamen  〔S. 237〕</ls>“
+; new: „<ls>Deutsche Pflanzennamen 〔S. 237〕</ls>“
+18974 old {@√krudh,@}¦ {%zürnen;%} <ab>Caus.</ab> 1〉 jemanden [<ab>A.</ab>] {%erzürnen;%} 2〉 jemandes Macht oder Waffe zur Rache <ab>u. s. w.</ab> {%reizen%} [ursprünglich „rauh, scharf sein“, <ab n="siehe">s.</ab> meine „<ls>Deutsche Pflanzennamen  〔S. 237〕</ls>“].
+;
+18974 new {@√krudh,@}¦ {%zürnen;%} <ab>Caus.</ab> 1〉 jemanden [<ab>A.</ab>] {%erzürnen;%} 2〉 jemandes Macht oder Waffe zur Rache <ab>u. s. w.</ab> {%reizen%} [ursprünglich „rauh, scharf sein“, <ab n="siehe">s.</ab> meine „<ls>Deutsche Pflanzennamen 〔S. 237〕</ls>“].
+;---------------------------------------------------
+; <L>3032<pc>0407<k1>go<k2>go/
+; old: <ls>Cu. 〔644. 642〕</ls>
+; new: <ls>Cu. 〔644〕. 〔642〕</ls>
+21291 old {@gó,@}¦ <ab>m.</ab>, <ab>f.</ab>, „Rind, Stier, Kuh“, ursprünglich wol: der Brüller von gu, ertönen, ertönen lassen [<ls>Cu. 〔644. 642〕</ls>], 1〉 <ab>m.</ab>, {%Stier;%} 2〉 <ab>m.</ab>, {%Rind,%} im Singular in collectivem Sinne, namentlich 3〉 <ab>m.</ab>, in Verbindung mit áśva, seltener mit árvat, {%Rind%} und Ross; 4〉 <ab>f.</ab>, die {%Kuh,%} häufig in bildlichem Sinne, namentlich 5〉 <ab>f.</ab>, mit dhenú verbunden: die milchende {%Kuh%}. — Im bildlichen Sinne werden ferner 6〉 <ab>m.</ab> <ab>pl.</ab>, die Gestirne als {%Rinder%} oder {%Rinderheerde%} aufgefasst, 7〉 <ab>m.</ab> <ab>pl.</ab>, die Strahlen der Morgenröthe als {%Stiere,%} die ihren Wagen ziehen <ab>u. s. w.</ab>, ähnlich 8〉 <ab>m.</ab> <ab>pl.</ab>, die Strahlen der Sonne oder des Agni; ferner 9〉 <ab>f.</ab>, die Erde als die nahrungsreiche {%Kuh,%} besonders in der Verbindung mahī́ gaús; 10〉 <ab>f.</ab> <ab>pl.</ab>, die Morgenröthen als {%Kühe;%} 11〉 <ab>f.</ab> (meist <ab>pl.</ab>), die Milch oder die Butter (Schmelzbutter des Agni) als {%Kuh%} oder {%Kühe,%} insbesondere 12〉 <ab>f.</ab> <ab>pl.</ab>, die Milchtränke als {%Kühe,%} denen der Stier (vṛ́ṣā, vṛṣabhás) Soma entgegeneilt; 13〉 <ab>f.</ab> <ab>pl.</ab>, die Regenwolken als {%Kühe,%} die von Vritra im Fels der regenlosen Wolke verschlossen, von Indra (Brihaspati <ab>u. s. w.</ab>) befreit werden, und nun als nährende [Page408] Milch den Regen strömen lassen. Ohne dass das Bildliche hervortritt, bezeichnet gó 14〉 <ab>m.</ab> (?), die {%Rindshaut,%} den ledernen Schlauch, oder 15〉 <ab>m.</ab>, den rindsledernen {%Riemen%} zum Schleudern oder Binden, 16〉 <ab>f.</ab> <ab>pl.</ab>, die {%Milch,%} häufig mit Verben des Mischens, Salbens, Kleidens, Schmückens verbunden; 17〉 <ab>f.</ab> <ab>pl.</ab>, die {%Schmelzbutter,%} die ins Feuer gegossen wird, oder überhaupt 18〉 <ab>f.</ab> <ab>pl.</ab>, das {%Fett%}. — <ab>Adj.</ab>: ágopa, ádabdha, āmá, usríya, jénia, tridhā́tu, paramá, purubhójas, pṛ́śni, bhīmayú, mā́dhvī, vatsin, vājadā́, vāśrá, śubhrí, sudúgha, suhutā́d, starī́ <ab>u. s. w.</ab> (<ab>s. u.</ab>).
+;
+21291 new {@gó,@}¦ <ab>m.</ab>, <ab>f.</ab>, „Rind, Stier, Kuh“, ursprünglich wol: der Brüller von gu, ertönen, ertönen lassen [<ls>Cu. 〔644〕. 〔642〕</ls>], 1〉 <ab>m.</ab>, {%Stier;%} 2〉 <ab>m.</ab>, {%Rind,%} im Singular in collectivem Sinne, namentlich 3〉 <ab>m.</ab>, in Verbindung mit áśva, seltener mit árvat, {%Rind%} und Ross; 4〉 <ab>f.</ab>, die {%Kuh,%} häufig in bildlichem Sinne, namentlich 5〉 <ab>f.</ab>, mit dhenú verbunden: die milchende {%Kuh%}. — Im bildlichen Sinne werden ferner 6〉 <ab>m.</ab> <ab>pl.</ab>, die Gestirne als {%Rinder%} oder {%Rinderheerde%} aufgefasst, 7〉 <ab>m.</ab> <ab>pl.</ab>, die Strahlen der Morgenröthe als {%Stiere,%} die ihren Wagen ziehen <ab>u. s. w.</ab>, ähnlich 8〉 <ab>m.</ab> <ab>pl.</ab>, die Strahlen der Sonne oder des Agni; ferner 9〉 <ab>f.</ab>, die Erde als die nahrungsreiche {%Kuh,%} besonders in der Verbindung mahī́ gaús; 10〉 <ab>f.</ab> <ab>pl.</ab>, die Morgenröthen als {%Kühe;%} 11〉 <ab>f.</ab> (meist <ab>pl.</ab>), die Milch oder die Butter (Schmelzbutter des Agni) als {%Kuh%} oder {%Kühe,%} insbesondere 12〉 <ab>f.</ab> <ab>pl.</ab>, die Milchtränke als {%Kühe,%} denen der Stier (vṛ́ṣā, vṛṣabhás) Soma entgegeneilt; 13〉 <ab>f.</ab> <ab>pl.</ab>, die Regenwolken als {%Kühe,%} die von Vritra im Fels der regenlosen Wolke verschlossen, von Indra (Brihaspati <ab>u. s. w.</ab>) befreit werden, und nun als nährende [Page408] Milch den Regen strömen lassen. Ohne dass das Bildliche hervortritt, bezeichnet gó 14〉 <ab>m.</ab> (?), die {%Rindshaut,%} den ledernen Schlauch, oder 15〉 <ab>m.</ab>, den rindsledernen {%Riemen%} zum Schleudern oder Binden, 16〉 <ab>f.</ab> <ab>pl.</ab>, die {%Milch,%} häufig mit Verben des Mischens, Salbens, Kleidens, Schmückens verbunden; 17〉 <ab>f.</ab> <ab>pl.</ab>, die {%Schmelzbutter,%} die ins Feuer gegossen wird, oder überhaupt 18〉 <ab>f.</ab> <ab>pl.</ab>, das {%Fett%}. — <ab>Adj.</ab>: ágopa, ádabdha, āmá, usríya, jénia, tridhā́tu, paramá, purubhójas, pṛ́śni, bhīmayú, mā́dhvī, vatsin, vājadā́, vāśrá, śubhrí, sudúgha, suhutā́d, starī́ <ab>u. s. w.</ab> (<ab>s. u.</ab>).
+;---------------------------------------------------
+; <L>3483<pc>0484<k1>jAmAtf<k2>jA/mAtf
+; old: <ls>Ku. Zeitschr. 〔11,14〕; 〔12,307〕</ls>
+; new: <ls>Ku. Zeitschr. 〔11,14〕</ls>; <ls n="Ku. Zeitschr. ">〔12,307〕</ls>
+24927 old {@jā́mātṛ,@}¦ <ab>m.</ab>, {%Eidam%}. Da auch die Form yāmātṛ in gleicher Bedeutung vorkommt, und diese auf die Wurzel yam, als deren ursprüngliche Form dyam anzusehen ist, zurückführt, dy sich aber häufig in j umwandelt, so ist unzweifelhaft auch jā́mātṛ hierauf zurückzuführen, und also der Eidam als der die Tochter mit sich verbindende aufgefasst [<ab>vgl.</ab> <ls>Ku. Zeitschr. 〔11,14〕; 〔12,307〕</ls>]. Das <lang>griech.</lang> <gk>γαμβρό-ς</gk> (für <gk>γαμ-ρό-ς</gk>) und das <lang>lat.</lang> gener beweisen, dass jener Vorgang schon vor der Trennung dieser Sprachen stattfand, und dass, worauf auch sonst viele Spuren hinweisen, die Palatalen keineswegs so jungen Ursprungs sind, wie man gewöhnlich annimmt.
+;
+24927 new {@jā́mātṛ,@}¦ <ab>m.</ab>, {%Eidam%}. Da auch die Form yāmātṛ in gleicher Bedeutung vorkommt, und diese auf die Wurzel yam, als deren ursprüngliche Form dyam anzusehen ist, zurückführt, dy sich aber häufig in j umwandelt, so ist unzweifelhaft auch jā́mātṛ hierauf zurückzuführen, und also der Eidam als der die Tochter mit sich verbindende aufgefasst [<ab>vgl.</ab> <ls>Ku. Zeitschr. 〔11,14〕</ls>; <ls n="Ku. Zeitschr. ">〔12,307〕</ls>]. Das <lang>griech.</lang> <gk>γαμβρό-ς</gk> (für <gk>γαμ-ρό-ς</gk>) und das <lang>lat.</lang> gener beweisen, dass jener Vorgang schon vor der Trennung dieser Sprachen stattfand, und dass, worauf auch sonst viele Spuren hinweisen, die Palatalen keineswegs so jungen Ursprungs sind, wie man gewöhnlich annimmt.
+;---------------------------------------------------
+; <L>3517<pc>0490<k1>jihvA<k2>jihvA/
+; old: <ls>Lottner</ls> [<ls>Ku. Zeitschr. 〔7,186〕</ls>]
+; new: <ls>Lottner [Ku. Zeitschr. 〔7,186〕]</ls>
+25245 old {@jihvā́,@}¦ <ab>f.</ab>, die {%Zunge;%} als Grundform muss, wie das <lang>altlat.</lang> dingua, <lang>goth.</lang> tuggo zeigt, *dihvā́ aufgefasst werden, mit Uebergang des d vor i in j [<ls>Ku. Zeitschr. 〔11,12〕</ls>], wobei eine volksthümliche, durch den Anklang an hū, rufen, begünstigte Umdeutung mitgewirkt haben mochte (wie im <lang>lat.</lang> lingua durch den Anklang an lingo). Nach <ls>Lottner</ls> [<ls>Ku. Zeitschr. 〔7,186〕</ls>] ist die Zunge als die spitze benannt. Gewöhnlich wird sie als die die Nahrungsmittel geniessende oder ergreifende, selten 2〉 als die redende, oder als die, mit der man redet, dargestellt. Insbesondere 3〉 wird die Flamme des Agni als die Zunge dargestellt, mit der er das Holz oder die Opfergüsse verzehrt oder ergreift oder die er ihnen entgegenstreckt, ebenso in der Mehrheit (<ab>z. B.</ab> tisrás jihvā́s {254,2}); und 4〉 indem Agni seine Flammenzunge zum Himmel emporrichtet und die von ihr aufgenommenen Opferspeisen zum Göttersitze hinaufführt, ja die Götter auf dieser Flammenbahn zu den Opferspeisen hinführt, so erscheint er als der, welcher mit seiner Zunge die Götter herbeiführt, verehrt und speist; so wird gesagt, 5〉 dass die Götter mit des Agni Zunge die Opferspeisen geniessen, und 6〉 dass die Götter ihn zu ihrer Zunge gemacht haben, er ihre Zunge ist; endlich 7〉 heisst es, dass Agni mit seiner Flammenzunge den Gottlosen peinigt, ergreift oder verzehrt. — <ab>Adj.</ab> urūci, gúhya, tigmá, mádhumat, mandrá, sumedhá, havyaváh.
+;
+25245 new {@jihvā́,@}¦ <ab>f.</ab>, die {%Zunge;%} als Grundform muss, wie das <lang>altlat.</lang> dingua, <lang>goth.</lang> tuggo zeigt, *dihvā́ aufgefasst werden, mit Uebergang des d vor i in j [<ls>Ku. Zeitschr. 〔11,12〕</ls>], wobei eine volksthümliche, durch den Anklang an hū, rufen, begünstigte Umdeutung mitgewirkt haben mochte (wie im <lang>lat.</lang> lingua durch den Anklang an lingo). Nach <ls>Lottner [Ku. Zeitschr. 〔7,186〕]</ls> ist die Zunge als die spitze benannt. Gewöhnlich wird sie als die die Nahrungsmittel geniessende oder ergreifende, selten 2〉 als die redende, oder als die, mit der man redet, dargestellt. Insbesondere 3〉 wird die Flamme des Agni als die Zunge dargestellt, mit der er das Holz oder die Opfergüsse verzehrt oder ergreift oder die er ihnen entgegenstreckt, ebenso in der Mehrheit (<ab>z. B.</ab> tisrás jihvā́s {254,2}); und 4〉 indem Agni seine Flammenzunge zum Himmel emporrichtet und die von ihr aufgenommenen Opferspeisen zum Göttersitze hinaufführt, ja die Götter auf dieser Flammenbahn zu den Opferspeisen hinführt, so erscheint er als der, welcher mit seiner Zunge die Götter herbeiführt, verehrt und speist; so wird gesagt, 5〉 dass die Götter mit des Agni Zunge die Opferspeisen geniessen, und 6〉 dass die Götter ihn zu ihrer Zunge gemacht haben, er ihre Zunge ist; endlich 7〉 heisst es, dass Agni mit seiner Flammenzunge den Gottlosen peinigt, ergreift oder verzehrt. — <ab>Adj.</ab> urūci, gúhya, tigmá, mádhumat, mandrá, sumedhá, havyaváh.
+;---------------------------------------------------
+; <L>4240<pc>0605<k1>divit<k2>divi/t
+; old: <ls>Ku. Z. 〔2,149〕; 〔11,9〕</ls>
+; new: <ls>Ku. Z. 〔2,149〕</ls>; <ls n="Ku. Z. ">〔11,9〕</ls>
+31008 old {@divít,@}¦ <ab>m.</ab>, {%Glanz%} [von div] (<ab>vgl.</ab> <ls>Ku. Z. 〔2,149〕; 〔11,9〕</ls>).
+;
+31008 new {@divít,@}¦ <ab>m.</ab>, {%Glanz%} [von div] (<ab>vgl.</ab> <ls>Ku. Z. 〔2,149〕</ls>; <ls n="Ku. Z. ">〔11,9〕</ls>).
+;---------------------------------------------------
+; <L>4376<pc>0619<k1>dus<k2>dus-
+; old: <ls>RV. Prātiś. 〔255. 371〕</ls>
+; new: <ls>RV. Prātiś. 〔255〕</ls>. <ls n="RV. Prātiś. ">〔371〕</ls>
+31973 old {@dus-@}¦ [<ls>Cu. 〔278〕</ls>], vor weichen Lauten dur, vor harten duṣ, wobei folgendes t oder s in ṭ oder ṣ übergeht; vor s mit folgendem harten Consonanten fällt der Auslaut von dus weg, mit folgendem d, dh, n bildet es oft dū-ḍ, dū-ḍh, dū-ṇ (<ab>vgl.</ab> <ls>RV. Prātiś. 〔255. 371〕</ls>). In Zusammensetzung mit Adjectiven und (nicht infinitivischen) Substantiven bedeutet es „übel, böse, schlimm, mis-“, in Zusammensetzung mit Infinitiven und infinitivischen Substantiven (auf -tu, -a, -as, -i, -ana <ab>u. s. w.</ab>) bedeutet es „schwer zu“, <ab>z. B.</ab> duṣ-ṭára, duṣ-tárītu, schwer zu überwinden, unüberwindlich (<ab n="siehe">s.</ab> su-).
+;
+31973 new {@dus-@}¦ [<ls>Cu. 〔278〕</ls>], vor weichen Lauten dur, vor harten duṣ, wobei folgendes t oder s in ṭ oder ṣ übergeht; vor s mit folgendem harten Consonanten fällt der Auslaut von dus weg, mit folgendem d, dh, n bildet es oft dū-ḍ, dū-ḍh, dū-ṇ (<ab>vgl.</ab> <ls>RV. Prātiś. 〔255〕</ls>. <ls n="RV. Prātiś. ">〔371〕</ls>). In Zusammensetzung mit Adjectiven und (nicht infinitivischen) Substantiven bedeutet es „übel, böse, schlimm, mis-“, in Zusammensetzung mit Infinitiven und infinitivischen Substantiven (auf -tu, -a, -as, -i, -ana <ab>u. s. w.</ab>) bedeutet es „schwer zu“, <ab>z. B.</ab> duṣ-ṭára, duṣ-tárītu, schwer zu überwinden, unüberwindlich (<ab n="siehe">s.</ab> su-).
+;---------------------------------------------------
+; <L>4535<pc>0644<k1>drapsa<k2>drapsa/
+; old: <ls>Ku. Zeitschr. 〔2,138〕; 〔7,63〕</ls>
+; new: <ls>Ku. Zeitschr. 〔2,138〕</ls>; <ls n="Ku. Zeitschr. ">〔7,63〕</ls
+33262 old {@drapsá,@}¦ <ab>m.</ab>, {%der Tropfen%} [für *dravsá von dru <ls>Ku. Zeitschr. 〔2,138〕; 〔7,63〕</ls>], im <ab>sing.</ab> auch die {%tropfende Flüssigkeit;%} namentlich 2〉 vom Soma; 3〉 vom Regen; 4〉 bildlich vom männlichen Samen {549,11} (<ab>vgl.</ab> <ab n="Vers">V.</ab> _{549,13}); 5〉 die Funken als {%Tropfen%} des Feuers; 6〉 der Mond oder die Sonne ({309,2}) als der lichte {%Tropfen%} am Himmel. — <ab>Adj.</ab> aruṇá, udaprút, kṛṣṇá, govindú, camūṣád, nī́lavat, mádhu, mádhumat, mayobhū́, yavasā́d (<ab>Bed.</ab> 5), vi cakṣaṇá, vibhū́, śyenájūta, śvetá (<ab>Bed.</ab> 6), skanná, svā́diṣṭha.
+;
+33262 new {@drapsá,@}¦ <ab>m.</ab>, {%der Tropfen%} [für *dravsá von dru <ls>Ku. Zeitschr. 〔2,138〕</ls>; <ls n="Ku. Zeitschr. ">〔7,63〕</ls>], im <ab>sing.</ab> auch die {%tropfende Flüssigkeit;%} namentlich 2〉 vom Soma; 3〉 vom Regen; 4〉 bildlich vom männlichen Samen {549,11} (<ab>vgl.</ab> <ab n="Vers">V.</ab> _{549,13}); 5〉 die Funken als {%Tropfen%} des Feuers; 6〉 der Mond oder die Sonne ({309,2}) als der lichte {%Tropfen%} am Himmel. — <ab>Adj.</ab> aruṇá, udaprút, kṛṣṇá, govindú, camūṣád, nī́lavat, mádhu, mádhumat, mayobhū́, yavasā́d (<ab>Bed.</ab> 5), vi cakṣaṇá, vibhū́, śyenájūta, śvetá (<ab>Bed.</ab> 6), skanná, svā́diṣṭha.
+;---------------------------------------------------
+; <L>4898<pc>0720<k1>nahi<k2>nahi/
+; old: <ls>Prāt. 〔442. 483〕</ls>
+; new: <ls>Prāt. 〔442〕</ls>. <ls n="Prāt. ">〔483〕</ls>
+36434 old {@nahí@}¦ (aus ná und hí zusammengerückt): {%denn%} [Page721] {%nicht%} {10,8}; {19,2}; {22,4}; {24,6}; {39,4}; {54,1}; {57,4}; {129,4}; {138,4}; {164,11}. _{164,17}; {179,2}; {219,6}; {351,7}; {385,2}; {394,9}; {457,18}; {466,5}; {520,8}; {539,2}; {548,19}; {575,3}. _{575,4}; {653,16}; {660,2}; {666,11}; {669,14}; {673,2}; {675,13}; {690,3}; {711,19}; {853,18}; {897,6}; {912,11}; {921,13}; {933,3}; {945,6}. _{945,7}; {957,3}; {968,1}; {971,4}; {1011,2}. Bisweilen tritt die Bedeutung des Grundes zurück, und hí bezeichnet dann die Thatsache als eine allbekannte, wie etwa im Deutschen das unbetonte „ja“; also nahí {%ja nicht,%} und auch einige der vorher angeführten Stellen lassen diese Auffassung zu, am deutlichsten aber tritt sie hervor, wo náhi das Lied beginnt, wie {650,1}; {689,1}. Die Negation wird verstärkt durch folgendes aṅgá: {%denn nicht fürwahr%} {644,12}. _{644,15}; sma {627,21}; {327,9}; nú {80,15}; {468,3}; vor diesem nú erscheint das i oft rerlängert, (<ls>Prāt. 〔442. 483〕</ls>) also nahī́ nú {167,9}; nahī́ nv-à {314,4}; {623,13}; in {641,7} bedeutet nahí nū́: {%nicht ja erst jetzt%}.
+;
+36434 new {@nahí@}¦ (aus ná und hí zusammengerückt): {%denn%} [Page721] {%nicht%} {10,8}; {19,2}; {22,4}; {24,6}; {39,4}; {54,1}; {57,4}; {129,4}; {138,4}; {164,11}. _{164,17}; {179,2}; {219,6}; {351,7}; {385,2}; {394,9}; {457,18}; {466,5}; {520,8}; {539,2}; {548,19}; {575,3}. _{575,4}; {653,16}; {660,2}; {666,11}; {669,14}; {673,2}; {675,13}; {690,3}; {711,19}; {853,18}; {897,6}; {912,11}; {921,13}; {933,3}; {945,6}. _{945,7}; {957,3}; {968,1}; {971,4}; {1011,2}. Bisweilen tritt die Bedeutung des Grundes zurück, und hí bezeichnet dann die Thatsache als eine allbekannte, wie etwa im Deutschen das unbetonte „ja“; also nahí {%ja nicht,%} und auch einige der vorher angeführten Stellen lassen diese Auffassung zu, am deutlichsten aber tritt sie hervor, wo náhi das Lied beginnt, wie {650,1}; {689,1}. Die Negation wird verstärkt durch folgendes aṅgá: {%denn nicht fürwahr%} {644,12}. _{644,15}; sma {627,21}; {327,9}; nú {80,15}; {468,3}; vor diesem nú erscheint das i oft rerlängert, (<ls>Prāt. 〔442〕</ls>. <ls n="Prāt. ">〔483〕</ls>) also nahī́ nú {167,9}; nahī́ nv-à {314,4}; {623,13}; in {641,7} bedeutet nahí nū́: {%nicht ja erst jetzt%}.
+;---------------------------------------------------
+; <L>5119<pc>0754<k1>nfzahya<k2>nf-za/hya
+; old: <ls>Prāt. 〔580,11〕; 〔581,2〕</ls>
+; new: <ls>Prāt. 〔580,11〕</ls>; <ls n="Prāt. ">〔581,2〕</ls>
+38035 old {@nṛ-ṣáhya,@}¦ <ab>n.</ab>, {%Männerbezwingung%} (<ls>Prāt. 〔580,11〕; 〔581,2〕</ls>).
+;
+38035 new {@nṛ-ṣáhya,@}¦ <ab>n.</ab>, {%Männerbezwingung%} (<ls>Prāt. 〔580,11〕</ls>; <ls n="Prāt. ">〔581,2〕</ls>).
+;---------------------------------------------------
+; <L>5372<pc>0795<k1>pavItf<k2>pavItf/
+; old: <ls>Prāt. 〔588,7〕; 〔589,11〕</ls>
+; new: <ls>Prāt. 〔588,7〕</ls>; <ls n="Prāt. ">〔589,11〕</ls>
+39996 old {@pavītṛ́,@}¦ <ab>m.</ab>, der {%Läuterer,%} der den Soma durch Seihen klärt [von pū]. (<ls>Prāt. 〔588,7〕; 〔589,11〕</ls>).
+;
+39996 new {@pavītṛ́,@}¦ <ab>m.</ab>, der {%Läuterer,%} der den Soma durch Seihen klärt [von pū]. (<ls>Prāt. 〔588,7〕</ls>; <ls n="Prāt. ">〔589,11〕</ls>).
+;---------------------------------------------------
+; <L>5405<pc>0800<k1>pA<k2>2. pA
+; old: <ls>Prāt. 〔445. 464—466〕</ls>
+; new: <ls>Prāt. 〔445〕</ls>. <ls n="Prāt. ">〔464〕</ls>—<ls n="Prāt. ">〔466〕</ls>
+40256 old <div n="TS">-ā (<ls>Prāt. 〔445. 464—466〕</ls>) 1〉 somiám mádhu {14,10}; sómam {15,5}; {130,2}; {266,2}. _{266,5}; {281,1}; {458,1}; {464,7}; {538,1}; {624,10}; {656,1}; {685,7}; {704,3}; asyá {285,10}; ándhasas {405,5}; {606,1}; {637,4}; {704,2}; sutásya {621,26}; {623,1}; súṣutasya {284,2}; {545,1}; sómasya {657,1}; imám (sómam) {637,1} (wo richtiger píbās zu sprechen ist) — 2〉 {177,4}; {266,3}; {270,3}; {274,2}; {691,2}; {622,1} (súpūrṇam udáram) <ab>u. s. w.</ab>
+;
+40256 new <div n="TS">-ā (<ls>Prāt. 〔445〕</ls>. <ls n="Prāt. ">〔464〕</ls>—<ls n="Prāt. ">〔466〕</ls>) 1〉 somiám mádhu {14,10}; sómam {15,5}; {130,2}; {266,2}. _{266,5}; {281,1}; {458,1}; {464,7}; {538,1}; {624,10}; {656,1}; {685,7}; {704,3}; asyá {285,10}; ándhasas {405,5}; {606,1}; {637,4}; {704,2}; sutásya {621,26}; {623,1}; súṣutasya {284,2}; {545,1}; sómasya {657,1}; imám (sómam) {637,1} (wo richtiger píbās zu sprechen ist) — 2〉 {177,4}; {266,3}; {270,3}; {274,2}; {691,2}; {622,1} (súpūrṇam udáram) <ab>u. s. w.</ab>
+;---------------------------------------------------
+; <L>5568<pc>0827<k1>puru<k2>puru/
+; old: <ls>Prāt. 〔455〕; 〔465,71〕; 〔466〕</ls>
+; new: <ls>Prāt. 〔455〕</ls>; <ls n="Prāt. ">〔465,71〕</ls>; <ls n="Prāt. ">〔466〕</ls>
+41489 old {@purú,@}¦ <ab>a.</ab>, das <ab>fem.</ab> {@pūrvī@} [<ls>Cu. 〔375〕</ls>], {%viel, reichlich%} [<ab>v.</ab> pur]; insbesondere 2〉 <ab>n.</ab>, purú und purū́ (<ls>Prāt. 〔455〕; 〔465,71〕; 〔466〕</ls>), {%sehr, oft, in reichlicher Menge;%} bei Verben oder 3〉 {%sehr,%} bei Adjektiven; 4〉 purú víśvas {%all und jeder,%} <ab>pl.</ab> {%alle ins Gesammt;%} 5〉 simā́ purū́ {%all überall;%} 6〉 purú urú {%weit und breit;%} 7〉 tirás purū́ cid {%durch viele Orte hindurch%}. Den <ab>Superl.</ab> purutáma, purūtáma siehe besonders. [Page828]
+;
+41489 new {@purú,@}¦ <ab>a.</ab>, das <ab>fem.</ab> {@pūrvī@} [<ls>Cu. 〔375〕</ls>], {%viel, reichlich%} [<ab>v.</ab> pur]; insbesondere 2〉 <ab>n.</ab>, purú und purū́ (<ls>Prāt. 〔455〕</ls>; <ls n="Prāt. ">〔465,71〕</ls>; <ls n="Prāt. ">〔466〕</ls>), {%sehr, oft, in reichlicher Menge;%} bei Verben oder 3〉 {%sehr,%} bei Adjektiven; 4〉 purú víśvas {%all und jeder,%} <ab>pl.</ab> {%alle ins Gesammt;%} 5〉 simā́ purū́ {%all überall;%} 6〉 purú urú {%weit und breit;%} 7〉 tirás purū́ cid {%durch viele Orte hindurch%}. Den <ab>Superl.</ab> purutáma, purūtáma siehe besonders. [Page828]
+;---------------------------------------------------
+; <L>5643<pc>0834<k1>purUravas<k2>purU-ra/vas
+; old: <ls>Max Müller</ls> (<ls>Oxford Essays 〔S. 61〕</ls>)
+; new: <ls>Max Müller (Oxford Essays 〔S. 61〕)</ls>
+41946 old {@purū-rávas,@}¦ <ab>a.</ab>, <ab>m.</ab>, 1〉 <ab>a.</ab>, {%laut%} oder {%oft rufend%} [rávas = ráva], so in {31,4}, falls es nicht auch hier als Eigenname zu fassen ist; 2〉 <ab>m.</ab>, Eigenname des Geliebten der urváśī. Eine sehr geistvolle, aber doch zweifelhafte Deutung des Mythus hat <ls>Max Müller</ls> (<ls>Oxford Essays 〔S. 61〕</ls>) gegeben.
+;
+41946 new {@purū-rávas,@}¦ <ab>a.</ab>, <ab>m.</ab>, 1〉 <ab>a.</ab>, {%laut%} oder {%oft rufend%} [rávas = ráva], so in {31,4}, falls es nicht auch hier als Eigenname zu fassen ist; 2〉 <ab>m.</ab>, Eigenname des Geliebten der urváśī. Eine sehr geistvolle, aber doch zweifelhafte Deutung des Mythus hat <ls>Max Müller (Oxford Essays 〔S. 61〕)</ls> gegeben.
+;---------------------------------------------------
+; <L>5691<pc>0844<k1>pUruza<k2>pU/ruza
+; old: <ls>Prāt. 〔577. 581〕</ls>
+; new: <ls>Prāt. 〔577〕</ls>. <ls n="Prāt. ">〔581〕</ls>
+42356 old {@pū́ruṣa,@}¦ <ab>m.</ab>, metrische Dehnung von púruṣa (<ls>Prāt. 〔577. 581〕</ls>), 1〉 {%Mensch;%} 2〉 {%Urmensch,%} aus dem die Welt sich entwickelt.
+;
+42356 new {@pū́ruṣa,@}¦ <ab>m.</ab>, metrische Dehnung von púruṣa (<ls>Prāt. 〔577〕</ls>. <ls n="Prāt. ">〔581〕</ls>), 1〉 {%Mensch;%} 2〉 {%Urmensch,%} aus dem die Welt sich entwickelt.
+;---------------------------------------------------
+; <L>6406<pc>0951<k1>BUman<k2>BU/man
+; old: <ls>Prāt. 〔464. 465. 502. 504. 535〕</ls>
+; new: <ls>Prāt. 〔464〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔502〕</ls>. <ls n="Prāt. ">〔504〕</ls>. <ls n="Prāt. ">〔535〕</ls>
+47662 old {@bhū́man,@}¦ <ab>n.</ab> [von bhū], 1〉 {%Erde, Erdboden;%} insbesondere 2〉 die {%Erde%} mit dem Gegensatze des Himmels; namentlich 3〉 mit dem Singular oder Dual ({61,14}) von dív, Himmel und {%Erde;%} 4〉 {%Welt;%} 5〉 {%Wesen,%} besonders das lebendige, namentlich im <ab>pl.</ab> die {%Wesen;%} 6〉 páñca bhū́mā die fünf Menschenstämme. — Für bhū́mā hat <ls>Padapāṭha</ls> stets bhū́ma; <ab>vgl.</ab> <ls>Prāt. 〔464. 465. 502. 504. 535〕</ls>.
+;
+47662 new {@bhū́man,@}¦ <ab>n.</ab> [von bhū], 1〉 {%Erde, Erdboden;%} insbesondere 2〉 die {%Erde%} mit dem Gegensatze des Himmels; namentlich 3〉 mit dem Singular oder Dual ({61,14}) von dív, Himmel und {%Erde;%} 4〉 {%Welt;%} 5〉 {%Wesen,%} besonders das lebendige, namentlich im <ab>pl.</ab> die {%Wesen;%} 6〉 páñca bhū́mā die fünf Menschenstämme. — Für bhū́mā hat <ls>Padapāṭha</ls> stets bhū́ma; <ab>vgl.</ab> <ls>Prāt. 〔464〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔502〕</ls>. <ls n="Prāt. ">〔504〕</ls>. <ls n="Prāt. ">〔535〕</ls>.
+;---------------------------------------------------
+; <L>6882<pc>1051<k1>muz<k2>muz
+; old: <ls>Pāṇ. 〔7,2,4〕 und 〔8,2,28〕</ls>
+; new: <ls>Pāṇ. 〔7,2,4〕</ls> und <ls n="Pāṇ. ">〔8,2,28〕</ls>
+51695 old <div n="H"><ab>Aor.</ab> {@moṣis, moṣī@} (<ls>Pāṇ. 〔7,2,4〕 und 〔8,2,28〕</ls>):
+;
+51695 new <div n="H"><ab>Aor.</ab> {@moṣis, moṣī@} (<ls>Pāṇ. 〔7,2,4〕</ls> und <ls n="Pāṇ. ">〔8,2,28〕</ls>):
+;---------------------------------------------------
+; <L>7022<pc>1077<k1>yajYAsah<k2>yajYA-sa/h, yajnA-sA/h
+; old: <ls>Prāt. 〔540. 564〕</ls>
+; new: <ls>Prāt. 〔540〕</ls>. <ls n="Prāt. ">〔564〕</ls>
+52933 old <div n="TS">-ā́ham 〰 dúvas iṣe, agním ‥ {846,7} (<ls>Pad.</ls> yajñasáham, <ls>Prāt. 〔540. 564〕</ls>).
+;
+52933 new <div n="TS">-ā́ham 〰 dúvas iṣe, agním ‥ {846,7} (<ls>Pad.</ls> yajñasáham, <ls>Prāt. 〔540〕</ls>. <ls n="Prāt. ">〔564〕</ls>).
+;---------------------------------------------------
+; <L>7039<pc>1081<k1>yatra<k2>ya/tra
+; old: <ls>Prāt. 〔479. 519〕</ls>.
+; new: <ls>Prāt. 〔479〕</ls>. <ls n="Prāt. ">〔519〕</ls>
+53101 old {@yátra@}¦ [von ya], das auslautende a wird vor einfachem Konsonanten verlängert, wenn das Versmass die Länge fordert oder begünstigt, so namentlich auch in der zweiten Silbe der Verszeilen vor Worten, die mit kurzer Silbe beginnen (doch yátra vor gávām {164,3}; kúa {457,17}; 〰 yatra {516,6}; yátrā vor cakrús {579,5}; sómasya {624,12}) <ls>Prāt. 〔479. 519〕</ls>. Im Hauptsatze [Page1082] entspricht ihm tátra, átra, tád, und in zeitlicher Bedeutung ádha; 1〉 {%wo, in welchem, bei welchem%} mit dem Verb: píbanti {23,18}; bhávati {28,1}; śíkṣate {28,3}; vibadhnáte {28,4}; vádati {83,6}; {135,7} (tátra); pratiránte {113,16}; {668,11}; vitanvaté {115,2}; mádanti {154,5}; {415,14}; {613,1} (yajñé); {649,7}; āhús {163,4}; sánti {164,50} (nā́ke); virā́jata {188,4} (barhíṣi); tasthús {288,9}; dhāpáyethe {289,12}; sūyáte {354,9} (tád); véttha {359,10} (tátra); vidyáte {398,9} (átra); vimuñcánti {416,1}; ási {481,5}; sám ca ví ca drávanti {516,11} (tátra); samā́sate {517,4}; saméti (agnaú) {517,14}; cakrús {579,5}; pīpáyan {581,2}; samáyante, bháyante (ājaú) {599,2} (tátra); ā́vatam (ājíṣu) {599,6}; ásapanta (dāśarājñé) {599,8}; sunvé {613,1}; tṛmpási {624,12} (jáne); {1022,4} (śī́ṣṭeṣu); dadhús (dhā́masu) {633,20}; dédiśate (dyávi) {640,6}; saṃnávāmahe {678,5}; ā́sate {727,2}; {737,4}; {825,11} = {843,4} (tátra); brávan {751,1}; áśayat {783,8}; ráṇanti {823,2}; ásṛṣṭa {857,9}; tatánan {863,2}; pátanti (góṣātā) {864,1}; ucyáte {890,15}; duhaté {902,6}; ví aúnat {975,2}; bisweilen vertritt das Particip II. die Stelle des persönlichen Verbs kṛtā́ {28,2}; níhitā {164,3}; níhitam {516,8} (tátra); hitám (neben yásmin loké) {825,7} (tásmin loké). Bisweilen ist ásti, sánti oder ähnliches zu ergänzen: {13,5}; {154,6}; {164,34}; {287,5}. _{287,6}; {825,8}—_{825,10} (tátra); {854,8}; {870,7}.
+;
+53101 new {@yátra@}¦ [von ya], das auslautende a wird vor einfachem Konsonanten verlängert, wenn das Versmass die Länge fordert oder begünstigt, so namentlich auch in der zweiten Silbe der Verszeilen vor Worten, die mit kurzer Silbe beginnen (doch yátra vor gávām {164,3}; kúa {457,17}; 〰 yatra {516,6}; yátrā vor cakrús {579,5}; sómasya {624,12}) <ls>Prāt. 〔479〕</ls>. <ls n="Prāt. ">〔519〕</ls>. Im Hauptsatze [Page1082] entspricht ihm tátra, átra, tád, und in zeitlicher Bedeutung ádha; 1〉 {%wo, in welchem, bei welchem%} mit dem Verb: píbanti {23,18}; bhávati {28,1}; śíkṣate {28,3}; vibadhnáte {28,4}; vádati {83,6}; {135,7} (tátra); pratiránte {113,16}; {668,11}; vitanvaté {115,2}; mádanti {154,5}; {415,14}; {613,1} (yajñé); {649,7}; āhús {163,4}; sánti {164,50} (nā́ke); virā́jata {188,4} (barhíṣi); tasthús {288,9}; dhāpáyethe {289,12}; sūyáte {354,9} (tád); véttha {359,10} (tátra); vidyáte {398,9} (átra); vimuñcánti {416,1}; ási {481,5}; sám ca ví ca drávanti {516,11} (tátra); samā́sate {517,4}; saméti (agnaú) {517,14}; cakrús {579,5}; pīpáyan {581,2}; samáyante, bháyante (ājaú) {599,2} (tátra); ā́vatam (ājíṣu) {599,6}; ásapanta (dāśarājñé) {599,8}; sunvé {613,1}; tṛmpási {624,12} (jáne); {1022,4} (śī́ṣṭeṣu); dadhús (dhā́masu) {633,20}; dédiśate (dyávi) {640,6}; saṃnávāmahe {678,5}; ā́sate {727,2}; {737,4}; {825,11} = {843,4} (tátra); brávan {751,1}; áśayat {783,8}; ráṇanti {823,2}; ásṛṣṭa {857,9}; tatánan {863,2}; pátanti (góṣātā) {864,1}; ucyáte {890,15}; duhaté {902,6}; ví aúnat {975,2}; bisweilen vertritt das Particip II. die Stelle des persönlichen Verbs kṛtā́ {28,2}; níhitā {164,3}; níhitam {516,8} (tátra); hitám (neben yásmin loké) {825,7} (tásmin loké). Bisweilen ist ásti, sánti oder ähnliches zu ergänzen: {13,5}; {154,6}; {164,34}; {287,5}. _{287,6}; {825,8}—_{825,10} (tátra); {854,8}; {870,7}.
+;---------------------------------------------------
+; <L>7048<pc>1087<k1>yadi<k2>ya/di
+; old: <ls>Prāt. 〔465. 466. 495〕</ls>
+; new: <ls>Prāt. 〔465〕</ls>. <ls n="Prāt. ">〔466〕</ls>. <ls n="Prāt. ">〔495〕</ls>
+53162 old {@yádi@}¦ (von yá …) Das i verlängert vor betonten mit einfachem Konsonanten anlautenden Wörtern an den Versstellen, welche Länge erfordern, [Page1088] namentlich in zweiter Silbe jeder Verszeile (ausgenommen {987,2} vor mṛtyós). (<ls>Prāt. 〔465. 466. 495〕</ls>). Die Verbindung mit íd sowie die (seltene) Anknüpfung des Nachsatzes durch ádha, ā́t oder ā́t íd siehe unter diesen. In den angeführten Stellen ist überall das Verb des durch yádi angeknüpften Nebensatzes angegeben, das des zugehörigen Hauptsatzes in Klammern beigefügt.
+;
+53162 new {@yádi@}¦ (von yá …) Das i verlängert vor betonten mit einfachem Konsonanten anlautenden Wörtern an den Versstellen, welche Länge erfordern, [Page1088] namentlich in zweiter Silbe jeder Verszeile (ausgenommen {987,2} vor mṛtyós). (<ls>Prāt. 〔465〕</ls>. <ls n="Prāt. ">〔466〕</ls>. <ls n="Prāt. ">〔495〕</ls>). Die Verbindung mit íd sowie die (seltene) Anknüpfung des Nachsatzes durch ádha, ā́t oder ā́t íd siehe unter diesen. In den angeführten Stellen ist überall das Verb des durch yádi angeknüpften Nebensatzes angegeben, das des zugehörigen Hauptsatzes in Klammern beigefügt.
+;---------------------------------------------------
+; <L>7124<pc>1110<k1>yu<k2>1. yu
+; old: <ls>Prāt. 〔439. 441〕</ls>
+; new: <ls>Prāt. 〔439〕</ls>. <ls n="Prāt. ">〔441〕</ls>
+53996 old <div n="TS">-a (-ā <ls>Prāt. 〔439. 441〕</ls>) ā 1〉 (sómam) {228,3}. — {@ni@} 2〉 raśanáyā {896,10}. — {@vi@} 3〉 {957,2} (anupūrvám).
+;
+53996 new <div n="TS">-a (-ā <ls>Prāt. 〔439〕</ls>. <ls n="Prāt. ">〔441〕</ls>) ā 1〉 (sómam) {228,3}. — {@ni@} 2〉 raśanáyā {896,10}. — {@vi@} 3〉 {957,2} (anupūrvám).
+;---------------------------------------------------
+; <L>7207<pc>1129<k1>rakz<k2>1. rakz
+; old: <ls>Vop. 〔3,136. 151〕</ls>
+; new: <ls>Vop. 〔3,136〕</ls>. <ls n="Vop. 〔3,">151〕</ls>
+54833 old <div n="P">nach <ls>Vop. 〔3,136. 151〕</ls> in go-rakṣ (<ab n="siehe">s.</ab> <ls>BR.</ls>).
+;
+54833 new <div n="P">nach <ls>Vop. 〔3,136〕</ls>. <ls n="Vop. 〔3,">151〕</ls> in go-rakṣ (<ab n="siehe">s.</ab> <ls>BR.</ls>).
+;---------------------------------------------------
+; <L>7355<pc>1154<k1>rA<k2>1. rA
+; old: <ls>Prāt. 〔483. 484〕</ls>
+; new: <ls>Prāt. 〔483〕</ls>. <ls n="Prāt. ">〔484〕</ls>
+55995 old <div n="TS">-ā́sva (-ā́svā, <ls>Prāt. 〔483. 484〕</ls>) 1〉 nas martabhójanam {114,6}; sumnám asmé {114,9}; asmábhyam sumatím {291,6}; rátnāni dāśúṣe {296,4}; nas dítim {298,11}; rayím nas {669,11}; nas havyádātim {833,7}. — 3〉 rāyás {624,16}; suvī́riam {755,6}; yáśas {773,26}; 〰 vā́jā‿ utá vaṃsua {489,4}. — 6〉 stotré {669,6}. — 4〉 tád yád tuā‿ī́mahe {532,4}.
+;
+55995 new <div n="TS">-ā́sva (-ā́svā, <ls>Prāt. 〔483〕</ls>. <ls n="Prāt. ">〔484〕</ls>) 1〉 nas martabhójanam {114,6}; sumnám asmé {114,9}; asmábhyam sumatím {291,6}; rátnāni dāśúṣe {296,4}; nas dítim {298,11}; rayím nas {669,11}; nas havyádātim {833,7}. — 3〉 rāyás {624,16}; suvī́riam {755,6}; yáśas {773,26}; 〰 vā́jā‿ utá vaṃsua {489,4}. — 6〉 stotré {669,6}. — 4〉 tád yád tuā‿ī́mahe {532,4}.
+;---------------------------------------------------
+; <L>7416<pc>1167<k1>riz<k2>riz
+; old: <ls>Prāt. 〔584. 586. 587〕</ls>
+; new: 
+56591 old <div n="H"><ab>Aor.</ab> <ab>Caus.</ab> {@rīriṣa@} (in {638,13} ririṣa, <ls>Pad.</ls> stets ririṣa, <ls>Prāt. 〔584. 586. 587〕</ls>):
+;
+56591 new <div n="H"><ab>Aor.</ab> <ab>Caus.</ab> {@rīriṣa@} (in {638,13} ririṣa, <ls>Pad.</ls> stets ririṣa, <ls>Prāt. 〔584〕</ls>. <ls n="Prāt. ">〔586〕</ls>. <ls n="Prāt. ">〔587〕</ls>):
+;---------------------------------------------------
+; <L>7416<pc>1167<k1>riz<k2>riz
+; old: <ls>P.</ls> ríṣat, <ls>Prāt. 〔583. 584. 588〕</ls>
+; new: <ls>P.</ls> ríṣat, <ls>Prāt. 〔583〕</ls>. <ls n="Prāt. ">〔584〕</ls>. <ls n="Prāt. ">〔588〕</ls>
+56601 old <div n="H">{@rī́ṣat@} [<ls>P.</ls> ríṣat, <ls>Prāt. 〔583. 584. 588〕</ls>].
+;
+56601 new <div n="H">{@rī́ṣat@} [<ls>P.</ls> ríṣat, <ls>Prāt. 〔583〕</ls>. <ls n="Prāt. ">〔584〕</ls>. <ls n="Prāt. ">〔588〕</ls>].
+;---------------------------------------------------
+; <L>7614<pc>1203<k1>van<k2>van
+; old: <ls>Prāt. 〔483. 485〕</ls>
+; new: <ls>Prāt. 〔483〕</ls>. <ls n="Prāt. ">〔485〕</ls>
+58370 old <div n="TS">-éma [-emā <ls>Prāt. 〔483. 485〕</ls>] 7〉 tád, rayím {129,7}. — 9〉 stómam {196,7} (áram). — 13〉 pūrvī́s ariás {70,1}. — 15〉 {639,20}.
+;
+58370 new <div n="TS">-éma [-emā <ls>Prāt. 〔483〕</ls>. <ls n="Prāt. ">〔485〕</ls>] 7〉 tád, rayím {129,7}. — 9〉 stómam {196,7} (áram). — 13〉 pūrvī́s ariás {70,1}. — 15〉 {639,20}.
+;---------------------------------------------------
+; <L>7689<pc>1216<k1>vayunAvat<k2>vayu/nAvat
+; old: <ls>Prāt. 〔554. 558〕</ls>
+; new: <ls>Prāt. 〔554〕</ls>. <ls n="Prāt. ">〔558〕</ls>
+58968 old {@vayúnāvat,@}¦ <ab>a.</ab> = vayúnavat, {%hell%} [<ls>Prāt. 〔554. 558〕</ls>].
+;
+58968 new {@vayúnāvat,@}¦ <ab>a.</ab> = vayúnavat, {%hell%} [<ls>Prāt. 〔554〕</ls>. <ls n="Prāt. ">〔558〕</ls>].
+;---------------------------------------------------
+; <L>7833<pc>1239<k1>vah<k2>vah
+; old: <ls>Prāt. 〔456. 465. 466〕</ls>
+; new: <ls>Prāt. 〔456〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔466〕</ls>
+60154 old <div n="TS">-a [-ā <ls>Prāt. 〔456. 465. 466〕</ls>] 8〉 havyā́ {188,1}; {456,14}. — {@ā́@} 6〉 devā́n {12,3}. _{12,10}; {13,4} (ráthe); {14,12} (harídbhis); {15,4}; {44,7}; {45,2}; {142,1}; {527,5}; [Page1242] {533,2}; {711,2}; {936,1}; sómapatim {76,3} (háribhyām); ādityā́n {94,3}; gnā́s {22,10}; daíviam jánam {31,17} = {457,6}; {664,9}; índram {142,4}; {526,4}; marútām śárdhas {194,3}; mitrā́váruṇā {643,30}. — 7〉 devā́n sómapītaye {44,9}; {48,12}; {457,44}; devā́n vītáye {532,4}; {457,44}. — 8〉 rā́dhas dāśúṣe {44,1}; rayím sūríbhyas {517,24}; nas saúbhagāni {92,15}; nas rayím {505,4}; rayím maghávadbhyas {532,9}. — 10〉 sukṛ́tas adhvarā́n úpa {48,11}; dhenúm śruṣṭím {223,3}; mitrám gíras {555,5}. — 12〉 devā́n dāśúṣe {44,1}; índram stotṛ́bhyas {702,25}. — 14〉 {194,11} (anuṣvadhám); (uṣas) {505,5}. — 17〉 tritā́ya dvitā́ya duṣvápniam {667,16}. — {@úpa ā́@} pátnīs devā́nām, tváṣṭāram sómapītaye {22,9}. — {@párā@} tritā́ya tád {667,14}; stómam dārbhiā́ya {415,17}.
+;
+60154 new <div n="TS">-a [-ā <ls>Prāt. 〔456〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔466〕</ls>] 8〉 havyā́ {188,1}; {456,14}. — {@ā́@} 6〉 devā́n {12,3}. _{12,10}; {13,4} (ráthe); {14,12} (harídbhis); {15,4}; {44,7}; {45,2}; {142,1}; {527,5}; [Page1242] {533,2}; {711,2}; {936,1}; sómapatim {76,3} (háribhyām); ādityā́n {94,3}; gnā́s {22,10}; daíviam jánam {31,17} = {457,6}; {664,9}; índram {142,4}; {526,4}; marútām śárdhas {194,3}; mitrā́váruṇā {643,30}. — 7〉 devā́n sómapītaye {44,9}; {48,12}; {457,44}; devā́n vītáye {532,4}; {457,44}. — 8〉 rā́dhas dāśúṣe {44,1}; rayím sūríbhyas {517,24}; nas saúbhagāni {92,15}; nas rayím {505,4}; rayím maghávadbhyas {532,9}. — 10〉 sukṛ́tas adhvarā́n úpa {48,11}; dhenúm śruṣṭím {223,3}; mitrám gíras {555,5}. — 12〉 devā́n dāśúṣe {44,1}; índram stotṛ́bhyas {702,25}. — 14〉 {194,11} (anuṣvadhám); (uṣas) {505,5}. — 17〉 tritā́ya dvitā́ya duṣvápniam {667,16}. — {@úpa ā́@} pátnīs devā́nām, tváṣṭāram sómapītaye {22,9}. — {@párā@} tritā́ya tád {667,14}; stómam dārbhiā́ya {415,17}.
+;---------------------------------------------------
+; <L>8351<pc>1326<k1>vfj<k2>vfj
+; old: <ls>Prāt. 〔179. 180〕</ls>
+; new: <ls>Prāt. 〔179〕</ls>. <ls n="Prāt. ">〔180〕</ls>
+64221 old <div n="H">{@ávṛṇaj@} (<ls>Pada</ls> ávṛṇak, <ls>Prāt. 〔179. 180〕</ls>) [betont {101,2}; {205,7}]:
+;
+64221 new <div n="H">{@ávṛṇaj@} (<ls>Pada</ls> ávṛṇak, <ls>Prāt. 〔179〕</ls>. <ls n="Prāt. ">〔180〕</ls>) [betont {101,2}; {205,7}]:
+;---------------------------------------------------
+; <L>8361<pc>1330<k1>vft<k2>vft
+; old: <ls>Prāt. 〔563. 584〕</ls>
+; new: <ls>Prāt. 〔563〕</ls>. <ls n="Prāt. ">〔584〕</ls>
+64411 old <div n="H"><ab>Perf.</ab> {@vāvṛt, vāvárt@} (<ls>Prāt. 〔563. 584〕</ls>):
+;
+64411 new <div n="H"><ab>Perf.</ab> {@vāvṛt, vāvárt@} (<ls>Prāt. 〔563〕</ls>. <ls n="Prāt. ">〔584〕</ls>):
+;---------------------------------------------------
+; <L>8557<pc>1365a<k1>SaMs<k2>SaMs, Sas
+; old: <ls>Prāt. 〔563〕</ls>. <ls n="Prāt. ">〔584〕</ls>
+; new: <ls>Prāt. 〔463〕</ls>. <ls n="Prāt. ">〔465〕</ls>
+66009 old <div n="TS">-a [-ā <ls>Prāt. 〔463. 465〕</ls>] 2〉 ukthám sudā́nave {547,2}. — 3〉 índram {283,1}; mitrásya váruṇasya dhā́ma {577,4}.
+;
+66009 new <div n="TS">-a [-ā <ls>Prāt. 〔463〕</ls>. <ls n="Prāt. ">〔465〕</ls>] 2〉 ukthám sudā́nave {547,2}. — 3〉 índram {283,1}; mitrásya váruṇasya dhā́ma {577,4}.
+;---------------------------------------------------
+; <L>8563<pc>1370<k1>SakawI<k2>SakawI/
+; old: <ls>Nir. 〔6,22〕; 〔11,47〕</ls>
+; new: <ls>Nir. 〔6,22〕</ls>; <ls n="Nir. ">〔11,47〕</ls>
+66175 old {@śakaṭī́,@}¦ <ab>f.</ab> = śakaṭa (<ls>Nir. 〔6,22〕; 〔11,47〕</ls>), {%Karren, Wagen%}.
+;
+66175 new {@śakaṭī́,@}¦ <ab>f.</ab> = śakaṭa (<ls>Nir. 〔6,22〕</ls>; <ls n="Nir. ">〔11,47〕</ls>), {%Karren, Wagen%}.
+;---------------------------------------------------
+; <L>8985<pc>1425<k1>Sru<k2>1. Sru
+; old: <ls>Prāt. 〔471. 483. 522. 536〕</ls>
+; new: <ls>Prāt. 〔471〕</ls>. <ls n="Prāt. ">〔483〕</ls>. <ls n="Prāt. ">〔522〕</ls>. <ls n="Prāt. ">〔536〕</ls>
+69408 old <div n="TS">-udhí (-udhī́ <ls>Prāt. 〔471. 483. 522. 536〕</ls>) 1〉 hávam {2,1}; {10,9}; {142,13}; {202,1}; {378,3}; {462,10}; {538,4}; {675,12}; {691,6}; {704,4}; {974,5}; {48,10}; bráhma {458,3}. — 3〉 nas {133,6}; {467,1}; {837,9}; {887,14}. _{887,21}; brahmaṇyatás {462,8}. — 5〉 śrutkarna {44,13}; savitar {554,2}; śruta {951,4}.
+;
+69408 new <div n="TS">-udhí (-udhī́ <ls>Prāt. 〔471〕</ls>. <ls n="Prāt. ">〔483〕</ls>. <ls n="Prāt. ">〔522〕</ls>. <ls n="Prāt. ">〔536〕</ls>) 1〉 hávam {2,1}; {10,9}; {142,13}; {202,1}; {378,3}; {462,10}; {538,4}; {675,12}; {691,6}; {704,4}; {974,5}; {48,10}; bráhma {458,3}. — 3〉 nas {133,6}; {467,1}; {837,9}; {887,14}. _{887,21}; brahmaṇyatás {462,8}. — 5〉 śrutkarna {44,13}; savitar {554,2}; śruta {951,4}.
+;---------------------------------------------------
+; <L>8985<pc>1425<k1>Sru<k2>1. Sru
+; old: <ls>Prāt. 〔580. 581. 582〕</ls>
+; new: (<ls>Prāt. 〔580〕</ls>. <ls n="Prāt. ">〔581〕</ls>. <ls n="Prāt. ">〔582〕</ls>
+69423 old <div n="H">Stamm II. des <ab>Caus.</ab> {@śravaya@} (<ls>Prāt. 〔580. 581. 582〕</ls>):
+;
+69423 new <div n="H">Stamm II. des <ab>Caus.</ab> {@śravaya@} (<ls>Prāt. 〔580〕</ls>. <ls n="Prāt. ">〔581〕</ls>. <ls n="Prāt. ">〔582〕</ls>):
+;---------------------------------------------------
+; <L>9064<pc>1437<k1>sa<k2>sa/
+; old: <ls>Prāt. 〔172. 173〕</ls>
+; new: <ls>Prāt. 〔172〕</ls>. <ls n="Prāt. ">〔173〕</ls>
+69974 old <div n="TS">-á mit folgendem Vokal verschmolzen (<ls>Prāt. 〔172. 173〕</ls>), mit a: {208,6}; {209,2}; {853,1}; i: {14,11}; {16,9}; {26,1}; {203,5}; {204,11}; {215,1}; {786,1} und mit íd {1,4}; {32,15}; {300,7}; {333,6}; {517,14}. _{517,15}; {556,3}; {912,7}; mit u: {31,15}; {206,6}; {215,1}; {894,9}; mit ī: {786,7}; {912,16}. _{912,17}; e: {200,6}; {213,1}; o: {663,9}.
+;
+69974 new <div n="TS">-á mit folgendem Vokal verschmolzen (<ls>Prāt. 〔172〕</ls>. <ls n="Prāt. ">〔173〕</ls>), mit a: {208,6}; {209,2}; {853,1}; i: {14,11}; {16,9}; {26,1}; {203,5}; {204,11}; {215,1}; {786,1} und mit íd {1,4}; {32,15}; {300,7}; {333,6}; {517,14}. _{517,15}; {556,3}; {912,7}; mit u: {31,15}; {206,6}; {215,1}; {894,9}; mit ī: {786,7}; {912,16}. _{912,17}; e: {200,6}; {213,1}; o: {663,9}.
+;---------------------------------------------------
+; <L>9064<pc>1437<k1>sa<k2>sa/
+; old: <ls>Prāt. 〔315. 316〕</ls>
+; new: <ls>Prāt. 〔315〕</ls>. <ls n="Prāt. ">〔316〕</ls>
+69976 old <div n="TS">-ás (<ls>Prāt. 〔315. 316〕</ls>) vor p: {356,4}; t: {653,16}; am Schlusse {54,3}; {79,11}; {247,3}; {264,7}; {356,7}; {488,4}; {492,14}; {633,1}.
+;
+69976 new <div n="TS">-ás (<ls>Prāt. 〔315〕</ls>. <ls n="Prāt. ">〔316〕</ls>) vor p: {356,4}; t: {653,16}; am Schlusse {54,3}; {79,11}; {247,3}; {264,7}; {356,7}; {488,4}; {492,14}; {633,1}.
+;---------------------------------------------------
+; <L>9201<pc>1455<k1>satrAsah<k2>satrA-sa/h, satrAsa/h
+; old: <ls>Prāt. 〔564—566〕</ls>
+; new: <ls>Prāt. 〔564〕</ls>—<ls n="Prāt. ">〔566〕</ls>
+70899 old {@satrā-sáh,@} {@satrāsáh,@}¦ <ab>Nom.</ab> satrāṣā́ṭ, <ab>a.</ab>, {%allüberwältigend%} (<ls>Prāt. 〔564—566〕</ls>).
+;
+70899 new {@satrā-sáh,@} {@satrāsáh,@}¦ <ab>Nom.</ab> satrāṣā́ṭ, <ab>a.</ab>, {%allüberwältigend%} (<ls>Prāt. 〔564〕</ls>—<ls n="Prāt. ">〔566〕</ls>).
+;---------------------------------------------------
+; <L>9251<pc>1465<k1>san<k2>san, sA
+; old: <ls>Prāt. 〔462. 465. 486〕</ls>
+; new: <ls>Prāt. 〔462〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔486〕</ls>
+71366 old <div n="TS">-ā (<ls>Prāt. 〔462. 465. 486〕</ls>) 7〉 śrávas {716,1}; jyótis, súar {716,2}; dákṣam, krátum {716,3}; medhā́m, súar {721,9}.
+;
+71366 new <div n="TS">-ā (<ls>Prāt. 〔462〕</ls>. <ls n="Prāt. ">〔465〕</ls>. <ls n="Prāt. ">〔486〕</ls>) 7〉 śrávas {716,1}; jyótis, súar {716,2}; dákṣam, krátum {716,3}; medhā́m, súar {721,9}.
+;---------------------------------------------------
+; <L>9252<pc>1467<k1>sana<k2>1. sa/na
+; old: <ls>Ku. in Zeitschr.&#xA0; 〔II,129〕 und 〔463〕</ls>
+; new: <ls>Ku. in Zeitschr. 〔II,129〕</ls> und <ls n="Ku. in Zeitschr. 〔II,">463〕</ls>
+71433 old <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls>Ku. in Zeitschr.&#xA0; 〔II,129〕 und 〔463〕</ls>], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.
+;
+71433 new <hom>1.</hom> {@sána,@}¦ <ab>a.</ab>, Grundbegriff scheint „lange dauernd“ [aus sa entsprossen, <ls>Ku. in Zeitschr. 〔II,129〕</ls> und <ls n="Ku. in Zeitschr. 〔II,">463〕</ls>], daher 1〉 {%alt%} = in früherer Zeit geschehen oder dagewesen, mit den Gegensätzen náva ({95,10}; {665,25}), návya ({174,8}), nū́tana ({235,20}), sowie ápara ({220,3}); 2〉 {%alt, bejahrt,%} Gegensatz yúvan; 3〉 <ab>f.</ab>, {%lange Zeit%}.
+;---------------------------------------------------
+; <L>9505<pc>1495<k1>sah<k2>sah
+; old: <ls>Prāt. 〔569. 587〕</ls>
+; new: <ls>Prāt. 〔569〕</ls>. <ls n="Prāt. ">〔587〕</ls>
+73052 old <div n="H"><ab>Perf.</ab> stark {@sāsā́h,@} schwach {@sāsah@} (<ls>P.</ls> sa-, <ls>Prāt. 〔569. 587〕</ls>):
+;
+73052 new <div n="H"><ab>Perf.</ab> stark {@sāsā́h,@} schwach {@sāsah@} (<ls>P.</ls> sa-, <ls>Prāt. 〔569〕</ls>. <ls n="Prāt. ">〔587〕</ls>):
+;---------------------------------------------------
+; <L>9505<pc>1495<k1>sah<k2>sah
+; old: <ls>Prāt. 〔589. 580. 587. 582〕</ls>
+; new: <ls>Prāt. 〔589〕</ls>. <ls n="Prāt. ">〔580〕</ls>. <ls n="Prāt. ">〔587〕</ls>. <ls n="Prāt. ">〔582〕</ls>
+73061 old <div n="H"><ab>Perf.</ab> schwach {@sasāh@} (<ls>Pad.</ls> sasah, <ls>Prāt. 〔589. 580. 587. 582〕</ls>):
+;
+73061 new <div n="H"><ab>Perf.</ab> schwach {@sasāh@} (<ls>Pad.</ls> sasah, <ls>Prāt. 〔589〕</ls>. <ls n="Prāt. ">〔580〕</ls>. <ls n="Prāt. ">〔587〕</ls>. <ls n="Prāt. ">〔582〕</ls>):
+;---------------------------------------------------
+; <L>9505<pc>1495<k1>sah<k2>sah
+; old: <ls>Prāt. 〔586. 583〕</ls>
+; new: <ls>Prāt. 〔586〕</ls>. <ls n="Prāt. ">〔583〕</ls>
+73113 old <div n="H">{@sāhvás@} (<ls>Pad.</ls> sahvás, <ls>Prāt. 〔586. 583〕</ls>):
+;
+73113 new <div n="H">{@sāhvás@} (<ls>Pad.</ls> sahvás, <ls>Prāt. 〔586〕</ls>. <ls n="Prāt. ">〔583〕</ls>):
+;---------------------------------------------------
+; <L>9669<pc>1515<k1>siMha<k2>siMha/
+; old: <ls>Aufr. in Ku. Zeitschr.&#xA0; 〔1,356〕</ls>
+; new: <ls>Aufr. in Ku. Zeitschr. 〔1,356〕</ls>
+74179 old {@siṃhá,@}¦ <ab>m.</ab>, der {%Löwe,%} als der gewaltige, oder bewältigende [<ab>v.</ab> sah, <ab>vgl.</ab> <ls>Aufr. in Ku. Zeitschr.&#xA0; 〔1,356〕</ls>]; <ab>vgl.</ab> die Beiwörter kruddhá, nā́nadat, bhīmá, heṣákratu.
+;
+74179 new {@siṃhá,@}¦ <ab>m.</ab>, der {%Löwe,%} als der gewaltige, oder bewältigende [<ab>v.</ab> sah, <ab>vgl.</ab> <ls>Aufr. in Ku. Zeitschr. 〔1,356〕</ls>]; <ab>vgl.</ab> die Beiwörter kruddhá, nā́nadat, bhīmá, heṣákratu.
+;---------------------------------------------------
+; <L>9702<pc>1526<k1>su<k2>su/, sU/
+; old: <ls>Prāt. 〔491. 492. 499. 518. 531〕</ls>
+; new: <ls>Prāt. 〔491〕</ls>. <ls n="Prāt. ">〔492〕</ls>. <ls n="Prāt. ">〔499〕</ls>. <ls n="Prāt. ">〔518〕</ls>. <ls n="Prāt. ">〔531〕</ls>
+74584 old {@sú,@} {@sū́@}¦ (<ls>Prāt. 〔491. 492. 499. 518. 531〕</ls>), {%schön, wohl, gut, recht, sehr, tüchtig%} [= <lang>gr.</lang> <gk>εὖ</gk>], dem Sinne nach stets mit dem Verb zu verbinden; {9,6}; {17,7}; {33,1}; {47,2}. _{47,5}; {52,1}; {76,2}. _{76,3}; {84,3}; {93,1}; {111,2}; {118,10}; {135,9}; {136,1}; {169,5}; {202,15}; {205,5}; {207,8}; {219,7}; ‥‥; {538,3}; {542,3}; {602,8}; {606,7}; {621,14}. _{621,19}; {622,42}; {624,3}; {626,32}. _{626,39}. _{626,43}; {627,18}; {628,21}; {633,25}; {637,4}; {638,12}. _{638,18}. _{638,22}; {642,3}; {644,7}; {646,10}. _{646,15}. _{646,23}; {647,3}; {652,19}; {654,12}; {660,1}; {665,8}. _{665,9}; {666,10}. _{666,17}; {676,18}. _{676,21}; {682,17}; {684,11}; {689,3}. _{689,6}; {690,8}; {691,6}; {701,14}; …; 2〉 mit vorhergehendem u oder ū (<ab>s. d.</ab>) {%recht bald, sogleich%} {26,5}; {27,4}; {36,13}; {37,14}; {45,5}; {53,1}; {112,1}; {129,5}; {139,7}; {164,26}; {182,1}; {184,2}; {316,4}; {545,2}; {622,19}; {627,32}. _{627,33}; {640,19}; {644,1}; {646,1}; {661,1}; {670,5}; {679,9}; ‥‥; mā́‿u ṣú {%nimmer%} {38,6}; {139,8}; {173,12}; {209,3}; {289,2}; {548,1}; {575,5}; {605,1}; {622,20}; {625,13}; ‥‥ sú kam {191,6}; {287,2}. Als erstes Glied in Zusammensetzungen siehe im Folgenden.
+;
+74584 new {@sú,@} {@sū́@}¦ (<ls>Prāt. 〔491〕</ls>. <ls n="Prāt. ">〔492〕</ls>. <ls n="Prāt. ">〔499〕</ls>. <ls n="Prāt. ">〔518〕</ls>. <ls n="Prāt. ">〔531〕</ls>), {%schön, wohl, gut, recht, sehr, tüchtig%} [= <lang>gr.</lang> <gk>εὖ</gk>], dem Sinne nach stets mit dem Verb zu verbinden; {9,6}; {17,7}; {33,1}; {47,2}. _{47,5}; {52,1}; {76,2}. _{76,3}; {84,3}; {93,1}; {111,2}; {118,10}; {135,9}; {136,1}; {169,5}; {202,15}; {205,5}; {207,8}; {219,7}; ‥‥; {538,3}; {542,3}; {602,8}; {606,7}; {621,14}. _{621,19}; {622,42}; {624,3}; {626,32}. _{626,39}. _{626,43}; {627,18}; {628,21}; {633,25}; {637,4}; {638,12}. _{638,18}. _{638,22}; {642,3}; {644,7}; {646,10}. _{646,15}. _{646,23}; {647,3}; {652,19}; {654,12}; {660,1}; {665,8}. _{665,9}; {666,10}. _{666,17}; {676,18}. _{676,21}; {682,17}; {684,11}; {689,3}. _{689,6}; {690,8}; {691,6}; {701,14}; …; 2〉 mit vorhergehendem u oder ū (<ab>s. d.</ab>) {%recht bald, sogleich%} {26,5}; {27,4}; {36,13}; {37,14}; {45,5}; {53,1}; {112,1}; {129,5}; {139,7}; {164,26}; {182,1}; {184,2}; {316,4}; {545,2}; {622,19}; {627,32}. _{627,33}; {640,19}; {644,1}; {646,1}; {661,1}; {670,5}; {679,9}; ‥‥; mā́‿u ṣú {%nimmer%} {38,6}; {139,8}; {173,12}; {209,3}; {289,2}; {548,1}; {575,5}; {605,1}; {622,20}; {625,13}; ‥‥ sú kam {191,6}; {287,2}. Als erstes Glied in Zusammensetzungen siehe im Folgenden.
+;---------------------------------------------------
+; <L>9923<pc>1548<k1>sumnAy<k2>sumnAy
+; old: <ls>Prāt. 〔551. 558. 561〕</ls>
+; new: <ls>Prāt. 〔551〕</ls>. <ls n="Prāt. ">〔558〕</ls>. <ls n="Prāt. ">〔561〕</ls>
+76012 old {@√sumnāy@}¦ = sumnay und daraus am Anfange eines Versgliedes metrisch gedehnt [<ls>Prāt. 〔551. 558. 561〕</ls>].
+;
+76012 new {@√sumnāy@}¦ = sumnay und daraus am Anfange eines Versgliedes metrisch gedehnt [<ls>Prāt. 〔551〕</ls>. <ls n="Prāt. ">〔558〕</ls>. <ls n="Prāt. ">〔561〕</ls>].
+;---------------------------------------------------
+; <L>9924<pc>1548<k1>sumnAyu<k2>sumnAyu/
+; old: <ls>Prāt. 〔552. 559〕</ls>
+; new: <ls>Prāt. 〔552〕</ls>. <ls n="Prāt. ">〔559〕</ls>
+76020 old {@sumnāyú,@}¦ <ab>a.</ab> = sumnayú und daraus am Anfange eines Versgliedes metrisch gedehnt [<ls>Prāt. 〔552. 559〕</ls>].
+;
+76020 new {@sumnāyú,@}¦ <ab>a.</ab> = sumnayú und daraus am Anfange eines Versgliedes metrisch gedehnt [<ls>Prāt. 〔552〕</ls>. <ls n="Prāt. ">〔559〕</ls>].
+;---------------------------------------------------
+; <L>10107<pc>1566<k1>sUyavasa<k2>sU-ya/vasa
+; old: <ls>Prāt. 〔544. 586〕</ls>
+; new: <ls>Prāt. 〔544〕</ls>. <ls n="Prāt. ">〔586〕</ls>
+77253 old {@sū-yávasa,@}¦ <ab>a.</ab>, <ab>n.</ab> (<ls>Pad.</ls> su-yávasa, <ls>Prāt. 〔544. 586〕</ls>), 1〉 <ab>a.</ab>, {%mit schönem Grase versehen;%} 2〉 <ab>n.</ab>, {%grasreiche Wiese, schöne Weide%}.
+;
+77253 new {@sū-yávasa,@}¦ <ab>a.</ab>, <ab>n.</ab> (<ls>Pad.</ls> su-yávasa, <ls>Prāt. 〔544〕</ls>. <ls n="Prāt. ">〔586〕</ls>), 1〉 <ab>a.</ab>, {%mit schönem Grase versehen;%} 2〉 <ab>n.</ab>, {%grasreiche Wiese, schöne Weide%}.
+;---------------------------------------------------
+; <L>10137<pc>1577<k1>sfp<k2>sfp
+; old: <ls>Pāṇ. 〔1,1,40〕; 〔8,3,110〕</ls>
+; new: <ls>Pāṇ. 〔1,1,40〕</ls>; <ls n="Pāṇ. ">〔8,3,110〕</ls>
+77664 old <div n="TS">-ṛ́pas [<ab>Ab.</ab>] mit vi nach <ls>Pāṇ. 〔1,1,40〕; 〔8,3,110〕</ls>.
+;
+77664 new <div n="TS">-ṛ́pas [<ab>Ab.</ab>] mit vi nach <ls>Pāṇ. 〔1,1,40〕</ls>; <ls n="Pāṇ. ">〔8,3,110〕</ls>.
+;---------------------------------------------------
+; <L>10314<pc>1612<k1>sPigI<k2>sPigI
+; old: <ls>Ku. 〔3,324〕; 〔12,121〕</ls>
+; new: <ls>Ku. 〔3,324〕</ls>; <ls n="Ku. ">〔12,121〕</ls>
+79376 old {@sphigī,@}¦ <ab>f.</ab>, {%Hinterbacke, Hüfte,%} als die schwellende, feṭte [wie das gleichbedeutende sphij zu einer aus sphāy, *sphi erweiterten Wurzel gehörig, <ab>vgl.</ab> <ls>Ku. 〔3,324〕; 〔12,121〕</ls>].
+;
+79376 new {@sphigī,@}¦ <ab>f.</ab>, {%Hinterbacke, Hüfte,%} als die schwellende, feṭte [wie das gleichbedeutende sphij zu einer aus sphāy, *sphi erweiterten Wurzel gehörig, <ab>vgl.</ab> <ls>Ku. 〔3,324〕</ls>; <ls n="Ku. ">〔12,121〕</ls>].
+;---------------------------------------------------
+; <L>10318<pc>1612<k1>sma<k2>sma, smA
+; old: <ls>Prāt. 〔502. 510—514. 517. 537〕</ls>
+; new: <ls>Prāt. 〔502〕</ls>. <ls n="Prāt. ">〔510〕</ls>—<ls n="Prāt. ">〔514〕</ls>. <ls n="Prāt. ">〔517〕</ls>. <ls n="Prāt. ">〔537〕</ls>
+79418 old {@sma,@} {@smā@}¦ [uraltes Adverb, welches der indogermanischen Pronominaldeklination vielfach angefügt wird und daher älter ist als die Deklination; Zusammenhang mit sám, sama ist wahrscheinlich, nur darf man nicht mit Benfey <ab n="unter">u.</ab> <ab>A.</ab> dasselbe als Instrumental von sama auffassen]. Ueber die Verlängerung des a siehe <ls>Prāt. 〔502. 510—514. 517. 537〕</ls>, und über Verwandlung des s in ṣ <ls>Prāt. 〔324〕</ls>. Das Verb des Satzes, zu dem sma gehört, steht im <ab>Praes.</ab> <ab>Ind.</ab>, <ab>Impv.</ab>, seltener im <ab>Praes.</ab> <ab>Conj.</ab>, nur an drei Stellen im Perfect: {507,6} (tasthau); {695,3} (dadathus); {327,7} (āhus). — 1〉 nach Demonstrativen und Personalpronomen verstärkend etwa in dem Sinne: {%eben, gerade, zumal%} (nur schwächer als diese), so nach tásya {12,8}; tám [Page1613] {102,3} sá {361,4}; āsú {485,18}; asmā́kam {102,5}; yusmákam {407,5}; ádha {15,10}; {104,5}; {127,6}. _{127,9}; {222,2}; {312,17}; {363,5}; {408,6}; {453,5}; {456,9}; {466,7}; {487,10}. _{487,11}; {507,6}; {519,2}; {572,22}; {599,5}; ihá {410,7}; so auch nach sá hí {128,5}; {361,7}; {377,4}; {641,10}; {732,2}; té hí {645,15}; tuám hí {264,4}; tuā́m hí {443,2}; yuvám hí {695,3}; yuvām cid hí {180,8}; ádhā cid hí {180,7}. — 2〉 in āhnlichem Sinne nach Relativen: yás {129,2}; {334,4}; yám {203,5}; yéna {296,1}, oder Nomen: durvártus {334,8}; śúcis {361,8}; diví ca {458,14}; maghónas {548,15}; kū́ṭam {928,4}; dasmás hí {129,3}; sunvānás hí {133,7}; yajñás hí {173,11}; ṛténa hí {299,10}; ukthébhis hí {399,4}; máde hí {621,21}; devā́sas hí {647,14}; agnís cid hí {169,3}; kṛtám cid hí {306,7}; mitrás cid hí {838,5}. — 3〉 verstärkend etwa in dem Sinne: {%fürwahr,%} nach makṣū́ hí {339,3}; víśve hí {647,4}; trís {921,5}; áram hí {701,26}; nach Negationen: ná {1004,3}; nahí {327,9}; mā́ {853,24}. — 4〉 utá sma {%und besonders, und zumal%} {28,6}; {327,7}. _{327,8}; {334,5}. _{334,6}. _{334,8}. _{334,9}; {336,3}; {363,3}. _{363,4}; {406,8}. _{406,9}; {799,9}; {921,5}; {922,10}. — 5〉 die Handlung des Verbs hervorhebend: {%traun, fürwahr, recht, zumal,%} aber auch mehr zeitlich: {%schon;%} es steht in diesem Falle hinter dem einfachen Verb, was dann meist die Verszeile beginnt: ásti {37,15}; ásti hí {173,12}; smási {37,15}; vanvántu {537,9}; yandhí {604,6}; váhāmi {859,1}; ṛchánti {928,6}; pináṣṭi {962,7}; und auch, wo dies nicht der Fall ist, betont wird {485,18} kṛṇuhí, oder, wenn das Verb mit einem Richtungswort zusammengehört, hinter diesem, so hinter áva {361,5}; {960,2}; ní {506,4}; ā́ {51,12}; {644,6}; {855,8}; práti {12,5}; {531,13}; {664,11}; {913,23}; prá {669,10}; ápa {42,2}; {921,8}; úd {928,2}; pári hí {799,6}; ā́ hí {26,3}; {325,2}. — 6〉 mit folgendem purā́ und dem <ab>Praes.</ab> <ab>Indic.</ab> etwa in dem Sinne „jetzt wie auch zuvor“: yé smā purā́ gātūyánti {169,5}; nahí ṣma yád ha vas purā́ stómebhis vṛktabarhiṣas śárdhān ṛtásya jínvatha {627,21}; samhotrám sma purā́ nā́rī sámanam vā‿áva gachati {912,10}.
+;
+79418 new {@sma,@} {@smā@}¦ [uraltes Adverb, welches der indogermanischen Pronominaldeklination vielfach angefügt wird und daher älter ist als die Deklination; Zusammenhang mit sám, sama ist wahrscheinlich, nur darf man nicht mit Benfey <ab n="unter">u.</ab> <ab>A.</ab> dasselbe als Instrumental von sama auffassen]. Ueber die Verlängerung des a siehe <ls>Prāt. 〔502〕</ls>. <ls n="Prāt. ">〔510〕</ls>—<ls n="Prāt. ">〔514〕</ls>. <ls n="Prāt. ">〔517〕</ls>. <ls n="Prāt. ">〔537〕</ls>, und über Verwandlung des s in ṣ <ls>Prāt. 〔324〕</ls>. Das Verb des Satzes, zu dem sma gehört, steht im <ab>Praes.</ab> <ab>Ind.</ab>, <ab>Impv.</ab>, seltener im <ab>Praes.</ab> <ab>Conj.</ab>, nur an drei Stellen im Perfect: {507,6} (tasthau); {695,3} (dadathus); {327,7} (āhus). — 1〉 nach Demonstrativen und Personalpronomen verstärkend etwa in dem Sinne: {%eben, gerade, zumal%} (nur schwächer als diese), so nach tásya {12,8}; tám [Page1613] {102,3} sá {361,4}; āsú {485,18}; asmā́kam {102,5}; yusmákam {407,5}; ádha {15,10}; {104,5}; {127,6}. _{127,9}; {222,2}; {312,17}; {363,5}; {408,6}; {453,5}; {456,9}; {466,7}; {487,10}. _{487,11}; {507,6}; {519,2}; {572,22}; {599,5}; ihá {410,7}; so auch nach sá hí {128,5}; {361,7}; {377,4}; {641,10}; {732,2}; té hí {645,15}; tuám hí {264,4}; tuā́m hí {443,2}; yuvám hí {695,3}; yuvām cid hí {180,8}; ádhā cid hí {180,7}. — 2〉 in āhnlichem Sinne nach Relativen: yás {129,2}; {334,4}; yám {203,5}; yéna {296,1}, oder Nomen: durvártus {334,8}; śúcis {361,8}; diví ca {458,14}; maghónas {548,15}; kū́ṭam {928,4}; dasmás hí {129,3}; sunvānás hí {133,7}; yajñás hí {173,11}; ṛténa hí {299,10}; ukthébhis hí {399,4}; máde hí {621,21}; devā́sas hí {647,14}; agnís cid hí {169,3}; kṛtám cid hí {306,7}; mitrás cid hí {838,5}. — 3〉 verstärkend etwa in dem Sinne: {%fürwahr,%} nach makṣū́ hí {339,3}; víśve hí {647,4}; trís {921,5}; áram hí {701,26}; nach Negationen: ná {1004,3}; nahí {327,9}; mā́ {853,24}. — 4〉 utá sma {%und besonders, und zumal%} {28,6}; {327,7}. _{327,8}; {334,5}. _{334,6}. _{334,8}. _{334,9}; {336,3}; {363,3}. _{363,4}; {406,8}. _{406,9}; {799,9}; {921,5}; {922,10}. — 5〉 die Handlung des Verbs hervorhebend: {%traun, fürwahr, recht, zumal,%} aber auch mehr zeitlich: {%schon;%} es steht in diesem Falle hinter dem einfachen Verb, was dann meist die Verszeile beginnt: ásti {37,15}; ásti hí {173,12}; smási {37,15}; vanvántu {537,9}; yandhí {604,6}; váhāmi {859,1}; ṛchánti {928,6}; pináṣṭi {962,7}; und auch, wo dies nicht der Fall ist, betont wird {485,18} kṛṇuhí, oder, wenn das Verb mit einem Richtungswort zusammengehört, hinter diesem, so hinter áva {361,5}; {960,2}; ní {506,4}; ā́ {51,12}; {644,6}; {855,8}; práti {12,5}; {531,13}; {664,11}; {913,23}; prá {669,10}; ápa {42,2}; {921,8}; úd {928,2}; pári hí {799,6}; ā́ hí {26,3}; {325,2}. — 6〉 mit folgendem purā́ und dem <ab>Praes.</ab> <ab>Indic.</ab> etwa in dem Sinne „jetzt wie auch zuvor“: yé smā purā́ gātūyánti {169,5}; nahí ṣma yád ha vas purā́ stómebhis vṛktabarhiṣas śárdhān ṛtásya jínvatha {627,21}; samhotrám sma purā́ nā́rī sámanam vā‿áva gachati {912,10}.
+;---------------------------------------------------
+; <L>10375<pc>1621<k1>svaj<k2>svaj
+; old: <ls>Prāt. 〔330. 347〕</ls>
+; new: <ls>Prāt. 〔330〕</ls>. <ls n="Prāt. ">〔347〕</ls>
+79851 old {@(√svaj),@}¦ mit {@pári@} {%umarmen, umfassen, umschlingen%} [<ab>A.</ab>]; 2〉 bildlich {%umfangen%} [<ab>A.</ab>]. Das anlautende s, ja das aufs Augment folgende, erscheint stets nach pári in ṣ verwandelt (<ls>Prāt. 〔330. 347〕</ls>).
+;
+79851 new {@(√svaj),@}¦ mit {@pári@} {%umarmen, umfassen, umschlingen%} [<ab>A.</ab>]; 2〉 bildlich {%umfangen%} [<ab>A.</ab>]. Das anlautende s, ja das aufs Augment folgende, erscheint stets nach pári in ṣ verwandelt (<ls>Prāt. 〔330〕</ls>. <ls n="Prāt. ">〔347〕</ls>).
+;---------------------------------------------------
+; <L>10393<pc>1625<k1>svan<k2>svan
+; old: <ls>Ku. 〔4,17〕; 〔9,10〕</ls>
+; new: <ls>Ku. 〔4,17〕</ls>; <ls n="Ku. ">〔9,10〕</ls>
+80005 old {@√svan@}¦ [<ls>Ku. 〔4,17〕; 〔9,10〕</ls>], {%rauschen%} von Wasser, Feuer, Wagenrad; <ab>Caus.</ab> ebenso.
+;
+80005 new {@√svan@}¦ [<ls>Ku. 〔4,17〕</ls>; <ls n="Ku. ">〔9,10〕</ls>], {%rauschen%} von Wasser, Feuer, Wagenrad; <ab>Caus.</ab> ebenso.
+;---------------------------------------------------
+; <L>10533<pc>1640<k1>ha<k2>ha
+; old: <ls>Prāt. 〔515. 520〕</ls>
+; new: <ls>Prāt. 〔515〕</ls>. <ls n="Prāt. ">〔520〕</ls>
+80946 old {@ha,@}¦ das vorhergehende Wort hervorhebend, änlich wie gha, mit dem es ursprünglich identisch ist, und áha, jedoch schwächer als das letztere; nur zweimal ({327,5}; {395,7}) metrisch verlängert und zwar nach Versbeginnendem ā́ (<ls>Prāt. 〔515. 520〕</ls>); 1〉 nach Fragewörtern kám {39,1}; {428,3}; kás {75,3}; {413,4}; {866,1}; kád {38,1}; {301,12}. _{301,13}; {676,5}; {836,4}; ké {665,4}; {686,1}; káthā {299,5}. — 2〉 nach Relativen: yás {63,1}; {173,5}; {208,2}; {283,2}; {313,11}; {585,5}; {625,19}; yád {37,12}. _{37,13}; {63,1}. _{63,4}; {80,7}; {85,7}; {87,3}; {103,4}; {121,4}; {134,2}; {139,1}. _{139,2}. _{139,7}; {178,1}; {185,1}; {204,9}; {266,6}. _{266,10}; {288,17}; {301,11}; {312,4}; {313,19}; {360,4}; {418,4}; {428,10}; {443,3}; {452,3}; {491,5}; {623,12}; {627,11}. _{627,21}; {848,11}; {857,5}. _{857,10}; {896,9}; {981,4}; {1018,7}; yáyos {288,2}; yé {302,10} (mit <ab>folg.</ab> tyé); yā́ {505,5}; {1028,4}; yáthā 〰 tyád {308,6}; {952,8}. — 3〉 nach persönlichen Pronomen: tuám {535,2}; {684,3}; {705,16}; {800,1}; {915,8}; túbhyam {313,1}; tué {534,1}; tváyā 〰 svid {641,11}; yuvám {157,5}. _{157,6}; {180,4}; {339,7}; {865,9}; {866,7}. _{866,8}; yuvós {866,6}; yūyám {413,4}; {553,2}; ferner mit folgendem tyád (tuám ha tyád <ab>u. s. w.</ab>): tuám {63,4}. _{63,5}. _{63,7}; {459,3}; {535,2}; {705,17}. _{705,18}; tuā́m {63,6}; táva {461,13}. — 4〉 nach Demonstrativen: sá {125,5}; {211,6}; {215,13}; té {164,50}; {916,16}; tā́ {503,3}; tásmāt {955,2}; tátas {549,13}; ayám {584,4}; {602,3}; {685,4}; idám {638,1}; ayā́ {463,6}. — 5〉 nach Nomen: agnís {65,8}; {831,7}; {887,14}; {906,3}; {941,2}; yamás {66,8}; yamám {840,13}; túgras {116,3}; dadhyáṅ {116,12}; {139,9}; prathamám {144,1}; mántavas {152,1}; dásrā 〰 yád {158,1}. yuktás 〰 yád _{158,3}; ukṣā́ {241,6}; sákhā {273,5}; ráthas {292,8}. _{292,9}; úpamātayas {319,3}; síndhus {339,6}; dhā́mā {443,9}; citrám {584,5}; vásiṣṭham {604,4}; índre {623,6}; prajā́s {710,14}; āyós {831,6}; bhárgas {887,14}; párśus {912,23}; gā́vas {916,10}; ā́pas {947,7}; yajñé-yajñe {1028,1}; ṛtacít {312,10}; yū́nā {780,5}; yúvā {866,11}; śaśamānás {151,7}. — 6〉 zwischen zwei zusammengehörige Duale eingeschaltet: índrā 〰 váruṇā {337,2}. _{337,3}; dyā́vā 〰 kṣā́mā {838,1}. — 7〉 nach Verben: stámbhīt {121,2}; sasvár {88,5}; ápibas {266,9}; dádhate {303,9}; ruvát {352,1}; ávanos {383,9}; ávahas {385,8}; vṛñjé {452,5}; ná vyathante {933,8}. — 8〉 nach Richtungswörtern der Verben: ánu 〰 asat {57,2}; áva 〰 kṣipát {323,3}; úpa‿u 〰 gús {609,3}; ā 〰 gáchasi {327,5}; ā́ 〰 vahatas {395,7}; ā́ 〰 yāti {629,18}; párā 〰 yád hathá {39,3}; ví 〰 vāti {857,9}; pári 〰 yāthas {504,2}; mádati sám 〰 {325,2}. — 9〉 nach andern Adverbien: trídhā {117,24}; sadyás {282,1}; ádhā {298,14}; {318,6}; {590,5}; sakṛ́t {489,22}; átha‿u {157,6}; {865,5}; ā́t id {320,5}; {853,3}.
+;
+80946 new {@ha,@}¦ das vorhergehende Wort hervorhebend, änlich wie gha, mit dem es ursprünglich identisch ist, und áha, jedoch schwächer als das letztere; nur zweimal ({327,5}; {395,7}) metrisch verlängert und zwar nach Versbeginnendem ā́ (<ls>Prāt. 〔515〕</ls>. <ls n="Prāt. ">〔520〕</ls>); 1〉 nach Fragewörtern kám {39,1}; {428,3}; kás {75,3}; {413,4}; {866,1}; kád {38,1}; {301,12}. _{301,13}; {676,5}; {836,4}; ké {665,4}; {686,1}; káthā {299,5}. — 2〉 nach Relativen: yás {63,1}; {173,5}; {208,2}; {283,2}; {313,11}; {585,5}; {625,19}; yád {37,12}. _{37,13}; {63,1}. _{63,4}; {80,7}; {85,7}; {87,3}; {103,4}; {121,4}; {134,2}; {139,1}. _{139,2}. _{139,7}; {178,1}; {185,1}; {204,9}; {266,6}. _{266,10}; {288,17}; {301,11}; {312,4}; {313,19}; {360,4}; {418,4}; {428,10}; {443,3}; {452,3}; {491,5}; {623,12}; {627,11}. _{627,21}; {848,11}; {857,5}. _{857,10}; {896,9}; {981,4}; {1018,7}; yáyos {288,2}; yé {302,10} (mit <ab>folg.</ab> tyé); yā́ {505,5}; {1028,4}; yáthā 〰 tyád {308,6}; {952,8}. — 3〉 nach persönlichen Pronomen: tuám {535,2}; {684,3}; {705,16}; {800,1}; {915,8}; túbhyam {313,1}; tué {534,1}; tváyā 〰 svid {641,11}; yuvám {157,5}. _{157,6}; {180,4}; {339,7}; {865,9}; {866,7}. _{866,8}; yuvós {866,6}; yūyám {413,4}; {553,2}; ferner mit folgendem tyád (tuám ha tyád <ab>u. s. w.</ab>): tuám {63,4}. _{63,5}. _{63,7}; {459,3}; {535,2}; {705,17}. _{705,18}; tuā́m {63,6}; táva {461,13}. — 4〉 nach Demonstrativen: sá {125,5}; {211,6}; {215,13}; té {164,50}; {916,16}; tā́ {503,3}; tásmāt {955,2}; tátas {549,13}; ayám {584,4}; {602,3}; {685,4}; idám {638,1}; ayā́ {463,6}. — 5〉 nach Nomen: agnís {65,8}; {831,7}; {887,14}; {906,3}; {941,2}; yamás {66,8}; yamám {840,13}; túgras {116,3}; dadhyáṅ {116,12}; {139,9}; prathamám {144,1}; mántavas {152,1}; dásrā 〰 yád {158,1}. yuktás 〰 yád _{158,3}; ukṣā́ {241,6}; sákhā {273,5}; ráthas {292,8}. _{292,9}; úpamātayas {319,3}; síndhus {339,6}; dhā́mā {443,9}; citrám {584,5}; vásiṣṭham {604,4}; índre {623,6}; prajā́s {710,14}; āyós {831,6}; bhárgas {887,14}; párśus {912,23}; gā́vas {916,10}; ā́pas {947,7}; yajñé-yajñe {1028,1}; ṛtacít {312,10}; yū́nā {780,5}; yúvā {866,11}; śaśamānás {151,7}. — 6〉 zwischen zwei zusammengehörige Duale eingeschaltet: índrā 〰 váruṇā {337,2}. _{337,3}; dyā́vā 〰 kṣā́mā {838,1}. — 7〉 nach Verben: stámbhīt {121,2}; sasvár {88,5}; ápibas {266,9}; dádhate {303,9}; ruvát {352,1}; ávanos {383,9}; ávahas {385,8}; vṛñjé {452,5}; ná vyathante {933,8}. — 8〉 nach Richtungswörtern der Verben: ánu 〰 asat {57,2}; áva 〰 kṣipát {323,3}; úpa‿u 〰 gús {609,3}; ā 〰 gáchasi {327,5}; ā́ 〰 vahatas {395,7}; ā́ 〰 yāti {629,18}; párā 〰 yád hathá {39,3}; ví 〰 vāti {857,9}; pári 〰 yāthas {504,2}; mádati sám 〰 {325,2}. — 9〉 nach andern Adverbien: trídhā {117,24}; sadyás {282,1}; ádhā {298,14}; {318,6}; {590,5}; sakṛ́t {489,22}; átha‿u {157,6}; {865,5}; ā́t id {320,5}; {853,3}.
+;---------------------------------------------------
+; <L>10713<pc>1669<k1>hu<k2>hu
+; old: <ls>Aufr. in Ku. Zeitschr.&#xA0;&#xA0; 〔14,268〕</ls>
+; new: <ls>Aufr. in Ku. Zeitschr. 〔14,268〕</ls>
+82408 old {@√hu@}¦ [<ls>Cu. 〔203〕</ls>; <ls>Aufr. in Ku. Zeitschr.&#xA0;&#xA0; 〔14,268〕</ls>], 1〉 {%giessen%} [<ab>A.</ab>]; insbesondere 2〉 Opfertrank [<ab>A.</ab>] {%giessen;%} 3〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] {%zugiessen,%} in ihn [<ab>L.</ab>] {%hineingiessen;%} 4〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] in den Mund [<ab>L.</ab>] {%giessen;%} 5〉 bildlich: jemandem [<ab>D.</ab>] Lieder [<ab>A.</ab>] {%ergiessen,%} meist mit durchgeführtem [Page1670] Bilde; 6〉 jemandem [<ab>D.</ab>] mit geschmolzener Butter [<ab>I.</ab>] {%opfern;%} 7〉 auch ohne <ab>Instr.</ab> in gleichem Sinne; 8〉 {%Opfertrank ergiessen, opfern%} (ohne Casus).
+;
+82408 new {@√hu@}¦ [<ls>Cu. 〔203〕</ls>; <ls>Aufr. in Ku. Zeitschr. 〔14,268〕</ls>], 1〉 {%giessen%} [<ab>A.</ab>]; insbesondere 2〉 Opfertrank [<ab>A.</ab>] {%giessen;%} 3〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] {%zugiessen,%} in ihn [<ab>L.</ab>] {%hineingiessen;%} 4〉 Opfertrank [<ab>A.</ab>] jemandem [<ab>D.</ab>] in den Mund [<ab>L.</ab>] {%giessen;%} 5〉 bildlich: jemandem [<ab>D.</ab>] Lieder [<ab>A.</ab>] {%ergiessen,%} meist mit durchgeführtem [Page1670] Bilde; 6〉 jemandem [<ab>D.</ab>] mit geschmolzener Butter [<ab>I.</ab>] {%opfern;%} 7〉 auch ohne <ab>Instr.</ab> in gleichem Sinne; 8〉 {%Opfertrank ergiessen, opfern%} (ohne Casus).
+;---------------------------------------------------
+; <L>12095<pc>1751<k1>ar<k2>ar
+; old: <ls>Roth in Ku.&#xA0; 〔20%%,70%%〕</ls>
+; new: <ls>Roth in Ku. 〔20%%,70%%〕</ls>
+85114 old <div n="H">— Stamm IV. ranta 6a〉 síndhavas {61,11} (anders <ls>Roth in Ku.&#xA0; 〔20%%,70%%〕</ls>).
+;
+85114 new <div n="H">— Stamm IV. ranta 6a〉 síndhavas {61,11} (anders <ls>Roth in Ku. 〔20%%,70%%〕</ls>).
+;---------------------------------------------------
+; <L>12701<pc>1774<k1>sTavira<k2>sTa/vira
+; old: 
+; new: 
+89054 old 
+;
+89054 new --------------
+;---------------------------------------------------
+; <L>12701<pc>1774<k1>sTavira<k2>sTa/vira
+; old: 
+; new: 
+89055 old <p>Im Verzeichnisse nach dem Endlaute zuzufügen: *gah-.
+;
+89055 new <h>Im Verzeichnisse nach dem Endlaute zuzufügen: *gah-.</h>
+;---------------------------------------------------
+; <L>12701<pc>1774<k1>sTavira<k2>sTa/vira
+; old: 
+; new: 
+89056 old <p>ENLISH: To be added in the index after the final: *gah-.
+;
+89056 new <h>ENLISH: To be added in the index after the final: *gah-.</h>
+;---------------------------------------------------

@@ -1,4 +1,4 @@
-sfx="9"
+sfx="10"
 file=temp_graab_$sfx.txt
 filex=gra_hwextra.txt
 origdir=/c/xampp/htdocs/cologne/csl-orig/v02/gra
