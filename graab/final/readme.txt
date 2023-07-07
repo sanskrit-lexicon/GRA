@@ -71,7 +71,7 @@ cp ../temp_graab_9i.txt  ../temp_graab_10.txt
 c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/
 revised tooltips
 revise tooltips:
-  Replace tooltip: c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/
+  Replace tooltip: /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/
 old: O. u. O.	Orient und Occident
 new: Bollensen (O. u. O.	Zur Herstellung des Veda.— Bollensenʼs Article in Orient und Occident
 Remove 6 lines with '&#xA0' in abbreviation.
@@ -89,3 +89,49 @@ sh redo.sh
 python /c/xampp/htdocs/cologne/xmlvalidate.py dev10/pywork/gra.xml dev10/pywork/gra.dtd
 # ok
 ---------------------------------------------------------
+07-06-2023 further revision of tooltips
+
+Kuhn.s.Zeitschr.articles.txt
+Ref: https://github.com/sanskrit-lexicon/GRA/issues/32#issuecomment-1623881048
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt tooltip_0.txt
+
+python kuhn1.py Kuhn.s.Zeitschr.articles.txt kuhn1.txt
+
+python kuhn1a.py Kuhn.s.Zeitschr.articles.txt kuhn1a.txt
+
+python tip0.py tooltip_0.txt tooltip_0_ku.txt tooltip_0_notku.txt
+138 Tip records read from tooltip_0.txt
+27 records written to tooltip_0_ku.txt
+   tooltip abbreviation:
+     (contains string 'Ku' AND is not in ['Kuhn in Haupt Zeitschr.', 'Ku. Beitr.'])
+       OR
+     is one of ['Zeitschr.', 'J. Grimm', 'Lottner']
+   
+111 records written to tooltip_0_notku.txt
+
+---------
+python tip1.py tooltip_0_ku.txt kuhn1a.txt
+  bases from tips SAME AS bases from kuhn file?  True
+  27 tipbases, 27 ktipbases
+
+--------------------
+Next task is to create tooltip_1_ku.txt from kuhn1a.txt
+
+python kuhn2.py kuhn1a.txt tooltip_1_ku.txt
+
+-----------
+some manual line breaks
+cp tooltip_1_ku.txt tooltip_1_ku_edit.txt
+
+--------------------
+tooltip_1.txt
+cat tooltip_0_notku.txt tooltip_1_ku_edit.txt > tooltip_1.txt
+
+cp tooltip_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/gra/pywork/graauth/tooltip.txt
+
+cd ../
+# redo.sh now uses version 10
+sh redo.sh
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev10/pywork/gra.xml dev10/pywork/gra.dtd
+----------------------------------------------------------------------------------
+
