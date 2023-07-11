@@ -191,4 +191,7 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev9/pywork/gra.xml dev9/pywork/gr
   ok
   
 -----------------------------------------------------------
+07-11-2023
+gra-meta2_1.txt  REVISION OF gra-meta2-0.txt.
+------
 -----------------------------------------------------------
