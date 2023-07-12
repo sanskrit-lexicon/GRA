@@ -245,7 +245,96 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra-meta2.txt gra-meta2_0.txt
 
 
 -------------------------------------------------------------
-final directory
-temp_graab_10.txt
+-------------------------------------------------------------
+07-11-2023
+Moving the 'dev' version to 'production'
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+-----
+upload revisions to github for csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+git add .
+git commit -m "....."
+git push
+
+-----
+upload revisions to github for csl-websanlexicon
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+git add .
+git commit -m "....."
+git push
+-----
+csl-apidev
+cd /c/xampp/htdocs/cologne/csl-apidev
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php .
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicdisplay.php .
+git add .
+git commit -m "..."
+git push
+
+-----
+# Save a copy of previous Grassman on Cologne server:
+cd scans/GRAScan
+mkdir 20230608  # the date of latest form of previous Grassman
+# the downloads directory has everthing to display previous
+cp -r 2020/downloads 20230608
+# make the web directory a valid url
+cd 20230608
+cp downloads/graweb1.zip .  # temporary copy
+unzip graweb1.zip
+rm graweb1.zip # remove temporary copy
+# now the previous displays are at url:
+https://sanskrit-lexicon.uni-koeln.de/scans/GRAScan/20230608/web/
+
+-----
+Now, ready to use install the new version.
+-----
+# copy needed files to csl-orig (local installation)
+# assume in GRA/graab directory
+# temp_graab_10.txt is the new digitization
+cp temp_graab_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra.txt
+# also need
+cp gra_hwextra.txt /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra_hwextra.txt
+cp meta2/gra-meta2_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra-meta2.txt
+cp meta2/graheader_1.xml /c/xampp/htdocs/cologne/csl-orig/v02/gra/graheader.xml
+
+-----
+# reconstruct local version
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh gra  ../../gra
+# check validity relative to gra.dtd
+sh xmlchk_xampp.sh gra
+# ok !
+-----
+sync csl-orig to github (local)
+cd /c/xampp/htdocs/cologne/csl-orig/v02/gra
+git status
+#        modified:   gra-meta2.txt
+#        modified:   gra.txt
+#        modified:   gra_hwextra.txt
+#       modified:   graheader.xml
+git add .
+git commit -m "GRA: major revision, including the VN material.
+> Ref: https://github.com/sanskrit-lexicon/GRA/issues/32"
+git push
+
+-----
+# sync csl-orig to github (Cologne server)
+# ssh login to Cologne server
+# cd /scans/csl-orig (at cologne)
+git pull
+
+ v02/gra/gra-meta2.txt   |    285 +-
+ v02/gra/gra.txt         | 104379 +++++++++++++++++++++++----------------------
+ v02/gra/gra_hwextra.txt |    914 +
+ v02/gra/graheader.xml   |     15 +
+ 4 files changed, 54752 insertions(+), 50841 deletions(-)
 
 -------------------------------------------------------------
+Regenerate displays at cologne
+# cd scans/csl-pywork/v02
+sh generate_dict.sh gra  ../../GRAScan/2020/
+------------------------------------------------------------
+Update this repository (sanskrit-lexicon/GRA)
+DONE

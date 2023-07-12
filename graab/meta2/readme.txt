@@ -192,6 +192,14 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev9/pywork/gra.xml dev9/pywork/gr
   
 -----------------------------------------------------------
 07-11-2023
-gra-meta2_1.txt  REVISION OF gra-meta2-0.txt.
+cp /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra-meta2.txt gra-meta2_0.txt
+gra-meta2_1.txt  REVISION OF gra-meta2_0.txt.
 ------
+07-11-2023
+
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/gra/graheader.xml graheader_0.xml
+cp graheader_0.xml graheader_1.xml
+edit graheader_1.xml
+ - Add Mr. Rao to 
 -----------------------------------------------------------

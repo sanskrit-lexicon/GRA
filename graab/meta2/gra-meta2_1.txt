@@ -30,7 +30,7 @@ The pseudo-xml <> style of coding is used as follows:
               e.g. <ls n="AV.">14,1,57</ls>.	      
 <div n="H">   A major subdivision
 <div n="P">   A minor subdivision
-<div n="Pf">  A prefix subdivision (such as for an upasaraga)
+<div n="Pf">  A prefix subdivision (such as for an upasarga)
 <div n="TS">  A termination/suffix subdivision
 <div n="W">   A Whole-word subdivision; this occurs mostly in pronoun category.
 <F>X</F>      footnote (only 1 instance)
