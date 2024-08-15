@@ -1,34 +1,13 @@
-# generate gra_hwextra.txt (alternate headwords)
-
-See https://github.com/sanskrit-lexicon/GRA/issues/32
-
 
 ------------------------------------------------------------
-python multik2.py ../temp_graab_9a.txt multik2.txt
-
-89186 lines read from ../temp_graab_9a.txt
+12-14-2023
+redo.sh regnerates ../gra_hwextra.txt from ../gra.txt
+-----------------------------------------------------
+python multik2.py ../gra.txt multik2.txt
+89074 lines read from ../gra.txt
 11871 entries found
-WARNING: metaline=<L>11117<pc>1743-b<k1>jyA<k2>jyA/, jiA/<h>2
-         metacalc=<L>11117<pc>1743-b<k1>jyA<k2>jyA/, jiA/
-WARNING: metaline=<L>11291<pc>1747-a<k1>ah<k2>ah, aMh<h>1
-         metacalc=<L>11291<pc>1747-a<k1>ah<k2>ah, aMh
-WARNING: metaline=<L>11295<pc>1747-a<k1>Arya<k2>A/rya, a/ria<h>2
-         metacalc=<L>11295<pc>1747-a<k1>Arya<k2>A/rya, a/ria
-896 metalines with comma
-896 records written to multik2.txt
-
-../change_9b.txt
-python updateByLine.py temp_graab_9a.txt change_9b.txt temp_graab_9b.txt
-89186 lines read from temp_graab_9a.txt
-89186 records written to temp_graab_9b.txt
-6 change transactions from change_9b.txt
-
-# rerun
-python multik2.py ../temp_graab_9b.txt multik2.txt
-89186 lines read from ../temp_graab_9b.txt
-11871 entries found
-896 metalines with comma
-896 records written to multik2.txt
+894 metalines with comma
+894 records written to multik2.txt
 --------------------------------------------
 multik2a.txt
 # construct k1 for each k2.
