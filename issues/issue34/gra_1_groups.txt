@@ -1,0 +1,3596 @@
+0001 group has 2 entries
+  <L>10<pc>0003<k1>aMsya<k2>a/Msya, a/Msia
+  <L>10.1<pc>0003<k1>aMsia<k2>a/Msya, a/Msia
+
+0002 group has 2 entries
+  <L>25<pc>0004<k1>akutra<k2>a-ku/tra, a-ku/trA
+  <L>25.1<pc>0004<k1>akutrA<k2>a-ku/tra, a-ku/trA
+
+0003 group has 2 entries
+  <L>26<pc>0004<k1>akuDryac<k2>a-kuDrya^c, akuDri/ac
+  <L>26.1<pc>0004<k1>akuDriac<k2>a-kuDrya^c, akuDri/ac
+
+0004 group has 2 entries
+  <L>51<pc>0006<k1>akzi<k2>a/kzi, akzi/
+  <L>51.1<pc>0006<k1>akzi<k2>a/kzi, akzi/
+
+0005 group has 2 entries
+  <L>69<pc>0007<k1>agastya<k2>aga/stya, aga/stia
+  <L>69.1<pc>0007<k1>agastia<k2>aga/stya, aga/stia
+
+0006 group has 2 entries
+  <L>71<pc>0008<k1>agu<k2>a/-gu, a/-go
+  <L>71.1<pc>0008<k1>ago<k2>a/-gu, a/-go
+
+0007 group has 2 entries
+  <L>77<pc>0008<k1>agohya<k2>a/-gohya, a/gohia
+  <L>77.1<pc>0008<k1>agohia<k2>a/-gohya, a/gohia
+
+0008 group has 2 entries
+  <L>119<pc>0012<k1>aGASva<k2>aGA/Sva, aGa/-aSva
+  <L>119.1<pc>0012<k1>aGaaSva<k2>aGA/Sva, aGa/-aSva
+
+0009 group has 2 entries
+  <L>122<pc>0012<k1>aGnya<k2>a/Gnya, a/-Gnia
+  <L>122.1<pc>0012<k1>aGnia<k2>a/Gnya, a/-Gnia
+
+0010 group has 2 entries
+  <L>123<pc>0012<k1>aGnya<k2>aGnya/, aGnia/
+  <L>123.1<pc>0012<k1>aGnia<k2>aGnya/, aGnia/
+
+0011 group has 2 entries
+  <L>143<pc>0015<k1>aNgya<k2>a/Ngya, a/Ngia
+  <L>143.1<pc>0015<k1>aNgia<k2>a/Ngya, a/Ngia
+
+0012 group has 2 entries
+  <L>160<pc>0016<k1>aCa<k2>a/Ca, a/CA
+  <L>160.1<pc>0016<k1>aCA<k2>a/Ca, a/CA
+
+0013 group has 2 entries
+  <L>166<pc>0018<k1>aCidroDan<k2>a/CidroDan, a/Cidra-UDan
+  <L>166.1<pc>0018<k1>aCidraUDan<k2>a/CidroDan, a/Cidra-UDan
+
+0014 group has 2 entries
+  <L>168<pc>0018<k1>aCokti<k2>a/Cokti, a/Ca-ukti
+  <L>168.1<pc>0018<k1>aCaukti<k2>a/Cokti, a/Ca-ukti
+
+0015 group has 2 entries
+  <L>186<pc>0021<k1>ajASva<k2>ajA/Sva, ajA/Sua
+  <L>186.1<pc>0021<k1>ajASua<k2>ajA/Sva, ajA/Sua
+
+0016 group has 2 entries
+  <L>197<pc>0022<k1>ajozya<k2>a/-jozya, a/-jozia
+  <L>197.1<pc>0022<k1>ajozia<k2>a/-jozya, a/-jozia
+
+0017 group has 2 entries
+  <L>207<pc>0023<k1>ajrya<k2>ajrya^, ajri/a
+  <L>207.1<pc>0023<k1>ajria<k2>ajrya^, ajri/a
+
+0018 group has 2 entries
+  <L>226<pc>0028<k1>atasAyya<k2>atasA/yya, atasA/yia
+  <L>226.1<pc>0028<k1>atasAyia<k2>atasA/yya, atasA/yia
+
+0019 group has 2 entries
+  <L>251<pc>0030<k1>atya<k2>a/tya, a/tia
+  <L>251.1<pc>0030<k1>atia<k2>a/tya, a/tia
+
+0020 group has 2 entries
+  <L>253<pc>0030<k1>atyAya<k2>aty-A/ya, atiA/ya
+  <L>253.1<pc>0030<k1>atiAya<k2>aty-A/ya, atiA/ya
+
+0021 group has 2 entries
+  <L>281<pc>0035<k1>adABya<k2>a/-dABya, a/-dABia
+  <L>281.1<pc>0035<k1>adABia<k2>a/-dABya, a/-dABia
+
+0022 group has 2 entries
+  <L>319<pc>0039<k1>adyUtya<k2>a-dyUtya^, adyUti/a
+  <L>319.1<pc>0039<k1>adyUtia<k2>a-dyUtya^, adyUti/a
+
+0023 group has 2 entries
+  <L>341<pc>0041<k1>advizeRya<k2>a-dvizeRya/, advizeRia/
+  <L>341.1<pc>0041<k1>advizeRia<k2>a-dvizeRya/, advizeRia/
+
+0024 group has 2 entries
+  <L>356<pc>0046<k1>aDigartya<k2>a/Di-gartya, a/Digartia
+  <L>356.1<pc>0046<k1>aDigartia<k2>a/Di-gartya, a/Digartia
+
+0025 group has 2 entries
+  <L>370<pc>0047<k1>aDizavaRya<k2>aDizavaRya^, aDizavaRi/a
+  <L>370.1<pc>0047<k1>aDizavaRia<k2>aDizavaRya^, aDizavaRi/a
+
+0026 group has 2 entries
+  <L>377<pc>0047<k1>aDoakza<k2>aDo-akza/, aDas-akza/
+  <L>377.1<pc>0047<k1>aDasakza<k2>aDo-akza/, aDas-akza/
+
+0027 group has 2 entries
+  <L>465<pc>0055<k1>anApya<k2>an-Apya/, anApia/
+  <L>465.1<pc>0055<k1>anApia<k2>an-Apya/, anApia/
+
+0028 group has 2 entries
+  <L>484<pc>0056<k1>anindya<k2>a-nindya/, a-nindia/
+  <L>484.1<pc>0056<k1>anindia<k2>a-nindya/, a-nindia/
+
+0029 group has 2 entries
+  <L>515<pc>0060<k1>anugra<k2>a/n-ugra, anugra/
+  <L>515.1<pc>0060<k1>anugra<k2>a/n-ugra, anugra/
+
+0030 group has 2 entries
+  <L>530<pc>0060<k1>anumAdya<k2>anumA/dya, anumA/dia
+  <L>530.1<pc>0060<k1>anumAdia<k2>anumA/dya, anumA/dia
+
+0031 group has 2 entries
+  <L>545<pc>0061<k1>anUkya<k2>anUkya^, anUki/a
+  <L>545.1<pc>0061<k1>anUkia<k2>anUkya^, anUki/a
+
+0032 group has 2 entries
+  <L>563<pc>0062<k1>anedya<k2>a/-nedya, a/-nedia
+  <L>563.1<pc>0062<k1>anedia<k2>a/-nedya, a/-nedia
+
+0033 group has 2 entries
+  <L>580<pc>0066<k1>antarikzya<k2>anta/rikzya, anta/rikzia
+  <L>580.1<pc>0066<k1>antarikzia<k2>anta/rikzya, anta/rikzia
+
+0034 group has 2 entries
+  <L>591<pc>0067<k1>antyUti<k2>a/nty-Uti, a/nti-Uti
+  <L>591.1<pc>0067<k1>antiUti<k2>a/nty-Uti, a/nti-Uti
+
+0035 group has 2 entries
+  <L>602<pc>0069<k1>anya<k2>a/-nya, a/-nia
+  <L>602.1<pc>0069<k1>ania<k2>a/-nya, a/-nia
+
+0036 group has 2 entries
+  <L>651<pc>0074<k1>apasya<k2>apasya^, apasi/a
+  <L>651.1<pc>0074<k1>apasia<k2>apasya^, apasi/a
+
+0037 group has 2 entries
+  <L>662<pc>0075<k1>apAcya<k2>apAcya/, apAcia/
+  <L>662.1<pc>0075<k1>apAcia<k2>apAcya/, apAcia/
+
+0038 group has 2 entries
+  <L>671<pc>0076<k1>apikakzya<k2>apikakzya^, apikakzi/a
+  <L>671.1<pc>0076<k1>apikakzia<k2>apikakzya^, apikakzi/a
+
+0039 group has 2 entries
+  <L>679<pc>0077<k1>apIcya<k2>apIcya^, apIci/a
+  <L>679.1<pc>0077<k1>apIcia<k2>apIcya^, apIci/a
+
+0040 group has 2 entries
+  <L>689<pc>0077<k1>apUrvya<k2>a/-pUrvya, a/-pUrvia
+  <L>689.1<pc>0077<k1>apUrvia<k2>a/-pUrvya, a/-pUrvia
+
+0041 group has 2 entries
+  <L>695<pc>0078<k1>aptUrya<k2>aptU/rya, aptU/ria
+  <L>695.1<pc>0078<k1>aptUria<k2>aptU/rya, aptU/ria
+
+0042 group has 2 entries
+  <L>696<pc>0078<k1>aptya<k2>aptya/, aptia/
+  <L>696.1<pc>0078<k1>aptia<k2>aptya/, aptia/
+
+0043 group has 2 entries
+  <L>702<pc>0078<k1>apya<k2>a/pya, a/pia
+  <L>702.1<pc>0078<k1>apia<k2>a/pya, a/pia
+
+0044 group has 2 entries
+  <L>734<pc>0080<k1>apvA<k2>apvA/, apuA/
+  <L>734.1<pc>0080<k1>apuA<k2>apvA/, apuA/
+
+0045 group has 2 entries
+  <L>788<pc>0084<k1>aBiBUtyojas<k2>aBiBUty-o/jas, aBiBUti-o/jas
+  <L>788.1<pc>0084<k1>aBiBUtiojas<k2>aBiBUty-o/jas, aBiBUti-o/jas
+
+0046 group has 2 entries
+  <L>794<pc>0085<k1>aBimAtizAhya<k2>aBimAti-zA/hya, aBimAti-zA/hia
+  <L>794.1<pc>0085<k1>aBimAtizAhia<k2>aBimAti-zA/hya, aBimAti-zA/hia
+
+0047 group has 2 entries
+  <L>841<pc>0088<k1>aByaYjana<k2>aBya/Yjana, aBia/Yjana
+  <L>841.1<pc>0088<k1>aBiaYjana<k2>aBya/Yjana, aBia/Yjana
+
+0048 group has 2 entries
+  <L>843<pc>0088<k1>aByarDayajvan<k2>aByarDa-ya/jvan, aBiarDa-ya/jvan
+  <L>843.1<pc>0088<k1>aBiarDayajvan<k2>aByarDa-ya/jvan, aBiarDa-ya/jvan
+
+0049 group has 2 entries
+  <L>851<pc>0089<k1>aBriya<k2>aBri/ya, aBriya/
+  <L>851.1<pc>0089<k1>aBriya<k2>aBri/ya, aBriya/
+
+0050 group has 2 entries
+  <L>868<pc>0091<k1>amartya<k2>a/-martya, a/-martia
+  <L>868.1<pc>0091<k1>amartia<k2>a/-martya, a/-martia
+
+0051 group has 2 entries
+  <L>877<pc>0092<k1>amAtya<k2>amA/tya, amA/tia
+  <L>877.1<pc>0092<k1>amAtia<k2>amA/tya, amA/tia
+
+0052 group has 2 entries
+  <L>940<pc>0097<k1>ayAsya<k2>a-yA/sya, a-yA/sia
+  <L>940.1<pc>0097<k1>ayAsia<k2>a-yA/sya, a-yA/sia
+
+0053 group has 2 entries
+  <L>948<pc>0098<k1>ayoagra<k2>a/yo-agra, a/yas-agra
+  <L>948.1<pc>0098<k1>ayasagra<k2>a/yo-agra, a/yas-agra
+
+0054 group has 2 entries
+  <L>951<pc>0098<k1>ayopAzwi<k2>a/yopAzwi, a/yas-apAzwi
+  <L>951.1<pc>0098<k1>ayasapAzwi<k2>a/yopAzwi, a/yas-apAzwi
+
+0055 group has 2 entries
+  <L>954<pc>0098<k1>ar<k2>ar, f
+  <L>954.1<pc>0098<k1>f<k2>ar, f
+
+0056 group has 2 entries
+  <L>965<pc>0102<k1>araRi<k2>ara/Ri, ara/RI
+  <L>965.1<pc>0102<k1>araRI<k2>ara/Ri, ara/RI
+
+0057 group has 2 entries
+  <L>967<pc>0102<k1>araRyAni<k2>araRyAni/, araRyAnI/
+  <L>967.1<pc>0102<k1>araRyAnI<k2>araRyAni/, araRyAnI/
+
+0058 group has 2 entries
+  <L>1033<pc>0110<k1>arc<k2>arc, fc
+  <L>1033.1<pc>0110<k1>fc<k2>arc, fc
+
+0059 group has 2 entries
+  <L>1036<pc>0112<k1>arcatrya<k2>arcatrya^, arcatri/a
+  <L>1036.1<pc>0112<k1>arcatria<k2>arcatrya^, arcatri/a
+
+0060 group has 2 entries
+  <L>1065<pc>0115<k1>arDya<k2>a/rDya, a/rDia
+  <L>1065.1<pc>0115<k1>arDia<k2>a/rDya, a/rDia
+
+0061 group has 2 entries
+  <L>1073<pc>0116<k1>arya<k2>arya^, ari/a
+  <L>1073.1<pc>0116<k1>aria<k2>arya^, ari/a
+
+0062 group has 2 entries
+  <L>1076<pc>0116<k1>aryamya<k2>aryamya^, aryami/a
+  <L>1076.1<pc>0116<k1>aryamia<k2>aryamya^, aryami/a
+
+0063 group has 3 entries
+  <L>1078<pc>0116<k1>arva<k2>2. arva, arvan, arvaRa
+  <L>1078.1<pc>0116<k1>arvan<k2>2. arva, arvan, arvaRa
+  <L>1078.2<pc>0116<k1>arvaRa<k2>2. arva, arvan, arvaRa
+
+0064 group has 2 entries
+  <L>1086<pc>0118<k1>arvAcIna<k2>arvAcIna/, arvAcI/na
+  <L>1086.1<pc>0118<k1>arvAcIna<k2>arvAcIna/, arvAcI/na
+
+0065 group has 2 entries
+  <L>1088<pc>0119<k1>arS<k2>arS, fS
+  <L>1088.1<pc>0119<k1>fS<k2>arS, fS
+
+0066 group has 2 entries
+  <L>1090<pc>0119<k1>arz<k2>1. arz, fz
+  <L>1090.1<pc>0119<k1>fz<k2>1. arz, fz
+
+0067 group has 2 entries
+  <L>1099<pc>0121<k1>alAyya<k2>alA/yya, alA/yia
+  <L>1099.1<pc>0121<k1>alAyia<k2>alA/yya, alA/yia
+
+0068 group has 2 entries
+  <L>1159<pc>0129<k1>avAryakratu<k2>avArya/-kratu, avAria/-kratu
+  <L>1159.1<pc>0129<k1>avAriakratu<k2>avArya/-kratu, avAria/-kratu
+
+0069 group has 2 entries
+  <L>1204<pc>0132<k1>avyat<k2>a/-vyat, a/-viat
+  <L>1204.1<pc>0132<k1>aviat<k2>a/-vyat, a/-viat
+
+0070 group has 2 entries
+  <L>1210<pc>0133<k1>aS<k2>1. aS, aMS
+  <L>1210.1<pc>0133<k1>aMS<k2>1. aS, aMS
+
+0071 group has 2 entries
+  <L>1222<pc>0138<k1>aSAsya<k2>a-SAsya/, a-SAsia/
+  <L>1222.1<pc>0138<k1>aSAsia<k2>a-SAsya/, a-SAsia/
+
+0072 group has 2 entries
+  <L>1242<pc>0139<k1>aSmAsya<k2>a/SmAsya, a/SmAsia
+  <L>1242.1<pc>0139<k1>aSmAsia<k2>a/SmAsya, a/SmAsia
+
+0073 group has 2 entries
+  <L>1264<pc>0141<k1>aSvapastya<k2>a/Sva-pastya, a/Sva-pastia
+  <L>1264.1<pc>0141<k1>aSvapastia<k2>a/Sva-pastya, a/Sva-pastia
+
+0074 group has 2 entries
+  <L>1295<pc>0144<k1>azwa<k2>azwa/, azwan
+  <L>1295.1<pc>0144<k1>azwan<k2>azwa/, azwan
+
+0075 group has 2 entries
+  <L>1303<pc>0145<k1>azWi<k2>azWi, azWI
+  <L>1303.1<pc>0145<k1>azWI<k2>azWi, azWI
+
+0076 group has 2 entries
+  <L>1323<pc>0153<k1>asamazwakAvya<k2>a/samazwa-kAvya, a/samazwa-kAvia
+  <L>1323.1<pc>0153<k1>asamazwakAvia<k2>a/samazwa-kAvya, a/samazwa-kAvia
+
+0077 group has 2 entries
+  <L>1325<pc>0154<k1>asamAtyojas<k2>a/samAtyojas, a/samAti-ojas
+  <L>1325.1<pc>0154<k1>asamAtiojas<k2>a/samAtyojas, a/samAti-ojas
+
+0078 group has 2 entries
+  <L>1348<pc>0156<k1>asurya<k2>asurya^, asurI/a
+  <L>1348.1<pc>0156<k1>asurIa<k2>asurya^, asurI/a
+
+0079 group has 2 entries
+  <L>1349<pc>0156<k1>asurya<k2>asurya^, asurya/
+  <L>1349.1<pc>0156<k1>asurya<k2>asurya^, asurya/
+
+0080 group has 2 entries
+  <L>1355<pc>0157<k1>asUrya<k2>a-sUrya/, asUria/
+  <L>1355.1<pc>0157<k1>asUria<k2>a-sUrya/, asUria/
+
+0081 group has 2 entries
+  <L>1357<pc>0157<k1>asenya<k2>a-senya/, a-senia/
+  <L>1357.1<pc>0157<k1>asenia<k2>a-senya/, a-senia/
+
+0082 group has 2 entries
+  <L>1383<pc>0159<k1>asmadryac<k2>asmadrya^c, asmadri/-ac
+  <L>1383.1<pc>0159<k1>asmadriac<k2>asmadrya^c, asmadri/-ac
+
+0083 group has 2 entries
+  <L>1396<pc>0160<k1>ah<k2>1. ah, aMh
+  <L>1396.1<pc>0160<k1>aMh<k2>1. ah, aMh
+
+0084 group has 3 entries
+  <L>1401<pc>0162<k1>ahan<k2>a/han, a/har, 2. a/ha
+  <L>1401.1<pc>0162<k1>ahar<k2>a/han, a/har, 2. a/ha
+  <L>1401.2<pc>0162<k1>aha<k2>a/han, a/har, 2. a/ha
+
+0085 group has 2 entries
+  <L>1437<pc>0168<k1>ahnavAyya<k2>a-hnavAyya/, a-hnavAyia/
+  <L>1437.1<pc>0168<k1>ahnavAyia<k2>a-hnavAyya/, a-hnavAyia/
+
+0086 group has 2 entries
+  <L>1446<pc>0171<k1>AkAyya<k2>AkAyya^, AkAyia
+  <L>1446.1<pc>0171<k1>AkAyia<k2>AkAyya^, AkAyia
+
+0087 group has 2 entries
+  <L>1468<pc>0172<k1>ANgUzya<k2>ANgUzya^, ANgUzi/a
+  <L>1468.1<pc>0172<k1>ANgUzia<k2>ANgUzya^, ANgUzi/a
+
+0088 group has 2 entries
+  <L>1482<pc>0173<k1>Ajya<k2>A/jya, A/jia
+  <L>1482.1<pc>0173<k1>Ajia<k2>A/jya, A/jia
+
+0089 group has 2 entries
+  <L>1493<pc>0175<k1>AtiTigva<k2>AtiTigva/, AtiTigua/
+  <L>1493.1<pc>0175<k1>AtiTigua<k2>AtiTigva/, AtiTigua/
+
+0090 group has 2 entries
+  <L>1508<pc>0176<k1>Aditya<k2>1. Aditya/, Aditia/
+  <L>1508.1<pc>0176<k1>Aditia<k2>1. Aditya/, Aditia/
+
+0091 group has 2 entries
+  <L>1542<pc>0180<k1>ApfCya<k2>Apf/Cya, Apf/Cia
+  <L>1542.1<pc>0180<k1>ApfCia<k2>Apf/Cya, Apf/Cia
+
+0092 group has 2 entries
+  <L>1543<pc>0180<k1>Aptya<k2>Aptya/, Aptia/
+  <L>1543.1<pc>0180<k1>Aptia<k2>Aptya/, Aptia/
+
+0093 group has 2 entries
+  <L>1544<pc>0180<k1>Apya<k2>A/pya, A/pia
+  <L>1544.1<pc>0180<k1>Apia<k2>A/pya, A/pia
+
+0094 group has 2 entries
+  <L>1567<pc>0181<k1>Amenya<k2>Amenya/, Amenia/
+  <L>1567.1<pc>0181<k1>Amenia<k2>Amenya/, Amenia/
+
+0095 group has 2 entries
+  <L>1604<pc>0185<k1>Artana<k2>A/rtana, A/artana
+  <L>1604.1<pc>0185<k1>Aartana<k2>A/rtana, A/artana
+
+0096 group has 2 entries
+  <L>1608<pc>0185<k1>Arya<k2>1. A/rya, A/ria
+  <L>1608.1<pc>0185<k1>Aria<k2>1. A/rya, A/ria
+
+0097 group has 2 entries
+  <L>1609<pc>0186<k1>Arya<k2>2. A/rya, a/ria
+  <L>1609.1<pc>0186<k1>aria<k2>2. A/rya, a/ria
+
+0098 group has 2 entries
+  <L>1619<pc>0186<k1>Avizwya<k2>Avi/zwya, Avi/zwia
+  <L>1619.1<pc>0186<k1>Avizwia<k2>Avi/zwya, Avi/zwia
+
+0099 group has 2 entries
+  <L>1641<pc>0188<k1>ASvapas<k2>ASva^pas, ASu/-apas
+  <L>1641.1<pc>0188<k1>ASuapas<k2>ASva^pas, ASu/-apas
+
+0100 group has 2 entries
+  <L>1643<pc>0188<k1>ASvaSva<k2>ASva^Sva, ASu/-aSva
+  <L>1643.1<pc>0188<k1>ASuaSva<k2>ASva^Sva, ASu/-aSva
+
+0101 group has 2 entries
+  <L>1644<pc>0188<k1>ASvaSvya<k2>ASva^Svya, ASu/aSvia
+  <L>1644.1<pc>0188<k1>ASuaSvia<k2>ASva^Svya, ASu/aSvia
+
+0102 group has 2 entries
+  <L>1666<pc>0191<k1>Asya<k2>Asya^, Asi/a
+  <L>1666.1<pc>0191<k1>Asia<k2>Asya^, Asi/a
+
+0103 group has 2 entries
+  <L>1674<pc>0192<k1>AhUrya<k2>AhU/rya, AhU/ria
+  <L>1674.1<pc>0192<k1>AhUria<k2>AhU/rya, AhU/ria
+
+0104 group has 2 entries
+  <L>1684<pc>0203<k1>itaUti<k2>ita/-Uti, ita/s-Uti
+  <L>1684.1<pc>0203<k1>itasUti<k2>ita/-Uti, ita/s-Uti
+
+0105 group has 2 entries
+  <L>1700<pc>0210<k1>idDAgni<k2>idDA/gni, idDa/-agni
+  <L>1700.1<pc>0210<k1>idDaagni<k2>idDA/gni, idDa/-agni
+
+0106 group has 2 entries
+  <L>1701<pc>0210<k1>iD<k2>iD, inD
+  <L>1701.1<pc>0210<k1>inD<k2>iD, inD
+
+0107 group has 2 entries
+  <L>1714<pc>0215<k1>indranAsatya<k2>indra-nAsatya, indra-naasatya
+  <L>1714.1<pc>0215<k1>indranaasatya<k2>indra-nAsatya, indra-naasatya
+
+0108 group has 2 entries
+  <L>1720<pc>0215<k1>indramAdana<k2>indra-mA/dana, indara-mA/dana
+  <L>1720.1<pc>0215<k1>indaramAdana<k2>indra-mA/dana, indara-mA/dana
+
+0109 group has 2 entries
+  <L>1723<pc>0215<k1>indravat<k2>i/ndravat, i/ndrAvat
+  <L>1723.1<pc>0215<k1>indrAvat<k2>i/ndravat, i/ndrAvat
+
+0110 group has 2 entries
+  <L>1724<pc>0215<k1>indravah<k2>indra-va/h, indra-vA/h
+  <L>1724.1<pc>0215<k1>indravAh<k2>indra-va/h, indra-vA/h
+
+0111 group has 2 entries
+  <L>1725<pc>0215<k1>indravAta<k2>i/ndra-vAta, i/ndara-vAta
+  <L>1725.1<pc>0215<k1>indaravAta<k2>i/ndra-vAta, i/ndara-vAta
+
+0112 group has 2 entries
+  <L>1735<pc>0216<k1>indrAgni<k2>indrAgni/, indrAagni/
+  <L>1735.1<pc>0216<k1>indrAagni<k2>indrAgni/, indrAagni/
+
+0113 group has 2 entries
+  <L>1748<pc>0217<k1>indrota<k2>i/ndrota/, indra-Uta/
+  <L>1748.1<pc>0217<k1>indraUta<k2>i/ndrota/, indra-Uta/
+
+0114 group has 2 entries
+  <L>1753<pc>0217<k1>inv<k2>inv, in
+  <L>1753.1<pc>0217<k1>in<k2>inv, in
+
+0115 group has 2 entries
+  <L>1773<pc>0220<k1>irya<k2>i/rya, i/ria
+  <L>1773.1<pc>0220<k1>iria<k2>i/rya, i/ria
+
+0116 group has 2 entries
+  <L>1813<pc>0228<k1>izwASva<k2>izwA/Sva, izwa/-aSva
+  <L>1813.1<pc>0228<k1>izwaaSva<k2>izwA/Sva, izwa/-aSva
+
+0117 group has 2 entries
+  <L>1821<pc>0229<k1>IkzeRya<k2>Ikze/Rya, Ikze/Ria
+  <L>1821.1<pc>0229<k1>IkzeRia<k2>Ikze/Rya, Ikze/Ria
+
+0118 group has 2 entries
+  <L>1826<pc>0231<k1>Iqenya<k2>Iqe/nya, Iqe/nia
+  <L>1826.1<pc>0231<k1>Iqenia<k2>Iqe/nya, Iqe/nia
+
+0119 group has 2 entries
+  <L>1827<pc>0231<k1>Iqya<k2>I/qya, I/qia
+  <L>1827.1<pc>0231<k1>Iqia<k2>I/qya, I/qia
+
+0120 group has 2 entries
+  <L>1852<pc>0243<k1>ukTArka<k2>ukTArka/, ukTa-arka/
+  <L>1852.1<pc>0243<k1>ukTaarka<k2>ukTArka/, ukTa-arka/
+
+0121 group has 2 entries
+  <L>1854<pc>0243<k1>ukTya<k2>ukTya^, ukTi/a
+  <L>1854.1<pc>0243<k1>ukTia<k2>ukTya^, ukTi/a
+
+0122 group has 2 entries
+  <L>1858<pc>0245<k1>ukzaRyAyana<k2>ukzaRyA/yana, ukzaRiA/yana
+  <L>1858.1<pc>0245<k1>ukzaRiAyana<k2>ukzaRyA/yana, ukzaRiA/yana
+
+0123 group has 2 entries
+  <L>1872<pc>0247<k1>ucaTya<k2>ucaTya^, ucaTi/a
+  <L>1872.1<pc>0247<k1>ucaTia<k2>ucaTya^, ucaTi/a
+
+0124 group has 2 entries
+  <L>1881<pc>0250<k1>uttamAyya<k2>uttamA/yya, uttamA/yia
+  <L>1881.1<pc>0250<k1>uttamAyia<k2>uttamA/yya, uttamA/yia
+
+0125 group has 2 entries
+  <L>1903<pc>0252<k1>udanya<k2>udanya^, udani/a
+  <L>1903.1<pc>0252<k1>udania<k2>udanya^, udani/a
+
+0126 group has 2 entries
+  <L>1962<pc>0257<k1>uparimartya<k2>upa/ri-martya, upa/ri-marti/a
+  <L>1962.1<pc>0257<k1>uparimartia<k2>upa/ri-martya, upa/ri-marti/a
+
+0127 group has 2 entries
+  <L>1970<pc>0257<k1>upavAkya<k2>upavAkya^, upavAki/a
+  <L>1970.1<pc>0257<k1>upavAkia<k2>upavAkya^, upavAki/a
+
+0128 group has 2 entries
+  <L>1971<pc>0257<k1>upavAcya<k2>upavA/cya, upavA/cia
+  <L>1971.1<pc>0257<k1>upavAcia<k2>upavA/cya, upavA/cia
+
+0129 group has 2 entries
+  <L>2019<pc>0261<k1>uBayAhastya<k2>uBayA-hastya/, uBayA-hastia/
+  <L>2019.1<pc>0261<k1>uBayAhastia<k2>uBayA-hastya/, uBayA-hastia/
+
+0130 group has 2 entries
+  <L>2051<pc>0265<k1>urvajra<k2>urv-a/jra, uru-a/jra
+  <L>2051.1<pc>0265<k1>uruajra<k2>urv-a/jra, uru-a/jra
+
+0131 group has 2 entries
+  <L>2059<pc>0266<k1>urvyUti<k2>urvyU^ti, urvi/-Uti
+  <L>2059.1<pc>0266<k1>urviUti<k2>urvyU^ti, urvi/-Uti
+
+0132 group has 2 entries
+  <L>2074<pc>0267<k1>uSenya<k2>uSe/nya, uSe/nia
+  <L>2074.1<pc>0267<k1>uSenia<k2>uSe/nya, uSe/nia
+
+0133 group has 3 entries
+  <L>2097<pc>0271<k1>UDar<k2>U/Dar, U/Dan, U/Das
+  <L>2097.1<pc>0271<k1>UDan<k2>U/Dar, U/Dan, U/Das
+  <L>2097.2<pc>0271<k1>UDas<k2>U/Dar, U/Dan, U/Das
+
+0134 group has 2 entries
+  <L>2103<pc>0273<k1>Urjay<k2>Urja/y, Urji/
+  <L>2103.1<pc>0273<k1>Urji<k2>Urja/y, Urji/
+
+0135 group has 2 entries
+  <L>2104<pc>0273<k1>Urjavya<k2>Urjavya^, Urjavi/a
+  <L>2104.1<pc>0273<k1>Urjavia<k2>Urjavya^, Urjavi/a
+
+0136 group has 2 entries
+  <L>2108<pc>0273<k1>UrjAd<k2>UrjAd, Urja-ad
+  <L>2108.1<pc>0273<k1>Urjaad<k2>UrjAd, Urja-ad
+
+0137 group has 2 entries
+  <L>2128<pc>0276<k1>UrmyA<k2>U/rmyA, U/rmiA
+  <L>2128.1<pc>0276<k1>UrmiA<k2>U/rmyA, U/rmiA
+
+0138 group has 2 entries
+  <L>2131<pc>0276<k1>UzmaRya<k2>UzmaRya^, UzmaRi/a
+  <L>2131.1<pc>0276<k1>UzmaRia<k2>UzmaRya^, UzmaRi/a
+
+0139 group has 2 entries
+  <L>2143<pc>0278<k1>fgmiya<k2>fgmi/ya, fgmiya/
+  <L>2143.1<pc>0278<k1>fgmiya<k2>fgmi/ya, fgmiya/
+
+0140 group has 2 entries
+  <L>2172<pc>0280<k1>fjra<k2>fjra/, fjara/
+  <L>2172.1<pc>0280<k1>fjara<k2>fjra/, fjara/
+
+0141 group has 2 entries
+  <L>2173<pc>0280<k1>fjrASva<k2>fjrA/Sva, fjra/-aSva
+  <L>2173.1<pc>0280<k1>fjraaSva<k2>fjrA/Sva, fjra/-aSva
+
+0142 group has 3 entries
+  <L>2174<pc>0280<k1>fjvac<k2>fjv-a/c, fju-a/c, fju-a/Yc
+  <L>2174.1<pc>0280<k1>fjuac<k2>fjv-a/c, fju-a/c, fju-a/Yc
+  <L>2174.2<pc>0280<k1>fjuaYc<k2>fjv-a/c, fju-a/c, fju-a/Yc
+
+0143 group has 2 entries
+  <L>2175<pc>0280<k1>fYj<k2>fYj, fj
+  <L>2175.1<pc>0280<k1>fj<k2>fYj, fj
+
+0144 group has 2 entries
+  <L>2230<pc>0289<k1>ftvya<k2>f/tvya, f/tvia
+  <L>2230.1<pc>0289<k1>ftvia<k2>f/tvya, f/tvia
+
+0145 group has 2 entries
+  <L>2242<pc>0291<k1>fBukzA<k2>fBukzA/, fBukza/n
+  <L>2242.1<pc>0291<k1>fBukzan<k2>fBukzA/, fBukza/n
+
+0146 group has 2 entries
+  <L>2271<pc>0294<k1>fzvOjas<k2>fzvO/jas, fzva/-ojas
+  <L>2271.1<pc>0294<k1>fzvaojas<k2>fzvO/jas, fzva/-ojas
+
+0147 group has 2 entries
+  <L>2329<pc>0304<k1>ezEzya<k2>ezEzya^, ezEzi/a
+  <L>2329.1<pc>0304<k1>ezEzia<k2>ezEzya^, ezEzi/a
+
+0148 group has 2 entries
+  <L>2330<pc>0304<k1>ezwi<k2>e/zwi, A/-izwi
+  <L>2330.1<pc>0304<k1>Aizwi<k2>e/zwi, A/-izwi
+
+0149 group has 2 entries
+  <L>2338<pc>0304<k1>okya<k2>okya^, oki/a
+  <L>2338.1<pc>0304<k1>okia<k2>okya^, oki/a
+
+0150 group has 2 entries
+  <L>2357<pc>0306<k1>omyAvat<k2>omyA/vat, omiA/vat
+  <L>2357.1<pc>0306<k1>omiAvat<k2>omyA/vat, omiA/vat
+
+0151 group has 2 entries
+  <L>2360<pc>0306<k1>ozaDi<k2>o/zaDi, o/zaDI
+  <L>2360.1<pc>0306<k1>ozaDI<k2>o/zaDi, o/zaDI
+
+0152 group has 2 entries
+  <L>2366<pc>0307<k1>OcaTya<k2>OcaTya/, OcaTia/
+  <L>2366.1<pc>0307<k1>OcaTia<k2>OcaTya/, OcaTia/
+
+0153 group has 2 entries
+  <L>2368<pc>0307<k1>Orva<k2>Orva/, Orua/
+  <L>2368.1<pc>0307<k1>Orua<k2>Orva/, Orua/
+
+0154 group has 2 entries
+  <L>2369<pc>0307<k1>OrvaBfguvat<k2>OrvaBfguva/t, OruaBfguva/t
+  <L>2369.1<pc>0307<k1>OruaBfguvat<k2>OrvaBfguva/t, OruaBfguva/t
+
+0155 group has 2 entries
+  <L>2382<pc>0309<k1>kakzya<k2>kakzya^, kakzi/a
+  <L>2382.1<pc>0309<k1>kakzia<k2>kakzya^, kakzi/a
+
+0156 group has 2 entries
+  <L>2383<pc>0309<k1>kakzyaprA<k2>kakzyaprA/, kakziaprA/
+  <L>2383.1<pc>0309<k1>kakziaprA<k2>kakzyaprA/, kakziaprA/
+
+0157 group has 2 entries
+  <L>2417<pc>0313<k1>kanyA<k2>kanyA^, kani/A
+  <L>2417.1<pc>0313<k1>kaniA<k2>kanyA^, kani/A
+
+0158 group has 2 entries
+  <L>2464<pc>0316<k1>karmaRya<k2>karmaRya^, karmaRi/a
+  <L>2464.1<pc>0316<k1>karmaRia<k2>karmaRya^, karmaRi/a
+
+0159 group has 2 entries
+  <L>2513<pc>0322<k1>kARa<k2>kA/Ra, kARa/
+  <L>2513.1<pc>0322<k1>kARa<k2>kA/Ra, kARa/
+
+0160 group has 2 entries
+  <L>2527<pc>0323<k1>kAmya<k2>kA/mya, kA/mia
+  <L>2527.1<pc>0323<k1>kAmia<k2>kA/mya, kA/mia
+
+0161 group has 2 entries
+  <L>2540<pc>0324<k1>kAvya<k2>kAvya/, kAvia/
+  <L>2540.1<pc>0324<k1>kAvia<k2>kAvya/, kAvia/
+
+0162 group has 2 entries
+  <L>2541<pc>0324<k1>kAvya<k2>kA/vya, kA/via
+  <L>2541.1<pc>0324<k1>kAvia<k2>kA/vya, kA/via
+
+0163 group has 2 entries
+  <L>2561<pc>0326<k1>kila<k2>ki/la, ki/lA
+  <L>2561.1<pc>0326<k1>kilA<k2>ki/la, ki/lA
+
+0164 group has 2 entries
+  <L>2577<pc>0327<k1>kIrtenya<k2>kIrte/nya, kIrte/nia
+  <L>2577.1<pc>0327<k1>kIrtenia<k2>kIrte/nya, kIrte/nia
+
+0165 group has 2 entries
+  <L>2588<pc>0328<k1>kuRqapAyya<k2>kuRqapA/yya, kuRqa-pA/yia
+  <L>2588.1<pc>0328<k1>kuRqapAyia<k2>kuRqapA/yya, kuRqa-pA/yia
+
+0166 group has 2 entries
+  <L>2595<pc>0329<k1>kutsya<k2>kutsya/, kutsia/
+  <L>2595.1<pc>0329<k1>kutsia<k2>kutsya/, kutsia/
+
+0167 group has 2 entries
+  <L>2596<pc>0329<k1>kuDryac<k2>ku-Dry-a^c, ku-Dri/-ac
+  <L>2596.1<pc>0329<k1>kuDriac<k2>ku-Dry-a^c, ku-Dri/-ac
+
+0168 group has 2 entries
+  <L>2600<pc>0329<k1>kuB<k2>*kuB, kumB
+  <L>2600.1<pc>0329<k1>kumB<k2>*kuB, kumB
+
+0169 group has 2 entries
+  <L>2623<pc>0330<k1>kulyA<k2>kulyA/, kuliA/
+  <L>2623.1<pc>0330<k1>kuliA<k2>kulyA/, kuliA/
+
+0170 group has 2 entries
+  <L>2643<pc>0332<k1>kUrmi<k2>kUrmi, kUrmin
+  <L>2643.1<pc>0332<k1>kUrmin<k2>kUrmi, kUrmin
+
+0171 group has 2 entries
+  <L>2653<pc>0346<k1>kft<k2>kf/t, kfta/
+  <L>2653.1<pc>0346<k1>kfta<k2>kf/t, kfta/
+
+0172 group has 2 entries
+  <L>2666<pc>0347<k1>kftvya<k2>kf/tvya, kf/tvia
+  <L>2666.1<pc>0347<k1>kftvia<k2>kf/tvya, kf/tvia
+
+0173 group has 2 entries
+  <L>2690<pc>0349<k1>kfzwyojas<k2>kfzwy-ojas, kfzwi-ojas
+  <L>2690.1<pc>0349<k1>kfzwiojas<k2>kfzwy-ojas, kfzwi-ojas
+
+0174 group has 2 entries
+  <L>2702<pc>0350<k1>kfzRADvan<k2>kfzRA/Dvan, kfzRa/-aDvan
+  <L>2702.1<pc>0350<k1>kfzRaaDvan<k2>kfzRA/Dvan, kfzRa/-aDvan
+
+0175 group has 2 entries
+  <L>2722<pc>0352<k1>komya<k2>komya/, komia/
+  <L>2722.1<pc>0352<k1>komia<k2>komya/, komia/
+
+0176 group has 2 entries
+  <L>2770<pc>0361<k1>kva<k2>kva^, ku/a
+  <L>2770.1<pc>0361<k1>kua<k2>kva^, ku/a
+
+0177 group has 2 entries
+  <L>2786<pc>0363<k1>kzamya<k2>kza/mya, kza/mia
+  <L>2786.1<pc>0363<k1>kzamia<k2>kza/mya, kza/mia
+
+0178 group has 2 entries
+  <L>2807<pc>0369<k1>kziprezu<k2>kzipre/zu, kzipra/-izu
+  <L>2807.1<pc>0369<k1>kzipraizu<k2>kzipre/zu, kzipra/-izu
+
+0179 group has 2 entries
+  <L>2829<pc>0370<k1>kzemya<k2>kzemya/, kzemia/
+  <L>2829.1<pc>0370<k1>kzemia<k2>kzemya/, kzemia/
+
+0180 group has 2 entries
+  <L>2835<pc>0371<k1>kzoRI<k2>kzoRI/, kzoRi/
+  <L>2835.1<pc>0371<k1>kzoRi<k2>kzoRI/, kzoRi/
+
+0181 group has 2 entries
+  <L>2867<pc>0373<k1>KAdoarRas<k2>KA/do-arRas, KA/das-arRas
+  <L>2867.1<pc>0373<k1>KAdasarRas<k2>KA/do-arRas, KA/das-arRas
+
+0182 group has 2 entries
+  <L>2869<pc>0373<k1>Kid<k2>Kid, sKid
+  <L>2869.1<pc>0373<k1>sKid<k2>Kid, sKid
+
+0183 group has 2 entries
+  <L>2884<pc>0376<k1>gaRya<k2>ga/Rya, ga/Ria
+  <L>2884.1<pc>0376<k1>gaRia<k2>ga/Rya, ga/Ria
+
+0184 group has 2 entries
+  <L>2890<pc>0376<k1>gaDya<k2>ga/Dya, ga/Dia
+  <L>2890.1<pc>0376<k1>gaDia<k2>ga/Dya, ga/Dia
+
+0185 group has 2 entries
+  <L>2938<pc>0389<k1>gavya<k2>ga/vya, ga/via
+  <L>2938.1<pc>0389<k1>gavia<k2>ga/vya, ga/via
+
+0186 group has 2 entries
+  <L>2945<pc>0391<k1>gah<k2>gah, gaB
+  <L>2945.1<pc>0391<k1>gaB<k2>gah, gaB
+
+0187 group has 2 entries
+  <L>2949<pc>0394<k1>gANgya<k2>gANgya/, gANgia/
+  <L>2949.1<pc>0394<k1>gANgia<k2>gANgya/, gANgia/
+
+0188 group has 2 entries
+  <L>2981<pc>0401<k1>girizWA<k2>giri-zWA/, giri-zWa/a
+  <L>2981.1<pc>0401<k1>girizWaa<k2>giri-zWA/, giri-zWa/a
+
+0189 group has 2 entries
+  <L>3002<pc>0404<k1>guhia<k2>gu/hia, gu/hya
+  <L>3002.1<pc>0404<k1>guhya<k2>gu/hia, gu/hya
+
+0190 group has 2 entries
+  <L>3030<pc>0407<k1>gehya<k2>gehya^, gehi/a
+  <L>3030.1<pc>0407<k1>gehia<k2>gehya^, gehi/a
+
+0191 group has 2 entries
+  <L>3033<pc>0410<k1>goagra<k2>go/-agra, ga/v-agra
+  <L>3033.1<pc>0410<k1>gavagra<k2>go/-agra, ga/v-agra
+
+0192 group has 2 entries
+  <L>3034<pc>0410<k1>goajana<k2>go-a/jana, gav-a/jana
+  <L>3034.1<pc>0410<k1>gavajana<k2>go-a/jana, gav-a/jana
+
+0193 group has 2 entries
+  <L>3035<pc>0410<k1>goarRas<k2>go/-arRas, ga/v-arRas
+  <L>3035.1<pc>0410<k1>gavarRas<k2>go/-arRas, ga/v-arRas
+
+0194 group has 2 entries
+  <L>3036<pc>0410<k1>gofjIka<k2>go/-fjIka, ga/v-fjIka
+  <L>3036.1<pc>0410<k1>gavfjIka<k2>go/-fjIka, ga/v-fjIka
+
+0195 group has 2 entries
+  <L>3037<pc>0410<k1>goopaSa<k2>go/-opaSa, ga/v-opaSa
+  <L>3037.1<pc>0410<k1>gavopaSa<k2>go/-opaSa, ga/v-opaSa
+
+0196 group has 2 entries
+  <L>3053<pc>0411<k1>gonyoGas<k2>go/-nyoGas, go/-nioGas
+  <L>3053.1<pc>0411<k1>gonioGas<k2>go/-nyoGas, go/-nioGas
+
+0197 group has 2 entries
+  <L>3056<pc>0412<k1>gopayatya<k2>gopaya/tya, gopaya/tia
+  <L>3056.1<pc>0412<k1>gopayatia<k2>gopaya/tya, gopaya/tia
+
+0198 group has 2 entries
+  <L>3065<pc>0413<k1>gopITya<k2>go-pI/Tya, go-pI/Tia
+  <L>3065.1<pc>0413<k1>gopITia<k2>go-pI/Tya, go-pI/Tia
+
+0199 group has 2 entries
+  <L>3095<pc>0415<k1>gnAspati<k2>gnA/s-pa/ti, ganA/s-pa/ti
+  <L>3095.1<pc>0415<k1>ganAspati<k2>gnA/s-pa/ti, ganA/s-pa/ti
+
+0200 group has 2 entries
+  <L>3099<pc>0415<k1>graT<k2>graT, granT
+  <L>3099.1<pc>0415<k1>granT<k2>graT, granT
+
+0201 group has 2 entries
+  <L>3103<pc>0416<k1>graB<k2>graB, gfB
+  <L>3103.1<pc>0416<k1>gfB<k2>graB, gfB
+
+0202 group has 2 entries
+  <L>3115<pc>0418<k1>grAmya<k2>grAmya/, grAmia/
+  <L>3115.1<pc>0418<k1>grAmia<k2>grAmya/, grAmia/
+
+0203 group has 2 entries
+  <L>3120<pc>0419<k1>grAhya<k2>grAhya^, grAhi/a
+  <L>3120.1<pc>0419<k1>grAhia<k2>grAhya^, grAhi/a
+
+0204 group has 2 entries
+  <L>3137<pc>0422<k1>GarmyezWA<k2>GarmyezWA/, GarmiezWA/
+  <L>3137.1<pc>0422<k1>GarmiezWA<k2>GarmyezWA/, GarmiezWA/
+
+0205 group has 2 entries
+  <L>3167<pc>0426<k1>GftAnna<k2>GftA/nna, Gfta/-anna
+  <L>3167.1<pc>0426<k1>Gftaanna<k2>GftA/nna, Gfta/-anna
+
+0206 group has 2 entries
+  <L>3235<pc>0436<k1>candrAgra<k2>candrA/gra, candra/-agra
+  <L>3235.1<pc>0436<k1>candraagra<k2>candrA/gra, candra/-agra
+
+0207 group has 2 entries
+  <L>3259<pc>0442<k1>carkftya<k2>carkf/tya, carkf/tia
+  <L>3259.1<pc>0442<k1>carkftia<k2>carkf/tya, carkf/tia
+
+0208 group has 2 entries
+  <L>3311<pc>0454<k1>citrAyus<k2>citrA/yus, citra/-Ayus
+  <L>3311.1<pc>0454<k1>citraAyus<k2>citrA/yus, citra/-Ayus
+
+0209 group has 2 entries
+  <L>3314<pc>0454<k1>citrya<k2>ci/trya, ci/tria
+  <L>3314.1<pc>0454<k1>citria<k2>ci/trya, ci/tria
+
+0210 group has 2 entries
+  <L>3319<pc>0457<k1>cup<k2>cup, cump
+  <L>3319.1<pc>0457<k1>cump<k2>cup, cump
+
+0211 group has 2 entries
+  <L>3328<pc>0458<k1>cetyA<k2>cetyA/, cetiA/
+  <L>3328.1<pc>0458<k1>cetiA<k2>cetyA/, cetiA/
+
+0212 group has 2 entries
+  <L>3332<pc>0458<k1>cEdya<k2>cEdya/, cEdia/
+  <L>3332.1<pc>0458<k1>cEdia<k2>cEdya/, cEdia/
+
+0213 group has 2 entries
+  <L>3351<pc>0460<k1>Cad<k2>2. Cad, Cand
+  <L>3351.1<pc>0460<k1>Cand<k2>2. Cad, Cand
+
+0214 group has 2 entries
+  <L>3357<pc>0461<k1>Candasya<k2>Candasya^, Candasi/a
+  <L>3357.1<pc>0461<k1>Candasia<k2>Candasya^, Candasi/a
+
+0215 group has 2 entries
+  <L>3400<pc>0475<k1>jani<k2>ja/ni, ja/nI
+  <L>3400.1<pc>0475<k1>janI<k2>ja/ni, ja/nI
+
+0216 group has 2 entries
+  <L>3417<pc>0477<k1>janya<k2>ja/nya, ja/nia
+  <L>3417.1<pc>0477<k1>jania<k2>ja/nya, ja/nia
+
+0217 group has 2 entries
+  <L>3419<pc>0477<k1>jaB<k2>jaB, jamB
+  <L>3419.1<pc>0477<k1>jamB<k2>jaB, jamB
+
+0218 group has 2 entries
+  <L>3482<pc>0483<k1>jAmarya<k2>jA/marya, jA/maria
+  <L>3482.1<pc>0483<k1>jAmaria<k2>jA/marya, jA/maria
+
+0219 group has 2 entries
+  <L>3494<pc>0485<k1>jArya<k2>jArya^, jAri/a
+  <L>3494.1<pc>0485<k1>jAria<k2>jArya^, jAri/a
+
+0220 group has 2 entries
+  <L>3524<pc>0491<k1>jIrASva<k2>jIrA/Sva, jIra/aSva
+  <L>3524.1<pc>0491<k1>jIraaSva<k2>jIrA/Sva, jIra/aSva
+
+0221 group has 2 entries
+  <L>3546<pc>0497<k1>juhvAsya<k2>juhvA^sya, juhU/-Asia
+  <L>3546.1<pc>0497<k1>juhUAsia<k2>juhvA^sya, juhU/-Asia
+
+0222 group has 2 entries
+  <L>3553<pc>0499<k1>jUrya<k2>jU/rya, jU/ria
+  <L>3553.1<pc>0499<k1>jUria<k2>jU/rya, jU/ria
+
+0223 group has 2 entries
+  <L>3558<pc>0499<k1>jenya<k2>je/nya, je/nia
+  <L>3558.1<pc>0499<k1>jenia<k2>je/nya, je/nia
+
+0224 group has 2 entries
+  <L>3569<pc>0500<k1>jozya<k2>jo/zya, jo/zia
+  <L>3569.1<pc>0500<k1>jozia<k2>jo/zya, jo/zia
+
+0225 group has 2 entries
+  <L>3581<pc>0502<k1>jyA<k2>1. jyA/, 1. jiA/
+  <L>3581.1<pc>0502<k1>jiA<k2>1. jyA/, 1. jiA/
+
+0226 group has 2 entries
+  <L>3582<pc>0502<k1>jyA<k2>2. jyA/, 2. jiA/
+  <L>3582.1<pc>0502<k1>jiA<k2>2. jyA/, 2. jiA/
+
+0227 group has 2 entries
+  <L>3583<pc>0502<k1>jyAkA<k2>jyAkA/, jiAkA/
+  <L>3583.1<pc>0502<k1>jiAkA<k2>jyAkA/, jiAkA/
+
+0228 group has 2 entries
+  <L>3584<pc>0502<k1>jyAyas<k2>jyA/yas, jiA/yas
+  <L>3584.1<pc>0502<k1>jiAyas<k2>jyA/yas, jiA/yas
+
+0229 group has 2 entries
+  <L>3585<pc>0503<k1>jyAvAja<k2>jyA/-vAja, jiA/-vAja
+  <L>3585.1<pc>0503<k1>jiAvAja<k2>jyA/-vAja, jiA/-vAja
+
+0230 group has 2 entries
+  <L>3587<pc>0503<k1>jyezWa<k2>jye/zWa, jie/zWa
+  <L>3587.1<pc>0503<k1>jiezWa<k2>jye/zWa, jie/zWa
+
+0231 group has 2 entries
+  <L>3592<pc>0503<k1>jyok<k2>jyo/k, jio/k
+  <L>3592.1<pc>0503<k1>jiok<k2>jyo/k, jio/k
+
+0232 group has 2 entries
+  <L>3649<pc>0520<k1>tanUpA<k2>tanU-pA/, tanU-pa/a
+  <L>3649.1<pc>0520<k1>tanUpaa<k2>tanU-pA/, tanU-pa/a
+
+0233 group has 3 entries
+  <L>3685<pc>0525<k1>tar<k2>tar, tir, tur
+  <L>3685.1<pc>0525<k1>tir<k2>tar, tir, tur
+  <L>3685.2<pc>0525<k1>tur<k2>tar, tir, tur
+
+0234 group has 2 entries
+  <L>3707<pc>0531<k1>tarzyAvat<k2>tarzyA/vat, tarziA/vat
+  <L>3707.1<pc>0531<k1>tarziAvat<k2>tarzyA/vat, tarziA/vat
+
+0235 group has 2 entries
+  <L>3736<pc>0533<k1>tAnva<k2>1. tA/nva, 1. tA/nua
+  <L>3736.1<pc>0533<k1>tAnua<k2>1. tA/nva, 1. tA/nua
+
+0236 group has 2 entries
+  <L>3737<pc>0533<k1>tAnva<k2>2. tA/nva, 2. tA/nua
+  <L>3737.1<pc>0533<k1>tAnua<k2>2. tA/nva, 2. tA/nua
+
+0237 group has 2 entries
+  <L>3738<pc>0533<k1>tAnva<k2>3. tA/nva, 3. tA/nua
+  <L>3738.1<pc>0533<k1>tAnua<k2>3. tA/nva, 3. tA/nua
+
+0238 group has 3 entries
+  <L>3763<pc>0536<k1>tiroahnya<k2>tiro/ahnya, tira/sahnia, tira/sahnya
+  <L>3763.1<pc>0536<k1>tirasahnia<k2>tiro/ahnya, tira/sahnia, tira/sahnya
+  <L>3763.2<pc>0536<k1>tirasahnya<k2>tiro/ahnya, tira/sahnia, tira/sahnya
+
+0239 group has 2 entries
+  <L>3764<pc>0536<k1>tiryac<k2>tirya/c, tiri-a/c
+  <L>3764.1<pc>0536<k1>tiriac<k2>tirya/c, tiri-a/c
+
+0240 group has 2 entries
+  <L>3767<pc>0537<k1>tizya<k2>tizya^, tizi/a
+  <L>3767.1<pc>0537<k1>tizia<k2>tizya^, tizi/a
+
+0241 group has 2 entries
+  <L>3777<pc>0538<k1>tugrya<k2>tu/grya, tu/gria
+  <L>3777.1<pc>0538<k1>tugria<k2>tu/grya, tu/gria
+
+0242 group has 2 entries
+  <L>3778<pc>0538<k1>tugryAvfD<k2>tugryA-vf/D, tugriA-vf/D
+  <L>3778.1<pc>0538<k1>tugriAvfD<k2>tugryA-vf/D, tugriA-vf/D
+
+0243 group has 2 entries
+  <L>3851<pc>0545<k1>tuvyojas<k2>tuvy-o/jas, tuvi-o/jas
+  <L>3851.1<pc>0545<k1>tuviojas<k2>tuvy-o/jas, tuvi-o/jas
+
+0244 group has 2 entries
+  <L>3861<pc>0546<k1>tUrRyarTa<k2>tU/rRy-arTa, tU/rRi-arTa
+  <L>3861.1<pc>0546<k1>tUrRiarTa<k2>tU/rRy-arTa, tU/rRi-arTa
+
+0245 group has 2 entries
+  <L>3881<pc>0549<k1>tfptAMSu<k2>tfptA/MSu, tfpta/-aMSu
+  <L>3881.1<pc>0549<k1>tfptaaMSu<k2>tfptA/MSu, tfpta/-aMSu
+
+0246 group has 2 entries
+  <L>3904<pc>0552<k1>tOgrya<k2>tOgrya/, tOgria/
+  <L>3904.1<pc>0552<k1>tOgria<k2>tOgrya/, tOgria/
+
+0247 group has 2 entries
+  <L>3907<pc>0552<k1>tya<k2>tya/, tia/
+  <L>3907.1<pc>0552<k1>tia<k2>tya/, tia/
+
+0248 group has 2 entries
+  <L>3915<pc>0554<k1>trayayAyya<k2>trayayA/yya, trayayA/yia
+  <L>3915.1<pc>0554<k1>trayayAyia<k2>trayayA/yya, trayayA/yia
+
+0249 group has 2 entries
+  <L>3943<pc>0558<k1>tripastya<k2>tripastya/, tripastia/
+  <L>3943.1<pc>0558<k1>tripastia<k2>tripastya/, tripastia/
+
+0250 group has 2 entries
+  <L>3970<pc>0560<k1>treDA<k2>treDA/, trayaDA/
+  <L>3970.1<pc>0560<k1>trayaDA<k2>treDA/, trayaDA/
+
+0251 group has 2 entries
+  <L>3974<pc>0561<k1>tryanIka<k2>tryanIka/, tri-anIka/
+  <L>3974.1<pc>0561<k1>trianIka<k2>tryanIka/, tri-anIka/
+
+0252 group has 2 entries
+  <L>3975<pc>0561<k1>tryambaka<k2>trya^mbaka, tri/-ambaka
+  <L>3975.1<pc>0561<k1>triambaka<k2>trya^mbaka, tri/-ambaka
+
+0253 group has 2 entries
+  <L>3976<pc>0561<k1>tryaruRa<k2>trya^ruRa, tri/-aruRa
+  <L>3976.1<pc>0561<k1>triaruRa<k2>trya^ruRa, tri/-aruRa
+
+0254 group has 2 entries
+  <L>3977<pc>0561<k1>tryaruza<k2>trya^ruza, tri/-aruza
+  <L>3977.1<pc>0561<k1>triaruza<k2>trya^ruza, tri/-aruza
+
+0255 group has 2 entries
+  <L>3978<pc>0561<k1>tryavi<k2>trya/vi, tri-a/vi
+  <L>3978.1<pc>0561<k1>triavi<k2>trya/vi, tri-a/vi
+
+0256 group has 2 entries
+  <L>3979<pc>0561<k1>tryASir<k2>tryA^Sir, tri/-ASir
+  <L>3979.1<pc>0561<k1>triASir<k2>tryA^Sir, tri/-ASir
+
+0257 group has 2 entries
+  <L>3980<pc>0561<k1>tryudAya<k2>tryudAya/, tri-udAya/
+  <L>3980.1<pc>0561<k1>triudAya<k2>tryudAya/, tri-udAya/
+
+0258 group has 2 entries
+  <L>3981<pc>0561<k1>tryuDan<k2>tryuDa/n, tri-uDa/n
+  <L>3981.1<pc>0561<k1>triuDan<k2>tryuDa/n, tri-uDa/n
+
+0259 group has 2 entries
+  <L>3982<pc>0561<k1>tva<k2>tva, tua
+  <L>3982.1<pc>0561<k1>tua<k2>tva, tua
+
+0260 group has 2 entries
+  <L>3983<pc>0561<k1>tva<k2>1. tva/, 1. tua/
+  <L>3983.1<pc>0561<k1>tua<k2>1. tva/, 1. tua/
+
+0261 group has 2 entries
+  <L>3984<pc>0563<k1>tva<k2>2. tva/, 2. tua/
+  <L>3984.1<pc>0563<k1>tua<k2>2. tva/, 2. tua/
+
+0262 group has 2 entries
+  <L>3996<pc>0566<k1>tvAdatta<k2>tvA/-datta, tuA/-datta
+  <L>3996.1<pc>0566<k1>tuAdatta<k2>tvA/-datta, tuA/-datta
+
+0263 group has 2 entries
+  <L>3998<pc>0566<k1>tvAdUta<k2>tvA/-dUta, tuA/-dUta
+  <L>3998.1<pc>0566<k1>tuAdUta<k2>tvA/-dUta, tuA/-dUta
+
+0264 group has 2 entries
+  <L>3999<pc>0566<k1>tvAnid<k2>tvA-ni/d, tuA-ni/d
+  <L>3999.1<pc>0566<k1>tuAnid<k2>tvA-ni/d, tuA-ni/d
+
+0265 group has 2 entries
+  <L>4000<pc>0566<k1>tvAy<k2>tvAy, tuAy
+  <L>4000.1<pc>0566<k1>tuAy<k2>tvAy, tuAy
+
+0266 group has 2 entries
+  <L>4001<pc>0566<k1>tvAyA<k2>tvAyA/, tuAyA/
+  <L>4001.1<pc>0566<k1>tuAyA<k2>tvAyA/, tuAyA/
+
+0267 group has 2 entries
+  <L>4002<pc>0566<k1>tvAyu<k2>tvAyu/, tuAyu/
+  <L>4002.1<pc>0566<k1>tuAyu<k2>tvAyu/, tuAyu/
+
+0268 group has 2 entries
+  <L>4003<pc>0566<k1>tvAvat<k2>tvA/vat, tuA/vat
+  <L>4003.1<pc>0566<k1>tuAvat<k2>tvA/vat, tuA/vat
+
+0269 group has 2 entries
+  <L>4004<pc>0566<k1>tvAvasu<k2>tvA/-vasu, tuA/-vasu
+  <L>4004.1<pc>0566<k1>tuAvasu<k2>tvA/-vasu, tuA/-vasu
+
+0270 group has 2 entries
+  <L>4006<pc>0567<k1>tvAzwra<k2>tvAzwra/, tvAzwara/
+  <L>4006.1<pc>0567<k1>tvAzwara<k2>tvAzwra/, tvAzwara/
+
+0271 group has 2 entries
+  <L>4021<pc>0568<k1>tvezita<k2>tve/zita, tue/zita
+  <L>4021.1<pc>0568<k1>tuezita<k2>tve/zita, tue/zita
+
+0272 group has 2 entries
+  <L>4023<pc>0568<k1>tvezya<k2>tvezya^, tvezi/a
+  <L>4023.1<pc>0568<k1>tvezia<k2>tvezya^, tvezi/a
+
+0273 group has 3 entries
+  <L>4024<pc>0569<k1>tvota<k2>tvo/ta, tuo/ta, tuA/-Uta
+  <L>4024.1<pc>0569<k1>tuota<k2>tvo/ta, tuo/ta, tuA/-Uta
+  <L>4024.2<pc>0569<k1>tuAUta<k2>tvo/ta, tuo/ta, tuA/-Uta
+
+0274 group has 2 entries
+  <L>4029<pc>0569<k1>daMS<k2>daMS, daS
+  <L>4029.1<pc>0569<k1>daS<k2>daMS, daS
+
+0275 group has 2 entries
+  <L>4046<pc>0571<k1>dakzAyya<k2>dakzA/yya, dakzA/yia
+  <L>4046.1<pc>0571<k1>dakzAyia<k2>dakzA/yya, dakzA/yia
+
+0276 group has 2 entries
+  <L>4070<pc>0574<k1>daDan<k2>daDa/n, da/Di
+  <L>4070.1<pc>0574<k1>daDi<k2>daDa/n, da/Di
+
+0277 group has 2 entries
+  <L>4079<pc>0574<k1>daDyac<k2>daDya/c, daDi-a/c
+  <L>4079.1<pc>0574<k1>daDiac<k2>daDya/c, daDi-a/c
+
+0278 group has 2 entries
+  <L>4080<pc>0575<k1>daDyASir<k2>da/DyASir, da/Di-ASir
+  <L>4080.1<pc>0575<k1>daDiASir<k2>da/DyASir, da/Di-ASir
+
+0279 group has 2 entries
+  <L>4084<pc>0575<k1>daB<k2>daB, damB
+  <L>4084.1<pc>0575<k1>damB<k2>daB, damB
+
+0280 group has 2 entries
+  <L>4087<pc>0576<k1>daBya<k2>da/Bya, da/Bia
+  <L>4087.1<pc>0576<k1>daBia<k2>da/Bya, da/Bia
+
+0281 group has 2 entries
+  <L>4101<pc>0578<k1>damya<k2>da/mya, da/mia
+  <L>4101.1<pc>0578<k1>damia<k2>da/mya, da/mia
+
+0282 group has 2 entries
+  <L>4104<pc>0578<k1>dar<k2>dar, dir
+  <L>4104.1<pc>0578<k1>dir<k2>dar, dir
+
+0283 group has 2 entries
+  <L>4110<pc>0580<k1>darB<k2>darB, dfB
+  <L>4110.1<pc>0580<k1>dfB<k2>darB, dfB
+
+0284 group has 2 entries
+  <L>4118<pc>0580<k1>darSya<k2>da/rSya, da/rSia
+  <L>4118.1<pc>0580<k1>darSia<k2>da/rSya, da/rSia
+
+0285 group has 2 entries
+  <L>4121<pc>0581<k1>daSakakzya<k2>da/Sa-kakzya, da/Sa-kakzia
+  <L>4121.1<pc>0581<k1>daSakakzia<k2>da/Sa-kakzya, da/Sa-kakzia
+
+0286 group has 2 entries
+  <L>4132<pc>0582<k1>daSamAsya<k2>da/SamAsya, da/SamAsia
+  <L>4132.1<pc>0582<k1>daSamAsia<k2>da/SamAsya, da/SamAsia
+
+0287 group has 2 entries
+  <L>4149<pc>0583<k1>daSoRya<k2>da/SoRya, da/SoRia
+  <L>4149.1<pc>0583<k1>daSoRia<k2>da/SoRya, da/SoRia
+
+0288 group has 2 entries
+  <L>4156<pc>0584<k1>dasmya<k2>da/smya, da/smia
+  <L>4156.1<pc>0584<k1>dasmia<k2>da/smya, da/smia
+
+0289 group has 2 entries
+  <L>4182<pc>0594<k1>dAnApnas<k2>dAnA/pnas, dAna/-apnas
+  <L>4182.1<pc>0594<k1>dAnaapnas<k2>dAnA/pnas, dAna/-apnas
+
+0290 group has 2 entries
+  <L>4189<pc>0595<k1>dAnOkas<k2>dAnO/kas, dAana/-okas
+  <L>4189.1<pc>0595<k1>dAanaokas<k2>dAnO/kas, dAana/-okas
+
+0291 group has 2 entries
+  <L>4191<pc>0595<k1>dABya<k2>dABya, dABia
+  <L>4191.1<pc>0595<k1>dABia<k2>dABya, dABia
+
+0292 group has 2 entries
+  <L>4200<pc>0596<k1>dArBya<k2>dArBya/, dArBia/
+  <L>4200.1<pc>0596<k1>dArBia<k2>dArBya/, dArBia/
+
+0293 group has 2 entries
+  <L>4206<pc>0597<k1>dASvaDvara<k2>dASva^Dvara, dASu/-aDvara
+  <L>4206.1<pc>0597<k1>dASuaDvara<k2>dASva^Dvara, dASu/-aDvara
+
+0294 group has 2 entries
+  <L>4207<pc>0597<k1>dASvas<k2>dASva/s, dASua/s
+  <L>4207.1<pc>0597<k1>dASuas<k2>dASva/s, dASua/s
+
+0295 group has 2 entries
+  <L>4214<pc>0599<k1>dAsvat<k2>dA/svat, da/asvat
+  <L>4214.1<pc>0599<k1>daasvat<k2>dA/svat, da/asvat
+
+0296 group has 2 entries
+  <L>4223<pc>0600<k1>diDizAyya<k2>diDizA/yya, diDizA/yia
+  <L>4223.1<pc>0600<k1>diDizAyia<k2>diDizA/yya, diDizA/yia
+
+0297 group has 3 entries
+  <L>4231<pc>0601<k1>div<k2>di/v, dyu/, dyo/
+  <L>4231.1<pc>0601<k1>dyu<k2>di/v, dyu/, dyo/
+  <L>4231.2<pc>0601<k1>dyo<k2>di/v, dyu/, dyo/
+
+0298 group has 2 entries
+  <L>4249<pc>0606<k1>divya<k2>divya/, divia/
+  <L>4249.1<pc>0606<k1>divia<k2>divya/, divia/
+
+0299 group has 2 entries
+  <L>4257<pc>0610<k1>dIti<k2>dIti/, dI/diti
+  <L>4257.1<pc>0610<k1>dIditi<k2>dIti/, dI/diti
+
+0300 group has 2 entries
+  <L>4258<pc>0610<k1>dIdyagni<k2>dI/dyagni, dI/di-agni
+  <L>4258.1<pc>0610<k1>dIdiagni<k2>dI/dyagni, dI/di-agni
+
+0301 group has 2 entries
+  <L>4266<pc>0611<k1>dIrGajihvya<k2>dIrGa-jihvya^, dIrGa-jihvi/a
+  <L>4266.1<pc>0611<k1>dIrGajihvia<k2>dIrGa-jihvya^, dIrGa-jihvi/a
+
+0302 group has 2 entries
+  <L>4284<pc>0612<k1>du<k2>2. du, 2. dU
+  <L>4284.1<pc>0612<k1>dU<k2>2. du, 2. dU
+
+0303 group has 2 entries
+  <L>4301<pc>0613<k1>durAvya<k2>dur-A/vya, dur-A/via
+  <L>4301.1<pc>0613<k1>durAvia<k2>dur-A/vya, dur-A/via
+
+0304 group has 2 entries
+  <L>4337<pc>0616<k1>durya<k2>du/rya, du/ria
+  <L>4337.1<pc>0616<k1>duria<k2>du/rya, du/ria
+
+0305 group has 2 entries
+  <L>4362<pc>0618<k1>duHSAsu<k2>duH-SA/su, duH-SA/sus
+  <L>4362.1<pc>0618<k1>duHSAsus<k2>duH-SA/su, duH-SA/sus
+
+0306 group has 2 entries
+  <L>4374<pc>0619<k1>duzvapnya<k2>duzva/pnya, duzva/pnia
+  <L>4374.1<pc>0619<k1>duzvapnia<k2>duzva/pnya, duzva/pnia
+
+0307 group has 2 entries
+  <L>4377<pc>0619<k1>duh<k2>duh, duG
+  <L>4377.1<pc>0619<k1>duG<k2>duh, duG
+
+0308 group has 2 entries
+  <L>4387<pc>0624<k1>dUtya<k2>dUtya^, dUti/a
+  <L>4387.1<pc>0624<k1>dUtia<k2>dUtya^, dUti/a
+
+0309 group has 2 entries
+  <L>4389<pc>0625<k1>dUraAdiS<k2>dUra/-AdiS, dUra/y-AdiS
+  <L>4389.1<pc>0625<k1>dUrayAdiS<k2>dUra/-AdiS, dUra/y-AdiS
+
+0310 group has 2 entries
+  <L>4390<pc>0625<k1>dUraADI<k2>dUra/-ADI, dUra/y-ADI
+  <L>4390.1<pc>0625<k1>dUrayADI<k2>dUra/-ADI, dUra/y-ADI
+
+0311 group has 2 entries
+  <L>4391<pc>0625<k1>dUraupabda<k2>dUra/-upabda, dUra/y-upabda
+  <L>4391.1<pc>0625<k1>dUrayupabda<k2>dUra/-upabda, dUra/y-upabda
+
+0312 group has 2 entries
+  <L>4393<pc>0625<k1>dUreanta<k2>dUre/-anta, dUra/y-anta
+  <L>4393.1<pc>0625<k1>dUrayanta<k2>dUre/-anta, dUra/y-anta
+
+0313 group has 2 entries
+  <L>4394<pc>0625<k1>dUrearTa<k2>dUre/-arTa, dUra/y-arTa
+  <L>4394.1<pc>0625<k1>dUrayarTa<k2>dUre/-arTa, dUra/y-arTa
+
+0314 group has 2 entries
+  <L>4412<pc>0628<k1>dfSenya<k2>dfSe/nya, dfSe/nia
+  <L>4412.1<pc>0628<k1>dfSenia<k2>dfSe/nya, dfSe/nia
+
+0315 group has 2 entries
+  <L>4413<pc>0628<k1>dfSya<k2>df/Sya, df/Sia
+  <L>4413.1<pc>0628<k1>dfSia<k2>df/Sya, df/Sia
+
+0316 group has 2 entries
+  <L>4416<pc>0629<k1>dfzwavIrya<k2>dfzwa/-vIrya, dfzwa/-vIria
+  <L>4416.1<pc>0629<k1>dfzwavIria<k2>dfzwa/-vIrya, dfzwa/-vIria
+
+0317 group has 2 entries
+  <L>4417<pc>0629<k1>dfh<k2>dfh, dfMh
+  <L>4417.1<pc>0629<k1>dfMh<k2>dfh, dfMh
+
+0318 group has 2 entries
+  <L>4488<pc>0638<k1>devedDa<k2>deve/dDa, deva/-idDa
+  <L>4488.1<pc>0638<k1>devaidDa<k2>deve/dDa, deva/-idDa
+
+0319 group has 2 entries
+  <L>4490<pc>0638<k1>devya<k2>devya^, devi/a
+  <L>4490.1<pc>0638<k1>devia<k2>devya^, devi/a
+
+0320 group has 3 entries
+  <L>4493<pc>0638<k1>dezWa<k2>de/zWa, da/yizWa, da/ïzWa
+  <L>4493.1<pc>0638<k1>dayizWa<k2>de/zWa, da/yizWa, da/ïzWa
+  <L>4493.2<pc>0638<k1>daïzWa<k2>de/zWa, da/yizWa, da/ïzWa
+
+0321 group has 2 entries
+  <L>4494<pc>0639<k1>dezRa<k2>dezRa/, daizRa/
+  <L>4494.1<pc>0639<k1>daizRa<k2>dezRa/, daizRa/
+
+0322 group has 2 entries
+  <L>4498<pc>0639<k1>dEvodAsa<k2>dE/vodAsa, dE/vodaasa
+  <L>4498.1<pc>0639<k1>dEvodaasa<k2>dE/vodAsa, dE/vodaasa
+
+0323 group has 2 entries
+  <L>4499<pc>0639<k1>dEvya<k2>dE/vya, dE/via
+  <L>4499.1<pc>0639<k1>dEvia<k2>dE/vya, dE/via
+
+0324 group has 2 entries
+  <L>4530<pc>0644<k1>dyUtya<k2>dyUtya^, dyUti/a
+  <L>4530.1<pc>0644<k1>dyUtia<k2>dyUtya^, dyUti/a
+
+0325 group has 2 entries
+  <L>4531<pc>0644<k1>dyo<k2>dyo/, dio/
+  <L>4531.1<pc>0644<k1>dio<k2>dyo/, dio/
+
+0326 group has 3 entries
+  <L>4532<pc>0644<k1>dyotana<k2>dyo/tana, dyotana/, dio/tana
+  <L>4532.1<pc>0644<k1>dyotana<k2>dyo/tana, dyotana/, dio/tana
+  <L>4532.2<pc>0644<k1>diotana<k2>dyo/tana, dyotana/, dio/tana
+
+0327 group has 2 entries
+  <L>4582<pc>0649<k1>droRya<k2>dro/Rya, dro/Ria
+  <L>4582.1<pc>0649<k1>droRia<k2>dro/Rya, dro/Ria
+
+0328 group has 2 entries
+  <L>4583<pc>0649<k1>droRyaSva<k2>droRya^Sva, droRI/-aSva
+  <L>4583.1<pc>0649<k1>droRIaSva<k2>droRya^Sva, droRI/-aSva
+
+0329 group has 2 entries
+  <L>4584<pc>0649<k1>drvanna<k2>drva^nna, dru/-anna
+  <L>4584.1<pc>0649<k1>druanna<k2>drva^nna, dru/-anna
+
+0330 group has 2 entries
+  <L>4585<pc>0649<k1>dva<k2>dva/, dua/
+  <L>4585.1<pc>0649<k1>dua<k2>dva/, dua/
+
+0331 group has 2 entries
+  <L>4594<pc>0650<k1>dvaras<k2>dvaras, Dvaras
+  <L>4594.1<pc>0650<k1>Dvaras<k2>dvaras, Dvaras
+
+0332 group has 2 entries
+  <L>4595<pc>0650<k1>dvari<k2>dvari/, dvari/n
+  <L>4595.1<pc>0650<k1>dvarin<k2>dvari/, dvari/n
+
+0333 group has 2 entries
+  <L>4597<pc>0650<k1>dvAdaSan<k2>dvA/-daSan, duA/daSan
+  <L>4597.1<pc>0650<k1>duAdaSan<k2>dvA/-daSan, duA/daSan
+
+0334 group has 2 entries
+  <L>4599<pc>0650<k1>dvAdaSAra<k2>dvA/daSAra, duA/daSAra
+  <L>4599.1<pc>0650<k1>duAdaSAra<k2>dvA/daSAra, duA/daSAra
+
+0335 group has 2 entries
+  <L>4611<pc>0652<k1>dvibanDu<k2>dvi-ba/nDu, dui-ba/nDu
+  <L>4611.1<pc>0652<k1>duibanDu<k2>dvi-ba/nDu, dui-ba/nDu
+
+0336 group has 2 entries
+  <L>4641<pc>0656<k1>Danya<k2>Da/nya, Da/nia
+  <L>4641.1<pc>0656<k1>Dania<k2>Da/nya, Da/nia
+
+0337 group has 2 entries
+  <L>4644<pc>0657<k1>Danvacyut<k2>Danva-cyu/t, Danua-cyu/t
+  <L>4644.1<pc>0657<k1>Danuacyut<k2>Danva-cyu/t, Danua-cyu/t
+
+0338 group has 2 entries
+  <L>4646<pc>0657<k1>Danvan<k2>2. Da/nvan, Da/nuan
+  <L>4646.1<pc>0657<k1>Danuan<k2>2. Da/nvan, Da/nuan
+
+0339 group has 2 entries
+  <L>4649<pc>0657<k1>Dam<k2>Dam, DmA
+  <L>4649.1<pc>0657<k1>DmA<k2>Dam, DmA
+
+0340 group has 2 entries
+  <L>4674<pc>0677<k1>DAnya<k2>DAnya^, DAni/a
+  <L>4674.1<pc>0677<k1>DAnia<k2>DAnya^, DAni/a
+
+0341 group has 2 entries
+  <L>4675<pc>0677<k1>DAnyAkft<k2>DAnyAkf/t, DAniAkf/t
+  <L>4675.1<pc>0677<k1>DAniAkft<k2>DAnyAkf/t, DAniAkf/t
+
+0342 group has 2 entries
+  <L>4679<pc>0678<k1>DAmasac<k2>DAma-sa/c, DAma-sA/c
+  <L>4679.1<pc>0678<k1>DAmasAc<k2>DAma-sa/c, DAma-sA/c
+
+0343 group has 2 entries
+  <L>4708<pc>0683<k1>DizRya<k2>Di/zRya, Di/zRia
+  <L>4708.1<pc>0683<k1>DizRia<k2>Di/zRya, Di/zRia
+
+0344 group has 2 entries
+  <L>4717<pc>0687<k1>DIrya<k2>DIrya^, DIri/a
+  <L>4717.1<pc>0687<k1>DIria<k2>DIrya^, DIri/a
+
+0345 group has 2 entries
+  <L>4750<pc>0695<k1>DfzRvojas<k2>DfzRv-o^jas, DfzRu/-ojas
+  <L>4750.1<pc>0695<k1>DfzRuojas<k2>DfzRv-o^jas, DfzRu/-ojas
+
+0346 group has 2 entries
+  <L>4755<pc>0696<k1>DezWa<k2>De/zWa, Da/izWa
+  <L>4755.1<pc>0696<k1>DaizWa<k2>De/zWa, Da/izWa
+
+0347 group has 2 entries
+  <L>4770<pc>0697<k1>Dru<k2>Dru/, Dru/t
+  <L>4770.1<pc>0697<k1>Drut<k2>Dru/, Dru/t
+
+0348 group has 2 entries
+  <L>4782<pc>0698<k1>Dvanya<k2>Dvanya^, Dvani/a
+  <L>4782.1<pc>0698<k1>Dvania<k2>Dvanya^, Dvani/a
+
+0349 group has 2 entries
+  <L>4791<pc>0700<k1>Dvf<k2>Dvf, Dru
+  <L>4791.1<pc>0700<k1>Dru<k2>Dvf, Dru
+
+0350 group has 2 entries
+  <L>4824<pc>0707<k1>nantva<k2>na/ntva, na/ntua
+  <L>4824.1<pc>0707<k1>nantua<k2>na/ntva, na/ntua
+
+0351 group has 2 entries
+  <L>4832<pc>0708<k1>naBanya<k2>naBanya^, naBani/a
+  <L>4832.1<pc>0708<k1>naBania<k2>naBanya^, naBani/a
+
+0352 group has 2 entries
+  <L>4847<pc>0712<k1>namasya<k2>namasya^, namasi/a
+  <L>4847.1<pc>0712<k1>namasia<k2>namasya^, namasi/a
+
+0353 group has 2 entries
+  <L>4864<pc>0713<k1>narya<k2>na/rya, na/ria
+  <L>4864.1<pc>0713<k1>naria<k2>na/rya, na/ria
+
+0354 group has 2 entries
+  <L>4865<pc>0714<k1>naryApas<k2>na/ryApas, na/riApas
+  <L>4865.1<pc>0714<k1>nariApas<k2>na/ryApas, na/riApas
+
+0355 group has 2 entries
+  <L>4875<pc>0715<k1>navavAstva<k2>na/va-vAstva, na/va-vAstua
+  <L>4875.1<pc>0715<k1>navavAstua<k2>na/va-vAstva, na/va-vAstua
+
+0356 group has 2 entries
+  <L>4884<pc>0716<k1>navya<k2>1. na/vya, na/via
+  <L>4884.1<pc>0716<k1>navia<k2>1. na/vya, na/via
+
+0357 group has 2 entries
+  <L>4900<pc>0721<k1>nahuzya<k2>nahuzya^, nahuzi/a
+  <L>4900.1<pc>0721<k1>nahuzia<k2>nahuzya^, nahuzi/a
+
+0358 group has 2 entries
+  <L>4907<pc>0722<k1>nAdya<k2>nAdya/, nAdia/
+  <L>4907.1<pc>0722<k1>nAdia<k2>nAdya/, nAdia/
+
+0359 group has 2 entries
+  <L>4927<pc>0725<k1>nAri<k2>nA/ri, nA/rI
+  <L>4927.1<pc>0725<k1>nArI<k2>nA/ri, nA/rI
+
+0360 group has 2 entries
+  <L>4929<pc>0725<k1>nArmin<k2>nA/rmin, na/armin
+  <L>4929.1<pc>0725<k1>naarmin<k2>nA/rmin, na/armin
+
+0361 group has 2 entries
+  <L>4930<pc>0726<k1>nArya<k2>nArya/, nAria/
+  <L>4930.1<pc>0726<k1>nAria<k2>nArya/, nAria/
+
+0362 group has 2 entries
+  <L>4934<pc>0726<k1>nAvyA<k2>nAvyA^, nAvi/A
+  <L>4934.1<pc>0726<k1>nAviA<k2>nAvyA^, nAvi/A
+
+0363 group has 2 entries
+  <L>4935<pc>0726<k1>nAsatya<k2>nA/satya, na/-asatya
+  <L>4935.1<pc>0726<k1>naasatya<k2>nA/satya, na/-asatya
+
+0364 group has 2 entries
+  <L>4959<pc>0728<k1>niRya<k2>niRya/, niRia/
+  <L>4959.1<pc>0728<k1>niRia<k2>niRya/, niRia/
+
+0365 group has 2 entries
+  <L>4967<pc>0729<k1>nid<k2>nid, nind
+  <L>4967.1<pc>0729<k1>nind<k2>nid, nind
+
+0366 group has 2 entries
+  <L>4976<pc>0730<k1>niDAnya<k2>niDAnya^, niDAni/a
+  <L>4976.1<pc>0730<k1>niDAnia<k2>niDAnya^, niDAni/a
+
+0367 group has 2 entries
+  <L>4986<pc>0731<k1>nindya<k2>ni/ndya, ni/ndia
+  <L>4986.1<pc>0731<k1>nindia<k2>ni/ndya, ni/ndia
+
+0368 group has 2 entries
+  <L>5042<pc>0736<k1>nizwya<k2>ni/zwya, ni/zwia
+  <L>5042.1<pc>0736<k1>nizwia<k2>ni/zwya, ni/zwia
+
+0369 group has 2 entries
+  <L>5046<pc>0736<k1>nizzah<k2>nizza/h, nizzA/h
+  <L>5046.1<pc>0736<k1>nizzAh<k2>nizza/h, nizzA/h
+
+0370 group has 2 entries
+  <L>5074<pc>0742<k1>nIvyA<k2>nIvyA, nIvi/A
+  <L>5074.1<pc>0742<k1>nIviA<k2>nIvyA, nIvi/A
+
+0371 group has 2 entries
+  <L>5076<pc>0742<k1>nu<k2>1. nu, nU
+  <L>5076.1<pc>0742<k1>nU<k2>1. nu, nU
+
+0372 group has 2 entries
+  <L>5078<pc>0744<k1>nu<k2>nu/, nU/
+  <L>5078.1<pc>0744<k1>nU<k2>nu/, nU/
+
+0373 group has 2 entries
+  <L>5081<pc>0747<k1>nU<k2>nU, nU/
+  <L>5081.1<pc>0747<k1>nU<k2>nU, nU/
+
+0374 group has 2 entries
+  <L>5098<pc>0752<k1>nfpAyya<k2>nf-pA/yya, nf-pA/yia
+  <L>5098.1<pc>0752<k1>nfpAyia<k2>nf-pA/yya, nf-pA/yia
+
+0375 group has 2 entries
+  <L>5113<pc>0753<k1>nfzac<k2>nf-za/c, nf-zA/c
+  <L>5113.1<pc>0753<k1>nfzAc<k2>nf-za/c, nf-zA/c
+
+0376 group has 2 entries
+  <L>5118<pc>0753<k1>nfzah<k2>nf-za/h, nf-zA/h
+  <L>5118.1<pc>0753<k1>nfzAh<k2>nf-za/h, nf-zA/h
+
+0377 group has 2 entries
+  <L>5122<pc>0754<k1>nfzAhya<k2>nf-zA/hya, nf-zA/hia
+  <L>5122.1<pc>0754<k1>nfzAhia<k2>nf-zA/hya, nf-zA/hia
+
+0378 group has 2 entries
+  <L>5135<pc>0755<k1>nemanniz<k2>nemann-i/z, neman-i/z
+  <L>5135.1<pc>0755<k1>nemaniz<k2>nemann-i/z, neman-i/z
+
+0379 group has 2 entries
+  <L>5146<pc>0756<k1>nya<k2>nya/, nia/
+  <L>5146.1<pc>0756<k1>nia<k2>nya/, nia/
+
+0380 group has 2 entries
+  <L>5147<pc>0756<k1>nyac<k2>nya^c, ni/ac
+  <L>5147.1<pc>0756<k1>niac<k2>nya^c, ni/ac
+
+0381 group has 2 entries
+  <L>5148<pc>0756<k1>nyaYcana<k2>nya/Ycana, nia/Ycana
+  <L>5148.1<pc>0756<k1>niaYcana<k2>nya/Ycana, nia/Ycana
+
+0382 group has 2 entries
+  <L>5149<pc>0756<k1>nyayana<k2>nya/yana, nia/yana
+  <L>5149.1<pc>0756<k1>niayana<k2>nya/yana, nia/yana
+
+0383 group has 2 entries
+  <L>5150<pc>0757<k1>nyarTa<k2>ny-arTa/, ni-arTa/
+  <L>5150.1<pc>0757<k1>niarTa<k2>ny-arTa/, ni-arTa/
+
+0384 group has 2 entries
+  <L>5151<pc>0758<k1>nyokas<k2>nyo^kas, ni/okas
+  <L>5151.1<pc>0758<k1>niokas<k2>nyo^kas, ni/okas
+
+0385 group has 2 entries
+  <L>5152<pc>0758<k1>nyocanI<k2>nyo/canI, nio/canI
+  <L>5152.1<pc>0758<k1>niocanI<k2>nyo/canI, nio/canI
+
+0386 group has 2 entries
+  <L>5160<pc>0758a<k1>pakzya<k2>pakzya^, pakzi/a
+  <L>5160.1<pc>0758a<k1>pakzia<k2>pakzya^, pakzi/a
+
+0387 group has 2 entries
+  <L>5165<pc>0759<k1>pacatya<k2>pacatya^, pacati/a
+  <L>5165.1<pc>0759<k1>pacatia<k2>pacatya^, pacati/a
+
+0388 group has 2 entries
+  <L>5217<pc>0767<k1>paT<k2>paT, panT
+  <L>5217.1<pc>0767<k1>panT<k2>paT, panT
+
+0389 group has 2 entries
+  <L>5224<pc>0768<k1>paTyA<k2>paTyA^, paTi/A
+  <L>5224.1<pc>0768<k1>paTiA<k2>paTyA^, paTi/A
+
+0390 group has 2 entries
+  <L>5226<pc>0770<k1>pad<k2>pa/d, pA/d
+  <L>5226.1<pc>0770<k1>pAd<k2>pa/d, pA/d
+
+0391 group has 2 entries
+  <L>5233<pc>0771<k1>padyA<k2>pa/dyA, pa/diA
+  <L>5233.1<pc>0771<k1>padiA<k2>pa/dyA, pa/diA
+
+0392 group has 2 entries
+  <L>5236<pc>0772<k1>panayAyya<k2>panayA/yya, panayA/yia
+  <L>5236.1<pc>0772<k1>panayAyia<k2>panayA/yya, panayA/yia
+
+0393 group has 2 entries
+  <L>5240<pc>0772<k1>panAyya<k2>panA/yya, panA/yia
+  <L>5240.1<pc>0772<k1>panAyia<k2>panA/yya, panA/yia
+
+0394 group has 2 entries
+  <L>5245<pc>0773<k1>panu<k2>panu/, panU/
+  <L>5245.1<pc>0773<k1>panU<k2>panu/, panU/
+
+0395 group has 2 entries
+  <L>5260<pc>0775<k1>par<k2>1. par, pur
+  <L>5260.1<pc>0775<k1>pur<k2>1. par, pur
+
+0396 group has 2 entries
+  <L>5265<pc>0781<k1>paramajyA<k2>parama-jyA/, parama-jiA/
+  <L>5265.1<pc>0781<k1>paramajiA<k2>parama-jyA/, parama-jiA/
+
+0397 group has 2 entries
+  <L>5289<pc>0785<k1>paricakzya<k2>parica/kzya, parica/kzia
+  <L>5289.1<pc>0785<k1>paricakzia<k2>parica/kzya, parica/kzia
+
+0398 group has 2 entries
+  <L>5292<pc>0786<k1>paritakmya<k2>pa/ritakmya, pa/ritakmia
+  <L>5292.1<pc>0786<k1>paritakmia<k2>pa/ritakmya, pa/ritakmia
+
+0399 group has 2 entries
+  <L>5293<pc>0786<k1>paritakmyA<k2>pa/ritakmyA, pa/ritakmiA
+  <L>5293.1<pc>0786<k1>paritakmiA<k2>pa/ritakmyA, pa/ritakmiA
+
+0400 group has 2 entries
+  <L>5335<pc>0790<k1>parjanyakrandya<k2>parja/nya-krandya, parja/nya-krandia
+  <L>5335.1<pc>0790<k1>parjanyakrandia<k2>parja/nya-krandya, parja/nya-krandia
+
+0401 group has 2 entries
+  <L>5347<pc>0791<k1>paryetf<k2>paryetf/, parietf/
+  <L>5347.1<pc>0791<k1>parietf<k2>paryetf/, parietf/
+
+0402 group has 2 entries
+  <L>5352<pc>0792<k1>parvatya<k2>parvatya^, parvati/a
+  <L>5352.1<pc>0792<k1>parvatia<k2>parvatya^, parvati/a
+
+0403 group has 2 entries
+  <L>5399<pc>0797<k1>paSviz<k2>paSvi/z, paSu-i/z
+  <L>5399.1<pc>0797<k1>paSuiz<k2>paSvi/z, paSu-i/z
+
+0404 group has 2 entries
+  <L>5400<pc>0797<k1>pastya<k2>pastya^, pasti/a
+  <L>5400.1<pc>0797<k1>pastia<k2>pastya^, pasti/a
+
+0405 group has 2 entries
+  <L>5401<pc>0797<k1>pastyasad<k2>pastya-sa/d, pastia-sa/d
+  <L>5401.1<pc>0797<k1>pastiasad<k2>pastya-sa/d, pastia-sa/d
+
+0406 group has 2 entries
+  <L>5402<pc>0797<k1>pastyA<k2>pastyA^, pastiA
+  <L>5402.1<pc>0797<k1>pastiA<k2>pastyA^, pastiA
+
+0407 group has 2 entries
+  <L>5403<pc>0797<k1>pastyAvat<k2>pastyA^vat, pasti/Avat
+  <L>5403.1<pc>0797<k1>pastiAvat<k2>pastyA^vat, pasti/Avat
+
+0408 group has 2 entries
+  <L>5416<pc>0804<k1>pAkyA<k2>pAkyA^, pAki/A
+  <L>5416.1<pc>0804<k1>pAkiA<k2>pAkyA^, pAki/A
+
+0409 group has 2 entries
+  <L>5428<pc>0806<k1>pATya<k2>pATya/, pATia/
+  <L>5428.1<pc>0806<k1>pATia<k2>pATya/, pATia/
+
+0410 group has 2 entries
+  <L>5439<pc>0807<k1>pAyya<k2>1. pAyya, 1. pAyia
+  <L>5439.1<pc>0807<k1>pAyia<k2>1. pAyya, 1. pAyia
+
+0411 group has 2 entries
+  <L>5440<pc>0807<k1>pAyya<k2>2. pAyya, 2. pAyia
+  <L>5440.1<pc>0807<k1>pAyia<k2>2. pAyya, 2. pAyia
+
+0412 group has 2 entries
+  <L>5448<pc>0808<k1>pArTya<k2>pArTya/, pArTia/
+  <L>5448.1<pc>0808<k1>pArTia<k2>pArTya/, pArTia/
+
+0413 group has 2 entries
+  <L>5449<pc>0808<k1>pArya<k2>pA/rya, pA/ria
+  <L>5449.1<pc>0808<k1>pAria<k2>pA/rya, pA/ria
+
+0414 group has 2 entries
+  <L>5450<pc>0808<k1>pArSva<k2>pArSva/, pArSua/
+  <L>5450.1<pc>0808<k1>pArSua<k2>pArSva/, pArSua/
+
+0415 group has 2 entries
+  <L>5466<pc>0810<k1>pAzya<k2>pAzya^, pAzia
+  <L>5466.1<pc>0810<k1>pAzia<k2>pAzya^, pAzia
+
+0416 group has 2 entries
+  <L>5467<pc>0810<k1>pAstya<k2>pAstya/, pAstia/
+  <L>5467.1<pc>0810<k1>pAstia<k2>pAstya/, pAstia/
+
+0417 group has 2 entries
+  <L>5468<pc>0810<k1>pi<k2>pi, pI
+  <L>5468.1<pc>0810<k1>pI<k2>pi, pI
+
+0418 group has 2 entries
+  <L>5488<pc>0815<k1>pitrya<k2>pi/trya, pi/tria
+  <L>5488.1<pc>0815<k1>pitria<k2>pi/trya, pi/tria
+
+0419 group has 2 entries
+  <L>5489<pc>0815<k1>pitryAvat<k2>pi/tryAvat, pi/triAvat
+  <L>5489.1<pc>0815<k1>pitriAvat<k2>pi/tryAvat, pi/triAvat
+
+0420 group has 2 entries
+  <L>5529<pc>0821<k1>puMs<k2>pu/Ms, pu/mAMs
+  <L>5529.1<pc>0821<k1>pumAMs<k2>pu/Ms, pu/mAMs
+
+0421 group has 2 entries
+  <L>5567<pc>0827<k1>purIzya<k2>purIzya^, purIzi/a
+  <L>5567.1<pc>0827<k1>purIzia<k2>purIzya^, purIzi/a
+
+0422 group has 2 entries
+  <L>5593<pc>0830<k1>purunizWa<k2>puru-nizWa/, puru-nizWA/
+  <L>5593.1<pc>0830<k1>purunizWA<k2>puru-nizWa/, puru-nizWA/
+
+0423 group has 2 entries
+  <L>5612<pc>0831<k1>purumAyya<k2>purumA/yya, puruma/yia
+  <L>5612.1<pc>0831<k1>purumayia<k2>purumA/yya, puruma/yia
+
+0424 group has 2 entries
+  <L>5636<pc>0834<k1>puruzya<k2>puruzya^, puruzi/a
+  <L>5636.1<pc>0834<k1>puruzia<k2>puruzya^, puruzi/a
+
+0425 group has 2 entries
+  <L>5662<pc>0836<k1>purvanIka<k2>purv-anIka, puru-anIka
+  <L>5662.1<pc>0836<k1>puruanIka<k2>purv-anIka, puru-anIka
+
+0426 group has 2 entries
+  <L>5680<pc>0838<k1>puzya<k2>pu/zya, pu/zia
+  <L>5680.1<pc>0838<k1>puzia<k2>pu/zya, pu/zia
+
+0427 group has 2 entries
+  <L>5710<pc>0846<k1>pUrvapAyya<k2>pUrva-pA/yya, pUrva-pA/yia
+  <L>5710.1<pc>0846<k1>pUrvapAyia<k2>pUrva-pA/yya, pUrva-pA/yia
+
+0428 group has 2 entries
+  <L>5719<pc>0847<k1>pUrvAyus<k2>pUrvAyu/s, pUru-Ayu/s
+  <L>5719.1<pc>0847<k1>pUruAyus<k2>pUrvAyu/s, pUru-Ayu/s
+
+0429 group has 2 entries
+  <L>5721<pc>0847<k1>pUrvya<k2>pUrvya/, pUrvia/
+  <L>5721.1<pc>0847<k1>pUrvia<k2>pUrvya/, pUrvia/
+
+0430 group has 2 entries
+  <L>5729<pc>0849<k1>pUzarya<k2>pUzarya^, pUzari/a
+  <L>5729.1<pc>0849<k1>pUzaria<k2>pUzarya^, pUzari/a
+
+0431 group has 2 entries
+  <L>5730<pc>0849<k1>pfkz<k2>pfkz, prakz
+  <L>5730.1<pc>0849<k1>prakz<k2>pfkz, prakz
+
+0432 group has 2 entries
+  <L>5738<pc>0852<k1>pfC<k2>pfC, praC
+  <L>5738.1<pc>0852<k1>praC<k2>pfC, praC
+
+0433 group has 2 entries
+  <L>5744<pc>0854<k1>pftanAjya<k2>pftanA/jya, pftanA/jia
+  <L>5744.1<pc>0854<k1>pftanAjia<k2>pftanA/jya, pftanA/jia
+
+0434 group has 2 entries
+  <L>5749<pc>0855<k1>pftanAzAhya<k2>pftanA-zA/hya, pftanA-zA/hia
+  <L>5749.1<pc>0855<k1>pftanAzAhia<k2>pftanA-zA/hya, pftanA-zA/hia
+
+0435 group has 2 entries
+  <L>5774<pc>0858<k1>pfTubuDna<k2>pfTu/-buDna, pfTu-buDna/
+  <L>5774.1<pc>0858<k1>pfTubuDna<k2>pfTu/-buDna, pfTu-buDna/
+
+0436 group has 2 entries
+  <L>5793<pc>0860<k1>pfzadAjya<k2>pfzad-Ajya/, pfzad-Ajia/
+  <L>5793.1<pc>0860<k1>pfzadAjia<k2>pfzad-Ajya/, pfzad-Ajia/
+
+0437 group has 2 entries
+  <L>5802<pc>0860<k1>pfzwyAmayin<k2>pfzwyAmayi/n, pfzwiAmayi/n
+  <L>5802.1<pc>0860<k1>pfzwiAmayin<k2>pfzwyAmayi/n, pfzwiAmayi/n
+
+0438 group has 2 entries
+  <L>5805<pc>0861<k1>pfzWya<k2>pfzWya^, pfzWi/a
+  <L>5805.1<pc>0861<k1>pfzWia<k2>pfzWya^, pfzWi/a
+
+0439 group has 2 entries
+  <L>5806<pc>0861<k1>petva<k2>pe/tva, pe/tua
+  <L>5806.1<pc>0861<k1>petua<k2>pe/tva, pe/tua
+
+0440 group has 2 entries
+  <L>5825<pc>0862<k1>pozya<k2>pozya, po/zia
+  <L>5825.1<pc>0862<k1>pozia<k2>pozya, po/zia
+
+0441 group has 2 entries
+  <L>5826<pc>0862<k1>pozyAvat<k2>pozyAvat, poziA/vat
+  <L>5826.1<pc>0862<k1>poziAvat<k2>pozyAvat, poziA/vat
+
+0442 group has 2 entries
+  <L>5827<pc>0862<k1>pOMsya<k2>pO/Msya, pO/Msia
+  <L>5827.1<pc>0862<k1>pOMsia<k2>pO/Msya, pO/Msia
+
+0443 group has 2 entries
+  <L>5831<pc>0863<k1>pOrukutsya<k2>pOrukutsya/, pOrukutsia/
+  <L>5831.1<pc>0863<k1>pOrukutsia<k2>pOrukutsya/, pOrukutsia/
+
+0444 group has 2 entries
+  <L>5892<pc>0870<k1>pratItya<k2>pratI/tya, pratI/tia
+  <L>5892.1<pc>0870<k1>pratItia<k2>pratI/tya, pratI/tia
+
+0445 group has 2 entries
+  <L>5902<pc>0871<k1>pratyarDi<k2>pra/ty-arDi, pra/ti-arDi
+  <L>5902.1<pc>0871<k1>pratiarDi<k2>pra/ty-arDi, pra/ti-arDi
+
+0446 group has 2 entries
+  <L>5904<pc>0872<k1>praT<k2>praT, pfT
+  <L>5904.1<pc>0872<k1>pfT<k2>praT, pfT
+
+0447 group has 2 entries
+  <L>5920<pc>0876<k1>praDanya<k2>praDanya^, praDani/a
+  <L>5920.1<pc>0876<k1>praDania<k2>praDanya^, praDani/a
+
+0448 group has 2 entries
+  <L>6013<pc>0884<k1>prasah<k2>prasa/h, prasA/h
+  <L>6013.1<pc>0884<k1>prasAh<k2>prasa/h, prasA/h
+
+0449 group has 2 entries
+  <L>6055<pc>0888<k1>prAyu<k2>prAyu, prAyus
+  <L>6055.1<pc>0888<k1>prAyus<k2>prAyu, prAyus
+
+0450 group has 2 entries
+  <L>6068<pc>0889<k1>prASavya<k2>prASavya^, prASavi/a
+  <L>6068.1<pc>0889<k1>prASavia<k2>prASavya^, prASavi/a
+
+0451 group has 2 entries
+  <L>6129<pc>0896<k1>Palgva<k2>Palgva^, Palgu/a
+  <L>6129.1<pc>0896<k1>Palgua<k2>Palgva^, Palgu/a
+
+0452 group has 2 entries
+  <L>6133<pc>0897<k1>baMh<k2>baMh, bAh
+  <L>6133.1<pc>0897<k1>bAh<k2>baMh, bAh
+
+0453 group has 2 entries
+  <L>6150<pc>0899<k1>banDveza<k2>banDv-eza/, banDu-eza/
+  <L>6150.1<pc>0899<k1>banDueza<k2>banDv-eza/, banDu-eza/
+
+0454 group has 2 entries
+  <L>6156<pc>0899<k1>barh<k2>barh, varh
+  <L>6156.1<pc>0899<k1>varh<k2>barh, varh
+
+0455 group has 2 entries
+  <L>6163<pc>0900<k1>barhizya<k2>barhizya^, barhizi/a
+  <L>6163.1<pc>0900<k1>barhizia<k2>barhizya^, barhizi/a
+
+0456 group has 2 entries
+  <L>6183<pc>0903<k1>bahupAyya<k2>bahu-pA/yya, bahu-pA/yia
+  <L>6183.1<pc>0903<k1>bahupAyia<k2>bahu-pA/yya, bahu-pA/yia
+
+0457 group has 2 entries
+  <L>6207<pc>0906<k1>bAhvojas<k2>bAhv-o^jas, bAhu/-ojas
+  <L>6207.1<pc>0906<k1>bAhuojas<k2>bAhv-o^jas, bAhu/-ojas
+
+0458 group has 2 entries
+  <L>6219<pc>0909<k1>buDnya<k2>buDnya^, buDni/a
+  <L>6219.1<pc>0909<k1>buDnia<k2>buDnya^, buDni/a
+
+0459 group has 2 entries
+  <L>6265<pc>0916<k1>brahmaRyA<k2>brahmaRyA/, brahmaRiA/
+  <L>6265.1<pc>0916<k1>brahmaRiA<k2>brahmaRyA/, brahmaRiA/
+
+0460 group has 2 entries
+  <L>6299<pc>0927<k1>Badravac<k2>Badra-va/c, Badra-vA/c
+  <L>6299.1<pc>0927<k1>BadravAc<k2>Badra-va/c, Badra-vA/c
+
+0461 group has 2 entries
+  <L>6338<pc>0930<k1>Bavya<k2>Ba/vya, Ba/via
+  <L>6338.1<pc>0930<k1>Bavia<k2>Ba/vya, Ba/via
+
+0462 group has 2 entries
+  <L>6343<pc>0931<k1>BAfjIka<k2>BA/-fjIka, BA/s-fjIka
+  <L>6343.1<pc>0931<k1>BAsfjIka<k2>BA/-fjIka, BA/s-fjIka
+
+0463 group has 2 entries
+  <L>6362<pc>0934<k1>BAs<k2>BA/s, Ba/as
+  <L>6362.1<pc>0934<k1>Baas<k2>BA/s, Ba/as
+
+0464 group has 2 entries
+  <L>6367<pc>0934<k1>BAsvat<k2>BA/svat, Ba/asvat
+  <L>6367.1<pc>0934<k1>Baasvat<k2>BA/svat, Ba/asvat
+
+0465 group has 2 entries
+  <L>6399<pc>0941<k1>Burizah<k2>Buri-za/h, Buri-zA/h
+  <L>6399.1<pc>0941<k1>BurizAh<k2>Buri-za/h, Buri-zA/h
+
+0466 group has 2 entries
+  <L>6408<pc>0951<k1>BUmi<k2>BU/mi, BU/mI
+  <L>6408.1<pc>0951<k1>BUmI<k2>BU/mi, BU/mI
+
+0467 group has 2 entries
+  <L>6409<pc>0951<k1>BUmya<k2>BUmya/, BUmia/
+  <L>6409.1<pc>0951<k1>BUmia<k2>BUmya/, BUmia/
+
+0468 group has 2 entries
+  <L>6430<pc>0954<k1>BUrizah<k2>BUri-za/h, BUri-zA/h
+  <L>6430.1<pc>0954<k1>BUrizAh<k2>BUri-za/h, BUri-zA/h
+
+0469 group has 2 entries
+  <L>6433<pc>0954<k1>BUryakza<k2>BUry-akza/, BUri-akza/
+  <L>6433.1<pc>0954<k1>BUriakza<k2>BUry-akza/, BUri-akza/
+
+0470 group has 2 entries
+  <L>6434<pc>0954<k1>BUryAsuti<k2>BU/ry-Asuti, BU/ri-Asuti
+  <L>6434.1<pc>0954<k1>BUriAsuti<k2>BU/ry-Asuti, BU/ri-Asuti
+
+0471 group has 2 entries
+  <L>6435<pc>0954<k1>BUryojas<k2>BU/ry-ojas, BU/ri-ojas
+  <L>6435.1<pc>0954<k1>BUriojas<k2>BU/ry-ojas, BU/ri-ojas
+
+0472 group has 2 entries
+  <L>6457<pc>0965<k1>Bojya<k2>Bojya^, Boji/a
+  <L>6457.1<pc>0965<k1>Bojia<k2>Bojya^, Boji/a
+
+0473 group has 2 entries
+  <L>6459<pc>0965<k1>BraMS<k2>BraMS, BraS
+  <L>6459.1<pc>0965<k1>BraS<k2>BraMS, BraS
+
+0474 group has 2 entries
+  <L>6472<pc>0967<k1>BrAtra<k2>BrAtra/, BrAtara/
+  <L>6472.1<pc>0967<k1>BrAtara<k2>BrAtra/, BrAtara/
+
+0475 group has 2 entries
+  <L>6473<pc>0967<k1>BrASya<k2>BrA/Sya, BrA/Sia
+  <L>6473.1<pc>0967<k1>BrASia<k2>BrA/Sya, BrA/Sia
+
+0476 group has 2 entries
+  <L>6490<pc>0969<k1>makzu<k2>makzu/, makzU/
+  <L>6490.1<pc>0969<k1>makzU<k2>makzu/, makzU/
+
+0477 group has 2 entries
+  <L>6527<pc>0976<k1>maT<k2>maT, manT
+  <L>6527.1<pc>0976<k1>manT<k2>maT, manT
+
+0478 group has 2 entries
+  <L>6545<pc>0983<k1>madya<k2>ma/dya, ma/dia
+  <L>6545.1<pc>0983<k1>madia<k2>ma/dya, ma/dia
+
+0479 group has 2 entries
+  <L>6547<pc>0983<k1>madryac<k2>madrya^c, madri/-ac
+  <L>6547.1<pc>0983<k1>madriac<k2>madrya^c, madri/-ac
+
+0480 group has 2 entries
+  <L>6548<pc>0983<k1>madryadrik<k2>madryadri/k, madriadri/k
+  <L>6548.1<pc>0983<k1>madriadrik<k2>madryadri/k, madriadri/k
+
+0481 group has 2 entries
+  <L>6554<pc>0986<k1>maDuDa<k2>maDu-Da/, maDu-DA/
+  <L>6554.1<pc>0986<k1>maDuDA<k2>maDu-Da/, maDu-DA/
+
+0482 group has 2 entries
+  <L>6573<pc>0988<k1>maDuhastya<k2>ma/Du-hastya, ma/Du-hastia
+  <L>6573.1<pc>0988<k1>maDuhastia<k2>ma/Du-hastya, ma/Du-hastia
+
+0483 group has 2 entries
+  <L>6583<pc>0990<k1>maDvad<k2>maDv-a/d, maDu-a/d
+  <L>6583.1<pc>0990<k1>maDuad<k2>maDv-a/d, maDu-a/d
+
+0484 group has 2 entries
+  <L>6584<pc>0990<k1>maDvarRas<k2>ma/Dv-arRas, ma/Du-arRas
+  <L>6584.1<pc>0990<k1>maDuarRas<k2>ma/Dv-arRas, ma/Du-arRas
+
+0485 group has 2 entries
+  <L>6587<pc>0993<k1>manafNga<k2>ma/nafNga, ma/nas-fNga
+  <L>6587.1<pc>0993<k1>manasfNga<k2>ma/nafNga, ma/nas-fNga
+
+0486 group has 2 entries
+  <L>6613<pc>0998<k1>manuzya<k2>manuzya^, manuzi/a
+  <L>6613.1<pc>0998<k1>manuzia<k2>manuzya^, manuzi/a
+
+0487 group has 2 entries
+  <L>6672<pc>1006<k1>mayUraSepya<k2>mayU/raSepya, mayU/raSepia
+  <L>6672.1<pc>1006<k1>mayUraSepia<k2>mayU/raSepya, mayU/raSepia
+
+0488 group has 2 entries
+  <L>6691<pc>1009<k1>martya<k2>ma/rtya, ma/rtia
+  <L>6691.1<pc>1009<k1>martia<k2>ma/rtya, ma/rtia
+
+0489 group has 2 entries
+  <L>6692<pc>1010<k1>martyakfta<k2>ma/rtya-kfta, ma/rtia-kfta
+  <L>6692.1<pc>1010<k1>martiakfta<k2>ma/rtya-kfta, ma/rtia-kfta
+
+0490 group has 2 entries
+  <L>6693<pc>1010<k1>martyatrA<k2>martyatrA/, martiatrA/
+  <L>6693.1<pc>1010<k1>martiatrA<k2>martyatrA/, martiatrA/
+
+0491 group has 2 entries
+  <L>6694<pc>1010<k1>martyatvana<k2>martyatvana/, martiatvana/
+  <L>6694.1<pc>1010<k1>martiatvana<k2>martyatvana/, martiatvana/
+
+0492 group has 2 entries
+  <L>6695<pc>1010<k1>martyezita<k2>ma/rtyezita, ma/rtiezita
+  <L>6695.1<pc>1010<k1>martiezita<k2>ma/rtyezita, ma/rtiezita
+
+0493 group has 2 entries
+  <L>6697<pc>1010<k1>marya<k2>ma/rya, ma/ria
+  <L>6697.1<pc>1010<k1>maria<k2>ma/rya, ma/ria
+
+0494 group has 2 entries
+  <L>6712<pc>1017<k1>mahayAyya<k2>mahayA/yya, mahayA/yia
+  <L>6712.1<pc>1017<k1>mahayAyia<k2>mahayA/yya, mahayA/yia
+
+0495 group has 2 entries
+  <L>6725<pc>1019<k1>mahAyya<k2>mahA/yya, mahA/yia
+  <L>6725.1<pc>1019<k1>mahAyia<k2>mahA/yya, mahA/yia
+
+0496 group has 2 entries
+  <L>6754.1<pc>1023<k1>mahenadi<k2>mahenadi, mahemate
+  <L>6754.2<pc>1023<k1>mahemate<k2>mahenadi, mahemate
+
+0497 group has 2 entries
+  <L>6756<pc>1025<k1>mA<k2>2. mA, mI
+  <L>6756.1<pc>1025<k1>mI<k2>2. mA, mI
+
+0498 group has 2 entries
+  <L>6782<pc>1032<k1>mADvI<k2>mADvI, mADvi
+  <L>6782.1<pc>1032<k1>mADvi<k2>mADvI, mADvi
+
+0499 group has 2 entries
+  <L>6792<pc>1034<k1>mAndArya<k2>mAndArya/, mAndAria/
+  <L>6792.1<pc>1034<k1>mAndAria<k2>mAndArya/, mAndAria/
+
+0500 group has 2 entries
+  <L>6793<pc>1034<k1>mAnya<k2>mAnya/, mAnia/
+  <L>6793.1<pc>1034<k1>mAnia<k2>mAnya/, mAnia/
+
+0501 group has 2 entries
+  <L>6806<pc>1036<k1>mArjAlya<k2>mArjAlya^, mArjAli/a
+  <L>6806.1<pc>1036<k1>mArjAlia<k2>mArjAlya^, mArjAli/a
+
+0502 group has 2 entries
+  <L>6838<pc>1041<k1>mitreru<k2>mitre/ru, mitraI/ru
+  <L>6838.1<pc>1041<k1>mitraIru<k2>mitre/ru, mitraI/ru
+
+0503 group has 2 entries
+  <L>6839<pc>1041<k1>mitrya<k2>mitrya^, mitri/a
+  <L>6839.1<pc>1041<k1>mitria<k2>mitrya^, mitri/a
+
+0504 group has 2 entries
+  <L>6840<pc>1041<k1>mitrya<k2>mi/trya, mi/tri/a
+  <L>6840.1<pc>1041<k1>mitria<k2>mi/trya, mi/tri/a
+
+0505 group has 2 entries
+  <L>6850<pc>1042<k1>miToavadyapa<k2>miTo/-avadyapa, miTa/s-avadyapa
+  <L>6850.1<pc>1042<k1>miTasavadyapa<k2>miTo/-avadyapa, miTa/s-avadyapa
+
+0506 group has 2 entries
+  <L>6854<pc>1043<k1>miyeDya<k2>miyeDya, miyeDIa
+  <L>6854.1<pc>1043<k1>miyeDIa<k2>miyeDya, miyeDIa
+
+0507 group has 2 entries
+  <L>6859<pc>1043<k1>mih<k2>mih, miG
+  <L>6859.1<pc>1043<k1>miG<k2>mih, miG
+
+0508 group has 3 entries
+  <L>6864<pc>1046<k1>mIQvas<k2>mIQva/s, mIQua/z, mIQu/s
+  <L>6864.1<pc>1046<k1>mIQuaz<k2>mIQva/s, mIQua/z, mIQu/s
+  <L>6864.2<pc>1046<k1>mIQus<k2>mIQva/s, mIQua/z, mIQu/s
+
+0509 group has 2 entries
+  <L>6881<pc>1050<k1>mur<k2>mur, mar
+  <L>6881.1<pc>1050<k1>mar<k2>mur, mar
+
+0510 group has 2 entries
+  <L>6909<pc>1054<k1>mfkz<k2>mfkz, mrakz
+  <L>6909.1<pc>1054<k1>mrakz<k2>mfkz, mrakz
+
+0511 group has 2 entries
+  <L>6956<pc>1064<k1>meDya<k2>me/Dya, me/Dia
+  <L>6956.1<pc>1064<k1>meDia<k2>me/Dya, me/Dia
+
+0512 group has 2 entries
+  <L>6957<pc>1064<k1>meDyAtiTi<k2>me/DyAtiTi, me/DiAtiTi
+  <L>6957.1<pc>1064<k1>meDiAtiTi<k2>me/DyAtiTi, me/DiAtiTi
+
+0513 group has 2 entries
+  <L>6993<pc>1070<k1>yakzya<k2>ya/kzya, ya/kzia
+  <L>6993.1<pc>1070<k1>yakzia<k2>ya/kzya, ya/kzia
+
+0514 group has 2 entries
+  <L>7022<pc>1077<k1>yajYAsah<k2>yajYA-sa/h, yajnA-sA/h
+  <L>7022.1<pc>1077<k1>yajnAsAh<k2>yajYA-sa/h, yajnA-sA/h
+
+0515 group has 2 entries
+  <L>7061<pc>1098<k1>yamya<k2>yamya^, yami/a
+  <L>7061.1<pc>1098<k1>yamia<k2>yamya^, yami/a
+
+0516 group has 2 entries
+  <L>7075<pc>1099<k1>yavizWya<k2>ya/vizWya, ya/vizWia
+  <L>7075.1<pc>1099<k1>yavizWia<k2>ya/vizWya, ya/vizWia
+
+0517 group has 2 entries
+  <L>7078<pc>1099<k1>yavya<k2>ya/vya, ya/via
+  <L>7078.1<pc>1099<k1>yavia<k2>ya/vya, ya/via
+
+0518 group has 2 entries
+  <L>7079<pc>1099<k1>yavyA<k2>yavyA/, yavIA/
+  <L>7079.1<pc>1099<k1>yavIA<k2>yavyA/, yavIA/
+
+0519 group has 2 entries
+  <L>7108<pc>1109<k1>yAdrADya<k2>yAd-rADya^, yAd-rADi/a
+  <L>7108.1<pc>1109<k1>yAdrADia<k2>yAd-rADya^, yAd-rADi/a
+
+0520 group has 2 entries
+  <L>7109<pc>1109<k1>yAdva<k2>yA/dva, yA/dua
+  <L>7109.1<pc>1109<k1>yAdua<k2>yA/dva, yA/dua
+
+0521 group has 2 entries
+  <L>7129<pc>1114<k1>yuktASva<k2>yuktA/Sva, yukta/-aSva
+  <L>7129.1<pc>1114<k1>yuktaaSva<k2>yuktA/Sva, yukta/-aSva
+
+0522 group has 2 entries
+  <L>7136<pc>1119<k1>yujya<k2>yu/jya, yu/jia
+  <L>7136.1<pc>1119<k1>yujia<k2>yu/jya, yu/jia
+
+0523 group has 2 entries
+  <L>7141<pc>1121<k1>yuDenya<k2>yuDe/nya, yuDe/nia
+  <L>7141.1<pc>1121<k1>yuDenia<k2>yuDe/nya, yuDe/nia
+
+0524 group has 2 entries
+  <L>7176<pc>1125<k1>yUTya<k2>yUTya^, yUTi/a
+  <L>7176.1<pc>1125<k1>yUTia<k2>yUTya^, yUTi/a
+
+0525 group has 2 entries
+  <L>7184<pc>1125<k1>yezWa<k2>ye/zWa, yaizWa
+  <L>7184.1<pc>1125<k1>yaizWa<k2>ye/zWa, yaizWa
+
+0526 group has 2 entries
+  <L>7188<pc>1126<k1>yogyA<k2>yogyA/, yogiA/
+  <L>7188.1<pc>1126<k1>yogiA<k2>yogyA/, yogiA/
+
+0527 group has 2 entries
+  <L>7194<pc>1127<k1>yonya<k2>yonya/, yonia/
+  <L>7194.1<pc>1127<k1>yonia<k2>yonya/, yonia/
+
+0528 group has 2 entries
+  <L>7212<pc>1132<k1>rakzastva<k2>rakzastva/, rakzastua/
+  <L>7212.1<pc>1132<k1>rakzastua<k2>rakzastva/, rakzastua/
+
+0529 group has 2 entries
+  <L>7245<pc>1136<k1>raRya<k2>ra/Rya, ra/Ria
+  <L>7245.1<pc>1136<k1>raRia<k2>ra/Rya, ra/Ria
+
+0530 group has 2 entries
+  <L>7253<pc>1136<k1>ratnaDA<k2>ratna-DA/, ratna-Da/
+  <L>7253.1<pc>1136<k1>ratnaDa<k2>ratna-DA/, ratna-Da/
+
+0531 group has 2 entries
+  <L>7286<pc>1141<k1>raToQa<k2>raToQa, raTa-UQa
+  <L>7286.1<pc>1141<k1>raTaUQa<k2>raToQa, raTa-UQa
+
+0532 group has 2 entries
+  <L>7287<pc>1141<k1>raTya<k2>raTya^, raTi/a
+  <L>7287.1<pc>1141<k1>raTia<k2>raTya^, raTi/a
+
+0533 group has 2 entries
+  <L>7288<pc>1141<k1>raTya<k2>ra/Tya, ra/Tia
+  <L>7288.1<pc>1141<k1>raTia<k2>ra/Tya, ra/Tia
+
+0534 group has 2 entries
+  <L>7291<pc>1142<k1>raD<k2>raD, ranD
+  <L>7291.1<pc>1142<k1>ranD<k2>raD, ranD
+
+0535 group has 2 entries
+  <L>7296<pc>1144<k1>ran<k2>ran, raR
+  <L>7296.1<pc>1144<k1>raR<k2>ran, raR
+
+0536 group has 3 entries
+  <L>7316<pc>1148<k1>raBi<k2>raBi/, raBi/n, raBi/s
+  <L>7316.1<pc>1148<k1>raBin<k2>raBi/, raBi/n, raBi/s
+  <L>7316.2<pc>1148<k1>raBis<k2>raBi/, raBi/n, raBi/s
+
+0537 group has 2 entries
+  <L>7326<pc>1150<k1>rayida<k2>rayi-da/, rayi-dA/
+  <L>7326.1<pc>1150<k1>rayidA<k2>rayi-da/, rayi-dA/
+
+0538 group has 2 entries
+  <L>7348<pc>1153<k1>rasAyya<k2>rasA/yya, rasA/yia
+  <L>7348.1<pc>1153<k1>rasAyia<k2>rasA/yya, rasA/yia
+
+0539 group has 2 entries
+  <L>7365<pc>1158<k1>rAjanya<k2>rAjanya^, rAjani/a
+  <L>7365.1<pc>1158<k1>rAjania<k2>rAjanya^, rAjani/a
+
+0540 group has 2 entries
+  <L>7370<pc>1158<k1>rAjya<k2>rAjya/, rAjia/
+  <L>7370.1<pc>1158<k1>rAjia<k2>rAjya/, rAjia/
+
+0541 group has 2 entries
+  <L>7379<pc>1160<k1>rATya<k2>rA/Tya, rA/Tia
+  <L>7379.1<pc>1160<k1>rATia<k2>rA/Tya, rA/Tia
+
+0542 group has 2 entries
+  <L>7389<pc>1162<k1>rAmyA<k2>rA/myA, rA/miA
+  <L>7389.1<pc>1162<k1>rAmiA<k2>rA/myA, rA/miA
+
+0543 group has 2 entries
+  <L>7400<pc>1163<k1>ri<k2>ri, rI
+  <L>7400.1<pc>1163<k1>rI<k2>ri, rI
+
+0544 group has 3 entries
+  <L>7424<pc>1169<k1>rItyap<k2>rItya^p, rIti/-ap, rIti/-Ap
+  <L>7424.1<pc>1169<k1>rItiap<k2>rItya^p, rIti/-ap, rIti/-Ap
+  <L>7424.2<pc>1169<k1>rItiAp<k2>rItya^p, rIti/-ap, rIti/-Ap
+
+0545 group has 2 entries
+  <L>7439<pc>1174<k1>rudra<k2>rudra/, rudara/
+  <L>7439.1<pc>1174<k1>rudara<k2>rudra/, rudara/
+
+0546 group has 2 entries
+  <L>7444<pc>1176<k1>ruD<k2>*ruD, *ruh
+  <L>7444.1<pc>1176<k1>ruh<k2>*ruD, *ruh
+
+0547 group has 2 entries
+  <L>7484<pc>1182<k1>rE<k2>rE/, rA/
+  <L>7484.1<pc>1182<k1>rA<k2>rE/, rA/
+
+0548 group has 2 entries
+  <L>7500<pc>1185<k1>roDana<k2>ro/Dana, roDana/
+  <L>7500.1<pc>1185<k1>roDana<k2>ro/Dana, roDana/
+
+0549 group has 2 entries
+  <L>7514<pc>1186<k1>rOdra<k2>rO/dra, rO/dara
+  <L>7514.1<pc>1186<k1>rOdara<k2>rO/dra, rO/dara
+
+0550 group has 2 entries
+  <L>7518<pc>1187<k1>lakzmaRya<k2>lakzmaRya^, lakzmaRi/a
+  <L>7518.1<pc>1187<k1>lakzmaRia<k2>lakzmaRya^, lakzmaRi/a
+
+0551 group has 2 entries
+  <L>7531<pc>1187<k1>loka<k2>loka/, uloka/
+  <L>7531.1<pc>1187<k1>uloka<k2>loka/, uloka/
+
+0552 group has 2 entries
+  <L>7532<pc>1188<k1>lokakft<k2>loka-kf/t, uloka-kf/t
+  <L>7532.1<pc>1188<k1>ulokakft<k2>loka-kf/t, uloka-kf/t
+
+0553 group has 2 entries
+  <L>7533<pc>1188<k1>lokakftnu<k2>loka-kftnu/, ulokakftnu/
+  <L>7533.1<pc>1188<k1>ulokakftnu<k2>loka-kftnu/, ulokakftnu/
+
+0554 group has 2 entries
+  <L>7543<pc>1189<k1>vak<k2>vak, vaNk
+  <L>7543.1<pc>1189<k1>vaNk<k2>vak, vaNk
+
+0555 group has 2 entries
+  <L>7548<pc>1189<k1>vakmya<k2>va/kmya, va/kmia
+  <L>7548.1<pc>1189<k1>vakmia<k2>va/kmya, va/kmia
+
+0556 group has 2 entries
+  <L>7578<pc>1196<k1>vaj<k2>vaj, uj
+  <L>7578.1<pc>1196<k1>uj<k2>vaj, uj
+
+0557 group has 2 entries
+  <L>7583<pc>1197<k1>vajravah<k2>vajra-va/h, vajra-vA/h
+  <L>7583.1<pc>1197<k1>vajravAh<k2>vajra-va/h, vajra-vA/h
+
+0558 group has 2 entries
+  <L>7613<pc>1203<k1>vaDryaSva<k2>vaDryaSva/, vaDri-aSva/
+  <L>7613.1<pc>1203<k1>vaDriaSva<k2>vaDryaSva/, vaDri-aSva/
+
+0559 group has 2 entries
+  <L>7666<pc>1213<k1>vapuzya<k2>vapuzya^, vapuzi/a
+  <L>7666.1<pc>1213<k1>vapuzia<k2>vapuzya^, vapuzi/a
+
+0560 group has 2 entries
+  <L>7695<pc>1217<k1>vayya<k2>vayya^, vayi/a
+  <L>7695.1<pc>1217<k1>vayia<k2>vayya^, vayi/a
+
+0561 group has 2 entries
+  <L>7726<pc>1221<k1>varuRya<k2>varuRya^, varuRi/a
+  <L>7726.1<pc>1221<k1>varuRia<k2>varuRya^, varuRi/a
+
+0562 group has 2 entries
+  <L>7730<pc>1222<k1>varUTya<k2>varUTya^, varUTi/a
+  <L>7730.1<pc>1222<k1>varUTia<k2>varUTya^, varUTi/a
+
+0563 group has 2 entries
+  <L>7731<pc>1222<k1>vareRya<k2>va/reRya, va/reRia
+  <L>7731.1<pc>1222<k1>vareRia<k2>va/reRya, va/reRia
+
+0564 group has 2 entries
+  <L>7732<pc>1222<k1>vareRyakratu<k2>va/reRya-kratu, va/reRia-kratu
+  <L>7732.1<pc>1222<k1>vareRiakratu<k2>va/reRya-kratu, va/reRia-kratu
+
+0565 group has 2 entries
+  <L>7762<pc>1225<k1>varzya<k2>varzya^, varzi/a
+  <L>7762.1<pc>1225<k1>varzia<k2>varzya^, varzi/a
+
+0566 group has 2 entries
+  <L>7782<pc>1229<k1>vas<k2>1. vas, uz
+  <L>7782.1<pc>1229<k1>uz<k2>1. vas, uz
+
+0567 group has 2 entries
+  <L>7793<pc>1234<k1>vasavya<k2>vasavya^, vasavi/a
+  <L>7793.1<pc>1234<k1>vasavia<k2>vasavya^, vasavi/a
+
+0568 group has 2 entries
+  <L>7795<pc>1234<k1>vasavi<k2>vasa/vi, vasA/vI
+  <L>7795.1<pc>1234<k1>vasAvI<k2>vasa/vi, vasA/vI
+
+0569 group has 2 entries
+  <L>7828<pc>1238<k1>vasnya<k2>va/snya, va/snia
+  <L>7828.1<pc>1238<k1>vasnia<k2>va/snya, va/snia
+
+0570 group has 2 entries
+  <L>7860<pc>1252<k1>vAjapastya<k2>vA/ja-pastya, vA/ja-pastia
+  <L>7860.1<pc>1252<k1>vAjapastia<k2>vA/ja-pastya, vA/ja-pastia
+
+0571 group has 2 entries
+  <L>7901<pc>1258<k1>vAtApya<k2>vAtA/pya, vAtA/pia
+  <L>7901.1<pc>1258<k1>vAtApia<k2>vAtA/pya, vAtA/pia
+
+0572 group has 2 entries
+  <L>7905<pc>1258<k1>vADryaSva<k2>vA/DryaSva, vA/DriaSva
+  <L>7905.1<pc>1258<k1>vADriaSva<k2>vA/DryaSva, vA/DriaSva
+
+0573 group has 2 entries
+  <L>7920<pc>1260<k1>vAyya<k2>vAyya/, vAyia/
+  <L>7920.1<pc>1260<k1>vAyia<k2>vAyya/, vAyia/
+
+0574 group has 2 entries
+  <L>7921<pc>1260<k1>vAr<k2>1. vA/r, 1. va/ar
+  <L>7921.1<pc>1260<k1>vaar<k2>1. vA/r, 1. va/ar
+
+0575 group has 2 entries
+  <L>7922<pc>1260<k1>vAr<k2>2. vA/r, 2. va/ar
+  <L>7922.1<pc>1260<k1>vaar<k2>2. vA/r, 2. va/ar
+
+0576 group has 2 entries
+  <L>7930<pc>1261<k1>vArya<k2>vA/rya, vA/ria
+  <L>7930.1<pc>1261<k1>vAria<k2>vA/rya, vA/ria
+
+0577 group has 2 entries
+  <L>7946<pc>1264<k1>vAstva<k2>vAstva, vAstua
+  <L>7946.1<pc>1264<k1>vAstua<k2>vAstva, vAstua
+
+0578 group has 2 entries
+  <L>7981<pc>1269<k1>vijenya<k2>vijenya^, vijeni/a
+  <L>7981.1<pc>1269<k1>vijenia<k2>vijenya^, vijeni/a
+
+0579 group has 2 entries
+  <L>7987<pc>1269<k1>vitantasAyya<k2>vitantasA/yya, vitantasA/yia
+  <L>7987.1<pc>1269<k1>vitantasAyia<k2>vitantasA/yya, vitantasA/yia
+
+0580 group has 2 entries
+  <L>8005<pc>1278<k1>vidaTya<k2>vidaTya^, vidaTi/a
+  <L>8005.1<pc>1278<k1>vidaTia<k2>vidaTya^, vidaTi/a
+
+0581 group has 2 entries
+  <L>8009<pc>1279<k1>vidAna<k2>vi/dAna, vidAna/
+  <L>8009.1<pc>1279<k1>vidAna<k2>vi/dAna, vidAna/
+
+0582 group has 2 entries
+  <L>8010<pc>1279<k1>vidAyya<k2>vidA/yya, vidA/yia
+  <L>8010.1<pc>1279<k1>vidAyia<k2>vidA/yya, vidA/yia
+
+0583 group has 2 entries
+  <L>8061<pc>1285<k1>viprarAjya<k2>vipra-rA/jya, vipra-rA/jia
+  <L>8061.1<pc>1285<k1>viprarAjia<k2>vipra-rA/jya, vipra-rA/jia
+
+0584 group has 2 entries
+  <L>8095<pc>1288<k1>viBvan<k2>vi/Bvan, viBva/n
+  <L>8095.1<pc>1288<k1>viBvan<k2>vi/Bvan, viBva/n
+
+0585 group has 2 entries
+  <L>8116<pc>1290<k1>virAzah<k2>virA-za/h, virA-zA/h
+  <L>8116.1<pc>1290<k1>virAzAh<k2>virA-za/h, virA-zA/h
+
+0586 group has 2 entries
+  <L>8150<pc>1297<k1>viSya<k2>viSya^, viSi/a
+  <L>8150.1<pc>1297<k1>viSia<k2>viSya^, viSi/a
+
+0587 group has 2 entries
+  <L>8166<pc>1301<k1>viSvataspad<k2>viSva/tas-pad, viSva/tas-pAd
+  <L>8166.1<pc>1301<k1>viSvataspAd<k2>viSva/tas-pad, viSva/tas-pAd
+
+0588 group has 2 entries
+  <L>8178<pc>1301<k1>viSvadevya<k2>viSva/devya, vi/Sva/devia
+  <L>8178.1<pc>1301<k1>viSvadevia<k2>viSva/devya, vi/Sva/devia
+
+0589 group has 2 entries
+  <L>8179<pc>1301<k1>viSvadevyAvat<k2>viSva/devyAvat, viSva/deviAvat
+  <L>8179.1<pc>1301<k1>viSvadeviAvat<k2>viSva/devyAvat, viSva/deviAvat
+
+0590 group has 2 entries
+  <L>8189<pc>1302<k1>viSvapsnya<k2>viSva/-psnya, viSva/-psnia
+  <L>8189.1<pc>1302<k1>viSvapsnia<k2>viSva/-psnya, viSva/-psnia
+
+0591 group has 2 entries
+  <L>8204<pc>1304<k1>viSvavArya<k2>viSva/-vArya, viSva/-vAria
+  <L>8204.1<pc>1304<k1>viSvavAria<k2>viSva/-vArya, viSva/-vAria
+
+0592 group has 2 entries
+  <L>8217<pc>1305<k1>viSvaha<k2>viSva/ha, viSva/hA
+  <L>8217.1<pc>1305<k1>viSvahA<k2>viSva/ha, viSva/hA
+
+0593 group has 2 entries
+  <L>8230<pc>1306<k1>viSvAsah<k2>viSvA-sa/h, viSvA-sA/h
+  <L>8230.1<pc>1306<k1>viSvAsAh<k2>viSvA-sa/h, viSvA-sA/h
+
+0594 group has 2 entries
+  <L>8233<pc>1306<k1>viSvyA<k2>vi/SvyA, vi/SviA
+  <L>8233.1<pc>1306<k1>viSviA<k2>vi/SvyA, vi/SviA
+
+0595 group has 2 entries
+  <L>8254<pc>1309<k1>vizwAnta<k2>vizwA/nta, vizwa/-anta
+  <L>8254.1<pc>1309<k1>vizwaanta<k2>vizwA/nta, vizwa/-anta
+
+0596 group has 2 entries
+  <L>8269<pc>1311<k1>vizvadryac<k2>vizvadry-a^c, vizvadri/-ac
+  <L>8269.1<pc>1311<k1>vizvadriac<k2>vizvadry-a^c, vizvadri/-ac
+
+0597 group has 2 entries
+  <L>8288<pc>1314<k1>vI<k2>2. vI, vi
+  <L>8288.1<pc>1314<k1>vi<k2>2. vI, vi
+
+0598 group has 2 entries
+  <L>8302<pc>1315<k1>vIqvaNga<k2>vIqva^Nga, vIqu/-aNga
+  <L>8302.1<pc>1315<k1>vIquaNga<k2>vIqva^Nga, vIqu/-aNga
+
+0599 group has 2 entries
+  <L>8318<pc>1317<k1>vIrapastya<k2>vIra/-pastya, vIra/-pastia
+  <L>8318.1<pc>1317<k1>vIrapastia<k2>vIra/-pastya, vIra/-pastia
+
+0600 group has 2 entries
+  <L>8325<pc>1318<k1>vIravah<k2>vIra-va/h, vIra-vA/h
+  <L>8325.1<pc>1318<k1>vIravAh<k2>vIra-va/h, vIra-vA/h
+
+0601 group has 2 entries
+  <L>8332<pc>1318<k1>vIreRya<k2>vIre/Rya, vIre/Ria
+  <L>8332.1<pc>1318<k1>vIreRia<k2>vIre/Rya, vIre/Ria
+
+0602 group has 2 entries
+  <L>8333<pc>1318<k1>vIrya<k2>vIrya^, vIri/a
+  <L>8333.1<pc>1318<k1>vIria<k2>vIrya^, vIri/a
+
+0603 group has 2 entries
+  <L>8334<pc>1319<k1>vUrya<k2>vU/rya, vU/ria
+  <L>8334.1<pc>1319<k1>vUria<k2>vU/rya, vU/ria
+
+0604 group has 2 entries
+  <L>8368<pc>1335<k1>vftratUrya<k2>vftra-tU/rya, vftra-tU/ria
+  <L>8368.1<pc>1335<k1>vftratUria<k2>vftra-tU/rya, vftra-tU/ria
+
+0605 group has 2 entries
+  <L>8376<pc>1336<k1>vfTAzah<k2>vfTA-za/h, vfTA-zA/h
+  <L>8376.1<pc>1336<k1>vfTAzAh<k2>vfTA-za/h, vfTA-zA/h
+
+0606 group has 2 entries
+  <L>8448<pc>1352<k1>vfzRya<k2>vf/zRya, vf/zRia
+  <L>8448.1<pc>1352<k1>vfzRia<k2>vf/zRya, vf/zRia
+
+0607 group has 2 entries
+  <L>8449<pc>1352<k1>vfzRyAvat<k2>vf/zRyAvat, vf/zRiAvat
+  <L>8449.1<pc>1352<k1>vfzRiAvat<k2>vf/zRyAvat, vf/zRiAvat
+
+0608 group has 2 entries
+  <L>8466<pc>1353<k1>vedya<k2>ve/dya, ve/dia
+  <L>8466.1<pc>1353<k1>vedia<k2>ve/dya, ve/dia
+
+0609 group has 2 entries
+  <L>8467<pc>1353<k1>vedyA<k2>vedyA/, vediA/
+  <L>8467.1<pc>1353<k1>vediA<k2>vedyA/, vediA/
+
+0610 group has 2 entries
+  <L>8473<pc>1355<k1>venya<k2>venya/, venia/
+  <L>8473.1<pc>1355<k1>venia<k2>venya/, venia/
+
+0611 group has 2 entries
+  <L>8491<pc>1356<k1>vEnya<k2>vEnya/, vEnia/
+  <L>8491.1<pc>1356<k1>vEnia<k2>vEnya/, vEnia/
+
+0612 group has 2 entries
+  <L>8506<pc>1357<k1>vyaMsa<k2>vya^Msa, vi/-aMsa
+  <L>8506.1<pc>1357<k1>viaMsa<k2>vya^Msa, vi/-aMsa
+
+0613 group has 2 entries
+  <L>8511<pc>1358<k1>vyaYjana<k2>vya/Yjana, via/Yjana
+  <L>8511.1<pc>1358<k1>viaYjana<k2>vya/Yjana, via/Yjana
+
+0614 group has 2 entries
+  <L>8512<pc>1358<k1>vyati<k2>vya/ti, via/ti
+  <L>8512.1<pc>1358<k1>viati<k2>vya/ti, via/ti
+
+0615 group has 2 entries
+  <L>8516<pc>1358<k1>vyaD<k2>vyaD, viD
+  <L>8516.1<pc>1358<k1>viD<k2>vyaD, viD
+
+0616 group has 2 entries
+  <L>8517<pc>1359<k1>vyaDvan<k2>vya^Dvan, vi/-aDvan
+  <L>8517.1<pc>1359<k1>viaDvan<k2>vya^Dvan, vi/-aDvan
+
+0617 group has 2 entries
+  <L>8518<pc>1359<k1>vyayana<k2>vya/yana, via/yana
+  <L>8518.1<pc>1359<k1>viayana<k2>vya/yana, via/yana
+
+0618 group has 2 entries
+  <L>8519<pc>1359<k1>vyalkaSA<k2>vya^lkaSA, vi/alkaSA
+  <L>8519.1<pc>1359<k1>vialkaSA<k2>vya^lkaSA, vi/alkaSA
+
+0619 group has 2 entries
+  <L>8520<pc>1359<k1>vyaSva<k2>vya^Sva, vi/-aSva
+  <L>8520.1<pc>1359<k1>viaSva<k2>vya^Sva, vi/-aSva
+
+0620 group has 2 entries
+  <L>8521<pc>1359<k1>vyaSvavat<k2>vyaSvava/t, viaSvava/t
+  <L>8521.1<pc>1359<k1>viaSvavat<k2>vyaSvava/t, viaSvava/t
+
+0621 group has 2 entries
+  <L>8522<pc>1359<k1>vyA<k2>vyA, vI
+  <L>8522.1<pc>1359<k1>vI<k2>vyA, vI
+
+0622 group has 2 entries
+  <L>8523<pc>1360<k1>vyAnaSi<k2>vyAnaSi/, viAnaSi/
+  <L>8523.1<pc>1360<k1>viAnaSi<k2>vyAnaSi/, viAnaSi/
+
+0623 group has 2 entries
+  <L>8524<pc>1360<k1>vyuz<k2>vyu/z, viu/z
+  <L>8524.1<pc>1360<k1>viuz<k2>vyu/z, viu/z
+
+0624 group has 2 entries
+  <L>8525<pc>1360<k1>vyuzwi<k2>vyu^zwi, vi/uzwi
+  <L>8525.1<pc>1360<k1>viuzwi<k2>vyu^zwi, vi/uzwi
+
+0625 group has 2 entries
+  <L>8526<pc>1360<k1>vyeta<k2>vye^ta, vi/-eta
+  <L>8526.1<pc>1360<k1>vieta<k2>vye^ta, vi/-eta
+
+0626 group has 2 entries
+  <L>8527<pc>1361<k1>vyenas<k2>vye^nas, vi/-enas
+  <L>8527.1<pc>1361<k1>vienas<k2>vye^nas, vi/-enas
+
+0627 group has 2 entries
+  <L>8528<pc>1361<k1>vyodana<k2>vyo/dana, vi-o/dana
+  <L>8528.1<pc>1361<k1>viodana<k2>vyo/dana, vi-o/dana
+
+0628 group has 2 entries
+  <L>8529<pc>1361<k1>vyoman<k2>vyo^man, vi/oman
+  <L>8529.1<pc>1361<k1>vioman<k2>vyo^man, vi/oman
+
+0629 group has 2 entries
+  <L>8530<pc>1361<k1>vyomasad<k2>vyoma-sa/d, vioma-sa/d
+  <L>8530.1<pc>1361<k1>viomasad<k2>vyoma-sa/d, vioma-sa/d
+
+0630 group has 2 entries
+  <L>8540<pc>1363<k1>vratya<k2>vratya^, vrati/a
+  <L>8540.1<pc>1363<k1>vratia<k2>vratya^, vrati/a
+
+0631 group has 2 entries
+  <L>8541<pc>1363<k1>vrad<k2>vrad, vrand
+  <L>8541.1<pc>1363<k1>vrand<k2>vrad, vrand
+
+0632 group has 2 entries
+  <L>8557<pc>1365a<k1>SaMs<k2>SaMs, Sas
+  <L>8557.1<pc>1365a<k1>Sas<k2>SaMs, Sas
+
+0633 group has 2 entries
+  <L>8570<pc>1370<k1>Sakft<k2>Sa/kft, Saka/n
+  <L>8570.1<pc>1370<k1>Sakan<k2>Sa/kft, Saka/n
+
+0634 group has 2 entries
+  <L>8602<pc>1374<k1>SataDanya<k2>SataDanya^, SataDani/a
+  <L>8602.1<pc>1374<k1>SataDania<k2>SataDanya^, SataDani/a
+
+0635 group has 2 entries
+  <L>8635<pc>1376<k1>SatASva<k2>SatA/Sva, Sata/-aSva
+  <L>8635.1<pc>1376<k1>SataaSva<k2>SatA/Sva, Sata/-aSva
+
+0636 group has 2 entries
+  <L>8644<pc>1377<k1>SatrUzah<k2>SatrU-za/h, SatrU-zA/h
+  <L>8644.1<pc>1377<k1>SatrUzAh<k2>SatrU-za/h, SatrU-zA/h
+
+0637 group has 2 entries
+  <L>8653<pc>1378<k1>SapaTya<k2>SapaTya^, SapaTi/a
+  <L>8653.1<pc>1378<k1>SapaTia<k2>SapaTya^, SapaTi/a
+
+0638 group has 2 entries
+  <L>8672<pc>1381<k1>SamyA<k2>SamyA/, SamiA/
+  <L>8672.1<pc>1381<k1>SamiA<k2>SamyA/, SamiA/
+
+0639 group has 2 entries
+  <L>8678<pc>1381<k1>Sar<k2>1. Sar, 1. Sir
+  <L>8678.1<pc>1381<k1>Sir<k2>1. Sar, 1. Sir
+
+0640 group has 2 entries
+  <L>8686<pc>1383<k1>SaravyA<k2>SaravyA^, Saravi/A
+  <L>8686.1<pc>1383<k1>SaraviA<k2>SaravyA^, Saravi/A
+
+0641 group has 2 entries
+  <L>8696<pc>1384<k1>SarDya<k2>Sa/rDya, Sa/rDia
+  <L>8696.1<pc>1384<k1>SarDia<k2>Sa/rDya, Sa/rDia
+
+0642 group has 2 entries
+  <L>8729<pc>1389<k1>SA<k2>SA, Si
+  <L>8729.1<pc>1389<k1>Si<k2>SA, Si
+
+0643 group has 2 entries
+  <L>8745<pc>1391<k1>SAmulya<k2>SAmulya^, SAmuli/a
+  <L>8745.1<pc>1391<k1>SAmulia<k2>SAmulya^, SAmuli/a
+
+0644 group has 2 entries
+  <L>8750<pc>1391<k1>SAs<k2>SAs, Sis
+  <L>8750.1<pc>1391<k1>Sis<k2>SAs, Sis
+
+0645 group has 2 entries
+  <L>8772<pc>1393<k1>Sitipad<k2>Sitipa/d, citipA/d
+  <L>8772.1<pc>1393<k1>citipAd<k2>Sitipa/d, citipA/d
+
+0646 group has 2 entries
+  <L>8849<pc>1403<k1>SuD<k2>SuD, SunD
+  <L>8849.1<pc>1403<k1>SunD<k2>SuD, SunD
+
+0647 group has 2 entries
+  <L>8857<pc>1405<k1>SuB<k2>SuB, SumB
+  <L>8857.1<pc>1405<k1>SumB<k2>SuB, SumB
+
+0648 group has 2 entries
+  <L>8898<pc>1412<k1>SUzya<k2>SUzya^, SUzi/a
+  <L>8898.1<pc>1412<k1>SUzia<k2>SUzya^, SUzi/a
+
+0649 group has 2 entries
+  <L>8912<pc>1413<k1>Sevya<k2>Se/vya, Se/via
+  <L>8912.1<pc>1413<k1>Sevia<k2>Se/vya, Se/via
+
+0650 group has 2 entries
+  <L>8925<pc>1414<k1>SOradevya<k2>SOradevya/, SOradevia/
+  <L>8925.1<pc>1414<k1>SOradevia<k2>SOradevya/, SOradevia/
+
+0651 group has 2 entries
+  <L>8942<pc>1416<k1>SyAvASva<k2>SyAvA/Sva, SyAva/-aSva
+  <L>8942.1<pc>1416<k1>SyAvaaSva<k2>SyAvA/Sva, SyAva/-aSva
+
+0652 group has 2 entries
+  <L>8943<pc>1416<k1>SyAvASvastuta<k2>SyAvA/Sva-stuta, SyAva/aSva-stuta
+  <L>8943.1<pc>1416<k1>SyAvaaSvastuta<k2>SyAvA/Sva-stuta, SyAva/aSva-stuta
+
+0653 group has 2 entries
+  <L>8945<pc>1416<k1>SyAvyA<k2>SyAvyA^, SyAvi/A
+  <L>8945.1<pc>1416<k1>SyAviA<k2>SyAvyA^, SyAvi/A
+
+0654 group has 2 entries
+  <L>8970<pc>1421<k1>Sravasya<k2>Sravasya^, Sravasi/a
+  <L>8970.1<pc>1421<k1>Sravasia<k2>Sravasya^, Sravasi/a
+
+0655 group has 2 entries
+  <L>8973<pc>1421<k1>SravAyya<k2>SravA/yya, SravA/yia
+  <L>8973.1<pc>1421<k1>SravAyia<k2>SravA/yya, SravA/yia
+
+0656 group has 2 entries
+  <L>8989<pc>1429<k1>Srutafzi<k2>Sruta/-fzi, Sruta/rzi
+  <L>8989.1<pc>1429<k1>Srutarzi<k2>Sruta/-fzi, Sruta/rzi
+
+0657 group has 2 entries
+  <L>8998<pc>1430<k1>Srutya<k2>Sru/tya, Sru/tia
+  <L>8998.1<pc>1430<k1>Srutia<k2>Sru/tya, Sru/tia
+
+0658 group has 2 entries
+  <L>9009<pc>1431<k1>SrezWa<k2>Sre/zWa, Sra/yizWa
+  <L>9009.1<pc>1431<k1>SrayizWa<k2>Sre/zWa, Sra/yizWa
+
+0659 group has 2 entries
+  <L>9010<pc>1431<k1>SrezWavarcas<k2>Sre/zWa-varcas, Sra/yizWa-varcas
+  <L>9010.1<pc>1431<k1>SrayizWavarcas<k2>Sre/zWa-varcas, Sra/yizWa-varcas
+
+0660 group has 2 entries
+  <L>9011<pc>1432<k1>SrezWaSocis<k2>Sre/zWa-Socis, Sra/yizWa-Socis
+  <L>9011.1<pc>1432<k1>SrayizWaSocis<k2>Sre/zWa-Socis, Sra/yizWa-Socis
+
+0661 group has 2 entries
+  <L>9024<pc>1433<k1>SvaYc<k2>SvaYc, Svac
+  <L>9024.1<pc>1433<k1>Svac<k2>SvaYc, Svac
+
+0662 group has 2 entries
+  <L>9030<pc>1433<k1>Svas<k2>Svas, Suz
+  <L>9030.1<pc>1433<k1>Suz<k2>Svas, Suz
+
+0663 group has 2 entries
+  <L>9038<pc>1434<k1>SvAtrya<k2>SvA/trya, SvA/tria
+  <L>9038.1<pc>1434<k1>SvAtria<k2>SvA/trya, SvA/tria
+
+0664 group has 2 entries
+  <L>9044<pc>1435<k1>Svitnya<k2>Svitnya/, Svitnia/
+  <L>9044.1<pc>1435<k1>Svitnia<k2>Svitnya/, Svitnia/
+
+0665 group has 2 entries
+  <L>9047<pc>1435<k1>Svitrya<k2>Svi/trya, Svi/tria
+  <L>9047.1<pc>1435<k1>Svitria<k2>Svi/trya, Svi/tria
+
+0666 group has 2 entries
+  <L>9051<pc>1436<k1>Svetya<k2>Svetya/, Svetia/
+  <L>9051.1<pc>1436<k1>Svetia<k2>Svetya/, Svetia/
+
+0667 group has 2 entries
+  <L>9105<pc>1440<k1>sakmya<k2>sa/kmya, sa/kmia
+  <L>9105.1<pc>1440<k1>sakmia<k2>sa/kmya, sa/kmia
+
+0668 group has 2 entries
+  <L>9117<pc>1442<k1>saKya<k2>saKya/, saKia/
+  <L>9117.1<pc>1442<k1>saKia<k2>saKya/, saKia/
+
+0669 group has 2 entries
+  <L>9136<pc>1447<k1>sacaTya<k2>sacaTya^, sacaTi/a
+  <L>9136.1<pc>1447<k1>sacaTia<k2>sacaTya^, sacaTi/a
+
+0670 group has 2 entries
+  <L>9149<pc>1449<k1>saj<k2>saj, saYj
+  <L>9149.1<pc>1449<k1>saYj<k2>saj, saYj
+
+0671 group has 2 entries
+  <L>9152<pc>1449<k1>sajAtya<k2>sajAtya^, sajAti/a
+  <L>9152.1<pc>1449<k1>sajAtia<k2>sajAtya^, sajAti/a
+
+0672 group has 2 entries
+  <L>9187<pc>1454<k1>satyavac<k2>satya-va/c, satya-vA/c
+  <L>9187.1<pc>1454<k1>satyavAc<k2>satya-va/c, satya-vA/c
+
+0673 group has 2 entries
+  <L>9201<pc>1455<k1>satrAsah<k2>satrA-sa/h, satrAsa/h
+  <L>9201.1<pc>1455<k1>satrAsah<k2>satrA-sa/h, satrAsa/h
+
+0674 group has 2 entries
+  <L>9218<pc>1461<k1>sadAnvA<k2>sa-dA/nvA, sa-dA/nuA
+  <L>9218.1<pc>1461<k1>sadAnuA<k2>sa-dA/nvA, sa-dA/nuA
+
+0675 group has 2 entries
+  <L>9229<pc>1462<k1>sadyaUti<k2>sadya/-Uti, sadya/s-Uti
+  <L>9229.1<pc>1462<k1>sadyasUti<k2>sadya/-Uti, sadya/s-Uti
+
+0676 group has 2 entries
+  <L>9238<pc>1463<k1>saDanya<k2>saDanya^, saDani/a
+  <L>9238.1<pc>1463<k1>saDania<k2>saDanya^, saDani/a
+
+0677 group has 2 entries
+  <L>9241<pc>1463<k1>saDamAdya<k2>saDamA/dya, saDamA/dia
+  <L>9241.1<pc>1463<k1>saDamAdia<k2>saDamA/dya, saDamA/dia
+
+0678 group has 2 entries
+  <L>9247<pc>1464<k1>saDri<k2>sa/-Dri, sa/-DrI
+  <L>9247.1<pc>1464<k1>saDrI<k2>sa/-Dri, sa/-DrI
+
+0679 group has 2 entries
+  <L>9250<pc>1465<k1>saDryac<k2>saDrya^c, saDri/-ac
+  <L>9250.1<pc>1465<k1>saDriac<k2>saDrya^c, saDri/-ac
+
+0680 group has 2 entries
+  <L>9251<pc>1465<k1>san<k2>san, sA
+  <L>9251.1<pc>1465<k1>sA<k2>san, sA
+
+0681 group has 2 entries
+  <L>9276<pc>1469<k1>sani<k2>sa/ni, sani/t
+  <L>9276.1<pc>1469<k1>sanit<k2>sa/ni, sani/t
+
+0682 group has 2 entries
+  <L>9307<pc>1472<k1>sapatnahan<k2>sapatna-ha/n, sapatnaGn
+  <L>9307.1<pc>1472<k1>sapatnaGn<k2>sapatna-ha/n, sapatnaGn
+
+0683 group has 2 entries
+  <L>9310<pc>1473<k1>saparya<k2>saparya^, sapari/a
+  <L>9310.1<pc>1473<k1>saparia<k2>saparya^, sapari/a
+
+0684 group has 2 entries
+  <L>9339<pc>1476<k1>saptASva<k2>saptA/Sva, sapta/-aSva
+  <L>9339.1<pc>1476<k1>saptaaSva<k2>saptA/Sva, sapta/-aSva
+
+0685 group has 3 entries
+  <L>9340<pc>1476<k1>saptAsya<k2>saptA/sya, sapta/-Asia, sapta/-Asya
+  <L>9340.1<pc>1476<k1>saptaAsia<k2>saptA/sya, sapta/-Asia, sapta/-Asya
+  <L>9340.2<pc>1476<k1>saptaAsya<k2>saptA/sya, sapta/-Asia, sapta/-Asya
+
+0686 group has 2 entries
+  <L>9343<pc>1476<k1>saptya<k2>sa/ptya, sa/ptia
+  <L>9343.1<pc>1476<k1>saptia<k2>sa/ptya, sa/ptia
+
+0687 group has 2 entries
+  <L>9372<pc>1480<k1>samanya<k2>samanya^, samani/a
+  <L>9372.1<pc>1480<k1>samania<k2>samanya^, samani/a
+
+0688 group has 2 entries
+  <L>9379<pc>1480<k1>samarya<k2>samarya^, samari/a
+  <L>9379.1<pc>1480<k1>samaria<k2>samarya^, samari/a
+
+0689 group has 2 entries
+  <L>9381<pc>1481<k1>samaryarAjya<k2>samarya-rA/jya, samarya-rA/jia
+  <L>9381.1<pc>1481<k1>samaryarAjia<k2>samarya-rA/jya, samarya-rA/jia
+
+0690 group has 2 entries
+  <L>9421<pc>1485<k1>samBftASva<k2>sa/mBftASva, sa/mBftASua
+  <L>9421.1<pc>1485<k1>samBftASua<k2>sa/mBftASva, sa/mBftASua
+
+0691 group has 2 entries
+  <L>9424<pc>1485<k1>samyac<k2>samya/c, samIc
+  <L>9424.1<pc>1485<k1>samIc<k2>samya/c, samIc
+
+0692 group has 2 entries
+  <L>9434<pc>1486<k1>saraw<k2>sara/w, sara/h
+  <L>9434.1<pc>1486<k1>sarah<k2>sara/w, sara/h
+
+0693 group has 2 entries
+  <L>9516<pc>1498<k1>sahantya<k2>sahantya, sahantia
+  <L>9516.1<pc>1498<k1>sahantia<k2>sahantya, sahantia
+
+0694 group has 2 entries
+  <L>9522<pc>1499<k1>sahavah<k2>saha-va/h, saha-vA/h
+  <L>9522.1<pc>1499<k1>sahavAh<k2>saha-va/h, saha-vA/h
+
+0695 group has 2 entries
+  <L>9524<pc>1499<k1>sahaSeyya<k2>sahaSe/yya, saha-Se/yia
+  <L>9524.1<pc>1499<k1>sahaSeyia<k2>sahaSe/yya, saha-Se/yia
+
+0696 group has 2 entries
+  <L>9532<pc>1500<k1>sahasya<k2>sahasya^, sahasi/a
+  <L>9532.1<pc>1500<k1>sahasia<k2>sahasya^, sahasi/a
+
+0697 group has 2 entries
+  <L>9549<pc>1502<k1>sahasrapad<k2>saha/sra-pad, saha/srapAd
+  <L>9549.1<pc>1502<k1>sahasrapAd<k2>saha/sra-pad, saha/srapAd
+
+0698 group has 2 entries
+  <L>9554<pc>1502<k1>sahasrapozya<k2>sahasra-pozya^, sahasra-pozi/a
+  <L>9554.1<pc>1502<k1>sahasrapozia<k2>sahasra-pozya^, sahasra-pozi/a
+
+0699 group has 2 entries
+  <L>9584<pc>1504<k1>sahasrArGa<k2>sahasrArGa/, sahasra-arGa/
+  <L>9584.1<pc>1504<k1>sahasraarGa<k2>sahasrArGa/, sahasra-arGa/
+
+0700 group has 2 entries
+  <L>9610<pc>1507<k1>sAKya<k2>sAKya/, sAKia/
+  <L>9610.1<pc>1507<k1>sAKia<k2>sAKya/, sAKia/
+
+0701 group has 2 entries
+  <L>9612<pc>1507<k1>sAcya<k2>sA/cya, sA/cia
+  <L>9612.1<pc>1507<k1>sAcia<k2>sA/cya, sA/cia
+
+0702 group has 2 entries
+  <L>9619<pc>1508<k1>sAdanya<k2>sAdanya^, sAdani/a
+  <L>9619.1<pc>1508<k1>sAdania<k2>sAdanya^, sAdani/a
+
+0703 group has 2 entries
+  <L>9629<pc>1510<k1>sADya<k2>sADya/, sADia/
+  <L>9629.1<pc>1510<k1>sADia<k2>sADya/, sADia/
+
+0704 group has 2 entries
+  <L>9630<pc>1510<k1>sADvarya<k2>sADv-arya/, sADu-arya/
+  <L>9630.1<pc>1510<k1>sADuarya<k2>sADv-arya/, sADu-arya/
+
+0705 group has 3 entries
+  <L>9636<pc>1511<k1>sApya<k2>sApya/, sApia/, sAyia/
+  <L>9636.1<pc>1511<k1>sApia<k2>sApya/, sApia/, sAyia/
+  <L>9636.2<pc>1511<k1>sAyia<k2>sApya/, sApia/, sAyia/
+
+0706 group has 2 entries
+  <L>9637<pc>1512<k1>sApta<k2>1. sA/pta, sApta/
+  <L>9637.1<pc>1512<k1>sApta<k2>1. sA/pta, sApta/
+
+0707 group has 2 entries
+  <L>9643<pc>1512<k1>sAmanya<k2>sAmanya^, sAmani/a
+  <L>9643.1<pc>1512<k1>sAmania<k2>sAmanya^, sAmani/a
+
+0708 group has 2 entries
+  <L>9647<pc>1512<k1>sAmrAjya<k2>sA/mrAjya, sa/mrAjia
+  <L>9647.1<pc>1512<k1>samrAjia<k2>sA/mrAjya, sa/mrAjia
+
+0709 group has 2 entries
+  <L>9659<pc>1513<k1>sAvarRya<k2>sAvarRya/, sAvarRia/
+  <L>9659.1<pc>1513<k1>sAvarRia<k2>sAvarRya/, sAvarRia/
+
+0710 group has 2 entries
+  <L>9664<pc>1514<k1>sAhadevya<k2>sAhadevya/, sAhadevia/
+  <L>9664.1<pc>1514<k1>sAhadevia<k2>sAhadevya/, sAhadevia/
+
+0711 group has 2 entries
+  <L>9665<pc>1514<k1>sAhya<k2>sA/hya, sA/hia
+  <L>9665.1<pc>1514<k1>sAhia<k2>sA/hya, sA/hia
+
+0712 group has 2 entries
+  <L>9684<pc>1520<k1>sinva<k2>sinva/, sinvat
+  <L>9684.1<pc>1520<k1>sinvat<k2>sinva/, sinvat
+
+0713 group has 2 entries
+  <L>9702<pc>1526<k1>su<k2>su/, sU/
+  <L>9702.1<pc>1526<k1>sU<k2>su/, sU/
+
+0714 group has 2 entries
+  <L>9727<pc>1529<k1>suganDin<k2>su-ganDi/n, su-ganDi/
+  <L>9727.1<pc>1529<k1>suganDi<k2>su-ganDi/n, su-ganDi/
+
+0715 group has 2 entries
+  <L>9731<pc>1530<k1>sugavya<k2>suga/vya, suga/via
+  <L>9731.1<pc>1530<k1>sugavia<k2>suga/vya, suga/via
+
+0716 group has 2 entries
+  <L>9739<pc>1530<k1>sugmya<k2>su/gmya, su/gmia
+  <L>9739.1<pc>1530<k1>sugmia<k2>su/gmya, su/gmia
+
+0717 group has 2 entries
+  <L>9792<pc>1535<k1>sudAs<k2>su-dA/s, su-da/as
+  <L>9792.1<pc>1535<k1>sudaas<k2>su-dA/s, su-da/as
+
+0718 group has 2 entries
+  <L>9804<pc>1536<k1>sudevya<k2>sudevya^, sudevi/a
+  <L>9804.1<pc>1536<k1>sudevia<k2>sudevya^, sudevi/a
+
+0719 group has 2 entries
+  <L>9839<pc>1540<k1>supitrya<k2>su-pitrya, su-pitria
+  <L>9839.1<pc>1540<k1>supitria<k2>su-pitrya, su-pitria
+
+0720 group has 2 entries
+  <L>9868<pc>1542<k1>suprAvya<k2>su-prAvya^, su-prAvi/a
+  <L>9868.1<pc>1542<k1>suprAvia<k2>su-prAvya^, su-prAvi/a
+
+0721 group has 2 entries
+  <L>9870<pc>1542<k1>suprEtu<k2>su-prE/tu, su-prae/tu
+  <L>9870.1<pc>1542<k1>supraetu<k2>su-prE/tu, su-prae/tu
+
+0722 group has 2 entries
+  <L>9911<pc>1546<k1>sumitrya<k2>su-mitrya/, su-mitria/
+  <L>9911.1<pc>1546<k1>sumitria<k2>su-mitrya/, su-mitria/
+
+0723 group has 2 entries
+  <L>9976<pc>1552<k1>suvIrya<k2>su-vI/rya, su-vI/ria
+  <L>9976.1<pc>1552<k1>suvIria<k2>su-vI/rya, su-vI/ria
+
+0724 group has 2 entries
+  <L>9998<pc>1555<k1>suSevya<k2>su-Se/vya, su-Se/via
+  <L>9998.1<pc>1555<k1>suSevia<k2>su-Se/vya, su-Se/via
+
+0725 group has 2 entries
+  <L>10041<pc>1558<k1>suzWuvah<k2>suzWu-va/h, suzWu-vA/h
+  <L>10041.1<pc>1558<k1>suzWuvAh<k2>suzWu-va/h, suzWu-vA/h
+
+0726 group has 2 entries
+  <L>10044<pc>1558<k1>suzvi<k2>2. su/zvi, su/zui
+  <L>10044.1<pc>1558<k1>suzui<k2>2. su/zvi, su/zui
+
+0727 group has 2 entries
+  <L>10073<pc>1560<k1>suhastya<k2>suha/stya, su-ha/stia
+  <L>10073.1<pc>1560<k1>suhastia<k2>suha/stya, su-ha/stia
+
+0728 group has 2 entries
+  <L>10083<pc>1562<k1>sUkta<k2>sUkta/, su-ukta/
+  <L>10083.1<pc>1562<k1>suukta<k2>sUkta/, su-ukta/
+
+0729 group has 2 entries
+  <L>10085<pc>1563<k1>sUktavAc<k2>sUkta/-vAc, suukta/-vAc
+  <L>10085.1<pc>1563<k1>suuktavAc<k2>sUkta/-vAc, suukta/-vAc
+
+0730 group has 2 entries
+  <L>10112<pc>1566<k1>sUr<k2>sUr, suar
+  <L>10112.1<pc>1566<k1>suar<k2>sUr, suar
+
+0731 group has 2 entries
+  <L>10119<pc>1567<k1>sUrmi<k2>sUrmi/, suurmi/
+  <L>10119.1<pc>1567<k1>suurmi<k2>sUrmi/, suurmi/
+
+0732 group has 2 entries
+  <L>10120<pc>1567<k1>sUrya<k2>sU/rya, sU/ria
+  <L>10120.1<pc>1567<k1>sUria<k2>sU/rya, sU/ria
+
+0733 group has 2 entries
+  <L>10121<pc>1569<k1>sUryatvac<k2>sU/rya-tvac, sU/ria-tvac
+  <L>10121.1<pc>1569<k1>sUriatvac<k2>sU/rya-tvac, sU/ria-tvac
+
+0734 group has 2 entries
+  <L>10122<pc>1569<k1>sUryaraSmi<k2>sU/rya-raSmi, sU/ria-raSmi
+  <L>10122.1<pc>1569<k1>sUriaraSmi<k2>sU/rya-raSmi, sU/ria-raSmi
+
+0735 group has 2 entries
+  <L>10123<pc>1569<k1>sUryaSvit<k2>sUrya-Svi/t, sUria-Svi/t
+  <L>10123.1<pc>1569<k1>sUriaSvit<k2>sUrya-Svi/t, sUria-Svi/t
+
+0736 group has 2 entries
+  <L>10124<pc>1569<k1>sUryA<k2>sUryA/, sUriA/
+  <L>10124.1<pc>1569<k1>sUriA<k2>sUryA/, sUriA/
+
+0737 group has 2 entries
+  <L>10126<pc>1569<k1>sUryAmAs<k2>sU/ryA-mA/s, sU/riA-mA/s
+  <L>10126.1<pc>1569<k1>sUriAmAs<k2>sU/ryA-mA/s, sU/riA-mA/s
+
+0738 group has 2 entries
+  <L>10127<pc>1569<k1>sUryAvasu<k2>sUryA-vasu, sUriA-vasu
+  <L>10127.1<pc>1569<k1>sUriAvasu<k2>sUryA-vasu, sUriA-vasu
+
+0739 group has 2 entries
+  <L>10134<pc>1576<k1>sfRi<k2>sfRi/, sf/Ri
+  <L>10134.1<pc>1576<k1>sfRi<k2>sfRi/, sf/Ri
+
+0740 group has 2 entries
+  <L>10135<pc>1577<k1>sfRya<k2>sf/Rya, sf/Ria
+  <L>10135.1<pc>1577<k1>sfRia<k2>sf/Rya, sf/Ria
+
+0741 group has 2 entries
+  <L>10151<pc>1578<k1>senya<k2>se/nya, se/nia
+  <L>10151.1<pc>1578<k1>senia<k2>se/nya, se/nia
+
+0742 group has 2 entries
+  <L>10154<pc>1578<k1>sErya<k2>sErya/, sEria/
+  <L>10154.1<pc>1578<k1>sEria<k2>sErya/, sEria/
+
+0743 group has 2 entries
+  <L>10176<pc>1581<k1>somamad<k2>soma-ma/d, soma-mA/d
+  <L>10176.1<pc>1581<k1>somamAd<k2>soma-ma/d, soma-mA/d
+
+0744 group has 2 entries
+  <L>10191<pc>1582<k1>somya<k2>somya/, somia/
+  <L>10191.1<pc>1582<k1>somia<k2>somya/, somia/
+
+0745 group has 2 entries
+  <L>10198<pc>1583<k1>sOmya<k2>sO/mya, sO/mia
+  <L>10198.1<pc>1583<k1>sOmia<k2>sO/mya, sO/mia
+
+0746 group has 2 entries
+  <L>10199<pc>1583<k1>sOvaSvya<k2>sO/vaSvya, sO/vaSvia
+  <L>10199.1<pc>1583<k1>sOvaSvia<k2>sO/vaSvya, sO/vaSvia
+
+0747 group has 2 entries
+  <L>10201<pc>1584<k1>skad<k2>skad, skand
+  <L>10201.1<pc>1584<k1>skand<k2>skad, skand
+
+0748 group has 2 entries
+  <L>10204<pc>1584<k1>skaB<k2>skaB, skamB
+  <L>10204.1<pc>1584<k1>skamB<k2>skaB, skamB
+
+0749 group has 2 entries
+  <L>10220<pc>1587<k1>staB<k2>staB, stamB
+  <L>10220.1<pc>1587<k1>stamB<k2>staB, stamB
+
+0750 group has 2 entries
+  <L>10223<pc>1588<k1>star<k2>star, stir
+  <L>10223.1<pc>1588<k1>stir<k2>star, stir
+
+0751 group has 2 entries
+  <L>10247<pc>1594<k1>stuzeyya<k2>stuze/yya, stuze/yia
+  <L>10247.1<pc>1594<k1>stuzeyia<k2>stuze/yya, stuze/yia
+
+0752 group has 2 entries
+  <L>10260<pc>1596<k1>stomya<k2>sto/mya, sto/mia
+  <L>10260.1<pc>1596<k1>stomia<k2>sto/mya, sto/mia
+
+0753 group has 2 entries
+  <L>10296<pc>1606<k1>spaS<k2>spaS, paS
+  <L>10296.1<pc>1606<k1>paS<k2>spaS, paS
+
+0754 group has 2 entries
+  <L>10304<pc>1610<k1>spfD<k2>spfD, spUrD
+  <L>10304.1<pc>1610<k1>spUrD<k2>spfD, spUrD
+
+0755 group has 2 entries
+  <L>10309<pc>1611<k1>spfhayAyya<k2>spfhayA/yya, spfhayA/yia
+  <L>10309.1<pc>1611<k1>spfhayAyia<k2>spfhayA/yya, spfhayA/yia
+
+0756 group has 2 entries
+  <L>10311<pc>1611<k1>sPAy<k2>sPAy, sPA
+  <L>10311.1<pc>1611<k1>sPA<k2>sPAy, sPA
+
+0757 group has 2 entries
+  <L>10316<pc>1612<k1>sPur<k2>sPur, sPar
+  <L>10316.1<pc>1612<k1>sPar<k2>sPur, sPar
+
+0758 group has 2 entries
+  <L>10318<pc>1612<k1>sma<k2>sma, smA
+  <L>10318.1<pc>1612<k1>smA<k2>sma, smA
+
+0759 group has 2 entries
+  <L>10329<pc>1614<k1>smf<k2>smf/, smar
+  <L>10329.1<pc>1614<k1>smar<k2>smf/, smar
+
+0760 group has 2 entries
+  <L>10331<pc>1614<k1>sya<k2>sya/, sia/
+  <L>10331.1<pc>1614<k1>sia<k2>sya/, sia/
+
+0761 group has 2 entries
+  <L>10332<pc>1615<k1>syad<k2>syad, syand
+  <L>10332.1<pc>1615<k1>syand<k2>syad, syand
+
+0762 group has 2 entries
+  <L>10335<pc>1616<k1>syAla<k2>syAla/, siAla/
+  <L>10335.1<pc>1616<k1>siAla<k2>syAla/, siAla/
+
+0763 group has 2 entries
+  <L>10336<pc>1616<k1>syU<k2>syU, syUta/
+  <L>10336.1<pc>1616<k1>syUta<k2>syU, syUta/
+
+0764 group has 2 entries
+  <L>10341<pc>1616<k1>syona<k2>syona/, siona/
+  <L>10341.1<pc>1616<k1>siona<k2>syona/, siona/
+
+0765 group has 2 entries
+  <L>10342<pc>1616<k1>syonakft<k2>syona-kf/t, siona-kf/t
+  <L>10342.1<pc>1616<k1>sionakft<k2>syona-kf/t, siona-kf/t
+
+0766 group has 2 entries
+  <L>10343<pc>1616<k1>syonaSI<k2>syona-SI/, siona-SI/
+  <L>10343.1<pc>1616<k1>sionaSI<k2>syona-SI/, siona-SI/
+
+0767 group has 2 entries
+  <L>10351<pc>1617<k1>sras<k2>sras, sraMs
+  <L>10351.1<pc>1617<k1>sraMs<k2>sras, sraMs
+
+0768 group has 2 entries
+  <L>10366<pc>1619<k1>srotyA<k2>srotyA/, srotiA/
+  <L>10366.1<pc>1619<k1>srotiA<k2>srotyA/, srotiA/
+
+0769 group has 2 entries
+  <L>10367<pc>1619<k1>sva<k2>sva/, sua/
+  <L>10367.1<pc>1619<k1>sua<k2>sva/, sua/
+
+0770 group has 2 entries
+  <L>10371<pc>1621<k1>svagni<k2>svagni/, su-agni/
+  <L>10371.1<pc>1621<k1>suagni<k2>svagni/, su-agni/
+
+0771 group has 2 entries
+  <L>10372<pc>1621<k1>svaNga<k2>sva/Nga, su-a/Nga
+  <L>10372.1<pc>1621<k1>suaNga<k2>sva/Nga, su-a/Nga
+
+0772 group has 2 entries
+  <L>10373<pc>1621<k1>svaNguri<k2>svaNguri/, su-aNguri/
+  <L>10373.1<pc>1621<k1>suaNguri<k2>svaNguri/, su-aNguri/
+
+0773 group has 3 entries
+  <L>10374<pc>1621<k1>svac<k2>sva/c, su-a/c, su-a/Yc
+  <L>10374.1<pc>1621<k1>suac<k2>sva/c, su-a/c, su-a/Yc
+  <L>10374.2<pc>1621<k1>suaYc<k2>sva/c, su-a/c, su-a/Yc
+
+0774 group has 2 entries
+  <L>10378<pc>1622<k1>svajenya<k2>sva/-jenya, sva/-jenia
+  <L>10378.1<pc>1622<k1>svajenia<k2>sva/-jenya, sva/-jenia
+
+0775 group has 2 entries
+  <L>10379<pc>1622<k1>svaYcas<k2>sva/Ycas, su-a/Ycas
+  <L>10379.1<pc>1622<k1>suaYcas<k2>sva/Ycas, su-a/Ycas
+
+0776 group has 2 entries
+  <L>10381<pc>1622<k1>svad<k2>svad, suad
+  <L>10381.1<pc>1622<k1>suad<k2>svad, suad
+
+0777 group has 2 entries
+  <L>10392<pc>1624<k1>svaDvara<k2>svaDvara/, su-aDvara/
+  <L>10392.1<pc>1624<k1>suaDvara<k2>svaDvara/, su-aDvara/
+
+0778 group has 2 entries
+  <L>10400<pc>1625<k1>svanIka<k2>svanIka, su-anIka
+  <L>10400.1<pc>1625<k1>suanIka<k2>svanIka, su-anIka
+
+0779 group has 2 entries
+  <L>10403<pc>1626<k1>svapatya<k2>svapatya/, su-apatya/
+  <L>10403.1<pc>1626<k1>suapatya<k2>svapatya/, su-apatya/
+
+0780 group has 2 entries
+  <L>10404<pc>1626<k1>svapas<k2>sva/pas, su-a/pas
+  <L>10404.1<pc>1626<k1>suapas<k2>sva/pas, su-a/pas
+
+0781 group has 2 entries
+  <L>10405<pc>1627<k1>svapasy<k2>svapasy, suapasy
+  <L>10405.1<pc>1627<k1>suapasy<k2>svapasy, suapasy
+
+0782 group has 2 entries
+  <L>10406<pc>1627<k1>svapasyA<k2>svapasyA/, suapasyA/
+  <L>10406.1<pc>1627<k1>suapasyA<k2>svapasyA/, suapasyA/
+
+0783 group has 2 entries
+  <L>10407<pc>1627<k1>svapAka<k2>svapAka, su-apAka
+  <L>10407.1<pc>1627<k1>suapAka<k2>svapAka, su-apAka
+
+0784 group has 2 entries
+  <L>10408<pc>1627<k1>svapivAta<k2>svapivAta, su-apivAta
+  <L>10408.1<pc>1627<k1>suapivAta<k2>svapivAta, su-apivAta
+
+0785 group has 2 entries
+  <L>10413<pc>1627<k1>svapnas<k2>sva/pnas, su-a/pnas
+  <L>10413.1<pc>1627<k1>suapnas<k2>sva/pnas, su-a/pnas
+
+0786 group has 2 entries
+  <L>10414<pc>1627<k1>svapnya<k2>sva/pnya, sva/pnia
+  <L>10414.1<pc>1627<k1>svapnia<k2>sva/pnya, sva/pnia
+
+0787 group has 2 entries
+  <L>10417<pc>1627<k1>svaBizwi<k2>svaBizwi/, su-aBizwi/
+  <L>10417.1<pc>1627<k1>suaBizwi<k2>svaBizwi/, su-aBizwi/
+
+0788 group has 2 entries
+  <L>10418<pc>1628<k1>svaBizwisumna<k2>svaBizwi/-sumna, suaBizwi/-sumna
+  <L>10418.1<pc>1628<k1>suaBizwisumna<k2>svaBizwi/-sumna, suaBizwi/-sumna
+
+0789 group has 2 entries
+  <L>10419<pc>1628<k1>svaBISu<k2>svaBISu/, su-aBISu/
+  <L>10419.1<pc>1628<k1>suaBISu<k2>svaBISu/, su-aBISu/
+
+0790 group has 2 entries
+  <L>10421<pc>1628<k1>svaBUtyojas<k2>sva/BUty-ojas, sva/BUti-ojas
+  <L>10421.1<pc>1628<k1>svaBUtiojas<k2>sva/BUty-ojas, sva/BUti-ojas
+
+0791 group has 3 entries
+  <L>10435<pc>1630<k1>svar<k2>sva^r, su/ar, sU/r
+  <L>10435.1<pc>1630<k1>suar<k2>sva^r, su/ar, sU/r
+  <L>10435.2<pc>1630<k1>sUr<k2>sva^r, su/ar, sU/r
+
+0792 group has 2 entries
+  <L>10437<pc>1630<k1>svaraMkfta<k2>sva^raMkfta, su/-araMkfta
+  <L>10437.1<pc>1630<k1>suaraMkfta<k2>sva^raMkfta, su/-araMkfta
+
+0793 group has 2 entries
+  <L>10438<pc>1630<k1>svaraRa<k2>sva/raRa, sua/raRa
+  <L>10438.1<pc>1630<k1>suaraRa<k2>sva/raRa, sua/raRa
+
+0794 group has 2 entries
+  <L>10441<pc>1631<k1>svarAjya<k2>sva-rA/jya, sva-rA/jia
+  <L>10441.1<pc>1631<k1>svarAjia<k2>sva-rA/jya, sva-rA/jia
+
+0795 group has 2 entries
+  <L>10444<pc>1631<k1>svaritra<k2>svaritra/, su-aritra/
+  <L>10444.1<pc>1631<k1>suaritra<k2>svaritra/, su-aritra/
+
+0796 group has 2 entries
+  <L>10448<pc>1631<k1>svarka<k2>svarka/, su-arka/
+  <L>10448.1<pc>1631<k1>suarka<k2>svarka/, su-arka/
+
+0797 group has 2 entries
+  <L>10449<pc>1631<k1>svarga<k2>svar-ga/, suar-ga/
+  <L>10449.1<pc>1631<k1>suarga<k2>svar-ga/, suar-ga/
+
+0798 group has 2 entries
+  <L>10450<pc>1631<k1>svarcakzas<k2>sva^r-cakzas, su/ar-cakzas
+  <L>10450.1<pc>1631<k1>suarcakzas<k2>sva^r-cakzas, su/ar-cakzas
+
+0799 group has 2 entries
+  <L>10451<pc>1631<k1>svarcanas<k2>sva^rcanas, su/ar-canas
+  <L>10451.1<pc>1631<k1>suarcanas<k2>sva^rcanas, su/ar-canas
+
+0800 group has 2 entries
+  <L>10452<pc>1631<k1>svarci<k2>svarci/, su-arci/
+  <L>10452.1<pc>1631<k1>suarci<k2>svarci/, su-arci/
+
+0801 group has 2 entries
+  <L>10453<pc>1631<k1>svarjit<k2>svar-ji/t, suar-ji/t
+  <L>10453.1<pc>1631<k1>suarjit<k2>svar-ji/t, suar-ji/t
+
+0802 group has 2 entries
+  <L>10454<pc>1632<k1>svarjeza<k2>svar-jeza/, suar-jeza/
+  <L>10454.1<pc>1632<k1>suarjeza<k2>svar-jeza/, suar-jeza/
+
+0803 group has 2 entries
+  <L>10455<pc>1632<k1>svarRara<k2>sva^r-Rara, su/ar-Rara
+  <L>10455.1<pc>1632<k1>suarRara<k2>sva^r-Rara, su/ar-Rara
+
+0804 group has 2 entries
+  <L>10456<pc>1632<k1>svarRf<k2>sva^r-Rf, su/ar-Rf
+  <L>10456.1<pc>1632<k1>suarRf<k2>sva^r-Rf, su/ar-Rf
+
+0805 group has 2 entries
+  <L>10457<pc>1632<k1>svarTa<k2>sva/rTa, su-a/rTa
+  <L>10457.1<pc>1632<k1>suarTa<k2>sva/rTa, su-a/rTa
+
+0806 group has 2 entries
+  <L>10458<pc>1632<k1>svardfS<k2>svar-df/S, suar-df/S
+  <L>10458.1<pc>1632<k1>suardfS<k2>svar-df/S, suar-df/S
+
+0807 group has 2 entries
+  <L>10459<pc>1632<k1>svarpati<k2>sva^r-pati, su/ar-pati
+  <L>10459.1<pc>1632<k1>suarpati<k2>sva^r-pati, su/ar-pati
+
+0808 group has 2 entries
+  <L>10460<pc>1632<k1>svarBAnu<k2>sva^r-BAnu, su/ar-BAnu
+  <L>10460.1<pc>1632<k1>suarBAnu<k2>sva^r-BAnu, su/ar-BAnu
+
+0809 group has 2 entries
+  <L>10461<pc>1632<k1>svarmIQa<k2>sva^r-mIQa, su/ar-mIQa
+  <L>10461.1<pc>1632<k1>suarmIQa<k2>sva^r-mIQa, su/ar-mIQa
+
+0810 group has 2 entries
+  <L>10462<pc>1632<k1>svarya<k2>svarya^, svari/a
+  <L>10462.1<pc>1632<k1>svaria<k2>svarya^, svari/a
+
+0811 group has 2 entries
+  <L>10463<pc>1633<k1>svaryu<k2>svaryu/, suaryu/
+  <L>10463.1<pc>1633<k1>suaryu<k2>svaryu/, suaryu/
+
+0812 group has 2 entries
+  <L>10464<pc>1633<k1>svarvat<k2>sva^rvat, su/arvat
+  <L>10464.1<pc>1633<k1>suarvat<k2>sva^rvat, su/arvat
+
+0813 group has 2 entries
+  <L>10465<pc>1633<k1>svarvid<k2>svar-vi/d, suar-vi/d
+  <L>10465.1<pc>1633<k1>suarvid<k2>svar-vi/d, suar-vi/d
+
+0814 group has 2 entries
+  <L>10466<pc>1633<k1>svarzA<k2>svar-zA/, suar-zA/
+  <L>10466.1<pc>1633<k1>suarzA<k2>svar-zA/, suar-zA/
+
+0815 group has 2 entries
+  <L>10467<pc>1633<k1>svarzAti<k2>sva^r-zAti, su/ar-zAti
+  <L>10467.1<pc>1633<k1>suarzAti<k2>sva^r-zAti, su/ar-zAti
+
+0816 group has 2 entries
+  <L>10468<pc>1633<k1>svavas<k2>sva/vas, su-a/vas
+  <L>10468.1<pc>1633<k1>suavas<k2>sva/vas, su-a/vas
+
+0817 group has 2 entries
+  <L>10476<pc>1634<k1>svaSva<k2>sva/Sva, su-a/Sva
+  <L>10476.1<pc>1634<k1>suaSva<k2>sva/Sva, su-a/Sva
+
+0818 group has 2 entries
+  <L>10477<pc>1634<k1>svaSvayu<k2>svaSvayu/, suaSvayu/
+  <L>10477.1<pc>1634<k1>suaSvayu<k2>svaSvayu/, suaSvayu/
+
+0819 group has 2 entries
+  <L>10478<pc>1634<k1>svaSvya<k2>sva/Svya, su-a/Svia
+  <L>10478.1<pc>1634<k1>suaSvia<k2>sva/Svya, su-a/Svia
+
+0820 group has 2 entries
+  <L>10479<pc>1634<k1>svazwra<k2>sva/zwra, su-a/zwra
+  <L>10479.1<pc>1634<k1>suazwra<k2>sva/zwra, su-a/zwra
+
+0821 group has 2 entries
+  <L>10485<pc>1635<k1>svasti<k2>svasti/, su-asti/
+  <L>10485.1<pc>1635<k1>suasti<k2>svasti/, su-asti/
+
+0822 group has 2 entries
+  <L>10486<pc>1636<k1>svastigA<k2>svasti-gA/, suasti-gA/
+  <L>10486.1<pc>1636<k1>suastigA<k2>svasti-gA/, suasti-gA/
+
+0823 group has 2 entries
+  <L>10487<pc>1636<k1>svastidA<k2>svasti-dA/, suasti-dA/
+  <L>10487.1<pc>1636<k1>suastidA<k2>svasti-dA/, suasti-dA/
+
+0824 group has 2 entries
+  <L>10488<pc>1636<k1>svastimat<k2>svastima/t, suastima/t
+  <L>10488.1<pc>1636<k1>suastimat<k2>svastima/t, suastima/t
+
+0825 group has 3 entries
+  <L>10489<pc>1636<k1>svastivah<k2>svasti-va/h, suasti-va/h, suasti-vA/h
+  <L>10489.1<pc>1636<k1>suastivah<k2>svasti-va/h, suasti-va/h, suasti-vA/h
+  <L>10489.2<pc>1636<k1>suastivAh<k2>svasti-va/h, suasti-va/h, suasti-vA/h
+
+0826 group has 2 entries
+  <L>10490<pc>1636<k1>svAtata<k2>svA^tata, su/-Atata
+  <L>10490.1<pc>1636<k1>suAtata<k2>svA^tata, su/-Atata
+
+0827 group has 2 entries
+  <L>10502<pc>1637<k1>svADI<k2>svADI/, su-ADI/
+  <L>10502.1<pc>1637<k1>suADI<k2>svADI/, su-ADI/
+
+0828 group has 2 entries
+  <L>10506<pc>1637<k1>svApi<k2>svApi/, su-Api/
+  <L>10506.1<pc>1637<k1>suApi<k2>svApi/, su-Api/
+
+0829 group has 2 entries
+  <L>10507<pc>1637<k1>svABU<k2>svABU/, su-ABU/
+  <L>10507.1<pc>1637<k1>suABU<k2>svABU/, su-ABU/
+
+0830 group has 2 entries
+  <L>10508<pc>1637<k1>svAyasa<k2>svAyasa/, su-Ayasa/
+  <L>10508.1<pc>1637<k1>suAyasa<k2>svAyasa/, su-Ayasa/
+
+0831 group has 2 entries
+  <L>10509<pc>1637<k1>svAyuj<k2>svAyu/j, su-Ayu/j
+  <L>10509.1<pc>1637<k1>suAyuj<k2>svAyu/j, su-Ayu/j
+
+0832 group has 2 entries
+  <L>10510<pc>1638<k1>svAyuDa<k2>svAyuDa/, su-AyuDa/
+  <L>10510.1<pc>1638<k1>suAyuDa<k2>svAyuDa/, su-AyuDa/
+
+0833 group has 2 entries
+  <L>10512<pc>1638<k1>svAvasu<k2>svA/vasu, su-A/vasu
+  <L>10512.1<pc>1638<k1>suAvasu<k2>svA/vasu, su-A/vasu
+
+0834 group has 2 entries
+  <L>10514<pc>1638<k1>svAveSa<k2>svAveSa/, su-AveSa/
+  <L>10514.1<pc>1638<k1>suAveSa<k2>svAveSa/, su-AveSa/
+
+0835 group has 2 entries
+  <L>10515<pc>1638<k1>svASita<k2>svA^Sita, su/-ASita
+  <L>10515.1<pc>1638<k1>suASita<k2>svA^Sita, su/-ASita
+
+0836 group has 2 entries
+  <L>10516<pc>1638<k1>svASis<k2>svASi/s, su-ASi/s
+  <L>10516.1<pc>1638<k1>suASis<k2>svASi/s, su-ASi/s
+
+0837 group has 2 entries
+  <L>10517<pc>1638<k1>svAs<k2>svA/s, su-A/s
+  <L>10517.1<pc>1638<k1>suAs<k2>svA/s, su-A/s
+
+0838 group has 2 entries
+  <L>10518<pc>1638<k1>svAsasTa<k2>svAsasTa/, su-AsasTa/
+  <L>10518.1<pc>1638<k1>suAsasTa<k2>svAsasTa/, su-AsasTa/
+
+0839 group has 2 entries
+  <L>10521<pc>1638<k1>svAhAkfti<k2>svA/hA-kfti, svA/hA-kftI
+  <L>10521.1<pc>1638<k1>svAhAkftI<k2>svA/hA-kfti, svA/hA-kftI
+
+0840 group has 2 entries
+  <L>10522<pc>1639<k1>svAhuta<k2>svA^huta, su/-Ahuta
+  <L>10522.1<pc>1639<k1>suAhuta<k2>svA^huta, su/-Ahuta
+
+0841 group has 2 entries
+  <L>10525<pc>1639<k1>sviDma<k2>sviDma/, su-iDma/
+  <L>10525.1<pc>1639<k1>suiDma<k2>sviDma/, su-iDma/
+
+0842 group has 2 entries
+  <L>10526<pc>1639<k1>svizu<k2>svizu/, su-izu/
+  <L>10526.1<pc>1639<k1>suizu<k2>svizu/, su-izu/
+
+0843 group has 2 entries
+  <L>10527<pc>1639<k1>svizwa<k2>svi^zwa, su/-izwa
+  <L>10527.1<pc>1639<k1>suizwa<k2>svi^zwa, su/-izwa
+
+0844 group has 2 entries
+  <L>10531<pc>1639<k1>svEtu<k2>svE/tu, sva/-etu
+  <L>10531.1<pc>1639<k1>svaetu<k2>svE/tu, sva/-etu
+
+0845 group has 2 entries
+  <L>10532<pc>1639<k1>svojas<k2>svo/jas, su-o/jas
+  <L>10532.1<pc>1639<k1>suojas<k2>svo/jas, su-o/jas
+
+0846 group has 2 entries
+  <L>10582<pc>1651<k1>harmya<k2>harmya/, harmia/
+  <L>10582.1<pc>1651<k1>harmia<k2>harmya/, harmia/
+
+0847 group has 2 entries
+  <L>10587<pc>1653<k1>haryaSva<k2>ha/ryaSva, ha/ri-aSva
+  <L>10587.1<pc>1653<k1>hariaSva<k2>ha/ryaSva, ha/ri-aSva
+
+0848 group has 2 entries
+  <L>10588<pc>1653<k1>haryaSvaprasUta<k2>ha/ryaSva-prasUta, ha/riaSva-prasUta
+  <L>10588.1<pc>1653<k1>hariaSvaprasUta<k2>ha/ryaSva-prasUta, ha/riaSva-prasUta
+
+0849 group has 2 entries
+  <L>10602<pc>1654<k1>havirvah<k2>havir-va/h, havir-vA/h
+  <L>10602.1<pc>1654<k1>havirvAh<k2>havir-va/h, havir-vA/h
+
+0850 group has 2 entries
+  <L>10612<pc>1656<k1>havya<k2>ha/vya, ha/via
+  <L>10612.1<pc>1656<k1>havia<k2>ha/vya, ha/via
+
+0851 group has 2 entries
+  <L>10615<pc>1657<k1>havyavah<k2>havya-va/h, havya-vA/h
+  <L>10615.1<pc>1657<k1>havyavAh<k2>havya-va/h, havya-vA/h
+
+0852 group has 2 entries
+  <L>10618<pc>1657<k1>havyA<k2>ha/vyA, ha/viA
+  <L>10618.1<pc>1657<k1>haviA<k2>ha/vyA, ha/viA
+
+0853 group has 2 entries
+  <L>10661<pc>1666<k1>himyA<k2>himyA/, himia/
+  <L>10661.1<pc>1666<k1>himia<k2>himyA/, himia/
+
+0854 group has 2 entries
+  <L>10666<pc>1666<k1>hiraRyakeSya<k2>hi/raRya-keSya, hi/raRya-keSia
+  <L>10666.1<pc>1666<k1>hiraRyakeSia<k2>hi/raRya-keSya, hi/raRya-keSia
+
+0855 group has 2 entries
+  <L>10721<pc>1678<k1>hfRAy<k2>hfRAy, hrnIy
+  <L>10721.1<pc>1678<k1>hrnIy<k2>hfRAy, hrnIy
+
+0856 group has 2 entries
+  <L>10731<pc>1679<k1>hfdya<k2>hf/dya, hf/dia
+  <L>10731.1<pc>1679<k1>hfdia<k2>hf/dya, hf/dia
+
+0857 group has 2 entries
+  <L>10744<pc>1680<k1>hemyAvat<k2>hemyA/vat, hemiA/vat
+  <L>10744.1<pc>1680<k1>hemiAvat<k2>hemyA/vat, hemiA/vat
+
+0858 group has 2 entries
+  <L>10751<pc>1682<k1>hotfvUrya<k2>hotf-vU/rya, hotf-vU/ria
+  <L>10751.1<pc>1682<k1>hotfvUria<k2>hotf-vU/rya, hotf-vU/ria
+
+0859 group has 2 entries
+  <L>10754<pc>1682<k1>hotravah<k2>hotra-va/h, hotra-vA/h
+  <L>10754.1<pc>1682<k1>hotravAh<k2>hotra-va/h, hotra-vA/h
+
+0860 group has 2 entries
+  <L>10761<pc>1683<k1>hoza<k2>hoza, hozin
+  <L>10761.1<pc>1683<k1>hozin<k2>hoza, hozin
+
+0861 group has 2 entries
+  <L>10763<pc>1683<k1>hyas<k2>hya/s, hia/s
+  <L>10763.1<pc>1683<k1>hias<k2>hya/s, hia/s
+
+0862 group has 2 entries
+  <L>10776<pc>1684<k1>hvArya<k2>hvArya/, hvAria/
+  <L>10776.1<pc>1684<k1>hvAria<k2>hvArya/, hvAria/
+
+0863 group has 2 entries
+  <L>10777<pc>1684<k1>hvf<k2>hvf, hru
+  <L>10777.1<pc>1684<k1>hru<k2>hvf, hru
+
+0864 group has 2 entries
+  <L>11035<pc>1741-b<k1>ar<k2>ar, f
+  <L>11035.1<pc>1741-b<k1>f<k2>ar, f
+
+0865 group has 2 entries
+  <L>11036<pc>1741-b<k1>ar<k2>ar, f
+  <L>11036.1<pc>1741-b<k1>f<k2>ar, f
+
+0866 group has 2 entries
+  <L>11037<pc>1741-b<k1>ar<k2>ar, f
+  <L>11037.1<pc>1741-b<k1>f<k2>ar, f
+
+0867 group has 2 entries
+  <L>11038<pc>1741-b<k1>ar<k2>ar, f
+  <L>11038.1<pc>1741-b<k1>f<k2>ar, f
+
+0868 group has 2 entries
+  <L>11061<pc>1742<k1>iD<k2>iD, inD
+  <L>11061.1<pc>1742<k1>inD<k2>iD, inD
+
+0869 group has 2 entries
+  <L>11065<pc>1743-a<k1>indrAgni<k2>indrAgni/, indrAagni/
+  <L>11065.1<pc>1743-a<k1>indrAagni<k2>indrAgni/, indrAagni/
+
+0870 group has 2 entries
+  <L>11066<pc>1743-a<k1>indrAgni<k2>indrAgni/, indrAagni/
+  <L>11066.1<pc>1743-a<k1>indrAagni<k2>indrAgni/, indrAagni/
+
+0871 group has 2 entries
+  <L>11082<pc>1743-a<k1>fBukzA<k2>fBukzA/, fBukza/n
+  <L>11082.1<pc>1743-a<k1>fBukzan<k2>fBukzA/, fBukza/n
+
+0872 group has 2 entries
+  <L>11117<pc>1743-b<k1>jyA<k2>2. jyA/, 2. jiA/
+  <L>11117.1<pc>1743-b<k1>jiA<k2>2. jyA/, 2. jiA/
+
+0873 group has 3 entries
+  <L>11121<pc>1743-b<k1>tar<k2>tar, tir, tur
+  <L>11121.1<pc>1743-b<k1>tir<k2>tar, tir, tur
+  <L>11121.2<pc>1743-b<k1>tur<k2>tar, tir, tur
+
+0874 group has 2 entries
+  <L>11127<pc>1743-b<k1>tya<k2>tya/, tia/
+  <L>11127.1<pc>1743-b<k1>tia<k2>tya/, tia/
+
+0875 group has 2 entries
+  <L>11128<pc>1743-b<k1>dar<k2>dar, dir
+  <L>11128.1<pc>1743-b<k1>dir<k2>dar, dir
+
+0876 group has 2 entries
+  <L>11129<pc>1744<k1>dar<k2>dar, dir
+  <L>11129.1<pc>1744<k1>dir<k2>dar, dir
+
+0877 group has 2 entries
+  <L>11198<pc>1745-b<k1>raD<k2>raD, ranD
+  <L>11198.1<pc>1745-b<k1>ranD<k2>raD, ranD
+
+0878 group has 2 entries
+  <L>11204<pc>1745-b<k1>rE<k2>rE/, rA/
+  <L>11204.1<pc>1745-b<k1>rA<k2>rE/, rA/
+
+0879 group has 2 entries
+  <L>11255<pc>1746<k1>SrezWa<k2>Sre/zWa, Sra/yizWa
+  <L>11255.1<pc>1746<k1>SrayizWa<k2>Sre/zWa, Sra/yizWa
+
+0880 group has 2 entries
+  <L>11280<pc>1747-a<k1>ar<k2>ar, f
+  <L>11280.1<pc>1747-a<k1>f<k2>ar, f
+
+0881 group has 2 entries
+  <L>11291<pc>1747-a<k1>ah<k2>1. ah, 1. aMh
+  <L>11291.1<pc>1747-a<k1>aMh<k2>1. ah, 1. aMh
+
+0882 group has 2 entries
+  <L>11292<pc>1747-a<k1>ahan<k2>a/han, a/har
+  <L>11292.1<pc>1747-a<k1>ahar<k2>a/han, a/har
+
+0883 group has 2 entries
+  <L>11295<pc>1747-a<k1>Arya<k2>2. A/rya, 2. a/ria
+  <L>11295.1<pc>1747-a<k1>aria<k2>2. A/rya, 2. a/ria
+
+0884 group has 3 entries
+  <L>11325<pc>1747-b<k1>tar<k2>tar, tir, tur
+  <L>11325.1<pc>1747-b<k1>tir<k2>tar, tir, tur
+  <L>11325.2<pc>1747-b<k1>tur<k2>tar, tir, tur
+
+0885 group has 2 entries
+  <L>11326<pc>1747-b<k1>tvAdatta<k2>tvA/-datta, tuA/datta
+  <L>11326.1<pc>1747-b<k1>tuAdatta<k2>tvA/-datta, tuA/datta
+
+0886 group has 2 entries
+  <L>11327<pc>1747-b<k1>tvAy<k2>tvAy, tuAy
+  <L>11327.1<pc>1747-b<k1>tuAy<k2>tvAy, tuAy
+
+0887 group has 2 entries
+  <L>11342<pc>1748<k1>mur<k2>mur, mar
+  <L>11342.1<pc>1748<k1>mar<k2>mur, mar
+
+0888 group has 2 entries
+  <L>11347<pc>1748<k1>ri<k2>ri, rI
+  <L>11347.1<pc>1748<k1>rI<k2>ri, rI
+
+0889 group has 2 entries
+  <L>11350<pc>1748<k1>vArya<k2>vA/rya, vA/ria
+  <L>11350.1<pc>1748<k1>vAria<k2>vA/rya, vA/ria
+
+0890 group has 2 entries
+  <L>12124<pc>1752<k1>avyanat<k2>a/-vyanat, a/-vianat
+  <L>12124.1<pc>1752<k1>avianat<k2>a/-vyanat, a/-vianat
+
+0891 group has 2 entries
+  <L>12256<pc>1758<k1>etaSa<k2>e/taSa, etaSa/
+  <L>12256.1<pc>1758<k1>etaSa<k2>e/taSa, etaSa/
+
+0892 group has 2 entries
+  <L>12354<pc>1761<k1>javas<k2>ja/vas, java/s
+  <L>12354.1<pc>1761<k1>javas<k2>ja/vas, java/s
+
+0893 group has 2 entries
+  <L>12407<pc>1764<k1>tvoti<k2>tvo/ti, tuo/ti
+  <L>12407.1<pc>1764<k1>tuoti<k2>tvo/ti, tuo/ti
+
+0894 group has 2 entries
+  <L>12605<pc>1771<k1>Sagmya<k2>Sagmya^, Sagmi/a
+  <L>12605.1<pc>1771<k1>Sagmia<k2>Sagmya^, Sagmi/a
+

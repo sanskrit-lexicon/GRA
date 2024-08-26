@@ -209,3 +209,151 @@ In this version of gra.txt,  the homonyms are embedded in k2 field of metaline.
 
 
 ****************************************************************
+08-25-2024
+Complete the installation
+
+# in csl-orig/v02/gra,
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02/gra
+mv gra_hwextra.txt althws/
+# make an empty hwextra file -- expected by redo_hw.sh in csl-pywork
+# Although not used for GRA.
+touch gra_hwextra.txt
+# Edit althws/readme.txt
+  to document what happened.
+-----------------------------------
+Generate local version
+
+cd /c/xampp/htdocs/sanskrit-lexicon/GRA/issues/issue34
+
+cp temp_gra_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra.txt
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+ grep 'gra ' redo_xampp_all.sh
+sh generate_dict.sh gra  ../../gra
+sh xmlchk_xampp.sh gra
+# ok
+
+--------------------------------
+cd /c/xampp/htdocs/sanskrit-lexicon/GRA/issues/issue34
+cd althws1
+python compare_xml.py temp_gra.xml /c/xampp/htdocs/cologne/gra/pywork/gra.xml temp_compare_xml.txt
+12790 from C:/xampp/htdocs/cologne/gra/pywork/gra.xml
+compare: ndiff= 0
+
+---------------------------------
+ONE MORE TASK TO DO!  revert to standard cdsl form for metaline. Example:
+CUrrently:
+Example  from gra.txt
+Group with homonym : arva, arvan, arvaRa
+----------------
+OLD (current AB form for metaline)
+
+<L>1077<pc>0116<k1>arva<k2>1. arva
+<hom>1.</hom> {@(arva)@}¦ {%nahe%} in arvā́c <ab>u. s. w.</ab>
+<LEND>
+<L>1078<pc>0116<k1>arva<k2>2. arva, arvan, arvaRa
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+<L>1078.1<pc>0116<k1>arvan<k2>2. arva, arvan, arvaRa
+{{Lbody=1078}}
+<LEND>
+<L>1078.2<pc>0116<k1>arvaRa<k2>2. arva, arvan, arvaRa
+{{Lbody=1078}}
+<LEND>
+
+----------------
+NEW CDSL form for metalines
+<L>1077<pc>0116<k1>arva<k2>arva<h>1
+<hom>1.</hom> {@(arva)@}¦ {%nahe%} in arvā́c <ab>u. s. w.</ab>
+<LEND>
+<L>1078<pc>0116<k1>arva<k2>2. arva
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+<L>1078.1<pc>0116<k1>arvan<k2>arvan
+{{Lbody=1078}}
+<LEND>
+<L>1078.2<pc>0116<k1>arvaRa<k2>arvaRa
+{{Lbody=1078}}
+<LEND>
+
+------------------------------------------
+temp_gra_2.txt
+# convert metalines from AB form to CDSL form as per example
+# This is similar to recent work with mw:
+cp /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue176/convert_ab1.py convert_metaline.py
+
+python convert_metaline.py ab,cdsl temp_gra_1.txt temp_gra_2.txt gra_1_groups.txt
+
+79894 lines read from temp_gra_1.txt
+12785 entries found
+init_groups_cdsl finds 914 Lbody entries
+3596 lines written to gra_1_groups.txt
+enter revise_h_ab_cdsl
+process 12785 entries
+revise_h_ab_cdsl: 466 metalines changed
+12785 records written to temp_gra_2.txt
+12785 new entries written to temp_gra_2.txt
+
+
+---------------------------------------------------------
+install local version of gra_2
+cp temp_gra_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/gra/gra.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'gra ' redo_xampp_all.sh
+sh generate_dict.sh gra  ../../gra
+sh xmlchk_xampp.sh gra
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/GRA/issues/issue34
+---------------------------------------------------------
+
+Finish syncing and installation
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git status
+        modified:   gra/althws/readme.txt
+        modified:   gra/gra.txt
+        modified:   gra/gra_hwextra.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        gra/althws/gra_hwextra.txt
+
+
+git add .
+git commit -m "GRA: Lbody groups.
+Ref: https://github.com/sanskrit-lexicon/GRA/tree/master/issues/issue34"
+
+git push
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/GRA/issues/issue34
+
+------------------------
+install revised gra on Cologne server
+
+cd csl-orig
+git pull
+
+# revise displays for gra
+cd csl-pywork, etc.
+sh generate_dict.sh gra  ../../GRAScan/2020/
+
+-----------------------
+Sync this GRA repo
+cd /c/xampp/htdocs/sanskrit-lexicon/GRA/issues/issue34
+
+git status
+        deleted:    dumpgroups_div.py
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        convert_metaline.py
+        gra_1_groups.txt
+
+
+git add .
+git commit -m "finish Lbody for groups #34  "
+=========================================================
+
