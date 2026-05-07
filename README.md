@@ -121,6 +121,6 @@ Every issue carries one **type** label and one **severity** label.
 
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — primary repository maintainer; tooling and correction workflows
 - **Thomas Malten** ([@maltenth](https://github.com/maltenth)) — initial digitization corrections (#21)
-- **Andhrabharati** (Nagabhushana Rao) — AB version of `gra.txt`; CDSL display data (#29–#32)
+- **Nagabhushana Rao** (@Andhrabharati) — AB version of `gra.txt`; CDSL display data (#29–#32)
 - **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — initial commit and early data work
 
