@@ -4,3 +4,7 @@
 __pycache__
 temp*
 unused*
+
+# audit sidecars
+.contributing_old.md
+.contributing_audit.txt
