@@ -14,6 +14,15 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `vn/` | VN supplement integration — Grassmann's changes, deletions, additions; `gra-dev/` for gra9 display work |
 | `graab/` | CDSL display adaptation for the Andhrabharati version of `gra.txt` |
 | `issues/` | Per-issue correction workflows (`issueNNN/` pattern) |
+| `prefaces/` | Front matter (title page + foreword) — OCR transcription with English and Russian translations; see [prefaces/README.md](prefaces/README.md) |
+
+## Front matter (prefaces)
+
+The dictionary's [front matter](prefaces/) — the 1873 title page and Grassmann's foreword (Stettin, 10 August 1872) — has been transcribed from the Cologne scan pages into faithful Markdown (original 19th-c. orthography), with **English** and **Russian** translations of every page and consolidated single-file editions per language:
+
+- German source: [prefaces/grapref_all.de.md](prefaces/grapref_all.de.md)
+- English: [prefaces/grapref_all.en.md](prefaces/grapref_all.en.md) (foreword translation by Dr. Felix Rau, University of Cologne, 2018)
+- Russian: [prefaces/grapref_all.ru.md](prefaces/grapref_all.ru.md)
 
 ## Timeline
 
