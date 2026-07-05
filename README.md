@@ -1,6 +1,8 @@
 GRA
 ===
 
+_Created: 08-01-2020 · Last updated: 05-07-2026_
+
 Grassmann, Hermann; *Wörterbuch zum Rig-Veda*. Leipzig, 1873.
 
 This repository holds corrections, enhancements, and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the GRA dictionary. The canonical source data (`gra.txt` in SLP1 encoding) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Issues and corrections are tracked at the [GRA GitHub issue tracker](https://github.com/sanskrit-lexicon/GRA/issues).
@@ -23,6 +25,28 @@ The dictionary's [front matter](prefaces/) — the 1873 title page and Grassmann
 - German source: [prefaces/grapref_all.de.md](prefaces/grapref_all.de.md)
 - English: [prefaces/grapref_all.en.md](prefaces/grapref_all.en.md) (foreword translation by Dr. Felix Rau, University of Cologne, 2018)
 - Russian: [prefaces/grapref_all.ru.md](prefaces/grapref_all.ru.md)
+
+## Usage example
+
+A real entry from [`csl-orig/v02/gra/gra.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/gra/gra.txt) (line 4, headword *áṃśa*, German definition with Rig-Veda passage citations):
+
+```
+<L>4<pc>0001<k1>aMSa<k2>a/MSa
+{@áṃśa,@}¦ <ab>m.</ab>, das als Antheil erlangte (<ab n="siehe">s.</ab> <hom>1.</hom> aś), daher 1〉 {%Antheil;%} 2〉 {%Erbtheil;%} 3〉 {%Partei;%} 4〉 {%der viele Antheile besitzt%} oder {%zu vergeben hat%} und daher 5〉 Name eines der Aditisöhne.
+<div n="TS">-as 1〉 {548,12}. 5〉 {192,4}; {218,1}; {396,5}.
+<LEND>
+```
+
+To fix a typo in the German gloss (e.g. `Antheil` → `Anteil` under modern orthography), a change file addresses line 4 with the old/new text:
+
+```
+4 old {@áṃśa,@}¦ <ab>m.</ab>, das als Antheil erlangte (<ab n="siehe">s.</ab> <hom>1.</hom> aś), daher 1〉 {%Antheil;%} 2〉 {%Erbtheil;%} 3〉 {%Partei;%} 4〉 {%der viele Antheile besitzt%} oder {%zu vergeben hat%} und daher 5〉 Name eines der Aditisöhne.
+4 new {@áṃśa,@}¦ <ab>m.</ab>, das als Anteil erlangte (<ab n="siehe">s.</ab> <hom>1.</hom> aś), daher 1〉 {%Anteil;%} 2〉 {%Erbteil;%} 3〉 {%Partei;%} 4〉 {%der viele Anteile besitzt%} oder {%zu vergeben hat%} und daher 5〉 Name eines der Aditisöhne.
+```
+
+```sh
+python updateByLine.py gra.txt change_gra_N.txt gra_corrected.txt
+```
 
 ## Timeline
 
@@ -132,4 +156,6 @@ Every issue carries one **type** label and one **severity** label.
 - **Thomas Malten** ([@maltenth](https://github.com/maltenth)) — initial digitization corrections (#21)
 - **Nagabhushana Rao** (@Andhrabharati) — AB version of `gra.txt`; CDSL display data (#29–#32)
 - **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — initial commit and early data work
+
+_Dr. Mārcis Gasūns_
 
