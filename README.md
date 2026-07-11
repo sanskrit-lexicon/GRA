@@ -9,6 +9,10 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 
 **Landing page:** [sanskrit-lexicon.github.io/GRA](https://sanskrit-lexicon.github.io/GRA/) — a GitHub Pages overview of the dictionary, linking to the live Cologne web interface and this repository.
 
+## Documentation
+
+- [docs/SUBWORKFLOW_MANUAL.md](https://github.com/sanskrit-lexicon/GRA/blob/main/docs/SUBWORKFLOW_MANUAL.md) — **operator manual**: one runbook section per sub-workflow (verbs01, the vn Nachträge chain, the graab Andhrabharati reconciliation, per-issue corrections, prefaces), with commands, I/O, and symptom→cause→cure.
+
 ## Contents
 
 | Directory | Description |
