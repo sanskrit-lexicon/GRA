@@ -23,7 +23,7 @@ with commands, I/O, and the live-vs-completed-campaign distinction.
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H512-Fable_GRA_sub_workflow_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H512-Fable_GRA_sub_workflow_manual_10.07.26.md)
+[H512-Fable_GRA_sub_workflow_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H512-Fable_GRA_sub_workflow_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Content read from the actual redo scripts and the
 `verbs01`/`vn`/`graab` readme logs (incl. the vn transcoding table and the
