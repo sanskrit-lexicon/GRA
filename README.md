@@ -34,7 +34,7 @@ The dictionary's [front matter](https://github.com/sanskrit-lexicon/GRA/tree/mai
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/gra/gra.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/gra/gra.txt) (line 4, headword *áṃśa*, German definition with Rig-Veda passage citations):
+A real entry from [`csl-orig/v02/gra/gra.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/gra/gra.txt) (line 4, headword *áṃśa*, German definition with Rig-Veda passage citations):
 
 ```
 <L>4<pc>0001<k1>aMSa<k2>a/MSa

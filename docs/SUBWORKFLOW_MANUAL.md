@@ -37,7 +37,7 @@ sh xmlchk_xampp.sh gra
 ```
 
 **Delivery rule (all workflows):** the canonical text is
-[csl-orig/v02/gra/gra.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/gra/gra.txt).
+[csl-orig/v02/gra/gra.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/gra/gra.txt).
 Changes are expressed as `NNN old` / `NNN new` change files and reach csl-orig
 via the canonical
 [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)
