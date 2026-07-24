@@ -14,7 +14,7 @@ error_reporting( error_reporting() & ~E_NOTICE & ~E_WARNING);
    <link rel="stylesheet" href="../webtc/main.css" type="text/css">
    <link rel="stylesheet" href="main.css" type="text/css">
    <link rel="stylesheet" href="../webtc/font.css" type="text/css">
-  <script type="text/javascript" src="../js/jquery.cookie.js"></script>
+  <script type="text/javascript" src="../js/js.cookie.min.js"></script>
 
   <script type="text/javascript" src="../webtc/main_webtc.js"></script>
 
