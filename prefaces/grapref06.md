@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (none — transcribed text page on the Cologne site)
 source_page: English Translation
@@ -36,3 +38,5 @@ Stettin/Szczecin 10th August 1872.
 The author.
 
 *English translation courtesy of Dr. Felix Rau, University of Cologne, 2018.*
+
+_Dr. Mārcis Gasūns_

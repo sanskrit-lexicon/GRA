@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_013_Image_0001.png
 source_page: Foreword, 3
@@ -10,3 +12,5 @@ Aufrecht, jedoch mit durchgängiger Benutzung der von M. Müller angegebenen Ver
 Die Etymologie, da sie auf die Feststellung der Bedeutung oft von wesentlichem Einflusse ist, konnte nicht fehlen, ich habe sie aber unter Verweisung auf Curtius, Grundzüge der griechischen Etymologie (Cu.), Fick, Vergleichendes Wörterbuch der indogermanischen Sprachen (Fi.), Kuhn, Zeitschrift für vergleichende Sprachforschung (Ku.), Böhtlingk und Roth, Sanskrit-Wörterbuch (BR.), Benfey, Glossar zum Sāma-Veda (Be. SV. gl.), so wie gelegentlich andere Werke, möglichst kurz gefasst und Zusammensetzungen durch einen die Glieder trennenden Strich bezeichnet.
 
 Die Bedeutungen habe ich, wo es nothwendig schien, in ihrem Zusammenhange aus der erreichbaren Grundbedeutung abgeleitet, dann aber einfach durch fortlaufende Nummern
+
+_Dr. Mārcis Gasūns_

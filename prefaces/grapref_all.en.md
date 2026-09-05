@@ -1,8 +1,10 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Dictionary to the Rig-Veda (Hermann Grassmann) — Front Matter, complete (English)
 
 English rendering of the complete front matter (title page, foreword) of the *Wörterbuch zum Rig-Veda* (Hermann Grassmann, Leipzig: F. A. Brockhaus, 1873). Foreword translation courtesy of Dr. Felix Rau, University of Cologne, 2018.
 
-Source index: [README.md](README.md). Per-page files: `graprefNN.en.md`.
+Source index: [README.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/README.md). Per-page files: `graprefNN.en.md`.
 
 ## Contents
 
@@ -110,4 +112,6 @@ The author.
 
 <sub>Source (scan): [https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/grapref/grapref06.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/grapref/grapref06.html)</sub>
 
-See [grapref06.md](grapref06.md) — this page is already English (Dr. Felix Rau's 2018 translation of the German Vorwort).
+See [grapref06.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref06.md) — this page is already English (Dr. Felix Rau's 2018 translation of the German Vorwort).
+
+_Dr. Mārcis Gasūns_

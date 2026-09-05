@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -69,3 +71,4 @@ python changes.py gra_verb_filter.txt gra_preverb0.txt gra_upasarga_map.txt
 - **lxml** — XML parsing (`pip install lxml`)
 - **gra.txt** — in `$BASE/cologne/csl-orig/v02/gra/gra.txt`
 
+_Dr. Mārcis Gasūns_

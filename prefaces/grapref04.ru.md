@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_013_Image_0001.png
 source_page: Foreword, 3
@@ -13,3 +15,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Значенія я, гдѣ это казалось необходимымъ, въ ихъ связи вывелъ изъ достижимаго основнаго значенія, а затѣмъ просто посредствомъ послѣдовательныхъ нумеровъ …
 
 *(Русскій переводъ, орѳографія дореформенная.)*
+
+_Dr. Mārcis Gasūns_

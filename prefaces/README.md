@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # GRA — Front Matter (Title Page, Foreword)
 
 OCR transcriptions **and English + Russian translations** of the front matter of the **Wörterbuch zum Rig-Veda** (*Dictionary to the Rig-Veda*) by **Hermann Grassmann**, Leipzig: F. A. Brockhaus, 1873.
@@ -23,22 +25,22 @@ The complete front matter is also assembled into one file per language (all 6 pa
 
 | language | file |
 |---|---|
-| German (Deutsch) | [grapref_all.de.md](grapref_all.de.md) |
-| English | [grapref_all.en.md](grapref_all.en.md) |
-| Russian (русский) | [grapref_all.ru.md](grapref_all.ru.md) |
+| German (Deutsch) | [grapref_all.de.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref_all.de.md) |
+| English | [grapref_all.en.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref_all.en.md) |
+| Russian (русский) | [grapref_all.ru.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref_all.ru.md) |
 
-These are generated from the per-page files by [build_combined.py](build_combined.py) (`python build_combined.py`); edit the per-page files and re-run to regenerate.
+These are generated from the per-page files by [build_combined.py](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/build_combined.py) (`python build_combined.py`); edit the per-page files and re-run to regenerate.
 
 ## Contents
 
 | # | Section | Vol. | German | English | Russian |
 |---|---------|------|--------|---------|---------|
-| 1 | Title page (1873) | 1 | [de](grapref01.md) | [en](grapref01.en.md) | [ru](grapref01.ru.md) |
-| 2 | Foreword, 1 | 1 | [de](grapref02.md) | [en](grapref02.en.md) | [ru](grapref02.ru.md) |
-| 3 | Foreword, 2 | 1 | [de](grapref03.md) | [en](grapref03.en.md) | [ru](grapref03.ru.md) |
-| 4 | Foreword, 3 | 1 | [de](grapref04.md) | [en](grapref04.en.md) | [ru](grapref04.ru.md) |
-| 5 | Foreword, 4 | 1 | [de](grapref05.md) | [en](grapref05.en.md) | [ru](grapref05.ru.md) |
-| 6 | English translation (F. Rau, 2018) | 1 | [de](grapref06.md) | [en](grapref06.en.md) | [ru](grapref06.ru.md) |
+| 1 | Title page (1873) | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref01.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref01.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref01.ru.md) |
+| 2 | Foreword, 1 | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref02.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref02.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref02.ru.md) |
+| 3 | Foreword, 2 | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref03.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref03.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref03.ru.md) |
+| 4 | Foreword, 3 | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref04.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref04.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref04.ru.md) |
+| 5 | Foreword, 4 | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref05.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref05.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref05.ru.md) |
+| 6 | English translation (F. Rau, 2018) | 1 | [de](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref06.md) | [en](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref06.en.md) | [ru](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref06.ru.md) |
 
 ## About the dictionary
 
@@ -52,6 +54,8 @@ Hermann Grassmann (1809–1877) — better known to mathematicians for his *Ausd
 - **OCR method:** PIL native-resolution column/band crops of the Cologne scan PNGs (`scans/gra_Page_009/011/012/013/014`); no full-page downsampled reads. The title page and the four foreword pages were transcribed directly; `grapref06` is the Cologne site's own transcribed English-translation page (no scan), reproduced verbatim.
 - **English foreword:** Dr. Felix Rau, University of Cologne, 2018 (as published on the Cologne site).
 - **Russian:** newly produced for this edition, pre-1918 orthography.
-- **Builder:** [build_combined.py](build_combined.py), adapted from the canonical `PWG/prefaces/build_combined.py`.
+- **Builder:** [build_combined.py](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/build_combined.py), adapted from the canonical `PWG/prefaces/build_combined.py`.
 - All files are UTF-8 **without BOM** (verified), matching the csl-orig convention.
 </details>
+
+_Dr. Mārcis Gasūns_

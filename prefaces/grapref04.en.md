@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_013_Image_0001.png
 source_page: Foreword, 3
@@ -14,3 +16,5 @@ The etymology could not be missing, as it is often central to determining the me
 I have derived the meaning, where it seemed necessary, in its context from reconstructable basic meaning, but then simply by consecutive numbers …
 
 *English translation courtesy of Dr. Felix Rau, University of Cologne, 2018.*
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_014_Image_0001.png
 source_page: Foreword, 4
@@ -27,3 +29,5 @@ Stettin, 10th August 1872.
 The author.
 
 *English translation courtesy of Dr. Felix Rau, University of Cologne, 2018.*
+
+_Dr. Mārcis Gasūns_

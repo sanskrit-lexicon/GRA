@@ -1,8 +1,10 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Словарь к Ригведе (Герман Грассман) — предварительные материалы, полностью (русский)
 
 Русский перевод всех предварительных материалов (титульный лист, предисловие) *Словаря к Ригведе* (Герман Грассман, Лейпциг: Ф. А. Брокгауз, 1873). Орфография дореформенная.
 
-Source index: [README.md](README.md). Per-page files: `graprefNN.ru.md`.
+Source index: [README.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/README.md). Per-page files: `graprefNN.ru.md`.
 
 ## Содержание
 
@@ -110,4 +112,6 @@ Source index: [README.md](README.md). Per-page files: `graprefNN.ru.md`.
 
 <sub>Источник (скан): [https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/grapref/grapref06.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/grapref/grapref06.html)</sub>
 
-См. [grapref02.ru.md](grapref02.ru.md) – [grapref05.ru.md](grapref05.ru.md) — полный русскій переводъ нѣмецкаго Предисловія Грассмана. Англійскій переводъ этой страницы выполненъ д-ромъ Феликсомъ Рау (Кельнскій университетъ, 2018).
+См. [grapref02.ru.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref02.ru.md) – [grapref05.ru.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/grapref05.ru.md) — полный русскій переводъ нѣмецкаго Предисловія Грассмана. Англійскій переводъ этой страницы выполненъ д-ромъ Феликсомъ Рау (Кельнскій университетъ, 2018).
+
+_Dr. Mārcis Gasūns_

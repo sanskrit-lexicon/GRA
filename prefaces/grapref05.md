@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_014_Image_0001.png
 source_page: Foreword, 4
@@ -23,3 +25,5 @@ Da ich die Lieder nach fortlaufenden Nummern (wie sie Aufrecht beifügt) anführ
 Stettin den 10. August 1872.
 
 Der Verfasser.
+
+_Dr. Mārcis Gasūns_

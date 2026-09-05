@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_011_Image_0001.png
 source_page: Foreword, 1
@@ -14,3 +16,5 @@ The dictionary, which I hereby hand over to the public, is the result of my own 
 Naturally, the Petersburger Wörterbuch constitutes the basis of my work. The Petersburger Wörterbuch initiated a new epoch of Sanksrit phililogy and in particular the appreciation of the Vedas. I consulted the information published therin and especially Roth’s groundbreaking work on the Vedas. Any deviation from the view expressed by Böhtlingk and Roth was only admitted after careful examination and after comparison of all concerned text passages allowed, as such an excellent work deserves. Specifically, I went back to the previous practice and avoided positing stems (roots) of inflecting words that do not occur in the language itself …
 
 *English translation courtesy of Dr. Felix Rau, University of Cologne, 2018.*
+
+_Dr. Mārcis Gasūns_

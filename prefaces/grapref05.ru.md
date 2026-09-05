@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gra_Page_014_Image_0001.png
 source_page: Foreword, 4
@@ -26,3 +28,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Авторъ.
 
 *(Русскій переводъ, орѳографія дореформенная.)*
+
+_Dr. Mārcis Gasūns_

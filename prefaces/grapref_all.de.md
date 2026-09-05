@@ -1,8 +1,10 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Wörterbuch zum Rig-Veda (Hermann Grassmann) — Vorspann, vollständig (Deutsch)
 
 OCR-Transkription des gesamten Vorspanns (Titelblatt, Vorwort) des *Wörterbuchs zum Rig-Veda* (Hermann Grassmann, Leipzig: F. A. Brockhaus, 1873), in der ursprünglichen Orthographie.
 
-Source index: [README.md](README.md). Per-page files: `graprefNN.md`.
+Source index: [README.md](https://github.com/sanskrit-lexicon/GRA/blob/main/prefaces/README.md). Per-page files: `graprefNN.md`.
 
 ## Inhalt
 
@@ -130,3 +132,5 @@ Stettin/Szczecin 10th August 1872.
 The author.
 
 *English translation courtesy of Dr. Felix Rau, University of Cologne, 2018.*
+
+_Dr. Mārcis Gasūns_
