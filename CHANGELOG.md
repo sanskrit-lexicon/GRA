@@ -8,6 +8,17 @@ This repository does not currently publish versioned release notes. Entries use
 dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
+## [Unreleased]
+
+### Added
+- 2026-09-18 docs/KASSA_TOCHKA_VS_PARTNER_TCO_COMPARE_18-09-2026.md — TCO-сравнение
+  онлайн-кассы 54-ФЗ: банк Точка (покупка комплекта / облачная подписка) против
+  партнёрской аренды («Специальный тариф №1»); вердикт: ветки Точки дешевле на
+  3-летнем горизонте; блокер — верификация прайса Точки у менеджера (сайт 403).
+- 2026-09-18 tools/recall_vector.py + tools/recall_index.py (коммит 7ba6d566b) —
+  починка гонки vec-БД: WAL + busy_timeout на подключении, деградация в BM25
+  вместо «database is locked» при недоступности векторного тира.
+
 ## [1.0.0] - 2026-06-13
 
 ### Added
