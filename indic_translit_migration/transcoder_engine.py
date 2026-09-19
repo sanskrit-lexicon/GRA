@@ -22,7 +22,7 @@ Engine:
     SchemeMap cannot express look-behind context, and the library built-in
     SLP1->DEVANAGARI changes bytes (digits, om-fix, accent order).
     Byte-identity is proven by indic_translit_migration/difftest.py against
-    the retired copies at git HEAD.
+    the retired copies (last pre-migration blob, found by content-scan).
 
 Legacy semantics preserved exactly:
   from == to            -> line unchanged

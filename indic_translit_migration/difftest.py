@@ -4,7 +4,7 @@
 
 For every XML table in both pipeline dirs (verbs01/, vn/grametaAB_multihw/)
 and every corpus input (table keys, real repo data, synthetic combos),
-legacy transcoder (materialized from git HEAD) and the new engine
+legacy transcoder (materialized from the last pre-migration commit) and the new engine
 (indic_translit_migration/transcoder_engine.py) must produce BYTE-IDENTICAL
 output. Exit 1 on any mismatch.
 
