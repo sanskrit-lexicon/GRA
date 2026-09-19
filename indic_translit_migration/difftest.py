@@ -37,8 +37,24 @@ CORPUS_FILES = {
 
 
 def load_legacy():
-    blob = subprocess.check_output(
-        ['git', '-C', REPO, 'show', 'HEAD:verbs01/transcoder.py'])
+    # Walk back past any post-migration commits until the blob is the real
+    # legacy FSM (H4235 verifier finding: HEAD may already be the stub,
+    # which would make this test self-referential).
+    blob = None
+    for depth in range(1, 50):
+        rev = 'HEAD~%d' % depth
+        try:
+            cand = subprocess.check_output(
+                ['git', '-C', REPO, 'show', '%s:verbs01/transcoder.py' % rev],
+                stderr=subprocess.DEVNULL)
+        except subprocess.CalledProcessError:
+            break
+        if b'transcoder_engine' not in cand:
+            blob = cand
+            print('legacy materialized from %s' % rev)
+            break
+    if blob is None:
+        raise SystemExit('no pre-migration legacy blob found')
     tmp = tempfile.mkdtemp(prefix='legacy_transcoder_')
     path = os.path.join(tmp, 'legacy_transcoder.py')
     with open(path, 'wb') as f:
@@ -130,6 +146,27 @@ def main():
                     if failures <= 20:
                         print('MISMATCH-ELEM %s %r\n  legacy=%r\n  new   =%r'
                               % (pair, wrapped, a, b))
+    # cache-scoping: missing table in dir A, present in dir B — legacy
+    # re-attempts after set_dir, so the new engine must too (H4235 finding).
+    for sfrom, sto in [('roman', 'slp1'), ('roman1', 'slp1')]:
+        legacy.transcoder_set_dir(TABLE_DIRS['verbs01'])
+        new.transcoder_set_dir(TABLE_DIRS['verbs01'])
+        a1 = legacy.transcoder_processString('kh', sfrom, sto)
+        b1 = new.transcoder_processString('kh', sfrom, sto)
+        legacy.transcoder_set_dir(TABLE_DIRS['vn'])
+        new.transcoder_set_dir(TABLE_DIRS['vn'])
+        for item in ['kh', 'ai', 'a/ M zAstra']:
+            total += 2
+            a = legacy.transcoder_processString(item, sfrom, sto)
+            b = new.transcoder_processString(item, sfrom, sto)
+            if a != b:
+                failures += 1
+                print('MISMATCH-CACHE %s %r legacy=%r new=%r'
+                      % (sfrom + '_' + sto, item, a, b))
+        if a1 != b1:
+            failures += 1
+            print('MISMATCH-CACHE pre-phase %s' % sfrom)
+
     print('compared %d cases, %d mismatches' % (total, failures))
     if failures:
         sys.exit(1)

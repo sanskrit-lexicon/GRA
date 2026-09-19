@@ -144,7 +144,9 @@ def _translit_stateless(line, smap):
 def _load(fromto):
     if fromto in _tables:
         return _tables[fromto]
-    result = None
+    # NOTE: a missing table is NOT cached — legacy re-attempts on every call,
+    # so a table that appears after transcoder_set_dir() switches dir must be
+    # picked up. Only successfully loaded tables are memoized (as in legacy).
     if _transcoder_dir:
         path = os.path.join(_transcoder_dir, fromto + '.xml')
         if os.path.exists(path):
@@ -154,8 +156,9 @@ def _load(fromto):
             except ValueError:
                 result = ('stateful', _build_fsm(start_state, entries,
                                                  fromto))
-    _tables[fromto] = result
-    return result
+            _tables[fromto] = result
+            return result
+    return None
 
 
 # ---------------------------------------------------------------------------
