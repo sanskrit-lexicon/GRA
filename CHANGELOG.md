@@ -10,6 +10,17 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Changed
+- 2026-09-19 H5148 — полная миграция transcoder на indic_transliteration 2.3.82:
+  две байт-идентичные самописные FSM-копии (verbs01/transcoder.py,
+  vn/grametaAB_multihw/transcoder.py, 411 строк каждая) заменены стаб-заглушками
+  над единственным движком indic_translit_migration/transcoder_engine.py
+  (без-состоянийные таблицы — через библиотечный SchemeMap; stateful slp1_deva —
+  компактный порт FSM). XML-таблицы и API вызывающих скриптов не изменились.
+  Верификация: difftest.py 429 977 случаев байт-в-байт + end-to-end revisek2.py
+  (864 changes, байт-идентично). Отчёт:
+  indic_translit_migration/H5148_transcoder_liquidation_report.md.
+
 ### Added
 - 2026-09-18 docs/KASSA_TOCHKA_VS_PARTNER_TCO_COMPARE_18-09-2026.md — TCO-сравнение
   онлайн-кассы 54-ФЗ: банк Точка (покупка комплекта / облачная подписка) против
