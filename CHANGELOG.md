@@ -1,4 +1,4 @@
-_Created: 13-06-2026 · Last updated: 05-09-2026_
+_Created: 13-06-2026 · Last updated: 20-09-2026_
 
 # Changelog
 
@@ -11,6 +11,19 @@ ready for a dated entry.
 ## [Unreleased]
 
 ### Changed
+- 2026-09-20 H5174 — docs/SUBWORKFLOW_MANUAL.md: новая секция §3.6 «gra-dev —
+  the gra9 display prototype» (runbook крупнейшей файловой массы репо):
+  entry point `vn/gra-dev/` → `sh redo.sh`, вся pywork-цепочка
+  (redo_hw → redo_xml/xmllint → sqlite + webtc2 query_dump + graab), input-prep
+  из gra9.zip, prerequisites (python3/xmllint/sqlite3 CLI), php/js-сторона
+  (web/webtc{,1,2}, mobile1, transcoders; dal.php → web/sqlite/*.sqlite;
+  XAMPP-раскладка cologne/gra/web, без MySQL), provenance-статус; +
+  cheat-sheet, 3 строки symptom→cause→cure, §4 prerequisites. Раздел написан
+  по фактическому коду (скрипты прочитаны); непроверенное помечено Unverified.
+  Там же: строка CHANGELOG от 18-09 про tools/recall_vector.py/recall_index.py
+  помечена misattributed — файлы живут в gasyoun/Uprava tools/ (коммит
+  7ba6d566b — коммит Uprava, в GRA его нет); docs/KASSA_...18-09 перемещён в
+  Uprava reports/ с redirect-стабом.
 - 2026-09-19 H5148 — полная миграция transcoder на indic_transliteration 2.3.82:
   две байт-идентичные самописные FSM-копии (verbs01/transcoder.py,
   vn/grametaAB_multihw/transcoder.py, 411 строк каждая) заменены стаб-заглушками
@@ -35,9 +48,17 @@ ready for a dated entry.
   новый лидер DigitalKassa — 63 670 ₽/36 мес = 1 769 ₽/мес (−28% к аренде),
   нативная интеграция с Точкой; партнёрская аренда (2 457 ₽/мес) — запасной
   вариант (единственный письменный фикс цены 36 мес и безлимит чеков).
-- 2026-09-18 tools/recall_vector.py + tools/recall_index.py (коммит 7ba6d566b) —
-  починка гонки vec-БД: WAL + busy_timeout на подключении, деградация в BM25
-  вместо «database is locked» при недоступности векторного тира.
+  Moved 20-09-2026: файл не по теме репо, перевезён в
+  [gasyoun/Uprava reports/](https://github.com/gasyoun/Uprava/blob/main/reports/KASSA_TOCHKA_VS_PARTNER_TCO_COMPARE_18-09-2026.md);
+  на старом пути — однострочный redirect-стаб.
+- 2026-09-18 ~~tools/recall_vector.py + tools/recall_index.py (коммит 7ba6d566b)~~ —
+  misattributed — fixed 20-09-2026: запись относится к репо
+  [gasyoun/Uprava](https://github.com/gasyoun/Uprava), где оба файла реально живут
+  (`tools/recall_vector.py`, `tools/recall_index.py`; коммит 7ba6d566b — коммит
+  Uprava «recall: WAL + busy_timeout on vec DB, BM25 fallback when vector tier
+  fails», в истории GRA его нет). Суть: починка гонки vec-БД: WAL + busy_timeout
+  на подключении, деградация в BM25 вместо «database is locked» при
+  недоступности векторного тира. В GRA таких файлов нет и не было.
 
 ## [1.0.0] - 2026-06-13
 

@@ -1,11 +1,12 @@
 # GRA Sub-Workflow Manual
 
-_Created: 11-07-2026 · Last updated: 11-07-2026_
+_Created: 11-07-2026 · Last updated: 20-09-2026_
 
 The consolidated operator manual for GRA's distinct sub-workflows: `verbs01`
 (verb identification against MW), `vn` (integrating Grassmann's own
 *Nachträge* supplement, pp. 1741–1776), `graab` (adapting the Andhrabharati
-re-digitization for CDSL display), plus the standard per-issue correction
+re-digitization for CDSL display), `gra-dev` (the gra9 display prototype,
+§3.6), plus the standard per-issue correction
 pattern and the prefaces OCR. The per-directory `readme.txt` files are
 working *logs* written during the work — this manual is the runbook layer
 above them: what each workflow does, what it consumes and produces, and what
@@ -34,6 +35,11 @@ python updateByLine.py <input> <change_file> <output>
 # rebuild + validate display XML (from csl-pywork/v02/, not this repo):
 sh generate_dict.sh gra ../../gra
 sh xmlchk_xampp.sh gra
+
+# vn/gra-dev — rebuild the gra9 display prototype locally (§3.6):
+cd vn/gra-dev
+mkdir -p orig && unzip gra9.zip -d orig   # one-time: the gitignored input, from the tracked zip
+sh redo.sh                                # pywork chain → gra.xml + sqlite DBs + query_dump
 ```
 
 **Delivery rule (all workflows):** the canonical text is
@@ -195,10 +201,77 @@ the key to §3.2's transcoding table. `forward/` holds the earlier
 foreword-translation drafts; for the foreword text itself, `prefaces/` is
 the current home.
 
+### 3.6 gra-dev (`vn/gra-dev/`) — the gra9 display prototype
+
+**What it is:** the 2020-era working prototype of the *gra* display built
+around the vn supplement text (display version "gra9", hence `gra9.zip`) —
+pywork build chain + a full PHP/JS web front end in one self-contained
+directory. It is the lineage source of Cologne's current display files: the
+`basicdisplay.php`/`basicadjust.php` pair and the pywork/web changes were
+later copied into csl-pywork/csl-websanlexicon (the graab readme documents
+that hand-off; §3.2 step 6). Kept for provenance — and unlike the vn/graab
+chains, it is a build you can still run locally.
+
+**Entry point:** `vn/gra-dev/` → `sh redo.sh`, which chains three scripts
+under `pywork/`:
+
+```
+gra-dev/redo.sh
+└─ pywork/redo_hw.sh        hw.py ../orig/gra.txt hwextra/gra_hwextra.txt → grahw.txt
+│                           (+ hw2.py / hw0.py derivative key files)
+└─ pywork/redo_xml.sh       make_xml.py ../orig/gra.txt grahw.txt → gra.xml
+│                           xmllint --noout --valid gra.xml   (validated vs pywork/gra.dtd)
+└─ pywork/redo_postxml.sh   (called at the end of redo_xml.sh)
+    ├─ cp graheader.xml ../web/
+    ├─ sqlite/redo.sh       sqlite.py ../gra.xml → gra.sqlite → web/sqlite/
+    ├─ webtc2/redo.sh       init_query.py ../gra.xml → query_dump.txt → web/webtc2/
+    └─ graab/redo.sh        redo_graab.sh: sqlite3 CLI builds graab.sqlite
+                            from graab.sql + graab_input.txt → web/sqlite/  (abbreviations DB)
+```
+
+**Input prep (one-time per clone):** the scripts read `../orig/gra.txt`,
+which is gitignored (see `vn/gra-dev/.gitignore`); the tracked `gra9.zip`
+contains exactly `gra.txt` — the display-era text state its readme calls
+"the version used by redo.sh". Rebuild the input with
+`mkdir -p orig && unzip gra9.zip -d orig`.
+
+**Prerequisites:** Python 3 (every script is invoked as `python3`),
+`xmllint` on PATH (the `gra.xml` validation step is a hard gate in
+`redo_xml.sh`), and the `sqlite3` CLI (only for the graab abbreviation DB).
+
+**The display (php/js) side:** `web/` is fully tracked — basic display
+(`webtc/`, incl. the `basicdisplay.php`/`basicadjust.php` that went
+upstream), hierarchical display (`webtc1/`), advanced search (`webtc2/`,
+whose `query.php` reads the generated `query_dump.txt`), mobile (`mobile1/`),
+transcoders (`utilities/transcoder.php` + the `transcoder/*.xml` maps), and
+fonts/images. At runtime the PHP data layer (`webtc/dal.php`) reads
+`web/sqlite/gra.sqlite` (+ `graab.sqlite`) — both gitignored build outputs
+of the chain above. Serving follows `web/readme.txt`: a XAMPP-style
+Apache/PHP docroot with `cologne/gra/web` under it, browsed at
+`http://localhost/cologne/gra/web/`; only Apache + PHP are used, **no
+MySQL** (readme: tested with PHP 7.1.9 and 8.0.0). Optional local page
+images: clone [sanskrit-lexicon-scans/gra](https://github.com/sanskrit-lexicon-scans/gra)
+into `cologne/scans/`, then `webtc/servepdf.php?page=N` serves them
+locally. The readme's step 1 (download `graweb1.zip` from a 2020 Cologne
+scans URL) is the historical way to assemble `web/` — in this repo `web/`
+itself is tracked, so the only pieces a fresh clone lacks are the gitignored
+build outputs (`web/sqlite/*.sqlite`, `web/webtc2/query_dump.txt`,
+`pywork/gra.xml`, `orig/gra.txt`), all produced by the chain above.
+
+**Provenance status:** a completed campaign, same class as the vn/graab
+chains (§7): the tracked state is the prototype, not a maintained product.
+**Unverified:** this section documents what the scripts do as written — the
+chain has not been re-run end-to-end recently, and the 2020 download URL in
+`web/readme.txt` has not been re-checked; treat a fresh full rebuild as the
+test, and mark deviations here.
+
 ## 4. Environment & prerequisites
 
 - **Python 3** (+ `lxml` for XML checks: `pip install lxml`); `sh` via Git
   Bash on Windows.
+- **gra-dev extras (§3.6):** `xmllint` (validates `gra.xml`), the `sqlite3`
+  CLI (graab abbreviations DB), and a XAMPP-style Apache/PHP docroot to
+  serve the `web/` displays (no MySQL needed).
 - **Sibling checkouts:** `csl-orig` (canonical `gra.txt`), `csl-pywork`
   (display build), **`MWS`** (for `verbs01`'s `mwverbs1.txt`). The scripts
   assume the maintainer layout `$BASE/sanskrit-lexicon/GRA` +
@@ -221,6 +294,9 @@ the current home.
 | `updateByLine.py` line-count mismatch | Change file built against a different `gra.txt` state than the input | Re-pin the input (`git show <hash>:v02/gra/gra.txt`) to the state the change file names; the canonical workflow doc covers this class |
 | Tempted to run `graab/redo.sh` | It copies files straight into csl-orig and expects `/c/xampp/...` | Upstream-maintainer step only; org agents deliver via the correction queue (§1) |
 | `temp_graab_N.txt` / `temp_gra_N.txt` missing after clone | The big snapshots are gitignored working files | Rebuild from the pinned base + the numbered change files (that's what they exist for) |
+| `gra-dev` `redo_hw.sh`: "No such file … ../orig/gra.txt" | The input text is gitignored; only the tracked `gra9.zip` carries it | `mkdir -p orig && unzip gra9.zip -d orig` (§3.6) |
+| `gra-dev` `redo_xml.sh`: `xmllint: command not found` | `xmllint` is a hard gate validating `gra.xml` vs `gra.dtd` | Install libxml2/xmllint; don't skip the step — downstream sqlite/query builds assume valid XML |
+| gra-dev web display searches return nothing | `web/sqlite/gra.sqlite` / `web/webtc2/query_dump.txt` missing (gitignored build outputs) | Run the §3.6 pywork chain first; those files are produced, not tracked |
 | Which of `forward/` vs `prefaces/` is current for the foreword | `forward/` = 2018 drafts; `prefaces/` = the finished per-page OCR + translations | Use `prefaces/`; keep `forward/` as history |
 
 ## 6. Glossary
@@ -231,7 +307,7 @@ the current home.
 | `<c N>` / `<a N>` / `<d N>` | vn-chain labels: correction / addition / deletion items |
 | `v. u.` | *von unten* — line counted from the bottom of the page in VN correction addresses |
 | AB / Andhrabharati | Nagabhushana Rao's independent re-digitization of Grassmann (the graab source) |
-| gra9 | The vn-era display prototype (`vn/gra-dev/`) whose pywork/web changes were upstreamed |
+| gra9 | The vn-era display prototype (`vn/gra-dev/`, §3.6) whose pywork/web changes were upstreamed |
 | grahwextra / Lbody | Alternate-headword side file → its successor structural markup (issue #34) |
 | upasarga | Verbal prefix; `verbs01` parses prefixed verbs via `gra_upasarga_map.txt` |
 | svarita | The dependent accent — Grassmann marks it on the preceding semivowel (normalized in vn3) |
