@@ -1,6 +1,6 @@
 # SUBWORKFLOW_MANUAL.md — metadoc
 
-_Created: 11-07-2026 · Last updated: 11-07-2026_
+_Created: 11-07-2026 · Last updated: 20-09-2026_
 
 Companion record for
 [docs/SUBWORKFLOW_MANUAL.md](https://github.com/sanskrit-lexicon/GRA/blob/main/docs/SUBWORKFLOW_MANUAL.md).
@@ -9,7 +9,8 @@ Companion record for
 
 The runbook layer over GRA's per-directory working logs: one section per
 sub-workflow (verbs01 verb identification, the vn Nachträge chain, the graab
-Andhrabharati reconciliation, per-issue corrections, prefaces OCR), each
+Andhrabharati reconciliation, the gra-dev gra9 display prototype, per-issue
+corrections, prefaces OCR), each
 with commands, I/O, and the live-vs-completed-campaign distinction.
 
 ## Audience
@@ -44,9 +45,10 @@ graab change-chain), plus README/CLAUDE.md/prefaces — none invented.
 - The vn and graab campaigns are documented at replay/provenance level, not
   keystroke level — their readme logs remain the primary record of each
   manual decision.
-- `preverb0.py`/`preverb1.py` parsing internals and the gra9 PHP display
-  changes are not decoded; scripts and the graab readme hand-off notes are
-  the reference.
+- `preverb0.py`/`preverb1.py` parsing internals are not decoded; scripts and
+  the graab readme hand-off notes are the reference. (The gra9 PHP display
+  side got its runbook 20-09-2026 — manual §3.6, authored from the actual
+  scripts; end-to-end rerun still unverified.)
 - Scholarly adjudications (which AB reading wins, `arvācīná` vs `avācīná`
   class questions) are outside scope.
 
@@ -63,6 +65,7 @@ graab change-chain), plus README/CLAUDE.md/prefaces — none invented.
 
 | Date | Change | By |
 |---|---|---|
+| 20-09-2026 | §3.6 gra-dev runbook added (H5174) | OxAlpha (`z-ai/glm-5.3-flash`) |
 | 11-07-2026 | Initial version (H512) | Fable 5 (`claude-fable-5`) |
 
 ---
