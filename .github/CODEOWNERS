@@ -1,0 +1,10 @@
+# CODEOWNERS — GRA (Cologne/GRA tooling, sanskrit-lexicon)
+# RACI §external (gasyoun/Uprava docs/RACI_PROCESS_OWNERSHIP_MAP_19-09-2026.md):
+#   Cologne/GRA tooling — primary maintainer: Jim Funderburk (@funderburkjim).
+# Estate accountability: Dr. Mārcis Gasūns (MG) — default row below.
+
+# Default — everything routes to MG
+* @gasyoun
+
+# Upstream maintainer surface — Cologne/GRA tooling (RACI §external)
+/ @funderburkjim @gasyoun
