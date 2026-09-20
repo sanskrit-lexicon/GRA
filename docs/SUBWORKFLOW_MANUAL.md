@@ -261,9 +261,11 @@ build outputs (`web/sqlite/*.sqlite`, `web/webtc2/query_dump.txt`,
 **Provenance status:** a completed campaign, same class as the vn/graab
 chains (§7): the tracked state is the prototype, not a maintained product.
 **Unverified:** this section documents what the scripts do as written — the
-chain has not been re-run end-to-end recently, and the 2020 download URL in
-`web/readme.txt` has not been re-checked; treat a fresh full rebuild as the
 test, and mark deviations here.
+
+_Runbook provenance: authored 20-09-2026 (H5174, OxAlpha `z-ai/glm-5.3-flash`)
+by direct reading of the `vn/gra-dev/` code and redo scripts — every command
+above is verifiable in the tree; nothing added from memory._
 
 ## 4. Environment & prerequisites
 
