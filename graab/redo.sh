@@ -12,7 +12,7 @@ echo
 devdir=/c/xampp/htdocs/sanskrit-lexicon/GRA/graab/dev$sfx
 echo "BEGIN Generate display in $devdir"
 echo "-------------------------------------------------"
-cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/ || exit 1
 root=dev_$sfx
 echo
 pwd
@@ -21,7 +21,7 @@ echo
 echo "EBD generate display in $devdir"
 echo "-------------------------------------------------"
 
-cd /c/xampp/htdocs/cologne/csl-orig/v02/gra/
+cd /c/xampp/htdocs/cologne/csl-orig/v02/gra/ || exit 1
 echo "restoring $origgra"
 git restore gra.txt
 echo "restoring $origx"

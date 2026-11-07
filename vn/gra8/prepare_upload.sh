@@ -1,5 +1,5 @@
 file=$1
-cd ../tempgradisp
+cd ../tempgradisp || exit 1
 rm -r downloads
 cd ../
 zip="temp_$file.zip"
